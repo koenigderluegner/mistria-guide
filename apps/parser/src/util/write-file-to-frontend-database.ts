@@ -9,7 +9,6 @@ export function writeFileToFrontendDatabase(
   prettyPrint = true
 ): void {
   const targetPath = environment.frontendDbPath;
-  console.log(targetPath)
 
   createPathIfNotExists(targetPath);
 

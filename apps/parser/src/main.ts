@@ -1,5 +1,7 @@
 import { readAsset } from './util/read-asset';
 import { extractToDbFile } from './util/extract-to-db-file';
+import { writeFileToFrontendDatabase } from './util/write-file-to-frontend-database';
+import { itemParser } from './parsers/item-parser';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
@@ -7,7 +9,6 @@ const blacklistedKeys = ['sha', 'footsteps', 'birds', 'fonts'];
 
 // this is just for easier work with the database
 function createReadableFiles(
-  dbName: string,
   data: Record<string, any>,
   blacklistedKeys: string[] = []
 ) {
@@ -26,4 +27,7 @@ function createReadableFiles(
   );
 }
 
-createReadableFiles(dbName, data, blacklistedKeys);
+const items = itemParser(data.items);
+writeFileToFrontendDatabase('items.json', items);
+
+createReadableFiles(data, blacklistedKeys);
