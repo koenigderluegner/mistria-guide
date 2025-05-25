@@ -1,7 +1,19 @@
-import { EnvironmentConfig } from "./environment-config.interface";
-import path from "path";
+import { EnvironmentConfig } from './environment-config.interface';
+import path from 'path';
 
 export const environment: EnvironmentConfig = {
-    assetPath: path.join(__dirname, '..', 'assets',),
-    generatedOutputPath: path.join(__dirname, '..', 'generated',)
+  assetPath: path.join(__dirname, '..', 'assets'),
+  frontendDbPath: path.join(
+    __dirname,
+    '..',
+    '..',
+    '..',
+    '..',
+    '..',
+    'apps',
+    'frontend',
+    'public',
+    'database'
+  ),
+  generatedOutputPath: path.join(__dirname, '..', 'generated'),
 };

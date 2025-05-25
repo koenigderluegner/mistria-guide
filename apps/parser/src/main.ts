@@ -6,7 +6,7 @@ const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
 const blacklistedKeys = ['sha', 'footsteps', 'birds', 'fonts'];
 
-const ordered = Object.keys(data)
+const ordered: Record<string, any> = Object.keys(data)
   .sort()
   .reduce((obj, key) => {
     if (key.startsWith('activities') || key.includes('/')) {

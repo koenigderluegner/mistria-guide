@@ -1,4 +1,5 @@
 export interface EnvironmentConfig {
-    assetPath: string;
-    generatedOutputPath: string
+  assetPath: string;
+  frontendDbPath: string;
+  generatedOutputPath: string;
 }
