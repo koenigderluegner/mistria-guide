@@ -6,7 +6,7 @@
   "tags": [],
   "targets": {
     "build": {
-      "executor": "@nx/esbuild:esbuild",
+      "executor": "@nx/js:tsc",
       "outputs": ["{options.outputPath}"],
       "defaultConfiguration": "production",
       "options": {
@@ -16,7 +16,7 @@
         "bundle": false,
         "main": "apps/parser/src/main.ts",
         "tsConfig": "apps/parser/tsconfig.app.json",
-        "assets": ["apps/parser/src/assets"],
+        "assets": ["apps/parser/src/assets/**/*"],
         "generatePackageJson": true,
         "esbuildOptions": {
           "sourcemap": true,
