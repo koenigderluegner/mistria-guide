@@ -45,6 +45,7 @@
     "esbuild": "^0.19.2",
     "eslint": "^9.8.0",
     "eslint-config-prettier": "^10.0.0",
+    "jsonc-eslint-parser": "^2.1.0",
     "nx": "21.1.2",
     "prettier": "^2.6.2",
     "tslib": "^2.3.0",
