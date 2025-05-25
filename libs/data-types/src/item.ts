@@ -1,16 +1,17 @@
 import { TranslationReference } from './translation-reference';
 import { RawRecipe, Recipe, transformRecipe } from './recipe';
+import { Quality, Tag, ToolType } from './generated';
 
 export type RawItem = {
   name: TranslationReference;
   description: TranslationReference;
   icon_sprite: string;
-  tags: string[];
+  tags: Tag[];
 
   object: string;
 
-  quality?: string; // enum?
-  tool_type: string; // enum?
+  quality?: Quality;
+  tool_type: ToolType;
   damage?: number;
   range?: number;
 

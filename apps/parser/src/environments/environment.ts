@@ -16,4 +16,16 @@ export const environment: EnvironmentConfig = {
     'database'
   ),
   generatedOutputPath: path.join(__dirname, '..', 'generated'),
+  generatedDataTypesPath:path.join(
+    __dirname,
+    '..',
+    '..',
+    '..',
+    '..',
+    '..',
+    'libs',
+    'data-types',
+    'src',
+    'generated'
+  ),
 };

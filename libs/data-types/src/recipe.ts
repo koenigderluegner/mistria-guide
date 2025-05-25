@@ -1,3 +1,5 @@
+import { ItemId } from './generated';
+
 export type RawRecipe = {
   recipe_is_default?: true;
   crafting_level_requirement?: number;
@@ -5,7 +7,7 @@ export type RawRecipe = {
   recipe: (
     | {
         count: number;
-        item: string;
+        item: ItemId;
       }
     | {
         hours: number;
@@ -34,6 +36,6 @@ export type Recipe = {
   };
   ingredients?: {
     count: number;
-    item: string;
+    item: ItemId;
   }[];
 };

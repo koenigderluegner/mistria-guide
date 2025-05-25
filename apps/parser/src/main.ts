@@ -2,6 +2,7 @@ import { readAsset } from './util/read-asset';
 import { extractToDbFile } from './util/extract-to-db-file';
 import { writeFileToFrontendDatabase } from './util/write-file-to-frontend-database';
 import { itemParser } from './parsers/item-parser';
+import { TypesGenerator } from './types-generator/types-generator';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
@@ -26,8 +27,8 @@ function createReadableFiles(
     !blacklistedKeys.includes(key) ? extractToDbFile(ordered, key) : null
   );
 }
-
 const items = itemParser(data.items);
 writeFileToFrontendDatabase('items.json', items);
 
 createReadableFiles(data, blacklistedKeys);
+TypesGenerator.generate()
