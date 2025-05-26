@@ -1,0 +1,10 @@
+@if (items.hasValue()) {
+  <ul>
+    @for (item of items.value() | keyvalue; track item.key) {
+      <li>
+        <img src="/assets/sprites/{{ item.value.icon_sprite }}.png" alt="" />
+        {{ item.value.name }}
+      </li>
+    }
+  </ul>
+}
