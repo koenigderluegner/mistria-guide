@@ -7,6 +7,7 @@ export function itemParser(
   const res: Record<string, Item> = {};
 
   const allItemIds: string[] = [];
+  const iconSprites: string[] = [];
   const toolTypes: string[] = [];
   const quality: string[] = [];
   const tags: string[] = [];
@@ -27,6 +28,9 @@ export function itemParser(
         if (item.tags) {
           tags.push(...item.tags);
         }
+        if (item.icon_sprite) {
+          iconSprites.push(item.icon_sprite);
+        }
 
         allItemIds.push(itemId);
         res[itemId] = transformItem(item);
@@ -35,6 +39,7 @@ export function itemParser(
     });
   });
   TypesGenerator.addEnum([...new Set(allItemIds)], 'ItemId');
+  TypesGenerator.addEnum([...new Set(iconSprites)], 'IconSprite');
   TypesGenerator.addEnum([...new Set(toolTypes)], 'ToolType');
   TypesGenerator.addEnum([...new Set(quality)], 'Quality', 'Qualities');
   TypesGenerator.addEnum([...new Set(tags)], 'Tag');
