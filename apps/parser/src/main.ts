@@ -3,6 +3,7 @@ import { extractToDbFile } from './util/extract-to-db-file';
 import { writeFileToFrontendDatabase } from './util/write-file-to-frontend-database';
 import { itemParser } from './parsers/item-parser';
 import { TypesGenerator } from './types-generator/types-generator';
+import { bugParser } from './parsers/bug-parser';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
@@ -29,6 +30,9 @@ function createReadableFiles(
 }
 const items = itemParser(data.items);
 writeFileToFrontendDatabase('items.json', items);
+
+const bugs = bugParser(data.bugs);
+writeFileToFrontendDatabase('bugs.json', bugs);
 
 createReadableFiles(data, blacklistedKeys);
 TypesGenerator.generate()

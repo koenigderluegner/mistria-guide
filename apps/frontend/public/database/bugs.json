@@ -1,0 +1,2129 @@
+{
+  "butterfly": {
+    "type": "fly_wave",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop",
+      "bush"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "caterpillar": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "canopy",
+      "default"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "tree",
+      "stump"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "flower_crown_beetle": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "very_rare",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "petalhopper": {
+    "type": "jump",
+    "has_light": false,
+    "spawn": [
+      "default",
+      "grass"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "ladybug": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "luna_moth": {
+    "type": "fly_wave",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "hours": [
+      20,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "light"
+  },
+  "orchid_mantis": {
+    "type": "jump",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "roly_poly": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_pillbug_entity_idle",
+    "move_sprite": "spr_insect_pillbug_entity_move",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "snail": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [
+      "grass",
+      "crop",
+      "rock",
+      "stump",
+      "breakable"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "waterbug": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "locations": [
+      "beach"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "cicada": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "canopy",
+      "grass"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "tree",
+      "stump"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "cricket": {
+    "type": "jump",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "hours": [
+      20,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "dragonfly": {
+    "type": "fly",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "firefly": {
+    "type": "fly_wave",
+    "has_light": true,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "hours": [
+      20,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "tree",
+      "building"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "jewel_beetle": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [
+      "rock",
+      "crop",
+      "grass"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "magma_beetle": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [
+      "rock"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "strawhopper": {
+    "type": "jump",
+    "has_light": false,
+    "spawn": [
+      "default",
+      "grass"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "strobe_firefly": {
+    "type": "fly",
+    "idle_sprite": "spr_insect_strobedragonfly_entity_idle",
+    "move_sprite": "spr_insect_strobedragonfly_entity_move",
+    "has_light": true,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "hours": [
+      20,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "very_rare",
+    "liked_object_categories": [
+      "tree",
+      "building"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "sand_bug": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_sand_bug_entity_idle",
+    "move_sprite": "spr_insect_sand_bug_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "locations": [
+      "beach"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "surf_beetle": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_surf_beetle_entity_idle",
+    "move_sprite": "spr_insect_surf_beetle_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "locations": [
+      "beach"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "beach_hopper": {
+    "type": "jump",
+    "idle_sprite": "spr_insect_beach_hopper_entity_idle",
+    "move_sprite": "spr_insect_beach_hopper_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "locations": [
+      "beach"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "chillipede": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "cicada_nymph": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      20,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "fairy_bee": {
+    "type": "fly",
+    "has_light": true,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      6,
+      11
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "very_rare",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "inchworm": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "leafhopper": {
+    "type": "jump",
+    "has_light": false,
+    "spawn": [
+      "default",
+      "grass"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "mistmoth": {
+    "type": "fly",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      20,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "light"
+  },
+  "monarch_butterfly": {
+    "type": "fly_wave",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "tiger_swallowtail_butterfly": {
+    "type": "fly_wave",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "walking_leaf": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "canopy",
+      "default"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "crystal_caterpillar": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "canopy",
+      "default"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [
+      "rock",
+      "stump",
+      "breakable"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "brightbulb_moth": {
+    "type": "fly",
+    "idle_sprite": "spr_insect_brightbulb_moth_entity_idle",
+    "move_sprite": "spr_insect_brightbulb_moth_entity_move",
+    "has_light": true,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      20,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "frost_flutter_butterfly": {
+    "type": "fly_wave",
+    "idle_sprite": "spr_insect_frost_flutter_butterfly_entity_idle",
+    "move_sprite": "spr_insect_frost_flutter_butterfly_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "icehopper": {
+    "type": "jump",
+    "has_light": false,
+    "spawn": [
+      "default",
+      "grass"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "polar_fly": {
+    "type": "fly_wave",
+    "idle_sprite": "spr_insect_polar_fly_entity_idle",
+    "move_sprite": "spr_insect_polar_fly_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "snug_bug": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_snug_bug_entity_idle",
+    "move_sprite": "spr_insect_snug_bug_entity_move",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "relic_crab": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "locations": [
+      "beach"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "snowball_beetle": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "heavy_inclement"
+    ],
+    "rarity": "very_rare",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "walking_stick": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [
+      "stump",
+      "breakable"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "winterpillar": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default",
+      "canopy"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "tree",
+      "stump"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "ant": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "bumblebee": {
+    "type": "fly_wave",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "fuzzy_moth": {
+    "type": "fly_wave",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      20,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "light"
+  },
+  "grasshopper": {
+    "type": "jump",
+    "has_light": false,
+    "spawn": [
+      "default",
+      "grass"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "hermit_crab": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "locations": [
+      "beach"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "hummingbird_hawk_moth": {
+    "type": "fly",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "lightning_dragonfly": {
+    "type": "fly",
+    "has_light": true,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "heavy_inclement"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [],
+    "locations": [
+      "narrows",
+      "eastern_road"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "pond_skater": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "locations": [
+      "narrows",
+      "eastern_road",
+      "town"
+    ],
+    "can_spawn_on_water": true,
+    "attraction": "none"
+  },
+  "praying_mantis": {
+    "type": "jump",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "question_mark_butterfly": {
+    "type": "fly_wave",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "redhead_worm": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_redhead_worm_entity_idle",
+    "move_sprite": "spr_insect_redhead_worm_entity_move",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "speedy_snail": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "inclement",
+      "calm",
+      "special"
+    ],
+    "rarity": "very_rare",
+    "liked_object_categories": [
+      "rock",
+      "crop",
+      "stump",
+      "breakable"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "rhinoceros_beetle": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      20,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [
+      "rock",
+      "stump",
+      "breakable"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "lantern_moth": {
+    "type": "fly_wave",
+    "idle_sprite": "spr_insect_lantern_moth_entity_idle",
+    "move_sprite": "spr_insect_lantern_moth_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "upper",
+    "attraction": "light"
+  },
+  "copper_beetle": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_copper_beetle_entity_idle",
+    "move_sprite": "spr_insect_copper_beetle_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "upper",
+    "attraction": "copper"
+  },
+  "worm": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "upper",
+    "attraction": "none"
+  },
+  "mine_cricket": {
+    "type": "jump",
+    "idle_sprite": "spr_insect_mine_cricket_entity_idle",
+    "move_sprite": "spr_insect_mine_cricket_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "kinda_rare",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "upper",
+    "attraction": "none"
+  },
+  "tunnel_millipede": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_tunnel_millipede_entity_idle",
+    "move_sprite": "spr_insect_tunnel_millipede_entity_move",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "upper",
+    "attraction": "none"
+  },
+  "sea_scarab": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_sea_scarab_entity_idle",
+    "move_sprite": "spr_insect_sea_scarab_entity_move",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "tide_caverns",
+    "attraction": "none"
+  },
+  "waterfly": {
+    "type": "fly_wave",
+    "has_light": true,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "tide_caverns",
+    "attraction": "none"
+  },
+  "hermit_snail": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_hermit_snail_entity_idle",
+    "move_sprite": "spr_insect_hermit_snail_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "tide_caverns",
+    "attraction": "none"
+  },
+  "puddle_spider": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_puddle_spider_entity_idle",
+    "move_sprite": "spr_insect_puddle_spider_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "tide_caverns",
+    "attraction": "none"
+  },
+  "coral_mantis": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_coral_mantis_entity_idle",
+    "move_sprite": "spr_insect_coral_mantis_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "tide_caverns",
+    "attraction": "none"
+  },
+  "rock_roach": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_rock_roach_entity_idle",
+    "move_sprite": "spr_insect_rock_roach_entity_move",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "deep_earth",
+    "attraction": "none"
+  },
+  "deep_earthworm": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_deep_earthworm_entity_idle",
+    "move_sprite": "spr_insect_deep_earthworm_entity_move",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "deep_earth",
+    "attraction": "none"
+  },
+  "crystalline_cricket": {
+    "type": "jump",
+    "idle_sprite": "spr_insect_crystalline_cricket_entity_idle",
+    "move_sprite": "spr_insect_crystalline_cricket_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "deep_earth",
+    "attraction": "none"
+  },
+  "gem_shard_caterpillar": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_gem_shard_caterpillar_entity_idle",
+    "move_sprite": "spr_insect_gem_shard_caterpillar_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "deep_earth",
+    "attraction": "crystal_berries"
+  },
+  "crystal_wing_moth": {
+    "type": "fly_wave",
+    "idle_sprite": "spr_insect_crystal_wing_moth_entity_idle",
+    "move_sprite": "spr_insect_crystal_wing_moth_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "deep_earth",
+    "attraction": "none"
+  },
+  "fire_wasp": {
+    "type": "fly_wave",
+    "idle_sprite": "spr_insect_fire_wasp_entity_idle",
+    "move_sprite": "spr_insect_fire_wasp_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "lava_caves",
+    "attraction": "none"
+  },
+  "cooktop_beetle": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_cooktop_beetle_entity_idle",
+    "move_sprite": "spr_insect_cooktop_beetle_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "lava_caves",
+    "attraction": "none"
+  },
+  "lava_snail": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_lava_snail_entity_idle",
+    "move_sprite": "spr_insect_lava_snail_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "lava_caves",
+    "attraction": "none"
+  },
+  "smoke_moth": {
+    "type": "fly_wave",
+    "idle_sprite": "spr_insect_smoke_moth_entity_idle",
+    "move_sprite": "spr_insect_smoke_moth_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "lava_caves",
+    "attraction": "none"
+  },
+  "diamond_beetle": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_diamond_beetle_entity_idle",
+    "move_sprite": "spr_insect_diamond_beetle_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "lava_caves",
+    "attraction": "none"
+  },
+  "dragon_horn_beetle": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_dragon_horn_beetle_entity_idle",
+    "move_sprite": "spr_insect_dragon_horn_beetle_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "locations": [
+      "deep_woods"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "loam_caterpillar": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_loam_caterpillar_entity_idle",
+    "move_sprite": "spr_insect_loam_caterpillar_entity_move",
+    "has_light": false,
+    "spawn": [
+      "canopy",
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "locations": [
+      "deep_woods"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "mote_firefly": {
+    "type": "fly_wave",
+    "idle_sprite": "spr_insect_mote_firefly_entity_idle",
+    "move_sprite": "spr_insect_mote_firefly_entity_move",
+    "has_light": true,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      20,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "locations": [
+      "deep_woods"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "singing_katydid": {
+    "type": "jump",
+    "idle_sprite": "spr_insect_singing_katydid_entity_idle",
+    "move_sprite": "spr_insect_singing_katydid_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [],
+    "locations": [
+      "deep_woods"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  },
+  "windleaf_butterfly": {
+    "type": "fly_wave",
+    "idle_sprite": "spr_insect_windleaf_butterfly_entity_idle",
+    "move_sprite": "spr_insect_windleaf_butterfly_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "locations": [
+      "deep_woods"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

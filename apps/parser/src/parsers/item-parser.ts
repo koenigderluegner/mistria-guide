@@ -1,8 +1,13 @@
-import { Item, RawItem, transformItem } from '@mistria-guide/data-types';
+import {
+  Item,
+  ItemId,
+  RawItem,
+  transformItem,
+} from '@mistria-guide/data-types';
 import { TypesGenerator } from '../types-generator/types-generator';
 
 export function itemParser(
-  items: Record<string, Record<string, Record<string, RawItem>>>
+  items: Record<string, Record<string, Record<ItemId, RawItem>>>
 ) {
   const res: Record<string, Item> = {};
 
@@ -34,7 +39,6 @@ export function itemParser(
 
         allItemIds.push(itemId);
         res[itemId] = transformItem(item);
-
       });
     });
   });
