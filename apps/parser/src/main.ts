@@ -4,6 +4,7 @@ import { writeFileToFrontendDatabase } from './util/write-file-to-frontend-datab
 import { itemParser } from './parsers/item-parser';
 import { TypesGenerator } from './types-generator/types-generator';
 import { bugParser } from './parsers/bug-parser';
+import { fishParser } from './parsers/fish-parser';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
@@ -28,11 +29,15 @@ function createReadableFiles(
     !blacklistedKeys.includes(key) ? extractToDbFile(ordered, key) : null
   );
 }
+
 const items = itemParser(data.items);
 writeFileToFrontendDatabase('items.json', items);
 
 const bugs = bugParser(data.bugs);
 writeFileToFrontendDatabase('bugs.json', bugs);
 
+const fish = fishParser(data.fish);
+writeFileToFrontendDatabase('fish.json', fish);
+
 createReadableFiles(data, blacklistedKeys);
-TypesGenerator.generate()
+TypesGenerator.generate();

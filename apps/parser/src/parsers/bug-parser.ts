@@ -24,7 +24,7 @@ export function bugParser(items: Record<ItemId, RawBug>) {
     bugSpawnMethod.push(...[resBug.spawn].flat());
     seasons.push(...resBug.seasons);
     weather.push(...resBug.weather);
-    rarity.push(...resBug.rarity);
+    rarity.push(resBug.rarity);
 
     if (resBug.liked_object_categories) {
       likedObjectCategories.push(...resBug.liked_object_categories);
@@ -46,7 +46,7 @@ export function bugParser(items: Record<ItemId, RawBug>) {
   TypesGenerator.addEnum([...new Set(bugSpawnMethod)], 'BugSpawnMethod');
   TypesGenerator.addEnum([...new Set(seasons)], 'Season');
   TypesGenerator.addEnum([...new Set(weather)], 'Weather');
-  TypesGenerator.addEnum([...new Set(rarity)], 'Rarity', 'Rarities');
+  TypesGenerator.addEnum([...new Set(rarity)], 'BugRarity', 'BugRarities');
   TypesGenerator.addEnum([...new Set(locations)], 'Location');
   TypesGenerator.addEnum([...new Set(bugAttractions)], 'BugAttraction');
   TypesGenerator.addEnum([...new Set(dungeonBiomes)], 'DungeonBiome');

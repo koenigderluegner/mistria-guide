@@ -14,7 +14,12 @@ export class TypesGenerator {
   private static fileBaseNames: string[] = [];
 
   static addEnum(values: string[], enumName: string, valuesName?: string) {
-    this.enums.push({ values, enumName, valuesName });
+    const existingEnum = this.enums.find((e) => e.enumName === enumName);
+    if (existingEnum) {
+      existingEnum.values = [...new Set([...existingEnum.values, ...values])];
+    } else {
+      this.enums.push({ values, enumName, valuesName });
+    }
   }
 
   static generate() {
@@ -25,7 +30,9 @@ export class TypesGenerator {
   private static generateEnums() {
     this.enums.forEach((enumEntry) => {
       const valuesName = enumEntry.valuesName ?? enumEntry.enumName + 's';
-      const content = `export const ${valuesName} = ${JSON.stringify(enumEntry.values)} as const;
+      const content = `export const ${valuesName} = ${JSON.stringify(
+        enumEntry.values
+      )} as const;
 
 export type ${enumEntry.enumName} = typeof ${valuesName}[number];`;
       const fileBaseName = pascalCaseToKebabCase(enumEntry.enumName);
@@ -50,13 +57,9 @@ export type ${enumEntry.enumName} = typeof ${valuesName}[number];`;
 
     const filePath = path.join(targetPath, fileName);
 
-    fs.writeFileSync(
-      filePath,
-      content,
-      {
-        encoding: 'utf8',
-        flag: 'w+',
-      }
-    );
+    fs.writeFileSync(filePath, content, {
+      encoding: 'utf8',
+      flag: 'w+',
+    });
   }
 }

@@ -1,11 +1,11 @@
 import {
   BugAttraction,
   BugLikedObjectCategory,
+  BugRarity,
   BugSpawnMethod,
   BugType,
   DungeonBiome,
   Location,
-  Rarity,
   Season,
   Weather,
 } from './generated';
@@ -22,7 +22,7 @@ export type RawBug = {
   seasons: Season[];
   hours: [number, number];
   weather: Weather[];
-  rarity: Rarity;
+  rarity: BugRarity;
   liked_object_categories?: BugLikedObjectCategory[];
   locations?: Location[];
   can_spawn_on_water?: boolean;
