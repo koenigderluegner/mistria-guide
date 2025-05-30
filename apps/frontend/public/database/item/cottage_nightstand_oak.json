@@ -1,0 +1,38 @@
+{
+  "id": "cottage_nightstand_oak",
+  "item": {
+    "description": "items/furniture/lovely_cottage_set/cottage_nightstand_oak/description",
+    "name": "items/furniture/lovely_cottage_set/cottage_nightstand_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_cottage_nightstand_v1",
+    "tags": [
+      "furniture",
+      "nightstand",
+      "lovely_cottage_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "ore_stone"
+        },
+        {
+          "count": 5,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

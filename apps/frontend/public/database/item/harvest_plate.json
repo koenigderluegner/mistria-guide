@@ -1,0 +1,49 @@
+{
+  "id": "harvest_plate",
+  "item": {
+    "description": "items/other/cooked_dishes/harvest_plate/description",
+    "name": "items/other/cooked_dishes/harvest_plate/name",
+    "icon_sprite": "spr_ui_item_harvest_plate",
+    "tags": [
+      "chef",
+      "baked_dish",
+      "food"
+    ],
+    "value": {
+      "store": 1500
+    },
+    "recipe": {
+      "level_requirement": 40,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "sweet_potato"
+        },
+        {
+          "count": 1,
+          "item": "broccoli"
+        },
+        {
+          "count": 1,
+          "item": "cranberry"
+        },
+        {
+          "count": 1,
+          "item": "pumpkin"
+        },
+        {
+          "count": 1,
+          "item": "onion"
+        },
+        {
+          "count": 1,
+          "item": "rosemary"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "bowfish",
+  "item": {
+    "description": "items/fish/river/bowfish/description",
+    "name": "items/fish/river/bowfish/name",
+    "icon_sprite": "spr_ui_item_fish_large_bowfish",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 40
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "winter"
+    ],
+    "water_type": "river",
+    "weather": false,
+    "locations": false,
+    "size": "large",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

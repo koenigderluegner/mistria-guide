@@ -1,0 +1,18 @@
+{
+  "id": "golden_duck_feather",
+  "item": {
+    "description": "items/other/ranching/golden_duck_feather/description",
+    "name": "items/other/ranching/golden_duck_feather/name",
+    "icon_sprite": "spr_ui_item_duck_feather_gold",
+    "tags": [
+      "ranching",
+      "animal_fibre",
+      "animal_harvest",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 270,
+      "store": 540
+    }
+  }
+}

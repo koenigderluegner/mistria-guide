@@ -1,0 +1,18 @@
+{
+  "id": "heavy_mist",
+  "item": {
+    "description": "items/other/cooked_dishes/heavy_mist/description",
+    "name": "items/other/cooked_dishes/heavy_mist/name",
+    "icon_sprite": "spr_ui_item_heavy_mist",
+    "tags": [
+      "drink_sound",
+      "drink",
+      "alcohol",
+      "caffeine"
+    ],
+    "value": {
+      "bin": 50,
+      "store": 100
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "breaded_catfish",
+  "item": {
+    "description": "items/other/cooked_dishes/breaded_catfish/description",
+    "name": "items/other/cooked_dishes/breaded_catfish/name",
+    "icon_sprite": "spr_ui_item_breadedcatfish",
+    "tags": [
+      "food",
+      "fried_dish",
+      "fishy",
+      "inn_plate"
+    ],
+    "value": {
+      "store": 330
+    },
+    "recipe": {
+      "level_requirement": 14,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "catfish"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "oil"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dragon_forged_bracelet",
+  "item": {
+    "description": "items/other/artifacts/dragon_forged_bracelet/description",
+    "name": "items/other/artifacts/dragon_forged_bracelet/name",
+    "icon_sprite": "spr_ui_item_dragon_forged_bracelet",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

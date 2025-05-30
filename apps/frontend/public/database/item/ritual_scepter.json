@@ -1,0 +1,15 @@
+{
+  "id": "ritual_scepter",
+  "item": {
+    "description": "items/other/artifacts/ritual_scepter/description",
+    "name": "items/other/artifacts/ritual_scepter/name",
+    "icon_sprite": "spr_ui_item_ritual_scepter",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

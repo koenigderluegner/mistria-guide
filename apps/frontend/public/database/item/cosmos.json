@@ -1,0 +1,16 @@
+{
+  "id": "cosmos",
+  "item": {
+    "description": "items/other/crops_and_forage/cosmos/description",
+    "name": "items/other/crops_and_forage/cosmos/name",
+    "icon_sprite": "spr_ui_item_cosmos",
+    "tags": [
+      "flower",
+      "forageable"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 120
+    }
+  }
+}

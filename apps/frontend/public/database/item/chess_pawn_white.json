@@ -1,0 +1,29 @@
+{
+  "id": "chess_pawn_white",
+  "item": {
+    "description": "items/furniture/chess_set/chess_pawn_white/description",
+    "name": "items/furniture/chess_set/chess_pawn_white/name",
+    "icon_sprite": "spr_ui_item_furniture_chess_pawn_white",
+    "tags": [
+      "furniture",
+      "misc_furniture",
+      "chess_decor_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 50,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

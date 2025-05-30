@@ -1,0 +1,18 @@
+{
+  "id": "perfect_emerald",
+  "item": {
+    "description": "items/other/artifacts/perfect_emerald/description",
+    "name": "items/other/artifacts/perfect_emerald/name",
+    "icon_sprite": "spr_ui_item_perfect_emerald",
+    "tags": [
+      "gem",
+      "material",
+      "ore",
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

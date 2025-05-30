@@ -1,0 +1,16 @@
+{
+  "id": "ore_stone",
+  "item": {
+    "description": "items/other/materials/ore_stone/description",
+    "name": "items/other/materials/ore_stone/name",
+    "icon_sprite": "spr_ui_item_rock",
+    "tags": [
+      "material",
+      "ore"
+    ],
+    "value": {
+      "bin": 2,
+      "store": 20
+    }
+  }
+}

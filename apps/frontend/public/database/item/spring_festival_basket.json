@@ -1,0 +1,15 @@
+{
+  "id": "spring_festival_basket",
+  "item": {
+    "description": "items/furniture/spring_festival_set/spring_festival_basket/description",
+    "name": "items/furniture/spring_festival_set/spring_festival_basket/name",
+    "icon_sprite": "spr_ui_item_decor_spring_festival_basket",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 250,
+      "store": 500
+    }
+  }
+}

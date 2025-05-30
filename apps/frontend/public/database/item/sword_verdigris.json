@@ -1,0 +1,16 @@
+{
+  "id": "sword_verdigris",
+  "item": {
+    "description": "items/other/blacksmithing/sword_verdigris/description",
+    "name": "items/other/blacksmithing/sword_verdigris/name",
+    "icon_sprite": "spr_ui_item_tool_verdigris_sword",
+    "tags": [
+      "sword",
+      "weapon"
+    ],
+    "value": {
+      "bin": 600,
+      "store": 1000
+    }
+  }
+}

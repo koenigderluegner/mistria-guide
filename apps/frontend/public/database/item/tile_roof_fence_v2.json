@@ -1,0 +1,32 @@
+{
+  "id": "tile_roof_fence_v2",
+  "item": {
+    "description": "items/furniture/no_set/tile_roof_fence_v2/description",
+    "name": "items/furniture/no_set/tile_roof_fence_v2/name",
+    "icon_sprite": "spr_ui_item_tile_roof_fence_v2",
+    "tags": [
+      "furniture",
+      "fencing"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "ore_stone"
+        },
+        {
+          "count": 3,
+          "item": "clay"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

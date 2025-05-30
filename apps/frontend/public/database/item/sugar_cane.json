@@ -1,0 +1,15 @@
+{
+  "id": "sugar_cane",
+  "item": {
+    "description": "items/other/crops_and_forage/sugar_cane/description",
+    "name": "items/other/crops_and_forage/sugar_cane/name",
+    "icon_sprite": "spr_ui_item_sugar_cane",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 80,
+      "store": 320
+    }
+  }
+}

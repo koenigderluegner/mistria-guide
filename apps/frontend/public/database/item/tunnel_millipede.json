@@ -1,0 +1,42 @@
+{
+  "id": "tunnel_millipede",
+  "item": {
+    "description": "items/mines/upper_mines/tunnel_millipede/description",
+    "name": "items/mines/upper_mines/tunnel_millipede/name",
+    "icon_sprite": "spr_ui_item_insect_tunnel_millipede",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 15
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_tunnel_millipede_entity_idle",
+    "move_sprite": "spr_insect_tunnel_millipede_entity_move",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "upper",
+    "attraction": "none"
+  }
+}

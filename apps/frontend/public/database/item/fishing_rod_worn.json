@@ -1,0 +1,16 @@
+{
+  "id": "fishing_rod_worn",
+  "item": {
+    "description": "items/other/blacksmithing/fishing_rod_worn/description",
+    "name": "items/other/blacksmithing/fishing_rod_worn/name",
+    "icon_sprite": "spr_ui_item_tool_rusty_rod",
+    "tags": [
+      "fishing_rod",
+      "tool"
+    ],
+    "value": {
+      "bin": 250,
+      "store": 500
+    }
+  }
+}

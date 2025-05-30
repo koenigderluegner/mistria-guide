@@ -1,0 +1,31 @@
+{
+  "id": "green_tea",
+  "item": {
+    "description": "items/other/cooked_dishes/green_tea/description",
+    "name": "items/other/cooked_dishes/green_tea/name",
+    "icon_sprite": "spr_ui_item_green_tea",
+    "tags": [
+      "drink",
+      "hot_drink",
+      "drink_sound",
+      "food",
+      "caffeine"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "tea"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

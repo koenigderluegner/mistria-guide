@@ -1,0 +1,15 @@
+{
+  "id": "ritual_incense_burner",
+  "item": {
+    "description": "items/other/artifacts/ritual_incense_burner/description",
+    "name": "items/other/artifacts/ritual_incense_burner/name",
+    "icon_sprite": "spr_ui_item_ritual_incense_burner",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

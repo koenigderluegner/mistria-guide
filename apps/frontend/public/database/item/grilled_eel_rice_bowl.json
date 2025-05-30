@@ -1,0 +1,42 @@
+{
+  "id": "grilled_eel_rice_bowl",
+  "item": {
+    "description": "items/other/cooked_dishes/grilled_eel_rice_bowl/description",
+    "name": "items/other/cooked_dishes/grilled_eel_rice_bowl/name",
+    "icon_sprite": "spr_ui_item_grilled_eel_rice_bowl",
+    "tags": [
+      "chef",
+      "grilled_dish",
+      "food",
+      "fishy"
+    ],
+    "value": {
+      "store": 500
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "freshwater_eel"
+        },
+        {
+          "count": 1,
+          "item": "soy_sauce"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

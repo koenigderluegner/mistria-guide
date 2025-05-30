@@ -1,0 +1,15 @@
+{
+  "id": "watermelon",
+  "item": {
+    "description": "items/other/crops_and_forage/watermelon/description",
+    "name": "items/other/crops_and_forage/watermelon/name",
+    "icon_sprite": "spr_ui_item_watermelon",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 180,
+      "store": 540
+    }
+  }
+}

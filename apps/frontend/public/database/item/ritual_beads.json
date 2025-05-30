@@ -1,0 +1,15 @@
+{
+  "id": "ritual_beads",
+  "item": {
+    "description": "items/other/artifacts/ritual_beads/description",
+    "name": "items/other/artifacts/ritual_beads/name",
+    "icon_sprite": "spr_ui_item_ritual_beads",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

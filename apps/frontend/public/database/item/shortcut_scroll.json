@@ -1,0 +1,15 @@
+{
+  "id": "shortcut_scroll",
+  "item": {
+    "description": "items/other/artifacts/shortcut_scroll/description",
+    "name": "items/other/artifacts/shortcut_scroll/name",
+    "icon_sprite": "spr_ui_item_shortcut_scroll",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 125,
+      "renown": 20
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cavern_stone_arch",
+  "item": {
+    "description": "items/furniture/cavern_set/cavern_stone_arch/description",
+    "name": "items/furniture/cavern_set/cavern_stone_arch/name",
+    "icon_sprite": "spr_ui_item_furniture_stone_arch",
+    "tags": [
+      "furniture",
+      "cavern_set",
+      "misc_outdoor_decor"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "ore_stone"
+        },
+        {
+          "count": 10,
+          "item": "crystal"
+        },
+        {
+          "count": 3,
+          "item": "monster_horn"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

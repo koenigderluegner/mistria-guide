@@ -1,0 +1,11 @@
+{
+  "id": "ryis_lumber",
+  "item": {
+    "description": "items/other/misc/ryis_lumber/description",
+    "name": "items/other/misc/ryis_lumber/name",
+    "icon_sprite": "spr_prop_lumber_plank_horizontal_medium_spring",
+    "value": {
+      "bin": 1
+    }
+  }
+}

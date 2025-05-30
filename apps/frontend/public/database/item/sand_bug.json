@@ -1,0 +1,46 @@
+{
+  "id": "sand_bug",
+  "item": {
+    "description": "items/other/bugs/sand_bug/description",
+    "name": "items/other/bugs/sand_bug/name",
+    "icon_sprite": "spr_ui_item_insect_sand_bug",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_sand_bug_entity_idle",
+    "move_sprite": "spr_insect_sand_bug_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "locations": [
+      "beach"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

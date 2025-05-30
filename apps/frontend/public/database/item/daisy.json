@@ -1,0 +1,16 @@
+{
+  "id": "daisy",
+  "item": {
+    "description": "items/other/crops_and_forage/daisy/description",
+    "name": "items/other/crops_and_forage/daisy/name",
+    "icon_sprite": "spr_ui_item_daisy",
+    "tags": [
+      "forageable",
+      "flower"
+    ],
+    "value": {
+      "bin": 15,
+      "store": 60
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lavender_tea",
+  "item": {
+    "description": "items/other/cooked_dishes/lavender_tea/description",
+    "name": "items/other/cooked_dishes/lavender_tea/name",
+    "icon_sprite": "spr_ui_item_lavender_tea",
+    "tags": [
+      "drink",
+      "hot_drink",
+      "drink_sound",
+      "caffeine"
+    ],
+    "value": {
+      "bin": 100,
+      "store": 200
+    }
+  }
+}

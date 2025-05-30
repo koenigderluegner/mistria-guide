@@ -1,0 +1,37 @@
+{
+  "id": "spring_rug_pink",
+  "item": {
+    "description": "items/furniture/spring_set/spring_rug_pink/description",
+    "name": "items/furniture/spring_set/spring_rug_pink/name",
+    "icon_sprite": "spr_ui_item_furniture_spring_rug_pink",
+    "tags": [
+      "furniture",
+      "medium_rug",
+      "spring_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "fiber"
+        },
+        {
+          "count": 2,
+          "item": "feather"
+        },
+        {
+          "count": 1,
+          "item": "tulip"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

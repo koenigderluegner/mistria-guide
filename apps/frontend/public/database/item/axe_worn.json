@@ -1,0 +1,16 @@
+{
+  "id": "axe_worn",
+  "item": {
+    "description": "items/other/blacksmithing/axe_worn/description",
+    "name": "items/other/blacksmithing/axe_worn/name",
+    "icon_sprite": "spr_ui_item_tool_rusty_axe",
+    "tags": [
+      "axe",
+      "tool"
+    ],
+    "value": {
+      "bin": 50,
+      "store": 200
+    }
+  }
+}

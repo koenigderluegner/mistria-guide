@@ -1,0 +1,37 @@
+{
+  "id": "low_tide_flooring",
+  "item": {
+    "description": "items/furniture/tide_set/low_tide_flooring/description",
+    "name": "items/furniture/tide_set/low_tide_flooring/name",
+    "icon_sprite": "spr_ui_item_furniture_tide_flooring",
+    "tags": [
+      "furniture",
+      "tide_caverns_set",
+      "novelty_flooring"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "ore_stone"
+        },
+        {
+          "count": 3,
+          "item": "spirula_shell"
+        },
+        {
+          "count": 3,
+          "item": "pink_scallop_shell"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

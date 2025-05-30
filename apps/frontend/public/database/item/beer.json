@@ -1,0 +1,17 @@
+{
+  "id": "beer",
+  "item": {
+    "description": "items/other/cooked_dishes/beer/description",
+    "name": "items/other/cooked_dishes/beer/name",
+    "icon_sprite": "spr_ui_item_beer",
+    "tags": [
+      "drink",
+      "drink_sound",
+      "alcohol"
+    ],
+    "value": {
+      "bin": 50,
+      "store": 100
+    }
+  }
+}

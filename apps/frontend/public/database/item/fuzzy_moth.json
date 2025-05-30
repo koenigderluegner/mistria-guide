@@ -1,0 +1,39 @@
+{
+  "id": "fuzzy_moth",
+  "item": {
+    "description": "items/other/bugs/fuzzy_moth/description",
+    "name": "items/other/bugs/fuzzy_moth/name",
+    "icon_sprite": "spr_ui_item_insect_fuzzymoth",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 15
+    }
+  },
+  "bug": {
+    "type": "fly_wave",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      20,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "light"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "vintage_watering_can",
+  "item": {
+    "description": "items/other/artifacts/vintage_watering_can/description",
+    "name": "items/other/artifacts/vintage_watering_can/name",
+    "icon_sprite": "spr_ui_item_vintage_watering_can",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

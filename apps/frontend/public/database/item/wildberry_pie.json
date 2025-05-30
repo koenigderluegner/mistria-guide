@@ -1,0 +1,38 @@
+{
+  "id": "wildberry_pie",
+  "item": {
+    "description": "items/other/cooked_dishes/wildberry_pie/description",
+    "name": "items/other/cooked_dishes/wildberry_pie/name",
+    "icon_sprite": "spr_ui_item_wildberry_pie",
+    "tags": [
+      "food",
+      "baked_dessert",
+      "adept",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 330
+    },
+    "recipe": {
+      "level_requirement": 14,
+      "ingredients": [
+        {
+          "count": 6,
+          "item": "wild_berries"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

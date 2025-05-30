@@ -1,0 +1,41 @@
+{
+  "id": "turnip_and_potato_gratin",
+  "item": {
+    "description": "items/other/cooked_dishes/turnip_and_potato_gratin/description",
+    "name": "items/other/cooked_dishes/turnip_and_potato_gratin/name",
+    "icon_sprite": "spr_ui_item_turnip_and_potato_gratin",
+    "tags": [
+      "chef",
+      "baked_dish",
+      "food"
+    ],
+    "value": {
+      "store": 600
+    },
+    "recipe": {
+      "level_requirement": 26,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "potato"
+        },
+        {
+          "count": 1,
+          "item": "turnip"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "cheese"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

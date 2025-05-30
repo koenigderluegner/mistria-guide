@@ -1,0 +1,42 @@
+{
+  "id": "grasshopper",
+  "item": {
+    "description": "items/other/bugs/grasshopper/description",
+    "name": "items/other/bugs/grasshopper/name",
+    "icon_sprite": "spr_ui_item_insect_grasshopper",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "bug": {
+    "type": "jump",
+    "has_light": false,
+    "spawn": [
+      "default",
+      "grass"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

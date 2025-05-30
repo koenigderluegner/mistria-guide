@@ -1,0 +1,31 @@
+{
+  "id": "coconut_milk",
+  "item": {
+    "description": "items/other/cooked_dishes/coconut_milk/description",
+    "name": "items/other/cooked_dishes/coconut_milk/name",
+    "icon_sprite": "spr_ui_item_coconut_milk",
+    "tags": [
+      "drink",
+      "drink_sound",
+      "cold_drink",
+      "food",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 150
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "coconut"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

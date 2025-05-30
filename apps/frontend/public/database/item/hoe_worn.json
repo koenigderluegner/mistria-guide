@@ -1,0 +1,16 @@
+{
+  "id": "hoe_worn",
+  "item": {
+    "description": "items/other/blacksmithing/hoe_worn/description",
+    "name": "items/other/blacksmithing/hoe_worn/name",
+    "icon_sprite": "spr_ui_item_tool_rusty_hoe",
+    "tags": [
+      "hoe",
+      "tool"
+    ],
+    "value": {
+      "bin": 50,
+      "store": 150
+    }
+  }
+}

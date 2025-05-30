@@ -1,0 +1,31 @@
+{
+  "id": "white_perch",
+  "item": {
+    "description": "items/fish/pond/white_perch/description",
+    "name": "items/fish/pond/white_perch/name",
+    "icon_sprite": "spr_ui_item_fish_medium_white_perch",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 120
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "fall"
+    ],
+    "water_type": "pond",
+    "weather": false,
+    "locations": false,
+    "size": "medium",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "rare",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

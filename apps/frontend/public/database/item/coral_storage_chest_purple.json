@@ -1,0 +1,37 @@
+{
+  "id": "coral_storage_chest_purple",
+  "item": {
+    "description": "items/furniture/tide_set/coral_storage_chest_purple/description",
+    "name": "items/furniture/tide_set/coral_storage_chest_purple/name",
+    "icon_sprite": "spr_ui_item_furniture_coral_storage_chest_purple",
+    "tags": [
+      "furniture",
+      "tide_caverns_set",
+      "chest_and_storage"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "coral"
+        },
+        {
+          "count": 5,
+          "item": "monster_shell"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

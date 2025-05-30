@@ -1,0 +1,15 @@
+{
+  "id": "caldosian_breastplate",
+  "item": {
+    "description": "items/other/artifacts/caldosian_breastplate/description",
+    "name": "items/other/artifacts/caldosian_breastplate/name",
+    "icon_sprite": "spr_ui_item_caldosian_breastplate",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

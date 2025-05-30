@@ -1,0 +1,37 @@
+{
+  "id": "pineshroom_toast",
+  "item": {
+    "description": "items/other/cooked_dishes/pineshroom_toast/description",
+    "name": "items/other/cooked_dishes/pineshroom_toast/name",
+    "icon_sprite": "spr_ui_item_pineshroom_toast",
+    "tags": [
+      "food",
+      "snack",
+      "mushroomy"
+    ],
+    "value": {
+      "store": 430
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "bread"
+        },
+        {
+          "count": 1,
+          "item": "pineshroom"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

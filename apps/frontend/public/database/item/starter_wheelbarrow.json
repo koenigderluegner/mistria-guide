@@ -1,0 +1,42 @@
+{
+  "id": "starter_wheelbarrow",
+  "item": {
+    "description": "items/furniture/starter_farm_set/starter_wheelbarrow/description",
+    "name": "items/furniture/starter_farm_set/starter_wheelbarrow/name",
+    "icon_sprite": "spr_ui_item_decor_starter_wheelbarrow",
+    "tags": [
+      "furniture",
+      "garden_decor",
+      "starter_farm_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "lilac"
+        },
+        {
+          "count": 1,
+          "item": "tulip"
+        },
+        {
+          "count": 1,
+          "item": "dandelion"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

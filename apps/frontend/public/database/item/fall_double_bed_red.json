@@ -1,0 +1,41 @@
+{
+  "id": "fall_double_bed_red",
+  "item": {
+    "description": "items/furniture/fall_set/fall_double_bed_red/description",
+    "name": "items/furniture/fall_set/fall_double_bed_red/name",
+    "icon_sprite": "spr_ui_item_furniture_fall_double_bed_red",
+    "tags": [
+      "furniture",
+      "double_bed",
+      "fall_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 26,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "hard_wood"
+        },
+        {
+          "count": 5,
+          "item": "alpaca_wool"
+        },
+        {
+          "count": 5,
+          "item": "sheep_wool"
+        },
+        {
+          "count": 5,
+          "item": "essence_drop"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

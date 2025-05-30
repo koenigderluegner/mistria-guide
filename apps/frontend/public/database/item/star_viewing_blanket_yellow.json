@@ -1,0 +1,33 @@
+{
+  "id": "star_viewing_blanket_yellow",
+  "item": {
+    "description": "items/furniture/shooting_star_set/star_viewing_blanket_yellow/description",
+    "name": "items/furniture/shooting_star_set/star_viewing_blanket_yellow/name",
+    "icon_sprite": "spr_ui_item_decor_star_viewing_blanket_yellow",
+    "tags": [
+      "furniture",
+      "star_festival_set",
+      "medium_rug"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 15,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "sheep_wool"
+        },
+        {
+          "count": 1,
+          "item": "essence_drop"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

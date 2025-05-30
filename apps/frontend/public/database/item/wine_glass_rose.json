@@ -1,0 +1,33 @@
+{
+  "id": "wine_glass_rose",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/wine_glass_rose/description",
+    "name": "items/furniture/tabletop_clutter_set/wine_glass_rose/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_wine_glass_rose",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "red_wine"
+        },
+        {
+          "count": 1,
+          "item": "white_wine"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

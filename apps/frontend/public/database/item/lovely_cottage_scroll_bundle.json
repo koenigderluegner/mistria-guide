@@ -1,0 +1,15 @@
+{
+  "id": "lovely_cottage_scroll_bundle",
+  "item": {
+    "description": "items/furniture/lovely_cottage_set/lovely_cottage_scroll_bundle/description",
+    "name": "items/furniture/lovely_cottage_set/lovely_cottage_scroll_bundle/name",
+    "icon_sprite": "spr_ui_item_setscroll_lovelycottage",
+    "tags": [
+      "scroll",
+      "blacklist_popup"
+    ],
+    "value": {
+      "store": 1000
+    }
+  }
+}

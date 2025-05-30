@@ -1,0 +1,29 @@
+{
+  "id": "chess_rook_light_wood",
+  "item": {
+    "description": "items/furniture/chess_set/chess_rook_light_wood/description",
+    "name": "items/furniture/chess_set/chess_rook_light_wood/name",
+    "icon_sprite": "spr_ui_item_furniture_chess_rook_light_wood",
+    "tags": [
+      "furniture",
+      "misc_furniture",
+      "chess_decor_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 50,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

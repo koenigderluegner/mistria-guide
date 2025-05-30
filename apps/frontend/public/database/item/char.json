@@ -1,0 +1,31 @@
+{
+  "id": "char",
+  "item": {
+    "description": "items/fish/ocean/char/description",
+    "name": "items/fish/ocean/char/name",
+    "icon_sprite": "spr_ui_item_fish_large_char",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 40
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "summer"
+    ],
+    "water_type": "ocean",
+    "weather": false,
+    "locations": false,
+    "size": "large",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

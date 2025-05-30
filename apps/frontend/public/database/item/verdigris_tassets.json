@@ -1,0 +1,16 @@
+{
+  "id": "verdigris_tassets",
+  "item": {
+    "description": "items/other/armor/verdigris_tassets/description",
+    "name": "items/other/armor/verdigris_tassets/name",
+    "icon_sprite": "spr_ui_item_equipment_verdigris_tassets",
+    "tags": [
+      "legs",
+      "armor"
+    ],
+    "value": {
+      "bin": 200,
+      "store": 400
+    }
+  }
+}

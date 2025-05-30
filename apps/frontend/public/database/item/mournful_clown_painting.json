@@ -1,0 +1,14 @@
+{
+  "id": "mournful_clown_painting",
+  "item": {
+    "description": "items/furniture/no_set/mournful_clown_painting/description",
+    "name": "items/furniture/no_set/mournful_clown_painting/name",
+    "icon_sprite": "spr_ui_item_decor_mournful_clown_painting",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 500
+    }
+  }
+}

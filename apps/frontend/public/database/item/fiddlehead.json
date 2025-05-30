@@ -1,0 +1,15 @@
+{
+  "id": "fiddlehead",
+  "item": {
+    "description": "items/other/crops_and_forage/fiddlehead/description",
+    "name": "items/other/crops_and_forage/fiddlehead/name",
+    "icon_sprite": "spr_ui_item_fiddlehead",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 25,
+      "store": 100
+    }
+  }
+}

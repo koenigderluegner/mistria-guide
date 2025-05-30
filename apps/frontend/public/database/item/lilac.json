@@ -1,0 +1,16 @@
+{
+  "id": "lilac",
+  "item": {
+    "description": "items/other/crops_and_forage/lilac/description",
+    "name": "items/other/crops_and_forage/lilac/name",
+    "icon_sprite": "spr_ui_item_lilac",
+    "tags": [
+      "forageable",
+      "flower"
+    ],
+    "value": {
+      "bin": 35,
+      "store": 140
+    }
+  }
+}

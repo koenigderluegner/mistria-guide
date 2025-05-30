@@ -1,0 +1,40 @@
+{
+  "id": "cauliflower_curry",
+  "item": {
+    "description": "items/other/cooked_dishes/cauliflower_curry/description",
+    "name": "items/other/cooked_dishes/cauliflower_curry/name",
+    "icon_sprite": "spr_ui_item_cauliflower_curry",
+    "tags": [
+      "food",
+      "simmered_dish"
+    ],
+    "value": {
+      "store": 650
+    },
+    "recipe": {
+      "level_requirement": 24,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "cauliflower"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "curry_powder"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

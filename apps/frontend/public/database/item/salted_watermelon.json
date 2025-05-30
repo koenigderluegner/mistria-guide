@@ -1,0 +1,32 @@
+{
+  "id": "salted_watermelon",
+  "item": {
+    "description": "items/other/cooked_dishes/salted_watermelon/description",
+    "name": "items/other/cooked_dishes/salted_watermelon/name",
+    "icon_sprite": "spr_ui_item_salted_watermelon",
+    "tags": [
+      "food",
+      "hand_crafted_dessert"
+    ],
+    "value": {
+      "store": 240
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "watermelon"
+        },
+        {
+          "count": 1,
+          "item": "rock_salt"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

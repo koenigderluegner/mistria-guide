@@ -1,0 +1,50 @@
+{
+  "id": "spring_galette",
+  "item": {
+    "description": "items/other/cooked_dishes/spring_galette/description",
+    "name": "items/other/cooked_dishes/spring_galette/name",
+    "icon_sprite": "spr_ui_item_spring_galette",
+    "tags": [
+      "chef",
+      "baked_dish",
+      "food",
+      "mushroomy"
+    ],
+    "value": {
+      "store": 1000
+    },
+    "recipe": {
+      "level_requirement": 40,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "fiddlehead"
+        },
+        {
+          "count": 1,
+          "item": "morel_mushroom"
+        },
+        {
+          "count": 1,
+          "item": "wild_leek"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "cheese"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

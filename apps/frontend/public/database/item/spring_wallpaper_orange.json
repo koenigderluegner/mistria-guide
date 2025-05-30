@@ -1,0 +1,33 @@
+{
+  "id": "spring_wallpaper_orange",
+  "item": {
+    "description": "items/furniture/spring_set/spring_wallpaper_orange/description",
+    "name": "items/furniture/spring_set/spring_wallpaper_orange/name",
+    "icon_sprite": "spr_ui_item_furniture_spring_wallpaper_orange",
+    "tags": [
+      "furniture",
+      "wallpaper",
+      "spring_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "paper"
+        },
+        {
+          "count": 3,
+          "item": "daffodil"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

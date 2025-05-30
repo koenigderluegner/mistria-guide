@@ -1,0 +1,38 @@
+{
+  "id": "cottage_wall_flowers_ash",
+  "item": {
+    "description": "items/furniture/lovely_cottage_set/cottage_wall_flowers_ash/description",
+    "name": "items/furniture/lovely_cottage_set/cottage_wall_flowers_ash/name",
+    "icon_sprite": "spr_ui_item_furniture_cottage_wall_flowers_v2",
+    "tags": [
+      "furniture",
+      "wall_hanging",
+      "lovely_cottage_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 300
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "fiber"
+        },
+        {
+          "count": 2,
+          "item": "hay"
+        },
+        {
+          "count": 2,
+          "item": "small_grass_starter"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

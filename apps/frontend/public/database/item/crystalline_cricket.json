@@ -1,0 +1,42 @@
+{
+  "id": "crystalline_cricket",
+  "item": {
+    "description": "items/mines/deep_earth/crystalline_cricket/description",
+    "name": "items/mines/deep_earth/crystalline_cricket/name",
+    "icon_sprite": "spr_ui_item_insect_crystalline_cricket",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 25
+    }
+  },
+  "bug": {
+    "type": "jump",
+    "idle_sprite": "spr_insect_crystalline_cricket_entity_idle",
+    "move_sprite": "spr_insect_crystalline_cricket_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "deep_earth",
+    "attraction": "none"
+  }
+}

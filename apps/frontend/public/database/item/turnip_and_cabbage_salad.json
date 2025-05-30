@@ -1,0 +1,36 @@
+{
+  "id": "turnip_and_cabbage_salad",
+  "item": {
+    "description": "items/other/cooked_dishes/turnip_and_cabbage_salad/description",
+    "name": "items/other/cooked_dishes/turnip_and_cabbage_salad/name",
+    "icon_sprite": "spr_ui_item_turnip_and_cabbage_salad",
+    "tags": [
+      "food",
+      "salad"
+    ],
+    "value": {
+      "store": 300
+    },
+    "recipe": {
+      "level_requirement": 14,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "turnip"
+        },
+        {
+          "count": 1,
+          "item": "cabbage"
+        },
+        {
+          "count": 1,
+          "item": "oil"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

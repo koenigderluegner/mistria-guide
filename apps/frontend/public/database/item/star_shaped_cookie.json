@@ -1,0 +1,11 @@
+{
+  "id": "star_shaped_cookie",
+  "item": {
+    "description": "items/other/festivals/star_shaped_cookie/description",
+    "name": "items/other/festivals/star_shaped_cookie/name",
+    "icon_sprite": "spr_ui_item_star_shaped_cookie",
+    "value": {
+      "bin": 200
+    }
+  }
+}

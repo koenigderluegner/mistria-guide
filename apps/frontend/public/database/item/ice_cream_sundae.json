@@ -1,0 +1,49 @@
+{
+  "id": "ice_cream_sundae",
+  "item": {
+    "description": "items/other/cooked_dishes/ice_cream_sundae/description",
+    "name": "items/other/cooked_dishes/ice_cream_sundae/name",
+    "icon_sprite": "spr_ui_item_ice_cream_sundae",
+    "tags": [
+      "food",
+      "frozen_dessert",
+      "choco"
+    ],
+    "value": {
+      "store": 1200
+    },
+    "recipe": {
+      "level_requirement": 38,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "ice_block"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        },
+        {
+          "count": 1,
+          "item": "chocolate"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "cottage_bed_double_oak",
+  "item": {
+    "description": "items/furniture/lovely_cottage_set/cottage_bed_double_oak/description",
+    "name": "items/furniture/lovely_cottage_set/cottage_bed_double_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_cottage_double_bed_v1",
+    "tags": [
+      "furniture",
+      "double_bed",
+      "lovely_cottage_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 800
+    },
+    "recipe": {
+      "level_requirement": 12,
+      "ingredients": [
+        {
+          "count": 60,
+          "item": "basic_wood"
+        },
+        {
+          "count": 4,
+          "item": "hard_wood"
+        },
+        {
+          "count": 10,
+          "item": "cattail"
+        },
+        {
+          "count": 5,
+          "item": "feather"
+        },
+        {
+          "count": 6,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

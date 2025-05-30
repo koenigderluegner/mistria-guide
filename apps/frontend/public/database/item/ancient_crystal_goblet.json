@@ -1,0 +1,15 @@
+{
+  "id": "ancient_crystal_goblet",
+  "item": {
+    "description": "items/other/artifacts/ancient_crystal_goblet/description",
+    "name": "items/other/artifacts/ancient_crystal_goblet/name",
+    "icon_sprite": "spr_ui_item_ancient_crystal_goblet",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "completely_wrong_map",
+  "item": {
+    "description": "items/other/artifacts/completely_wrong_map/description",
+    "name": "items/other/artifacts/completely_wrong_map/name",
+    "icon_sprite": "spr_ui_item_completely_wrong_map",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 125,
+      "renown": 10
+    }
+  }
+}

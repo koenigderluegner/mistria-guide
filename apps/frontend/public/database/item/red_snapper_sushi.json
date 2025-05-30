@@ -1,0 +1,34 @@
+{
+  "id": "red_snapper_sushi",
+  "item": {
+    "description": "items/other/cooked_dishes/red_snapper_sushi/description",
+    "name": "items/other/cooked_dishes/red_snapper_sushi/name",
+    "icon_sprite": "spr_ui_item_red_snapper_sushi",
+    "tags": [
+      "food",
+      "hand_crafted_dish",
+      "fishy",
+      "inn_plate"
+    ],
+    "value": {
+      "store": 250
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "red_snapper"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "caramelized_moon_fruit",
+  "item": {
+    "description": "items/other/cooked_dishes/caramelized_moon_fruit/description",
+    "name": "items/other/cooked_dishes/caramelized_moon_fruit/name",
+    "icon_sprite": "spr_ui_item_caramelized_moon_fruit",
+    "tags": [
+      "food",
+      "candy"
+    ],
+    "value": {
+      "store": 180
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "moon_fruit"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

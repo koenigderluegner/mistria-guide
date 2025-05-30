@@ -1,0 +1,41 @@
+{
+  "id": "spring_sofa_purple",
+  "item": {
+    "description": "items/furniture/spring_set/spring_sofa_purple/description",
+    "name": "items/furniture/spring_set/spring_sofa_purple/name",
+    "icon_sprite": "spr_ui_item_furniture_spring_sofa_purple",
+    "tags": [
+      "furniture",
+      "sofa",
+      "spring_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "cattail"
+        },
+        {
+          "count": 1,
+          "item": "lilac"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

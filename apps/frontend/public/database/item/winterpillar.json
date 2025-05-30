@@ -1,0 +1,40 @@
+{
+  "id": "winterpillar",
+  "item": {
+    "description": "items/other/bugs/winterpillar/description",
+    "name": "items/other/bugs/winterpillar/name",
+    "icon_sprite": "spr_ui_item_insect_winterpillar",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default",
+      "canopy"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "tree",
+      "stump"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

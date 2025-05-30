@@ -1,0 +1,41 @@
+{
+  "id": "crystal_caterpillar",
+  "item": {
+    "description": "items/other/bugs/crystal_caterpillar/description",
+    "name": "items/other/bugs/crystal_caterpillar/name",
+    "icon_sprite": "spr_ui_item_insect_crystalcaterpillar",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 20
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "canopy",
+      "default"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [
+      "rock",
+      "stump",
+      "breakable"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

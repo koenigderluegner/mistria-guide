@@ -1,0 +1,16 @@
+{
+  "id": "cloth_chestpiece",
+  "item": {
+    "description": "items/other/armor/cloth_chestpiece/description",
+    "name": "items/other/armor/cloth_chestpiece/name",
+    "icon_sprite": "spr_ui_item_equipment_cloth_chestpiece",
+    "tags": [
+      "chest",
+      "armor"
+    ],
+    "value": {
+      "bin": 10,
+      "store": 100
+    }
+  }
+}

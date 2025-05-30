@@ -1,0 +1,16 @@
+{
+  "id": "scrap_metal_ring",
+  "item": {
+    "description": "items/other/armor/scrap_metal_ring/description",
+    "name": "items/other/armor/scrap_metal_ring/name",
+    "icon_sprite": "spr_ui_item_equipment_scrap_metal_ring",
+    "tags": [
+      "armor",
+      "accessory"
+    ],
+    "value": {
+      "bin": 100,
+      "store": 200
+    }
+  }
+}

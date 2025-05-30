@@ -1,0 +1,15 @@
+{
+  "id": "garlic",
+  "item": {
+    "description": "items/other/crops_and_forage/garlic/description",
+    "name": "items/other/crops_and_forage/garlic/name",
+    "icon_sprite": "spr_ui_item_garlic",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 120
+    }
+  }
+}

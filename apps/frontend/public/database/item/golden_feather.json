@@ -1,0 +1,19 @@
+{
+  "id": "golden_feather",
+  "item": {
+    "description": "items/other/ranching/golden_feather/description",
+    "name": "items/other/ranching/golden_feather/name",
+    "icon_sprite": "spr_ui_item_chicken_feather_gold",
+    "tags": [
+      "ranching",
+      "feather",
+      "animal_fibre",
+      "animal_harvest",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 180,
+      "store": 360
+    }
+  }
+}

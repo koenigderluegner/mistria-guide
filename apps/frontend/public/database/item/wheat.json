@@ -1,0 +1,15 @@
+{
+  "id": "wheat",
+  "item": {
+    "description": "items/other/crops_and_forage/wheat/description",
+    "name": "items/other/crops_and_forage/wheat/name",
+    "icon_sprite": "spr_ui_item_wheat",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 150,
+      "store": 450
+    }
+  }
+}

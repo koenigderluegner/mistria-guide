@@ -1,0 +1,40 @@
+{
+  "id": "big_bell",
+  "item": {
+    "description": "items/furniture/automation_set/big_bell/description",
+    "name": "items/furniture/automation_set/big_bell/name",
+    "icon_sprite": "spr_ui_item_big_bell",
+    "tags": [
+      "furniture",
+      "automation"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "copper_ingot"
+        },
+        {
+          "count": 5,
+          "item": "iron_ingot"
+        },
+        {
+          "count": 5,
+          "item": "silver_ingot"
+        },
+        {
+          "count": 10,
+          "item": "hard_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

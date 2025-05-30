@@ -1,0 +1,32 @@
+{
+  "id": "berries_and_cream",
+  "item": {
+    "description": "items/other/cooked_dishes/berries_and_cream/description",
+    "name": "items/other/cooked_dishes/berries_and_cream/name",
+    "icon_sprite": "spr_ui_item_berriesandcream",
+    "tags": [
+      "food",
+      "hand_crafted_dessert"
+    ],
+    "value": {
+      "store": 120
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 6,
+          "item": "wild_berries"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "vegetable_soup",
+  "item": {
+    "description": "items/other/cooked_dishes/vegetable_soup/description",
+    "name": "items/other/cooked_dishes/vegetable_soup/name",
+    "icon_sprite": "spr_ui_item_vegetablesoup",
+    "tags": [
+      "food",
+      "soup",
+      "drink_sound",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 380
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "potato"
+        },
+        {
+          "count": 1,
+          "item": "tomato"
+        },
+        {
+          "count": 1,
+          "item": "basil"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

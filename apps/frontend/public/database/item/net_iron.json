@@ -1,0 +1,30 @@
+{
+  "id": "net_iron",
+  "item": {
+    "description": "items/other/blacksmithing/net_iron/description",
+    "name": "items/other/blacksmithing/net_iron/name",
+    "icon_sprite": "spr_ui_item_tool_iron_net",
+    "tags": [
+      "net",
+      "blacksmithing",
+      "tool"
+    ],
+    "value": {
+      "bin": 725,
+      "store": 2000
+    },
+    "recipe": {
+      "level_requirement": 10,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "iron_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

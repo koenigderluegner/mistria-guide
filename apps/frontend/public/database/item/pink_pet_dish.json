@@ -1,0 +1,12 @@
+{
+  "id": "pink_pet_dish",
+  "item": {
+    "description": "items/furniture/pet_set/pink_pet_dish/description",
+    "name": "items/furniture/pet_set/pink_pet_dish/name",
+    "icon_sprite": "spr_ui_item_decor_pink_pet_dish",
+    "value": {
+      "bin": 250,
+      "store": 500
+    }
+  }
+}

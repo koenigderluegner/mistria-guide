@@ -1,0 +1,34 @@
+{
+  "id": "haunted_attic_candle_cluster",
+  "item": {
+    "description": "items/furniture/haunted_attic_set/haunted_attic_candle_cluster/description",
+    "name": "items/furniture/haunted_attic_set/haunted_attic_candle_cluster/name",
+    "icon_sprite": "spr_ui_item_furniture_haunted_attic_candle_3",
+    "tags": [
+      "furniture",
+      "table_lighting",
+      "haunted_attic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 300
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "peat"
+        },
+        {
+          "count": 1,
+          "item": "oil"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cow_donut",
+  "item": {
+    "description": "items/other/festivals/cow_donut/description",
+    "name": "items/other/festivals/cow_donut/name",
+    "icon_sprite": "spr_ui_item_cow_donut",
+    "value": {
+      "bin": 300,
+      "store": 600
+    }
+  }
+}

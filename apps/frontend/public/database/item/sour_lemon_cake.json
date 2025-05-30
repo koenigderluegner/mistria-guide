@@ -1,0 +1,37 @@
+{
+  "id": "sour_lemon_cake",
+  "item": {
+    "description": "items/other/cooked_dishes/sour_lemon_cake/description",
+    "name": "items/other/cooked_dishes/sour_lemon_cake/name",
+    "icon_sprite": "spr_ui_item_sourlemoncake",
+    "tags": [
+      "food",
+      "baked_dessert",
+      "citrus"
+    ],
+    "value": {
+      "store": 500
+    },
+    "recipe": {
+      "level_requirement": 18,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "lemon"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

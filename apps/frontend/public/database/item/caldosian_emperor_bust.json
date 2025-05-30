@@ -1,0 +1,15 @@
+{
+  "id": "caldosian_emperor_bust",
+  "item": {
+    "description": "items/other/artifacts/caldosian_emperor_bust/description",
+    "name": "items/other/artifacts/caldosian_emperor_bust/name",
+    "icon_sprite": "spr_ui_item_caldosian_emperor_bust",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

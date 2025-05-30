@@ -1,0 +1,15 @@
+{
+  "id": "heart_shaped_cow_treat",
+  "item": {
+    "description": "items/other/ranching/heart_shaped_cow_treat/description",
+    "name": "items/other/ranching/heart_shaped_cow_treat/name",
+    "icon_sprite": "spr_ui_item_animal_treat_cow",
+    "tags": [
+      "cow_treat",
+      "weird_gift"
+    ],
+    "value": {
+      "store": 300
+    }
+  }
+}

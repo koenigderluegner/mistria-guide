@@ -1,0 +1,14 @@
+{
+  "id": "red_duck_wall_ribbon",
+  "item": {
+    "description": "items/other/festivals/red_duck_wall_ribbon/description",
+    "name": "items/other/festivals/red_duck_wall_ribbon/name",
+    "icon_sprite": "spr_ui_item_decor_red_duck_ribbon",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 100
+    }
+  }
+}

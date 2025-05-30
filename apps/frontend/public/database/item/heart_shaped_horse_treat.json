@@ -1,0 +1,15 @@
+{
+  "id": "heart_shaped_horse_treat",
+  "item": {
+    "description": "items/other/ranching/heart_shaped_horse_treat/description",
+    "name": "items/other/ranching/heart_shaped_horse_treat/name",
+    "icon_sprite": "spr_ui_item_animal_treat_horse",
+    "tags": [
+      "horse_treat",
+      "weird_gift"
+    ],
+    "value": {
+      "store": 390
+    }
+  }
+}

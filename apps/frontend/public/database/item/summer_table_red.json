@@ -1,0 +1,37 @@
+{
+  "id": "summer_table_red",
+  "item": {
+    "description": "items/furniture/summer_set/summer_table_red/description",
+    "name": "items/furniture/summer_set/summer_table_red/name",
+    "icon_sprite": "spr_ui_item_furniture_summer_table_red",
+    "tags": [
+      "furniture",
+      "dining_table",
+      "summer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "silver_ingot"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

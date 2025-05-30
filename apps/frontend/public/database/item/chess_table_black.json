@@ -1,0 +1,29 @@
+{
+  "id": "chess_table_black",
+  "item": {
+    "description": "items/furniture/chess_set/chess_table_black/description",
+    "name": "items/furniture/chess_set/chess_table_black/name",
+    "icon_sprite": "spr_ui_item_furniture_chess_table_black",
+    "tags": [
+      "furniture",
+      "chess_decor_set",
+      "side_table"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 50,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

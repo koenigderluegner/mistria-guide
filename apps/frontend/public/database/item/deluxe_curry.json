@@ -1,0 +1,41 @@
+{
+  "id": "deluxe_curry",
+  "item": {
+    "description": "items/other/cooked_dishes/deluxe_curry/description",
+    "name": "items/other/cooked_dishes/deluxe_curry/name",
+    "icon_sprite": "spr_ui_item_deluxe_curry",
+    "tags": [
+      "food",
+      "simmered_dish",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 600
+    },
+    "recipe": {
+      "level_requirement": 24,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "potato"
+        },
+        {
+          "count": 1,
+          "item": "shrimp"
+        },
+        {
+          "count": 1,
+          "item": "curry_powder"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

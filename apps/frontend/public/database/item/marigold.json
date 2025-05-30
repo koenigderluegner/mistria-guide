@@ -1,0 +1,16 @@
+{
+  "id": "marigold",
+  "item": {
+    "description": "items/other/crops_and_forage/marigold/description",
+    "name": "items/other/crops_and_forage/marigold/name",
+    "icon_sprite": "spr_ui_item_marigold",
+    "tags": [
+      "flower",
+      "forageable"
+    ],
+    "value": {
+      "bin": 40,
+      "store": 160
+    }
+  }
+}

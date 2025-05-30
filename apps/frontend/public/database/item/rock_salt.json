@@ -1,0 +1,16 @@
+{
+  "id": "rock_salt",
+  "item": {
+    "description": "items/other/materials/rock_salt/description",
+    "name": "items/other/materials/rock_salt/name",
+    "icon_sprite": "spr_ui_item_rocksalt",
+    "tags": [
+      "pantry",
+      "material"
+    ],
+    "value": {
+      "bin": 25,
+      "store": 50
+    }
+  }
+}

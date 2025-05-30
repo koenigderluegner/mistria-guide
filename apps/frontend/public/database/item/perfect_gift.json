@@ -1,0 +1,10 @@
+{
+  "id": "perfect_gift",
+  "item": {
+    "description": "items/other/misc/perfect_gift/description",
+    "icon_sprite": "spr_ui_item_spectralgift",
+    "value": {
+      "bin": 1
+    }
+  }
+}

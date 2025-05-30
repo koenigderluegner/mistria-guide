@@ -1,0 +1,29 @@
+{
+  "id": "picket_fence",
+  "item": {
+    "description": "items/furniture/starter_farm_set/picket_fence/description",
+    "name": "items/furniture/starter_farm_set/picket_fence/name",
+    "icon_sprite": "spr_ui_item_fence_picket",
+    "tags": [
+      "furniture",
+      "fencing",
+      "starter_farm_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "hard_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

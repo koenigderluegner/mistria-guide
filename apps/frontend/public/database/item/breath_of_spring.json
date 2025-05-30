@@ -1,0 +1,12 @@
+{
+  "id": "breath_of_spring",
+  "item": {
+    "description": "items/other/festivals/breath_of_spring/description",
+    "name": "items/other/festivals/breath_of_spring/name",
+    "icon_sprite": "spr_ui_item_breath_of_spring",
+    "tags": [
+      "flower",
+      "forageable"
+    ]
+  }
+}

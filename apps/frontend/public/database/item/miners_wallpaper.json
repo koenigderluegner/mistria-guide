@@ -1,0 +1,37 @@
+{
+  "id": "miners_wallpaper",
+  "item": {
+    "description": "items/furniture/mineshaft_set/miners_wallpaper/description",
+    "name": "items/furniture/mineshaft_set/miners_wallpaper/name",
+    "icon_sprite": "spr_ui_item_furniture_mines_wallpaper",
+    "tags": [
+      "furniture",
+      "mineshaft_set",
+      "wallpaper"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "ore_stone"
+        },
+        {
+          "count": 5,
+          "item": "sod"
+        },
+        {
+          "count": 5,
+          "item": "paper"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

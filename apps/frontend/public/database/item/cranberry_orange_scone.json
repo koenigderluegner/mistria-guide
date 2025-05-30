@@ -1,0 +1,42 @@
+{
+  "id": "cranberry_orange_scone",
+  "item": {
+    "description": "items/other/cooked_dishes/cranberry_orange_scone/description",
+    "name": "items/other/cooked_dishes/cranberry_orange_scone/name",
+    "icon_sprite": "spr_ui_item_cranberry_orange_scone",
+    "tags": [
+      "food",
+      "baked_dessert",
+      "adept",
+      "citrus"
+    ],
+    "value": {
+      "store": 900
+    },
+    "recipe": {
+      "level_requirement": 36,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "orange"
+        },
+        {
+          "count": 1,
+          "item": "cranberry"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

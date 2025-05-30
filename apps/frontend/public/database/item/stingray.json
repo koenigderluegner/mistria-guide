@@ -1,0 +1,31 @@
+{
+  "id": "stingray",
+  "item": {
+    "description": "items/fish/ocean/stingray/description",
+    "name": "items/fish/ocean/stingray/name",
+    "icon_sprite": "spr_ui_item_fish_medium_stingray",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 40
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "summer"
+    ],
+    "water_type": "ocean",
+    "weather": false,
+    "locations": false,
+    "size": "medium",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

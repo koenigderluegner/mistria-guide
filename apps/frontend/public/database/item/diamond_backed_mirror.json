@@ -1,0 +1,15 @@
+{
+  "id": "diamond_backed_mirror",
+  "item": {
+    "description": "items/other/artifacts/diamond_backed_mirror/description",
+    "name": "items/other/artifacts/diamond_backed_mirror/name",
+    "icon_sprite": "spr_ui_item_diamond_backed_mirror",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

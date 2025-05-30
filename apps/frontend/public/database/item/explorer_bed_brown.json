@@ -1,0 +1,41 @@
+{
+  "id": "explorer_bed_brown",
+  "item": {
+    "description": "items/furniture/explorer_set/explorer_bed_brown/description",
+    "name": "items/furniture/explorer_set/explorer_bed_brown/name",
+    "icon_sprite": "spr_ui_item_furniture_explorer_bed_brown",
+    "tags": [
+      "furniture",
+      "single_bed",
+      "explorer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 40,
+          "item": "basic_wood"
+        },
+        {
+          "count": 2,
+          "item": "rabbit_wool"
+        },
+        {
+          "count": 1,
+          "item": "bull_horn"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

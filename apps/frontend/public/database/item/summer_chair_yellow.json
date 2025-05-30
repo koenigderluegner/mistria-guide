@@ -1,0 +1,33 @@
+{
+  "id": "summer_chair_yellow",
+  "item": {
+    "description": "items/furniture/summer_set/summer_chair_yellow/description",
+    "name": "items/furniture/summer_set/summer_chair_yellow/name",
+    "icon_sprite": "spr_ui_item_furniture_summer_chair_yellow",
+    "tags": [
+      "furniture",
+      "accent_chair",
+      "summer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        },
+        {
+          "count": 2,
+          "item": "duck_feather"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

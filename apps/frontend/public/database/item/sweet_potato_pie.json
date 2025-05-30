@@ -1,0 +1,37 @@
+{
+  "id": "sweet_potato_pie",
+  "item": {
+    "description": "items/other/cooked_dishes/sweet_potato_pie/description",
+    "name": "items/other/cooked_dishes/sweet_potato_pie/name",
+    "icon_sprite": "spr_ui_item_sweet_potato_pie",
+    "tags": [
+      "food",
+      "baked_dessert",
+      "inn_plate"
+    ],
+    "value": {
+      "store": 380
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "sweet_potato"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

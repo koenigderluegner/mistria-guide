@@ -1,0 +1,45 @@
+{
+  "id": "loam_caterpillar",
+  "item": {
+    "description": "items/other/bugs/loam_caterpillar/description",
+    "name": "items/other/bugs/loam_caterpillar/name",
+    "icon_sprite": "spr_ui_item_insect_loam_caterpillar",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 35
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_loam_caterpillar_entity_idle",
+    "move_sprite": "spr_insect_loam_caterpillar_entity_move",
+    "has_light": false,
+    "spawn": [
+      "canopy",
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "locations": [
+      "deep_woods"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

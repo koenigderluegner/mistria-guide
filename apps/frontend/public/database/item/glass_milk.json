@@ -1,0 +1,33 @@
+{
+  "id": "glass_milk",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/glass_milk/description",
+    "name": "items/furniture/tabletop_clutter_set/glass_milk/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_glass_milk",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "glass"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

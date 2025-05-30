@@ -1,0 +1,42 @@
+{
+  "id": "icehopper",
+  "item": {
+    "description": "items/other/bugs/icehopper/description",
+    "name": "items/other/bugs/icehopper/name",
+    "icon_sprite": "spr_ui_item_insect_icehopper",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "bug": {
+    "type": "jump",
+    "has_light": false,
+    "spawn": [
+      "default",
+      "grass"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

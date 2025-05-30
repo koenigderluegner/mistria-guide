@@ -1,0 +1,25 @@
+{
+  "id": "net_mistril",
+  "item": {
+    "description": "items/other/blacksmithing/net_mistril/description",
+    "name": "items/other/blacksmithing/net_mistril/name",
+    "icon_sprite": "spr_ui_item_tool_mistril_net",
+    "value": {
+      "bin": 1450,
+      "store": 5000
+    },
+    "recipe": {
+      "level_requirement": 28,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "mistril_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

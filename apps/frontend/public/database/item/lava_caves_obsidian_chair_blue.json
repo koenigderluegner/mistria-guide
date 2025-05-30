@@ -1,0 +1,41 @@
+{
+  "id": "lava_caves_obsidian_chair_blue",
+  "item": {
+    "description": "items/furniture/lava_cave_set/lava_caves_obsidian_chair_blue/description",
+    "name": "items/furniture/lava_cave_set/lava_caves_obsidian_chair_blue/name",
+    "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_chair_blue",
+    "tags": [
+      "furniture",
+      "dining_chair",
+      "lava_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 26,
+      "ingredients": [
+        {
+          "count": 19,
+          "item": "obsidian"
+        },
+        {
+          "count": 10,
+          "item": "hard_wood"
+        },
+        {
+          "count": 5,
+          "item": "refined_stone"
+        },
+        {
+          "count": 4,
+          "item": "ore_gold"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

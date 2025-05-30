@@ -1,0 +1,15 @@
+{
+  "id": "faceted_rock_gem",
+  "item": {
+    "description": "items/mines/deep_earth/faceted_rock_gem/description",
+    "name": "items/mines/deep_earth/faceted_rock_gem/name",
+    "icon_sprite": "spr_ui_item_faceted_rock_gem",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "red_wine",
+  "item": {
+    "description": "items/other/cooked_dishes/red_wine/description",
+    "name": "items/other/cooked_dishes/red_wine/name",
+    "icon_sprite": "spr_ui_item_red_wine",
+    "tags": [
+      "drink_sound",
+      "drink",
+      "alcohol"
+    ],
+    "value": {
+      "bin": 50,
+      "store": 100
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "candied_lemon_peel",
+  "item": {
+    "description": "items/other/cooked_dishes/candied_lemon_peel/description",
+    "name": "items/other/cooked_dishes/candied_lemon_peel/name",
+    "icon_sprite": "spr_ui_item_candied_lemon_peel",
+    "tags": [
+      "food",
+      "candy",
+      "citrus"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "lemon"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fire_crystal",
+  "item": {
+    "description": "items/mines/lava_caves/fire_crystal/description",
+    "name": "items/mines/lava_caves/fire_crystal/name",
+    "icon_sprite": "spr_ui_item_fire_crystal",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 10
+    }
+  }
+}

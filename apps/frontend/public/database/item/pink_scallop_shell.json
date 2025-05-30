@@ -1,0 +1,17 @@
+{
+  "id": "pink_scallop_shell",
+  "item": {
+    "description": "items/fish/misc/pink_scallop_shell/description",
+    "name": "items/fish/misc/pink_scallop_shell/name",
+    "icon_sprite": "spr_ui_item_shell_pink_scallop",
+    "tags": [
+      "dive",
+      "forageable",
+      "material"
+    ],
+    "value": {
+      "bin": 20,
+      "store": 60
+    }
+  }
+}

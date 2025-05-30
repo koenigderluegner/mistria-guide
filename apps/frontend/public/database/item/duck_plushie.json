@@ -1,0 +1,14 @@
+{
+  "id": "duck_plushie",
+  "item": {
+    "description": "items/other/festivals/duck_plushie/description",
+    "name": "items/other/festivals/duck_plushie/name",
+    "icon_sprite": "spr_ui_item_decor_duck_plushie",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 100
+    }
+  }
+}

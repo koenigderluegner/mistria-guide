@@ -1,0 +1,38 @@
+{
+  "id": "basic_dresser_oak",
+  "item": {
+    "description": "items/furniture/basic_set/basic_dresser_oak/description",
+    "name": "items/furniture/basic_set/basic_dresser_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_basic_dresser_v1",
+    "tags": [
+      "furniture",
+      "drawer",
+      "basic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 150
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "ore_stone"
+        },
+        {
+          "count": 2,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

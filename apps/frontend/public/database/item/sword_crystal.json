@@ -1,0 +1,16 @@
+{
+  "id": "sword_crystal",
+  "item": {
+    "description": "items/other/blacksmithing/sword_crystal/description",
+    "name": "items/other/blacksmithing/sword_crystal/name",
+    "icon_sprite": "spr_ui_item_tool_crystal_sword",
+    "tags": [
+      "sword",
+      "weapon"
+    ],
+    "value": {
+      "bin": 850,
+      "store": 2000
+    }
+  }
+}

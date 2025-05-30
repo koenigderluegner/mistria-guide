@@ -1,0 +1,40 @@
+{
+  "id": "hummingbird_hawk_moth",
+  "item": {
+    "description": "items/other/bugs/hummingbird_hawk_moth/description",
+    "name": "items/other/bugs/hummingbird_hawk_moth/name",
+    "icon_sprite": "spr_ui_item_insect_hummingbirdhawkmoth",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 20
+    }
+  },
+  "bug": {
+    "type": "fly",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

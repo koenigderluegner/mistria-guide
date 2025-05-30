@@ -1,0 +1,31 @@
+{
+  "id": "gold_legplates",
+  "item": {
+    "description": "items/other/armor/gold_legplates/description",
+    "name": "items/other/armor/gold_legplates/name",
+    "icon_sprite": "spr_ui_item_equipment_gold_pants",
+    "tags": [
+      "legs",
+      "armor",
+      "blacksmithing",
+      "gold_armor"
+    ],
+    "value": {
+      "bin": 1215,
+      "store": 4000
+    },
+    "recipe": {
+      "level_requirement": 24,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "gold_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

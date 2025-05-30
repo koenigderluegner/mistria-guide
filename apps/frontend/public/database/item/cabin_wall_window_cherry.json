@@ -1,0 +1,38 @@
+{
+  "id": "cabin_wall_window_cherry",
+  "item": {
+    "description": "items/furniture/rustic_cabin_set/cabin_wall_window_cherry/description",
+    "name": "items/furniture/rustic_cabin_set/cabin_wall_window_cherry/name",
+    "icon_sprite": "spr_ui_item_furniture_cabin_wall_window_v1",
+    "tags": [
+      "furniture",
+      "window",
+      "rustic_cabin_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 350
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 15,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "copper_ingot"
+        },
+        {
+          "count": 5,
+          "item": "glass"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

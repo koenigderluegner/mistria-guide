@@ -1,0 +1,16 @@
+{
+  "id": "cloth_pants",
+  "item": {
+    "description": "items/other/armor/cloth_pants/description",
+    "name": "items/other/armor/cloth_pants/name",
+    "icon_sprite": "spr_ui_item_equipment_cloth_pants",
+    "tags": [
+      "legs",
+      "armor"
+    ],
+    "value": {
+      "bin": 10,
+      "store": 100
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "adept_kitchen",
+  "item": {
+    "description": "items/other/misc/adept_kitchen/description",
+    "name": "items/other/misc/adept_kitchen/name",
+    "icon_sprite": "spr_ui_item_kitchen_tier_3",
+    "value": {
+      "bin": 1500
+    }
+  }
+}

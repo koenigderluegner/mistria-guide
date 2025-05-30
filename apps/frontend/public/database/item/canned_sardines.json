@@ -1,0 +1,33 @@
+{
+  "id": "canned_sardines",
+  "item": {
+    "description": "items/other/cooked_dishes/canned_sardines/description",
+    "name": "items/other/cooked_dishes/canned_sardines/name",
+    "icon_sprite": "spr_ui_item_cannedsardines",
+    "tags": [
+      "food",
+      "snack",
+      "fishy"
+    ],
+    "value": {
+      "store": 150
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "sardine"
+        },
+        {
+          "count": 1,
+          "item": "rock_salt"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "starter_shipping_box",
+  "item": {
+    "description": "items/furniture/starter_farm_set/starter_shipping_box/description",
+    "name": "items/furniture/starter_farm_set/starter_shipping_box/name",
+    "icon_sprite": "spr_ui_item_basic_misc_shipping_bin",
+    "tags": [
+      "furniture",
+      "chest_and_storage",
+      "starter_farm_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 500
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 100,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

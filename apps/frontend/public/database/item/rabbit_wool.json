@@ -1,0 +1,19 @@
+{
+  "id": "rabbit_wool",
+  "item": {
+    "description": "items/other/ranching/rabbit_wool/description",
+    "name": "items/other/ranching/rabbit_wool/name",
+    "icon_sprite": "spr_ui_item_rabbit_hair_regular",
+    "tags": [
+      "ranching",
+      "wool",
+      "animal_fibre",
+      "animal_harvest",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 90,
+      "store": 360
+    }
+  }
+}

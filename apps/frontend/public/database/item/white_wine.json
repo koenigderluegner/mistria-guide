@@ -1,0 +1,17 @@
+{
+  "id": "white_wine",
+  "item": {
+    "description": "items/other/cooked_dishes/white_wine/description",
+    "name": "items/other/cooked_dishes/white_wine/name",
+    "icon_sprite": "spr_ui_item_white_wine",
+    "tags": [
+      "drink_sound",
+      "drink",
+      "alcohol"
+    ],
+    "value": {
+      "bin": 50,
+      "store": 100
+    }
+  }
+}

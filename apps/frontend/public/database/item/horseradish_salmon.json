@@ -1,0 +1,41 @@
+{
+  "id": "horseradish_salmon",
+  "item": {
+    "description": "items/other/cooked_dishes/horseradish_salmon/description",
+    "name": "items/other/cooked_dishes/horseradish_salmon/name",
+    "icon_sprite": "spr_ui_item_horseradish_salmon",
+    "tags": [
+      "food",
+      "fried_dish",
+      "fishy"
+    ],
+    "value": {
+      "store": 380
+    },
+    "recipe": {
+      "level_requirement": 28,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "salmon"
+        },
+        {
+          "count": 1,
+          "item": "horseradish"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "oil"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

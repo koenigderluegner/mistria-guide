@@ -1,0 +1,48 @@
+{
+  "id": "fried_rice",
+  "item": {
+    "description": "items/other/cooked_dishes/fried_rice/description",
+    "name": "items/other/cooked_dishes/fried_rice/name",
+    "icon_sprite": "spr_ui_item_fried_rice",
+    "tags": [
+      "food",
+      "sauteed_dish"
+    ],
+    "value": {
+      "store": 1200
+    },
+    "recipe": {
+      "level_requirement": 40,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "rice"
+        },
+        {
+          "count": 1,
+          "item": "egg"
+        },
+        {
+          "count": 1,
+          "item": "carrot"
+        },
+        {
+          "count": 1,
+          "item": "peas"
+        },
+        {
+          "count": 1,
+          "item": "water_chestnut"
+        },
+        {
+          "count": 1,
+          "item": "soy_sauce"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

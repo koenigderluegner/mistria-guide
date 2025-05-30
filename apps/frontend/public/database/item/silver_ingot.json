@@ -1,0 +1,29 @@
+{
+  "id": "silver_ingot",
+  "item": {
+    "description": "items/other/blacksmithing/silver_ingot/description",
+    "name": "items/other/blacksmithing/silver_ingot/name",
+    "icon_sprite": "spr_ui_item_silver_ingot",
+    "tags": [
+      "ingot",
+      "blacksmithing"
+    ],
+    "value": {
+      "bin": 220,
+      "store": 500
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "ore_silver"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

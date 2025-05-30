@@ -1,0 +1,15 @@
+{
+  "id": "basil",
+  "item": {
+    "description": "items/other/crops_and_forage/basil/description",
+    "name": "items/other/crops_and_forage/basil/name",
+    "icon_sprite": "spr_ui_item_basil",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 120
+    }
+  }
+}

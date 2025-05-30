@@ -1,0 +1,33 @@
+{
+  "id": "bathroom_curtain_stand_brown",
+  "item": {
+    "description": "items/furniture/bathroom_furniture_set/bathroom_curtain_stand_brown/description",
+    "name": "items/furniture/bathroom_furniture_set/bathroom_curtain_stand_brown/name",
+    "icon_sprite": "spr_ui_item_furniture_bathroom_curtain_stand_brown",
+    "tags": [
+      "furniture",
+      "misc_furniture",
+      "bathroom_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 36,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "hard_wood"
+        },
+        {
+          "count": 2,
+          "item": "rabbit_wool"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

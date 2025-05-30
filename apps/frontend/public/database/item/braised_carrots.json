@@ -1,0 +1,28 @@
+{
+  "id": "braised_carrots",
+  "item": {
+    "description": "items/other/cooked_dishes/braised_carrots/description",
+    "name": "items/other/cooked_dishes/braised_carrots/name",
+    "icon_sprite": "spr_ui_item_braised_carrots",
+    "tags": [
+      "food",
+      "greens"
+    ],
+    "value": {
+      "store": 180
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "carrot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "crop_sign_pomegranate",
+  "item": {
+    "description": "items/furniture/crop_signs_set/crop_sign_pomegranate/description",
+    "name": "items/furniture/crop_signs_set/crop_sign_pomegranate/name",
+    "icon_sprite": "spr_ui_item_crop_sign_pomegranate",
+    "tags": [
+      "furniture",
+      "winter_sign_set",
+      "crop_signs"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 250
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "pomegranate"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

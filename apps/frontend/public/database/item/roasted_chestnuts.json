@@ -1,0 +1,28 @@
+{
+  "id": "roasted_chestnuts",
+  "item": {
+    "description": "items/other/cooked_dishes/roasted_chestnuts/description",
+    "name": "items/other/cooked_dishes/roasted_chestnuts/name",
+    "icon_sprite": "spr_ui_item_roasted_chestnuts",
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "value": {
+      "store": 100
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "chestnut"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

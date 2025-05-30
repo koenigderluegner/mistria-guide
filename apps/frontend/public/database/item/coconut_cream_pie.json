@@ -1,0 +1,44 @@
+{
+  "id": "coconut_cream_pie",
+  "item": {
+    "description": "items/other/cooked_dishes/coconut_cream_pie/description",
+    "name": "items/other/cooked_dishes/coconut_cream_pie/name",
+    "icon_sprite": "spr_ui_item_coconut_cream_pie",
+    "tags": [
+      "food",
+      "baked_dessert"
+    ],
+    "value": {
+      "store": 1100
+    },
+    "recipe": {
+      "level_requirement": 38,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "coconut"
+        },
+        {
+          "count": 1,
+          "item": "coconut_milk"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

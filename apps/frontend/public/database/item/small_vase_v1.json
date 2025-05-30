@@ -1,0 +1,33 @@
+{
+  "id": "small_vase_v1",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/small_vase_v1/description",
+    "name": "items/furniture/tabletop_clutter_set/small_vase_v1/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_small_vase_v1",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 10,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "clay"
+        },
+        {
+          "count": 1,
+          "item": "small_grass_starter"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

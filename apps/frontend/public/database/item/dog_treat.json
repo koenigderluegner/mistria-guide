@@ -1,0 +1,31 @@
+{
+  "id": "dog_treat",
+  "item": {
+    "description": "items/other/ranching/dog_treat/description",
+    "name": "items/other/ranching/dog_treat/name",
+    "icon_sprite": "spr_ui_item_animal_treat_dog",
+    "tags": [
+      "cat_treat",
+      "weird_gift",
+      "milling",
+      "animal_feed",
+      "milled_animal_feed"
+    ],
+    "value": {
+      "bin": 50,
+      "store": 100
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "item": "trout",
+          "count": 1
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sweet_potato",
+  "item": {
+    "description": "items/other/crops_and_forage/sweet_potato/description",
+    "name": "items/other/crops_and_forage/sweet_potato/name",
+    "icon_sprite": "spr_ui_item_sweet_potato",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 40,
+      "store": 160
+    }
+  }
+}

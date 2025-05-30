@@ -1,0 +1,32 @@
+{
+  "id": "summit_wallpaper_v2",
+  "item": {
+    "description": "items/furniture/no_set/summit_wallpaper_v2/description",
+    "name": "items/furniture/no_set/summit_wallpaper_v2/name",
+    "icon_sprite": "spr_ui_item_furniture_summit_wallpaper_v2",
+    "tags": [
+      "furniture",
+      "wallpaper"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "paper"
+        },
+        {
+          "count": 3,
+          "item": "essence_drop"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

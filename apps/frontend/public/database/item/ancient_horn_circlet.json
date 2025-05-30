@@ -1,0 +1,15 @@
+{
+  "id": "ancient_horn_circlet",
+  "item": {
+    "description": "items/other/artifacts/ancient_horn_circlet/description",
+    "name": "items/other/artifacts/ancient_horn_circlet/name",
+    "icon_sprite": "spr_ui_item_ancient_horn_circlet",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

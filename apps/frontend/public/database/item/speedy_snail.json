@@ -1,0 +1,44 @@
+{
+  "id": "speedy_snail",
+  "item": {
+    "description": "items/other/bugs/speedy_snail/description",
+    "name": "items/other/bugs/speedy_snail/name",
+    "icon_sprite": "spr_ui_item_insect_speedysnail",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 30
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "inclement",
+      "calm",
+      "special"
+    ],
+    "rarity": "very_rare",
+    "liked_object_categories": [
+      "rock",
+      "crop",
+      "stump",
+      "breakable"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

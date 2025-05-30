@@ -1,0 +1,15 @@
+{
+  "id": "heart_shaped_capybara_treat",
+  "item": {
+    "description": "items/other/ranching/heart_shaped_capybara_treat/description",
+    "name": "items/other/ranching/heart_shaped_capybara_treat/name",
+    "icon_sprite": "spr_ui_item_animal_treat_capybara",
+    "tags": [
+      "capybara_treat",
+      "weird_gift"
+    ],
+    "value": {
+      "store": 300
+    }
+  }
+}

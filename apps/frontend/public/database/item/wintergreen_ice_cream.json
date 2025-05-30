@@ -1,0 +1,40 @@
+{
+  "id": "wintergreen_ice_cream",
+  "item": {
+    "description": "items/other/cooked_dishes/wintergreen_ice_cream/description",
+    "name": "items/other/cooked_dishes/wintergreen_ice_cream/name",
+    "icon_sprite": "spr_ui_item_wintergreen_ice_cream",
+    "tags": [
+      "food",
+      "frozen_dessert"
+    ],
+    "value": {
+      "store": 270
+    },
+    "recipe": {
+      "level_requirement": 14,
+      "ingredients": [
+        {
+          "count": 8,
+          "item": "wintergreen_berry"
+        },
+        {
+          "count": 1,
+          "item": "ice_block"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

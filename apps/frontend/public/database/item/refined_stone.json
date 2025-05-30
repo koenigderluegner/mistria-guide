@@ -1,0 +1,28 @@
+{
+  "id": "refined_stone",
+  "item": {
+    "description": "items/other/materials/refined_stone/description",
+    "name": "items/other/materials/refined_stone/name",
+    "icon_sprite": "spr_ui_item_refined_stone",
+    "tags": [
+      "refined_material",
+      "material",
+      "ore"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "ore_stone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

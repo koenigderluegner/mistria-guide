@@ -1,0 +1,33 @@
+{
+  "id": "insect_wallpaper_v1",
+  "item": {
+    "description": "items/furniture/insect_set/insect_wallpaper_v1/description",
+    "name": "items/furniture/insect_set/insect_wallpaper_v1/name",
+    "icon_sprite": "spr_ui_item_furniture_insect_wallpaper_v1",
+    "tags": [
+      "furniture",
+      "insect_set",
+      "wallpaper"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "paper"
+        },
+        {
+          "count": 1,
+          "item": "lightning_dragonfly"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

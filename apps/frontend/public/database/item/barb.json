@@ -1,0 +1,31 @@
+{
+  "id": "barb",
+  "item": {
+    "description": "items/fish/pond/barb/description",
+    "name": "items/fish/pond/barb/name",
+    "icon_sprite": "spr_ui_item_fish_small_barb",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 40
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring"
+    ],
+    "water_type": "pond",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

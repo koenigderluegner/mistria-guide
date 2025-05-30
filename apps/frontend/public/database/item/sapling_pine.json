@@ -1,0 +1,29 @@
+{
+  "id": "sapling_pine",
+  "item": {
+    "description": "items/other/mill/sapling_pine/description",
+    "name": "items/other/mill/sapling_pine/name",
+    "icon_sprite": "spr_ui_item_pine_sapling",
+    "tags": [
+      "seed",
+      "milling",
+      "misc_mill",
+      "crop"
+    ],
+    "value": {
+      "bin": 10
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "item": "pinecone",
+          "count": 1
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "crystal_apple",
+  "item": {
+    "description": "items/other/artifacts/crystal_apple/description",
+    "name": "items/other/artifacts/crystal_apple/name",
+    "icon_sprite": "spr_ui_item_crystal_apple",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

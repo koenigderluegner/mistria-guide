@@ -1,0 +1,29 @@
+{
+  "id": "farm_house_calendar",
+  "item": {
+    "description": "items/furniture/starter_farm_set/farm_house_calendar/description",
+    "name": "items/furniture/starter_farm_set/farm_house_calendar/name",
+    "icon_sprite": "spr_ui_item_object_wall_calendar",
+    "tags": [
+      "furniture",
+      "calendar",
+      "starter_farm_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "paper"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

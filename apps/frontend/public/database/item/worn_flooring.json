@@ -1,0 +1,30 @@
+{
+  "id": "worn_flooring",
+  "item": {
+    "description": "items/furniture/default_worn_set/worn_flooring/description",
+    "name": "items/furniture/default_worn_set/worn_flooring/name",
+    "icon_sprite": "spr_ui_item_furniture_default_flooring_v1",
+    "tags": [
+      "furniture",
+      "wood_flooring",
+      "default_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 50
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

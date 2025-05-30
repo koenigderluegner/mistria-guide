@@ -1,0 +1,32 @@
+{
+  "id": "moon_gate_v3",
+  "item": {
+    "description": "items/furniture/no_set/moon_gate_v3/description",
+    "name": "items/furniture/no_set/moon_gate_v3/name",
+    "icon_sprite": "spr_ui_item_decor_moon_gate_v3",
+    "tags": [
+      "furniture",
+      "misc_outdoor_decor"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 10,
+      "ingredients": [
+        {
+          "count": 50,
+          "item": "ore_stone"
+        },
+        {
+          "count": 10,
+          "item": "clay"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

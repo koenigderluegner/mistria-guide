@@ -1,0 +1,31 @@
+{
+  "id": "iron_helmet",
+  "item": {
+    "description": "items/other/armor/iron_helmet/description",
+    "name": "items/other/armor/iron_helmet/name",
+    "icon_sprite": "spr_ui_item_equipment_iron_helmet",
+    "tags": [
+      "head",
+      "armor",
+      "blacksmithing",
+      "iron_armor"
+    ],
+    "value": {
+      "bin": 725,
+      "store": 2000
+    },
+    "recipe": {
+      "level_requirement": 12,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "iron_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

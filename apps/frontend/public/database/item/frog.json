@@ -1,0 +1,35 @@
+{
+  "id": "frog",
+  "item": {
+    "description": "items/fish/pond/frog/description",
+    "name": "items/fish/pond/frog/name",
+    "icon_sprite": "spr_ui_item_fish_small_frog",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 35
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "water_type": "pond",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "very_common",
+    "retrieval": [
+      "fishing",
+      "divespot"
+    ],
+    "is_chest": false,
+    "perk": []
+  }
+}

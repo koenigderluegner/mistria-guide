@@ -1,0 +1,15 @@
+{
+  "id": "heart_shaped_chicken_treat",
+  "item": {
+    "description": "items/other/ranching/heart_shaped_chicken_treat/description",
+    "name": "items/other/ranching/heart_shaped_chicken_treat/name",
+    "icon_sprite": "spr_ui_item_animal_treat_chicken",
+    "tags": [
+      "chicken_treat",
+      "weird_gift"
+    ],
+    "value": {
+      "store": 150
+    }
+  }
+}

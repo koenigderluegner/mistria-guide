@@ -1,0 +1,32 @@
+{
+  "id": "sauteed_snow_peas",
+  "item": {
+    "description": "items/other/cooked_dishes/sauteed_snow_peas/description",
+    "name": "items/other/cooked_dishes/sauteed_snow_peas/name",
+    "icon_sprite": "spr_ui_item_sauteed_snow_peas",
+    "tags": [
+      "food",
+      "greens"
+    ],
+    "value": {
+      "store": 175
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "snow_peas"
+        },
+        {
+          "count": 1,
+          "item": "water_chestnut"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

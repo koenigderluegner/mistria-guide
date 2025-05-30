@@ -1,0 +1,36 @@
+{
+  "id": "lemonade",
+  "item": {
+    "description": "items/other/cooked_dishes/lemonade/description",
+    "name": "items/other/cooked_dishes/lemonade/name",
+    "icon_sprite": "spr_ui_item_lemonade",
+    "tags": [
+      "food",
+      "drink",
+      "cold_drink",
+      "drink_sound",
+      "citrus",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "lemon"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

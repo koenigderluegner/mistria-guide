@@ -1,0 +1,33 @@
+{
+  "id": "mistria_history_book_v1",
+  "item": {
+    "description": "items/furniture/mistrian_history_set/mistria_history_book_v1/description",
+    "name": "items/furniture/mistrian_history_set/mistria_history_book_v1/name",
+    "icon_sprite": "spr_ui_item_decor_mistria_history_book",
+    "tags": [
+      "furniture",
+      "mistrian_history_set",
+      "misc_decor"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 12,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "paper"
+        },
+        {
+          "count": 5,
+          "item": "monster_powder"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

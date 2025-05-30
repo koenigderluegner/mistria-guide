@@ -1,0 +1,17 @@
+{
+  "id": "bucket_brew",
+  "item": {
+    "description": "items/other/cooked_dishes/bucket_brew/description",
+    "name": "items/other/cooked_dishes/bucket_brew/name",
+    "icon_sprite": "spr_ui_item_bucket_brew",
+    "tags": [
+      "drink_sound",
+      "drink",
+      "alcohol"
+    ],
+    "value": {
+      "bin": 50,
+      "store": 100
+    }
+  }
+}

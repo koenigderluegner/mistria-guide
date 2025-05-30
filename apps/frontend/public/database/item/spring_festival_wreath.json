@@ -1,0 +1,15 @@
+{
+  "id": "spring_festival_wreath",
+  "item": {
+    "description": "items/furniture/spring_festival_set/spring_festival_wreath/description",
+    "name": "items/furniture/spring_festival_set/spring_festival_wreath/name",
+    "icon_sprite": "spr_ui_item_decor_spring_festival_wreath",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 100,
+      "store": 200
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sapling_pomegranate",
+  "item": {
+    "description": "items/other/crops_and_forage/sapling_pomegranate/description",
+    "name": "items/other/crops_and_forage/sapling_pomegranate/name",
+    "icon_sprite": "spr_ui_item_pomegranate_sapling",
+    "tags": [
+      "seed"
+    ],
+    "value": {
+      "store": 400
+    }
+  }
+}

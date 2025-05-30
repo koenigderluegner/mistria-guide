@@ -1,0 +1,16 @@
+{
+  "id": "cloth_wristband",
+  "item": {
+    "description": "items/other/armor/cloth_wristband/description",
+    "name": "items/other/armor/cloth_wristband/name",
+    "icon_sprite": "spr_ui_item_equipment_cloth_wristband",
+    "tags": [
+      "accessory",
+      "armor"
+    ],
+    "value": {
+      "bin": 10,
+      "store": 100
+    }
+  }
+}

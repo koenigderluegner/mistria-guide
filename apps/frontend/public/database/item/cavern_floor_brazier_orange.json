@@ -1,0 +1,37 @@
+{
+  "id": "cavern_floor_brazier_orange",
+  "item": {
+    "description": "items/furniture/cavern_set/cavern_floor_brazier_orange/description",
+    "name": "items/furniture/cavern_set/cavern_floor_brazier_orange/name",
+    "icon_sprite": "spr_ui_item_furniture_floor_brazier_orange",
+    "tags": [
+      "furniture",
+      "cavern_set",
+      "floor_lighting"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 10,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "iron_ingot"
+        },
+        {
+          "count": 3,
+          "item": "peat"
+        },
+        {
+          "count": 2,
+          "item": "monster_core"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

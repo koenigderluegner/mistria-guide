@@ -1,0 +1,15 @@
+{
+  "id": "unknown_dragon_statuette",
+  "item": {
+    "description": "items/other/artifacts/unknown_dragon_statuette/description",
+    "name": "items/other/artifacts/unknown_dragon_statuette/name",
+    "icon_sprite": "spr_ui_item_unknown_dragon_statuette",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 125,
+      "renown": 20
+    }
+  }
+}

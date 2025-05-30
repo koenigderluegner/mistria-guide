@@ -1,0 +1,31 @@
+{
+  "id": "iron_greaves",
+  "item": {
+    "description": "items/other/armor/iron_greaves/description",
+    "name": "items/other/armor/iron_greaves/name",
+    "icon_sprite": "spr_ui_item_equipment_iron_boots",
+    "tags": [
+      "boots",
+      "armor",
+      "blacksmithing",
+      "iron_armor"
+    ],
+    "value": {
+      "bin": 725,
+      "store": 2000
+    },
+    "recipe": {
+      "level_requirement": 12,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "iron_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

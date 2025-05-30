@@ -1,0 +1,15 @@
+{
+  "id": "really_round_rock",
+  "item": {
+    "description": "items/mines/deep_earth/really_round_rock/description",
+    "name": "items/mines/deep_earth/really_round_rock/name",
+    "icon_sprite": "spr_ui_item_really_round_rock",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 40,
+      "renown": 5
+    }
+  }
+}

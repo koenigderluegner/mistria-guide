@@ -1,0 +1,17 @@
+{
+  "id": "hot_toddy",
+  "item": {
+    "description": "items/other/cooked_dishes/hot_toddy/description",
+    "name": "items/other/cooked_dishes/hot_toddy/name",
+    "icon_sprite": "spr_ui_item_hot_toddy",
+    "tags": [
+      "drink",
+      "drink_sound",
+      "alcohol"
+    ],
+    "value": {
+      "bin": 50,
+      "store": 150
+    }
+  }
+}

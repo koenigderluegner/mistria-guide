@@ -1,0 +1,45 @@
+{
+  "id": "lava_caves_obsidian_double_bed_blue",
+  "item": {
+    "description": "items/furniture/lava_cave_set/lava_caves_obsidian_double_bed_blue/description",
+    "name": "items/furniture/lava_cave_set/lava_caves_obsidian_double_bed_blue/name",
+    "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_double_bed_blue",
+    "tags": [
+      "furniture",
+      "double_bed",
+      "lava_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "obsidian"
+        },
+        {
+          "count": 25,
+          "item": "hard_wood"
+        },
+        {
+          "count": 15,
+          "item": "refined_stone"
+        },
+        {
+          "count": 6,
+          "item": "alpaca_wool"
+        },
+        {
+          "count": 6,
+          "item": "purple_mushroom"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "leaf_fish",
+  "item": {
+    "description": "items/fish/river/leaf_fish/description",
+    "name": "items/fish/river/leaf_fish/name",
+    "icon_sprite": "spr_ui_item_fish_small_leaf_fish",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 500
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "fall"
+    ],
+    "water_type": "river",
+    "weather": [
+      "special"
+    ],
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": true,
+    "rarity": "uncommon",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": [
+      "legendary"
+    ]
+  }
+}

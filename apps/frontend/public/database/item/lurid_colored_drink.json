@@ -1,0 +1,13 @@
+{
+  "id": "lurid_colored_drink",
+  "item": {
+    "description": "items/other/misc/lurid_colored_drink/description",
+    "icon_sprite": "spr_ui_item_lurid_colored_drink",
+    "tags": [
+      "drink_sound"
+    ],
+    "value": {
+      "bin": 1
+    }
+  }
+}

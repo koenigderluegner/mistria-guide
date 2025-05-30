@@ -1,0 +1,42 @@
+{
+  "id": "cabin_bed_walnut",
+  "item": {
+    "description": "items/furniture/rustic_cabin_set/cabin_bed_walnut/description",
+    "name": "items/furniture/rustic_cabin_set/cabin_bed_walnut/name",
+    "icon_sprite": "spr_ui_item_furniture_cabin_bed_v2",
+    "tags": [
+      "furniture",
+      "single_bed",
+      "rustic_cabin_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 600
+    },
+    "recipe": {
+      "level_requirement": 10,
+      "ingredients": [
+        {
+          "count": 40,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "cattail"
+        },
+        {
+          "count": 2,
+          "item": "feather"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

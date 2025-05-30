@@ -1,0 +1,14 @@
+{
+  "id": "rabbit_plushie",
+  "item": {
+    "description": "items/other/festivals/rabbit_plushie/description",
+    "name": "items/other/festivals/rabbit_plushie/name",
+    "icon_sprite": "spr_ui_item_decor_rabbit_plushie",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 100
+    }
+  }
+}

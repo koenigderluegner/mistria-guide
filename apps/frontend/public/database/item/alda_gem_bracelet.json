@@ -1,0 +1,15 @@
+{
+  "id": "alda_gem_bracelet",
+  "item": {
+    "description": "items/other/artifacts/alda_gem_bracelet/description",
+    "name": "items/other/artifacts/alda_gem_bracelet/name",
+    "icon_sprite": "spr_ui_item_alda_gem_bracelet",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 125,
+      "renown": 20
+    }
+  }
+}

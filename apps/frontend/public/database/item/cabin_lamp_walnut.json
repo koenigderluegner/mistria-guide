@@ -1,0 +1,38 @@
+{
+  "id": "cabin_lamp_walnut",
+  "item": {
+    "description": "items/furniture/rustic_cabin_set/cabin_lamp_walnut/description",
+    "name": "items/furniture/rustic_cabin_set/cabin_lamp_walnut/name",
+    "icon_sprite": "spr_ui_item_furniture_cabin_lamp_v2",
+    "tags": [
+      "furniture",
+      "table_lighting",
+      "rustic_cabin_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 400
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 15,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "copper_ingot"
+        },
+        {
+          "count": 1,
+          "item": "monster_core"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

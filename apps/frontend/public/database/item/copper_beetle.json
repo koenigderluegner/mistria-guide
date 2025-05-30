@@ -1,0 +1,42 @@
+{
+  "id": "copper_beetle",
+  "item": {
+    "description": "items/mines/upper_mines/copper_beetle/description",
+    "name": "items/mines/upper_mines/copper_beetle/name",
+    "icon_sprite": "spr_ui_item_insect_copper_beetle",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 30
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_copper_beetle_entity_idle",
+    "move_sprite": "spr_insect_copper_beetle_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "upper",
+    "attraction": "copper"
+  }
+}

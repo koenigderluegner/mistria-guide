@@ -10,9 +10,10 @@ export function writeFileToFrontendDatabase(
 ): void {
   const targetPath = environment.frontendDbPath;
 
-  createPathIfNotExists(targetPath);
-
   const filePath = path.join(targetPath, fileName);
+
+  const path1 = path.basename(filePath);
+  createPathIfNotExists(filePath.replace(path1, ''));
 
   fs.writeFileSync(
     filePath,

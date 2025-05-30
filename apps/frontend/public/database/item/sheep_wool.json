@@ -1,0 +1,19 @@
+{
+  "id": "sheep_wool",
+  "item": {
+    "description": "items/other/ranching/sheep_wool/description",
+    "name": "items/other/ranching/sheep_wool/name",
+    "icon_sprite": "spr_ui_item_sheep_wool_regular",
+    "tags": [
+      "ranching",
+      "wool",
+      "animal_fibre",
+      "animal_harvest",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 120,
+      "store": 480
+    }
+  }
+}

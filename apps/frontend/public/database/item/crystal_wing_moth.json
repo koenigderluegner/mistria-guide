@@ -1,0 +1,42 @@
+{
+  "id": "crystal_wing_moth",
+  "item": {
+    "description": "items/mines/deep_earth/crystal_wing_moth/description",
+    "name": "items/mines/deep_earth/crystal_wing_moth/name",
+    "icon_sprite": "spr_ui_item_insect_crystal_wing_moth",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 50
+    }
+  },
+  "bug": {
+    "type": "fly_wave",
+    "idle_sprite": "spr_insect_crystal_wing_moth_entity_idle",
+    "move_sprite": "spr_insect_crystal_wing_moth_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "rare",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "deep_earth",
+    "attraction": "none"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "roasted_rice_tea",
+  "item": {
+    "description": "items/other/cooked_dishes/roasted_rice_tea/description",
+    "name": "items/other/cooked_dishes/roasted_rice_tea/name",
+    "icon_sprite": "spr_ui_item_roasted_rice_tea",
+    "tags": [
+      "drink",
+      "hot_drink",
+      "drink_sound",
+      "food",
+      "caffeine"
+    ],
+    "value": {
+      "store": 360
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "green_tea"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

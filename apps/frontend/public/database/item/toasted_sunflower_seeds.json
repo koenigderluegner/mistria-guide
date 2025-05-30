@@ -1,0 +1,36 @@
+{
+  "id": "toasted_sunflower_seeds",
+  "item": {
+    "description": "items/other/cooked_dishes/toasted_sunflower_seeds/description",
+    "name": "items/other/cooked_dishes/toasted_sunflower_seeds/name",
+    "icon_sprite": "spr_ui_item_toasted_sunflower_seeds",
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "value": {
+      "store": 220
+    },
+    "recipe": {
+      "level_requirement": 12,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "sunflower"
+        },
+        {
+          "count": 1,
+          "item": "rock_salt"
+        },
+        {
+          "count": 1,
+          "item": "oil"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

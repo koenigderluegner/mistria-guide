@@ -1,0 +1,44 @@
+{
+  "id": "herb_salad",
+  "item": {
+    "description": "items/other/cooked_dishes/herb_salad/description",
+    "name": "items/other/cooked_dishes/herb_salad/name",
+    "icon_sprite": "spr_ui_item_herb_salad",
+    "tags": [
+      "food",
+      "salad"
+    ],
+    "value": {
+      "store": 600
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "sage"
+        },
+        {
+          "count": 1,
+          "item": "basil"
+        },
+        {
+          "count": 1,
+          "item": "thyme"
+        },
+        {
+          "count": 1,
+          "item": "oregano"
+        },
+        {
+          "count": 1,
+          "item": "dill"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

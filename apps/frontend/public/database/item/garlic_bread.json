@@ -1,0 +1,37 @@
+{
+  "id": "garlic_bread",
+  "item": {
+    "description": "items/other/cooked_dishes/garlic_bread/description",
+    "name": "items/other/cooked_dishes/garlic_bread/name",
+    "icon_sprite": "spr_ui_item_garlic_bread",
+    "tags": [
+      "chef",
+      "baked_dish",
+      "food"
+    ],
+    "value": {
+      "store": 400
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "bread"
+        },
+        {
+          "count": 1,
+          "item": "garlic"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

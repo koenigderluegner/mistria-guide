@@ -1,0 +1,30 @@
+{
+  "id": "pomegranate_juice",
+  "item": {
+    "description": "items/other/cooked_dishes/pomegranate_juice/description",
+    "name": "items/other/cooked_dishes/pomegranate_juice/name",
+    "icon_sprite": "spr_ui_item_pomegranate_juice",
+    "tags": [
+      "drink",
+      "drink_sound",
+      "cold_drink",
+      "food"
+    ],
+    "value": {
+      "store": 175
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "pomegranate"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

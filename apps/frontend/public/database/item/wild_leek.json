@@ -1,0 +1,15 @@
+{
+  "id": "wild_leek",
+  "item": {
+    "description": "items/other/crops_and_forage/wild_leek/description",
+    "name": "items/other/crops_and_forage/wild_leek/name",
+    "icon_sprite": "spr_ui_item_springonion",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 15,
+      "store": 60
+    }
+  }
+}

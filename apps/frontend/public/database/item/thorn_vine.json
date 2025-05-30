@@ -1,0 +1,15 @@
+{
+  "id": "thorn_vine",
+  "item": {
+    "description": "items/other/crops_and_forage/thorn_vine/description",
+    "name": "items/other/crops_and_forage/thorn_vine/name",
+    "icon_sprite": "spr_ui_item_thorn_vine",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 25,
+      "store": 100
+    }
+  }
+}

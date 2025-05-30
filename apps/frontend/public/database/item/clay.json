@@ -1,0 +1,52 @@
+{
+  "id": "clay",
+  "item": {
+    "description": "items/other/materials/clay/description",
+    "name": "items/other/materials/clay/name",
+    "icon_sprite": "spr_ui_item_clay",
+    "tags": [
+      "refined_material",
+      "material"
+    ],
+    "value": {
+      "bin": 5,
+      "store": 50
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "count": 6,
+          "item": "ore_stone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  },
+  "fish": {
+    "item": "clay",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "water_type": [
+      "river",
+      "pond"
+    ],
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "junk",
+    "retrieval": [
+      "divespot"
+    ],
+    "is_chest": false,
+    "perk": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tea_green",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/tea_green/description",
+    "name": "items/furniture/tabletop_clutter_set/tea_green/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_tea_green",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "clay"
+        },
+        {
+          "count": 1,
+          "item": "tea"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

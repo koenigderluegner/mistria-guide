@@ -1,0 +1,38 @@
+{
+  "id": "bakery_cake_slice_pastel",
+  "item": {
+    "description": "items/furniture/decor_bakery_set/bakery_cake_slice_pastel/description",
+    "name": "items/furniture/decor_bakery_set/bakery_cake_slice_pastel/name",
+    "icon_sprite": "spr_ui_item_decor_bakery_cake_slice_v1",
+    "tags": [
+      "furniture",
+      "kitchen_decor",
+      "bakery_decor_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 400
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "clay"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pinecone",
+  "item": {
+    "description": "items/other/crops_and_forage/pinecone/description",
+    "name": "items/other/crops_and_forage/pinecone/name",
+    "icon_sprite": "spr_ui_item_pinecone",
+    "tags": [
+      "forageable",
+      "junk"
+    ],
+    "value": {
+      "bin": 5,
+      "store": 25
+    }
+  }
+}

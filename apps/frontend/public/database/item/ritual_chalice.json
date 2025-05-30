@@ -1,0 +1,15 @@
+{
+  "id": "ritual_chalice",
+  "item": {
+    "description": "items/other/artifacts/ritual_chalice/description",
+    "name": "items/other/artifacts/ritual_chalice/name",
+    "icon_sprite": "spr_ui_item_ritual_chalice",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mermaids_comb",
+  "item": {
+    "description": "items/other/artifacts/mermaids_comb/description",
+    "name": "items/other/artifacts/mermaids_comb/name",
+    "icon_sprite": "spr_ui_item_mermaids_comb",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 20
+    }
+  },
+  "fish": {
+    "item": "unidentified_artifact",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "water_type": [
+      "ocean",
+      "river",
+      "pond"
+    ],
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": true,
+    "legendary": false,
+    "rarity": "artifact_divespots",
+    "retrieval": "divespot",
+    "is_chest": false,
+    "perk": [
+      "sunken_secrets"
+    ]
+  }
+}

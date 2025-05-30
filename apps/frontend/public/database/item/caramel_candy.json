@@ -1,0 +1,32 @@
+{
+  "id": "caramel_candy",
+  "item": {
+    "description": "items/other/cooked_dishes/caramel_candy/description",
+    "name": "items/other/cooked_dishes/caramel_candy/name",
+    "icon_sprite": "spr_ui_item_caramel_candy",
+    "tags": [
+      "food",
+      "candy"
+    ],
+    "value": {
+      "store": 220
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

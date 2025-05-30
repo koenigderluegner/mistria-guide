@@ -1,0 +1,31 @@
+{
+  "id": "net_copper",
+  "item": {
+    "description": "items/other/blacksmithing/net_copper/description",
+    "name": "items/other/blacksmithing/net_copper/name",
+    "icon_sprite": "spr_ui_item_tool_copper_net",
+    "tags": [
+      "net",
+      "blacksmithing",
+      "tool",
+      "copper_tool"
+    ],
+    "value": {
+      "bin": 480,
+      "store": 1000
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "copper_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

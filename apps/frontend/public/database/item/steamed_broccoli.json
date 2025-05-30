@@ -1,0 +1,28 @@
+{
+  "id": "steamed_broccoli",
+  "item": {
+    "description": "items/other/cooked_dishes/steamed_broccoli/description",
+    "name": "items/other/cooked_dishes/steamed_broccoli/name",
+    "icon_sprite": "spr_ui_item_steamed_broccoli",
+    "tags": [
+      "food",
+      "greens"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "broccoli"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "horse_plushie",
+  "item": {
+    "description": "items/other/festivals/horse_plushie/description",
+    "name": "items/other/festivals/horse_plushie/name",
+    "icon_sprite": "spr_ui_item_decor_horse_plushie",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 100
+    }
+  }
+}

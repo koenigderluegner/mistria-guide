@@ -1,0 +1,37 @@
+{
+  "id": "emerald_wallpaper_v2",
+  "item": {
+    "description": "items/furniture/emerald_set/emerald_wallpaper_v2/description",
+    "name": "items/furniture/emerald_set/emerald_wallpaper_v2/name",
+    "icon_sprite": "spr_ui_item_furniture_emerald_wallpaper_v2",
+    "tags": [
+      "furniture",
+      "wallpaper",
+      "emerald_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "paper"
+        },
+        {
+          "count": 5,
+          "item": "ore_emerald"
+        },
+        {
+          "count": 3,
+          "item": "gold_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "espresso",
+  "item": {
+    "description": "items/other/cooked_dishes/espresso/description",
+    "name": "items/other/cooked_dishes/espresso/name",
+    "icon_sprite": "spr_ui_item_espresso",
+    "tags": [
+      "drink_sound",
+      "drink",
+      "caffeine"
+    ],
+    "value": {
+      "bin": 10,
+      "store": 200
+    }
+  }
+}

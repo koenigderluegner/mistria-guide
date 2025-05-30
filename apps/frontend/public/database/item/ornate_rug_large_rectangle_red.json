@@ -1,0 +1,33 @@
+{
+  "id": "ornate_rug_large_rectangle_red",
+  "item": {
+    "description": "items/furniture/decor_ornate_rug_set/ornate_rug_large_rectangle_red/description",
+    "name": "items/furniture/decor_ornate_rug_set/ornate_rug_large_rectangle_red/name",
+    "icon_sprite": "spr_ui_item_decor_ornate_rug_large_rectangle_red",
+    "tags": [
+      "furniture",
+      "large_rug",
+      "ornate_rug_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "sheep_wool"
+        },
+        {
+          "count": 3,
+          "item": "ore_ruby"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

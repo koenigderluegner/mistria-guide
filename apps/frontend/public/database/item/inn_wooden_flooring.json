@@ -1,0 +1,14 @@
+{
+  "id": "inn_wooden_flooring",
+  "item": {
+    "description": "items/furniture/inn_set/inn_wooden_flooring/description",
+    "name": "items/furniture/inn_set/inn_wooden_flooring/name",
+    "icon_sprite": "spr_ui_item_furniture_inn_wooden_flooring",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "store": 500
+    }
+  }
+}

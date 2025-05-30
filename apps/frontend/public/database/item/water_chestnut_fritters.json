@@ -1,0 +1,36 @@
+{
+  "id": "water_chestnut_fritters",
+  "item": {
+    "description": "items/other/cooked_dishes/water_chestnut_fritters/description",
+    "name": "items/other/cooked_dishes/water_chestnut_fritters/name",
+    "icon_sprite": "spr_ui_item_water_chestnut_fritters",
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "value": {
+      "store": 250
+    },
+    "recipe": {
+      "level_requirement": 12,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "water_chestnut"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "oil"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "fairy_bee",
+  "item": {
+    "description": "items/other/bugs/fairy_bee/description",
+    "name": "items/other/bugs/fairy_bee/name",
+    "icon_sprite": "spr_ui_item_insect_fairybee",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 30
+    }
+  },
+  "bug": {
+    "type": "fly",
+    "has_light": true,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      6,
+      11
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "very_rare",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

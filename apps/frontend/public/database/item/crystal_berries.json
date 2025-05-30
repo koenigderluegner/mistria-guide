@@ -1,0 +1,15 @@
+{
+  "id": "crystal_berries",
+  "item": {
+    "description": "items/mines/deep_earth/crystal_berries/description",
+    "name": "items/mines/deep_earth/crystal_berries/name",
+    "icon_sprite": "spr_ui_item_crystal_berries",
+    "tags": [
+      "forageable",
+      "mines_forageable"
+    ],
+    "value": {
+      "bin": 30
+    }
+  }
+}

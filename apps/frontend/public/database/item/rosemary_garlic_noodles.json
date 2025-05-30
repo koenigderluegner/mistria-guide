@@ -1,0 +1,41 @@
+{
+  "id": "rosemary_garlic_noodles",
+  "item": {
+    "description": "items/other/cooked_dishes/rosemary_garlic_noodles/description",
+    "name": "items/other/cooked_dishes/rosemary_garlic_noodles/name",
+    "icon_sprite": "spr_ui_item_rosemary_garlic_noodles",
+    "tags": [
+      "food",
+      "simmered_dish",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 420
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "noodles"
+        },
+        {
+          "count": 1,
+          "item": "rosemary"
+        },
+        {
+          "count": 1,
+          "item": "garlic"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

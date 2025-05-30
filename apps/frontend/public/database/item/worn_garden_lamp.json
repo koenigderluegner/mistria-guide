@@ -1,0 +1,37 @@
+{
+  "id": "worn_garden_lamp",
+  "item": {
+    "description": "items/furniture/default_worn_set/worn_garden_lamp/description",
+    "name": "items/furniture/default_worn_set/worn_garden_lamp/name",
+    "icon_sprite": "spr_ui_item_furniture_default_worn_garden_light",
+    "tags": [
+      "furniture",
+      "default_set",
+      "floor_lighting"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "ore_stone"
+        },
+        {
+          "count": 3,
+          "item": "glass"
+        },
+        {
+          "count": 1,
+          "item": "monster_core"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

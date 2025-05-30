@@ -1,0 +1,29 @@
+{
+  "id": "jar_pair",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/jar_pair/description",
+    "name": "items/furniture/tabletop_clutter_set/jar_pair/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_jar_pair",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 15,
+          "item": "glass"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

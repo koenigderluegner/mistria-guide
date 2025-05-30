@@ -1,0 +1,33 @@
+{
+  "id": "beer_mug",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/beer_mug/description",
+    "name": "items/furniture/tabletop_clutter_set/beer_mug/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_beer",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "beer"
+        },
+        {
+          "count": 3,
+          "item": "glass"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

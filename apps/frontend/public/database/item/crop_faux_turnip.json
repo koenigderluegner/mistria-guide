@@ -1,0 +1,29 @@
+{
+  "id": "crop_faux_turnip",
+  "item": {
+    "description": "items/furniture/faux_plant_set/crop_faux_turnip/description",
+    "name": "items/furniture/faux_plant_set/crop_faux_turnip/name",
+    "icon_sprite": "spr_ui_item_decor_crop_faux_turnip",
+    "tags": [
+      "furniture",
+      "farm_decor",
+      "faux_spring_plants_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "turnip"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

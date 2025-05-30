@@ -1,0 +1,14 @@
+{
+  "id": "seed_heather",
+  "item": {
+    "description": "items/other/crops_and_forage/seed_heather/description",
+    "name": "items/other/crops_and_forage/seed_heather/name",
+    "icon_sprite": "spr_ui_item_bagseed_heather_icon",
+    "tags": [
+      "seed"
+    ],
+    "value": {
+      "bin": 10
+    }
+  }
+}

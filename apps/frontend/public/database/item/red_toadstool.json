@@ -1,0 +1,16 @@
+{
+  "id": "red_toadstool",
+  "item": {
+    "description": "items/other/monster_drops/red_toadstool/description",
+    "name": "items/other/monster_drops/red_toadstool/name",
+    "icon_sprite": "spr_ui_item_redtoadstool",
+    "tags": [
+      "material",
+      "mushroom",
+      "mushroomy"
+    ],
+    "value": {
+      "bin": 15
+    }
+  }
+}

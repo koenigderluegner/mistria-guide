@@ -1,0 +1,18 @@
+{
+  "id": "golden_egg",
+  "item": {
+    "description": "items/other/ranching/golden_egg/description",
+    "name": "items/other/ranching/golden_egg/name",
+    "icon_sprite": "spr_ui_item_chicken_egg_gold",
+    "tags": [
+      "ranching",
+      "egg",
+      "animal_harvest",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 60,
+      "store": 240
+    }
+  }
+}

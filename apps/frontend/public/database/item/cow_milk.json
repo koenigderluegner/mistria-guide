@@ -1,0 +1,23 @@
+{
+  "id": "cow_milk",
+  "item": {
+    "description": "items/other/ranching/cow_milk/description",
+    "name": "items/other/ranching/cow_milk/name",
+    "icon_sprite": "spr_ui_item_cow_milk_regular",
+    "tags": [
+      "ranching",
+      "milk",
+      "dairy",
+      "pantry",
+      "animal_harvest",
+      "fresh",
+      "drink_sound",
+      "drink",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 40,
+      "store": 120
+    }
+  }
+}

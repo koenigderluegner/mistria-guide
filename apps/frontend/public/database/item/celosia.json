@@ -1,0 +1,16 @@
+{
+  "id": "celosia",
+  "item": {
+    "description": "items/other/crops_and_forage/celosia/description",
+    "name": "items/other/crops_and_forage/celosia/name",
+    "icon_sprite": "spr_ui_item_celosia",
+    "tags": [
+      "crop",
+      "flower"
+    ],
+    "value": {
+      "bin": 25,
+      "store": 100
+    }
+  }
+}

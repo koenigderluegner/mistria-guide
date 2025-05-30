@@ -1,0 +1,29 @@
+{
+  "id": "crop_faux_iris",
+  "item": {
+    "description": "items/furniture/faux_plant_set/crop_faux_iris/description",
+    "name": "items/furniture/faux_plant_set/crop_faux_iris/name",
+    "icon_sprite": "spr_ui_item_decor_crop_faux_iris",
+    "tags": [
+      "furniture",
+      "farm_decor",
+      "faux_summer_plants_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "iris"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

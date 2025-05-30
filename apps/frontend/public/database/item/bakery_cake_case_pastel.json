@@ -1,0 +1,38 @@
+{
+  "id": "bakery_cake_case_pastel",
+  "item": {
+    "description": "items/furniture/decor_bakery_set/bakery_cake_case_pastel/description",
+    "name": "items/furniture/decor_bakery_set/bakery_cake_case_pastel/name",
+    "icon_sprite": "spr_ui_item_decor_bakery_cake_case_v1",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "bakery_decor_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 600
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "basic_wood"
+        },
+        {
+          "count": 10,
+          "item": "glass"
+        },
+        {
+          "count": 3,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

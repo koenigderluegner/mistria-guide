@@ -1,0 +1,16 @@
+{
+  "id": "crystal_tassets",
+  "item": {
+    "description": "items/other/armor/crystal_tassets/description",
+    "name": "items/other/armor/crystal_tassets/name",
+    "icon_sprite": "spr_ui_item_equipment_crystal_tassets",
+    "tags": [
+      "legs",
+      "armor"
+    ],
+    "value": {
+      "bin": 300,
+      "store": 600
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "golden_duck_mayonnaise",
+  "item": {
+    "description": "items/other/mill/golden_duck_mayonnaise/description",
+    "name": "items/other/mill/golden_duck_mayonnaise/name",
+    "icon_sprite": "spr_ui_item_golden_duck_mayonnaise",
+    "tags": [
+      "milling",
+      "animal_product",
+      "golden_mayonnaise",
+      "ranching"
+    ],
+    "value": {
+      "bin": 200
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "item": "golden_duck_egg",
+          "count": 2
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "herb_butter_pasta",
+  "item": {
+    "description": "items/other/cooked_dishes/herb_butter_pasta/description",
+    "name": "items/other/cooked_dishes/herb_butter_pasta/name",
+    "icon_sprite": "spr_ui_item_herb_butter_pasta",
+    "tags": [
+      "food",
+      "simmered_dish"
+    ],
+    "value": {
+      "store": 800
+    },
+    "recipe": {
+      "level_requirement": 28,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "noodles"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "thyme"
+        },
+        {
+          "count": 1,
+          "item": "oregano"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

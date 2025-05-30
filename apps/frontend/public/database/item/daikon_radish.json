@@ -1,0 +1,15 @@
+{
+  "id": "daikon_radish",
+  "item": {
+    "description": "items/other/crops_and_forage/daikon_radish/description",
+    "name": "items/other/crops_and_forage/daikon_radish/name",
+    "icon_sprite": "spr_ui_item_daikon_radish",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 180,
+      "store": 400
+    }
+  }
+}

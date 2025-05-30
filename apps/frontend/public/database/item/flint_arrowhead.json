@@ -1,0 +1,15 @@
+{
+  "id": "flint_arrowhead",
+  "item": {
+    "description": "items/other/artifacts/flint_arrowhead/description",
+    "name": "items/other/artifacts/flint_arrowhead/name",
+    "icon_sprite": "spr_ui_item_flint_arrowhead",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

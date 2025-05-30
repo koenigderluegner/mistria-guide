@@ -1,0 +1,14 @@
+{
+  "id": "monster_hoop",
+  "item": {
+    "description": "items/other/unreviewed_new_items/monster_hoop/description",
+    "name": "items/other/unreviewed_new_items/monster_hoop/name",
+    "icon_sprite": "spr_ui_item_monster_hoop",
+    "tags": [
+      "monster_part"
+    ],
+    "value": {
+      "bin": 1
+    }
+  }
+}

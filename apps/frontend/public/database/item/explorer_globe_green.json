@@ -1,0 +1,33 @@
+{
+  "id": "explorer_globe_green",
+  "item": {
+    "description": "items/furniture/explorer_set/explorer_globe_green/description",
+    "name": "items/furniture/explorer_set/explorer_globe_green/name",
+    "icon_sprite": "spr_ui_item_furniture_explorer_globe_green",
+    "tags": [
+      "furniture",
+      "misc_furniture",
+      "explorer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "shard_mass"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

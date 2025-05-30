@@ -1,0 +1,15 @@
+{
+  "id": "broccoli",
+  "item": {
+    "description": "items/other/crops_and_forage/broccoli/description",
+    "name": "items/other/crops_and_forage/broccoli/name",
+    "icon_sprite": "spr_ui_item_broccoli",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 75,
+      "store": 300
+    }
+  }
+}

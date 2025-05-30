@@ -1,0 +1,38 @@
+{
+  "id": "crayfish_etouffee",
+  "item": {
+    "description": "items/other/cooked_dishes/crayfish_etouffee/description",
+    "name": "items/other/cooked_dishes/crayfish_etouffee/name",
+    "icon_sprite": "spr_ui_item_crayfishetouffee",
+    "tags": [
+      "food",
+      "simmered_dish",
+      "fishy",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 320
+    },
+    "recipe": {
+      "level_requirement": 12,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "crayfish"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        },
+        {
+          "count": 1,
+          "item": "wild_leek"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

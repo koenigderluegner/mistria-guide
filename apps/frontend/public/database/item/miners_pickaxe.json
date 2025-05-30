@@ -1,0 +1,15 @@
+{
+  "id": "miners_pickaxe",
+  "item": {
+    "description": "items/mines/upper_mines/miners_pickaxe/description",
+    "name": "items/mines/upper_mines/miners_pickaxe/name",
+    "icon_sprite": "spr_ui_item_miners_pickaxe",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 40,
+      "renown": 5
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "coral_table_blue",
+  "item": {
+    "description": "items/furniture/tide_set/coral_table_blue/description",
+    "name": "items/furniture/tide_set/coral_table_blue/name",
+    "icon_sprite": "spr_ui_item_furniture_coral_table_blue",
+    "tags": [
+      "furniture",
+      "tide_caverns_set",
+      "coffee_table"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "coral"
+        },
+        {
+          "count": 5,
+          "item": "glass"
+        },
+        {
+          "count": 3,
+          "item": "monster_horn"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

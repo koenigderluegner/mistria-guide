@@ -1,0 +1,40 @@
+{
+  "id": "moon_fruit_cake",
+  "item": {
+    "description": "items/other/cooked_dishes/moon_fruit_cake/description",
+    "name": "items/other/cooked_dishes/moon_fruit_cake/name",
+    "icon_sprite": "spr_ui_item_moon_fruit_cake",
+    "tags": [
+      "food",
+      "baked_dessert"
+    ],
+    "value": {
+      "store": 580
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "moon_fruit"
+        },
+        {
+          "count": 1,
+          "item": "honey"
+        },
+        {
+          "count": 1,
+          "item": "egg"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

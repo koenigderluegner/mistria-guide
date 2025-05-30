@@ -1,0 +1,41 @@
+{
+  "id": "caterpillar_chair_v2",
+  "item": {
+    "description": "items/furniture/insect_set/caterpillar_chair_v2/description",
+    "name": "items/furniture/insect_set/caterpillar_chair_v2/name",
+    "icon_sprite": "spr_ui_item_furniture_caterpillar_chair_v2",
+    "tags": [
+      "furniture",
+      "insect_set",
+      "accent_chair"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "caterpillar"
+        },
+        {
+          "count": 2,
+          "item": "bristle"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

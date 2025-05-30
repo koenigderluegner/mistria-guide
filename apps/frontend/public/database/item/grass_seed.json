@@ -1,0 +1,29 @@
+{
+  "id": "grass_seed",
+  "item": {
+    "description": "items/other/materials/grass_seed/description",
+    "name": "items/other/materials/grass_seed/name",
+    "icon_sprite": "spr_ui_item_animal_feed_seed",
+    "tags": [
+      "refined_material",
+      "animal_feed",
+      "ranching"
+    ],
+    "value": {
+      "bin": 5,
+      "store": 50
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "count": 6,
+          "item": "ore_stone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

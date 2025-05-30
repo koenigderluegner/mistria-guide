@@ -1,0 +1,32 @@
+{
+  "id": "farm_bridge",
+  "item": {
+    "description": "items/furniture/starter_farm_set/farm_bridge/description",
+    "name": "items/furniture/starter_farm_set/farm_bridge/name",
+    "icon_sprite": "spr_ui_item_decor_starter_bridge",
+    "tags": [
+      "furniture",
+      "starter_farm_set",
+      "misc_functional"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "hard_wood"
+        },
+        {
+          "count": 10,
+          "item": "refined_stone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

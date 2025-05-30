@@ -1,0 +1,38 @@
+{
+  "id": "bullfrog",
+  "item": {
+    "description": "items/fish/pond/bullfrog/description",
+    "name": "items/fish/pond/bullfrog/name",
+    "icon_sprite": "spr_ui_item_fish_small_bullfrog",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 45
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "summer",
+      "winter"
+    ],
+    "water_type": "pond",
+    "weather": [
+      "inclement",
+      "heavy_inclement"
+    ],
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "ultra_common",
+    "retrieval": [
+      "fishing",
+      "divespot"
+    ],
+    "is_chest": false,
+    "perk": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "summer_rug_red",
+  "item": {
+    "description": "items/furniture/summer_set/summer_rug_red/description",
+    "name": "items/furniture/summer_set/summer_rug_red/name",
+    "icon_sprite": "spr_ui_item_furniture_summer_rug_red",
+    "tags": [
+      "furniture",
+      "medium_rug",
+      "summer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "fiber"
+        },
+        {
+          "count": 1,
+          "item": "cosmos"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

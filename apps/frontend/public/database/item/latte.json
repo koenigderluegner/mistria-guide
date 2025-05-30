@@ -1,0 +1,35 @@
+{
+  "id": "latte",
+  "item": {
+    "description": "items/other/cooked_dishes/latte/description",
+    "name": "items/other/cooked_dishes/latte/name",
+    "icon_sprite": "spr_ui_item_latte",
+    "tags": [
+      "food",
+      "drink",
+      "hot_drink",
+      "drink_sound",
+      "caffeine"
+    ],
+    "value": {
+      "store": 175
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "coffee"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

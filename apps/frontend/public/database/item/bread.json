@@ -1,0 +1,28 @@
+{
+  "id": "bread",
+  "item": {
+    "description": "items/other/cooked_dishes/bread/description",
+    "name": "items/other/cooked_dishes/bread/name",
+    "icon_sprite": "spr_ui_item_bread",
+    "tags": [
+      "food",
+      "misc_pantry"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "flour"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

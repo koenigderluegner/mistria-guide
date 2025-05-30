@@ -1,0 +1,37 @@
+{
+  "id": "lava_caves_stone_arch",
+  "item": {
+    "description": "items/furniture/lava_cave_set/lava_caves_stone_arch/description",
+    "name": "items/furniture/lava_cave_set/lava_caves_stone_arch/name",
+    "icon_sprite": "spr_ui_item_furniture_lava_caves_stone_beam",
+    "tags": [
+      "furniture",
+      "lava_set",
+      "misc_outdoor_decor"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 18,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "refined_stone"
+        },
+        {
+          "count": 10,
+          "item": "obsidian"
+        },
+        {
+          "count": 3,
+          "item": "monster_horn"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

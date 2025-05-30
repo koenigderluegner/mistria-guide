@@ -1,0 +1,33 @@
+{
+  "id": "basket",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/basket/description",
+    "name": "items/furniture/tabletop_clutter_set/basket/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_basket",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "hay"
+        },
+        {
+          "count": 5,
+          "item": "fiber"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

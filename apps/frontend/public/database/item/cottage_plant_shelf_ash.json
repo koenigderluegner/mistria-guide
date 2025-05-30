@@ -1,0 +1,38 @@
+{
+  "id": "cottage_plant_shelf_ash",
+  "item": {
+    "description": "items/furniture/lovely_cottage_set/cottage_plant_shelf_ash/description",
+    "name": "items/furniture/lovely_cottage_set/cottage_plant_shelf_ash/name",
+    "icon_sprite": "spr_ui_item_furniture_cottage_plant_shelf_v2",
+    "tags": [
+      "furniture",
+      "misc_plant",
+      "lovely_cottage_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 400
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        },
+        {
+          "count": 4,
+          "item": "clay"
+        },
+        {
+          "count": 4,
+          "item": "sod"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

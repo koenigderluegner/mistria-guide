@@ -1,0 +1,35 @@
+{
+  "id": "snowball_beetle",
+  "item": {
+    "description": "items/other/bugs/snowball_beetle/description",
+    "name": "items/other/bugs/snowball_beetle/name",
+    "icon_sprite": "spr_ui_item_insect_snowballbeetle",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 30
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "heavy_inclement"
+    ],
+    "rarity": "very_rare",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

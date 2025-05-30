@@ -1,0 +1,15 @@
+{
+  "id": "earth_infused_stone",
+  "item": {
+    "description": "items/mines/deep_earth/earth_infused_stone/description",
+    "name": "items/mines/deep_earth/earth_infused_stone/name",
+    "icon_sprite": "spr_ui_item_earth_infused_stone",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

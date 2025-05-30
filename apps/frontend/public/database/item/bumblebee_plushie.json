@@ -1,0 +1,33 @@
+{
+  "id": "bumblebee_plushie",
+  "item": {
+    "description": "items/furniture/insect_set/bumblebee_plushie/description",
+    "name": "items/furniture/insect_set/bumblebee_plushie/name",
+    "icon_sprite": "spr_ui_item_decor_bumblebee_plushie",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "insect_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "sheep_wool"
+        },
+        {
+          "count": 10,
+          "item": "cattail"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

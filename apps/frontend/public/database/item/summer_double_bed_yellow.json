@@ -1,0 +1,45 @@
+{
+  "id": "summer_double_bed_yellow",
+  "item": {
+    "description": "items/furniture/summer_set/summer_double_bed_yellow/description",
+    "name": "items/furniture/summer_set/summer_double_bed_yellow/name",
+    "icon_sprite": "spr_ui_item_furniture_summer_double_bed_yellow",
+    "tags": [
+      "furniture",
+      "double_bed",
+      "summer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 14,
+      "ingredients": [
+        {
+          "count": 60,
+          "item": "basic_wood"
+        },
+        {
+          "count": 4,
+          "item": "hard_wood"
+        },
+        {
+          "count": 4,
+          "item": "duck_feather"
+        },
+        {
+          "count": 2,
+          "item": "daisy"
+        },
+        {
+          "count": 6,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

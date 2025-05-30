@@ -1,0 +1,15 @@
+{
+  "id": "chestnut",
+  "item": {
+    "description": "items/other/crops_and_forage/chestnut/description",
+    "name": "items/other/crops_and_forage/chestnut/name",
+    "icon_sprite": "spr_ui_item_chestnut",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 15,
+      "store": 60
+    }
+  }
+}

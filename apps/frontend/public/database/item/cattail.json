@@ -1,0 +1,16 @@
+{
+  "id": "cattail",
+  "item": {
+    "description": "items/other/crops_and_forage/cattail/description",
+    "name": "items/other/crops_and_forage/cattail/name",
+    "icon_sprite": "spr_ui_item_cattail",
+    "tags": [
+      "forageable",
+      "junk"
+    ],
+    "value": {
+      "bin": 5,
+      "store": 25
+    }
+  }
+}

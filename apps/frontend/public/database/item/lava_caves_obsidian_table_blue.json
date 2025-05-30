@@ -1,0 +1,37 @@
+{
+  "id": "lava_caves_obsidian_table_blue",
+  "item": {
+    "description": "items/furniture/lava_cave_set/lava_caves_obsidian_table_blue/description",
+    "name": "items/furniture/lava_cave_set/lava_caves_obsidian_table_blue/name",
+    "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_table_blue",
+    "tags": [
+      "furniture",
+      "coffee_table",
+      "lava_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 28,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "obsidian"
+        },
+        {
+          "count": 10,
+          "item": "refined_stone"
+        },
+        {
+          "count": 5,
+          "item": "ore_gold"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

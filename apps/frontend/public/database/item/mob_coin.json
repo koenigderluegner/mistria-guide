@@ -1,0 +1,11 @@
+{
+  "id": "mob_coin",
+  "item": {
+    "description": "items/other/misc/mob_coin/description",
+    "name": "items/other/misc/mob_coin/name",
+    "icon_sprite": "spr_mob_coin",
+    "tags": [
+      "mob_coin"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sword_gold",
+  "item": {
+    "description": "items/other/blacksmithing/sword_gold/description",
+    "name": "items/other/blacksmithing/sword_gold/name",
+    "icon_sprite": "spr_ui_item_tool_gold_sword",
+    "tags": [
+      "sword",
+      "blacksmithing",
+      "weapon"
+    ],
+    "value": {
+      "bin": 1200,
+      "store": 4000
+    },
+    "recipe": {
+      "level_requirement": 26,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "gold_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

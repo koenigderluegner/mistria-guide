@@ -1,0 +1,32 @@
+{
+  "id": "simmered_daikon",
+  "item": {
+    "description": "items/other/cooked_dishes/simmered_daikon/description",
+    "name": "items/other/cooked_dishes/simmered_daikon/name",
+    "icon_sprite": "spr_ui_item_simmered_daikon",
+    "tags": [
+      "food",
+      "simmered_dish"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "daikon_radish"
+        },
+        {
+          "count": 1,
+          "item": "soy_sauce"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

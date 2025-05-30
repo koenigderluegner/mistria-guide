@@ -1,0 +1,31 @@
+{
+  "id": "silver_armor",
+  "item": {
+    "description": "items/other/armor/silver_armor/description",
+    "name": "items/other/armor/silver_armor/name",
+    "icon_sprite": "spr_ui_item_equipment_silver_chestpiece",
+    "tags": [
+      "chest",
+      "armor",
+      "blacksmithing",
+      "silver_armor"
+    ],
+    "value": {
+      "bin": 970,
+      "store": 3000
+    },
+    "recipe": {
+      "level_requirement": 18,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "silver_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

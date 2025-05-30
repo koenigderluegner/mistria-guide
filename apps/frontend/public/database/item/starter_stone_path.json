@@ -1,0 +1,31 @@
+{
+  "id": "starter_stone_path",
+  "item": {
+    "description": "items/furniture/starter_farm_set/starter_stone_path/description",
+    "name": "items/furniture/starter_farm_set/starter_stone_path/name",
+    "icon_sprite": "spr_ui_item_decor_starter_stone_path_single",
+    "tags": [
+      "furniture",
+      "ground_decor",
+      "stone_path",
+      "starter_farm_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 10
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "ore_stone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

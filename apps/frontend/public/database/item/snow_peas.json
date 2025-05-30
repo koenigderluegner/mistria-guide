@@ -1,0 +1,15 @@
+{
+  "id": "snow_peas",
+  "item": {
+    "description": "items/other/crops_and_forage/snow_peas/description",
+    "name": "items/other/crops_and_forage/snow_peas/name",
+    "icon_sprite": "spr_ui_item_snow_peas",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 125,
+      "store": 375
+    }
+  }
+}

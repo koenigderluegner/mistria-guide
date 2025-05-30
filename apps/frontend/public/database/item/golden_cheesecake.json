@@ -1,0 +1,48 @@
+{
+  "id": "golden_cheesecake",
+  "item": {
+    "description": "items/other/cooked_dishes/golden_cheesecake/description",
+    "name": "items/other/cooked_dishes/golden_cheesecake/name",
+    "icon_sprite": "spr_ui_item_golden_cheesecake",
+    "tags": [
+      "food",
+      "baked_dessert"
+    ],
+    "value": {
+      "store": 2600
+    },
+    "recipe": {
+      "level_requirement": 40,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "golden_cheese"
+        },
+        {
+          "count": 2,
+          "item": "golden_egg"
+        },
+        {
+          "count": 2,
+          "item": "golden_cow_milk"
+        },
+        {
+          "count": 2,
+          "item": "golden_butter"
+        },
+        {
+          "count": 2,
+          "item": "flour"
+        },
+        {
+          "count": 2,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

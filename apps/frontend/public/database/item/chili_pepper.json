@@ -1,0 +1,15 @@
+{
+  "id": "chili_pepper",
+  "item": {
+    "description": "items/other/crops_and_forage/chili_pepper/description",
+    "name": "items/other/crops_and_forage/chili_pepper/name",
+    "icon_sprite": "spr_ui_item_chili_pepper",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 75,
+      "store": 225
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "snowdrop_anemone",
+  "item": {
+    "description": "items/other/crops_and_forage/snowdrop_anemone/description",
+    "name": "items/other/crops_and_forage/snowdrop_anemone/name",
+    "icon_sprite": "spr_ui_item_snowdrop_anemone",
+    "tags": [
+      "forageable",
+      "flower"
+    ],
+    "value": {
+      "bin": 40,
+      "store": 160
+    }
+  }
+}

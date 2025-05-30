@@ -1,0 +1,15 @@
+{
+  "id": "stone_horse",
+  "item": {
+    "description": "items/other/artifacts/stone_horse/description",
+    "name": "items/other/artifacts/stone_horse/name",
+    "icon_sprite": "spr_ui_item_stone_horse",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

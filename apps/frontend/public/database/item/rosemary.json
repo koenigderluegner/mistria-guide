@@ -1,0 +1,15 @@
+{
+  "id": "rosemary",
+  "item": {
+    "description": "items/other/crops_and_forage/rosemary/description",
+    "name": "items/other/crops_and_forage/rosemary/name",
+    "icon_sprite": "spr_ui_item_rosemary",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 120
+    }
+  }
+}

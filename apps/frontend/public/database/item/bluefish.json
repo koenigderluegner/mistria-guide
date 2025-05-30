@@ -1,0 +1,34 @@
+{
+  "id": "bluefish",
+  "item": {
+    "description": "items/fish/pond/bluefish/description",
+    "name": "items/fish/pond/bluefish/name",
+    "icon_sprite": "spr_ui_item_fish_large_bluefish",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 45
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "fall"
+    ],
+    "water_type": "pond",
+    "weather": [
+      "inclement",
+      "heavy_inclement"
+    ],
+    "locations": false,
+    "size": "large",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "ultra_common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

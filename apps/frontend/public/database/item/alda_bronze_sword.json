@@ -1,0 +1,15 @@
+{
+  "id": "alda_bronze_sword",
+  "item": {
+    "description": "items/other/artifacts/alda_bronze_sword/description",
+    "name": "items/other/artifacts/alda_bronze_sword/name",
+    "icon_sprite": "spr_ui_item_alda_bronze_sword",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

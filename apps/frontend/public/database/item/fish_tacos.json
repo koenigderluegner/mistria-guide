@@ -1,0 +1,45 @@
+{
+  "id": "fish_tacos",
+  "item": {
+    "description": "items/other/cooked_dishes/fish_tacos/description",
+    "name": "items/other/cooked_dishes/fish_tacos/name",
+    "icon_sprite": "spr_ui_item_fish_tacos",
+    "tags": [
+      "food",
+      "hand_crafted_dish",
+      "fishy"
+    ],
+    "value": {
+      "store": 800
+    },
+    "recipe": {
+      "level_requirement": 34,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "corn"
+        },
+        {
+          "count": 1,
+          "item": "cod"
+        },
+        {
+          "count": 1,
+          "item": "mayonnaise"
+        },
+        {
+          "count": 1,
+          "item": "chili_pepper"
+        },
+        {
+          "count": 1,
+          "item": "tide_lettuce"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

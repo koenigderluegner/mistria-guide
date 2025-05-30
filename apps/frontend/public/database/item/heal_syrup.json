@@ -1,0 +1,14 @@
+{
+  "id": "heal_syrup",
+  "item": {
+    "description": "items/other/misc/heal_syrup/description",
+    "name": "items/other/misc/heal_syrup/name",
+    "icon_sprite": "spr_ui_item_syrup_health",
+    "tags": [
+      "drink_sound"
+    ],
+    "value": {
+      "store": 500
+    }
+  }
+}

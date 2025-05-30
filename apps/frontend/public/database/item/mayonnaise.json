@@ -1,0 +1,28 @@
+{
+  "id": "mayonnaise",
+  "item": {
+    "description": "items/other/mill/mayonnaise/description",
+    "name": "items/other/mill/mayonnaise/name",
+    "icon_sprite": "spr_ui_item_mayonnaise",
+    "tags": [
+      "milling",
+      "animal_product",
+      "ranching"
+    ],
+    "value": {
+      "bin": 90
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "item": "egg",
+          "count": 2
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "viola",
+  "item": {
+    "description": "items/other/crops_and_forage/viola/description",
+    "name": "items/other/crops_and_forage/viola/name",
+    "icon_sprite": "spr_ui_item_pansy",
+    "tags": [
+      "forageable",
+      "flower"
+    ],
+    "value": {
+      "bin": 40,
+      "store": 160
+    }
+  }
+}

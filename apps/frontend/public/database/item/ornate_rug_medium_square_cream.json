@@ -1,0 +1,33 @@
+{
+  "id": "ornate_rug_medium_square_cream",
+  "item": {
+    "description": "items/furniture/decor_ornate_rug_set/ornate_rug_medium_square_cream/description",
+    "name": "items/furniture/decor_ornate_rug_set/ornate_rug_medium_square_cream/name",
+    "icon_sprite": "spr_ui_item_decor_ornate_rug_medium_square_cream",
+    "tags": [
+      "furniture",
+      "medium_rug",
+      "ornate_rug_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "rabbit_wool"
+        },
+        {
+          "count": 2,
+          "item": "duck_feather"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

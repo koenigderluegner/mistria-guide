@@ -1,0 +1,49 @@
+{
+  "id": "veggie_sub_sandwich",
+  "item": {
+    "description": "items/other/cooked_dishes/veggie_sub_sandwich/description",
+    "name": "items/other/cooked_dishes/veggie_sub_sandwich/name",
+    "icon_sprite": "spr_ui_item_veggie_sub_sandwich",
+    "tags": [
+      "food",
+      "hand_crafted_dish",
+      "fishy"
+    ],
+    "value": {
+      "store": 1500
+    },
+    "recipe": {
+      "level_requirement": 40,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "bread"
+        },
+        {
+          "count": 1,
+          "item": "tide_lettuce"
+        },
+        {
+          "count": 1,
+          "item": "tomato"
+        },
+        {
+          "count": 1,
+          "item": "cucumber"
+        },
+        {
+          "count": 1,
+          "item": "cheese"
+        },
+        {
+          "count": 1,
+          "item": "mayonnaise"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mist_held_item",
+  "item": {
+    "description": "items/other/misc/mist_held_item/description",
+    "name": "items/other/misc/mist_held_item/name",
+    "icon_sprite": "spr_illegal_16",
+    "value": {
+      "bin": 1
+    }
+  }
+}

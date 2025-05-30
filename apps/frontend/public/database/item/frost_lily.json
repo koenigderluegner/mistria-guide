@@ -1,0 +1,16 @@
+{
+  "id": "frost_lily",
+  "item": {
+    "description": "items/other/crops_and_forage/frost_lily/description",
+    "name": "items/other/crops_and_forage/frost_lily/name",
+    "icon_sprite": "spr_ui_item_frost_lily",
+    "tags": [
+      "flower",
+      "forageable"
+    ],
+    "value": {
+      "bin": 25,
+      "store": 100
+    }
+  }
+}

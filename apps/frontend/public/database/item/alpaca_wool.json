@@ -1,0 +1,19 @@
+{
+  "id": "alpaca_wool",
+  "item": {
+    "description": "items/other/ranching/alpaca_wool/description",
+    "name": "items/other/ranching/alpaca_wool/name",
+    "icon_sprite": "spr_ui_item_alpaca_wool_regular",
+    "tags": [
+      "ranching",
+      "wool",
+      "animal_fibre",
+      "animal_harvest",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 130,
+      "store": 390
+    }
+  }
+}

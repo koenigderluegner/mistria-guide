@@ -1,0 +1,35 @@
+{
+  "id": "snapping_turtle",
+  "item": {
+    "description": "items/fish/pond/snapping_turtle/description",
+    "name": "items/fish/pond/snapping_turtle/name",
+    "icon_sprite": "spr_ui_item_fish_large_snapping_turtle",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 40
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "summer",
+      "winter"
+    ],
+    "water_type": "pond",
+    "weather": false,
+    "locations": false,
+    "size": "large",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "very_common",
+    "retrieval": [
+      "fishing",
+      "divespot"
+    ],
+    "is_chest": false,
+    "perk": []
+  }
+}

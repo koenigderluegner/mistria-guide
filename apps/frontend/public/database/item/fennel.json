@@ -1,0 +1,15 @@
+{
+  "id": "fennel",
+  "item": {
+    "description": "items/other/crops_and_forage/fennel/description",
+    "name": "items/other/crops_and_forage/fennel/name",
+    "icon_sprite": "spr_ui_item_fennel",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 20,
+      "store": 80
+    }
+  }
+}

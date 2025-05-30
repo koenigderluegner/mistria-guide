@@ -1,0 +1,38 @@
+{
+  "id": "spicy_corn",
+  "item": {
+    "description": "items/other/cooked_dishes/spicy_corn/description",
+    "name": "items/other/cooked_dishes/spicy_corn/name",
+    "icon_sprite": "spr_ui_item_spicy_corn",
+    "tags": [
+      "fried_dish",
+      "food",
+      "grilled_dish",
+      "fishy"
+    ],
+    "value": {
+      "store": 340
+    },
+    "recipe": {
+      "level_requirement": 14,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "corn"
+        },
+        {
+          "count": 1,
+          "item": "chili_pepper"
+        },
+        {
+          "count": 1,
+          "item": "mayonnaise"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

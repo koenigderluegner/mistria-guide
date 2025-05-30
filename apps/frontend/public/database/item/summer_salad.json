@@ -1,0 +1,40 @@
+{
+  "id": "summer_salad",
+  "item": {
+    "description": "items/other/cooked_dishes/summer_salad/description",
+    "name": "items/other/cooked_dishes/summer_salad/name",
+    "icon_sprite": "spr_ui_item_summer_salad",
+    "tags": [
+      "food",
+      "salad"
+    ],
+    "value": {
+      "store": 800
+    },
+    "recipe": {
+      "level_requirement": 28,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "cucumber"
+        },
+        {
+          "count": 1,
+          "item": "chili_pepper"
+        },
+        {
+          "count": 1,
+          "item": "tomato"
+        },
+        {
+          "count": 1,
+          "item": "corn"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

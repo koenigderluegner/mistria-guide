@@ -1,0 +1,45 @@
+{
+  "id": "vegetable_quiche",
+  "item": {
+    "description": "items/other/cooked_dishes/vegetable_quiche/description",
+    "name": "items/other/cooked_dishes/vegetable_quiche/name",
+    "icon_sprite": "spr_ui_item_vegetable_quiche",
+    "tags": [
+      "chef",
+      "baked_dish",
+      "food"
+    ],
+    "value": {
+      "store": 800
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "egg"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "potato"
+        },
+        {
+          "count": 1,
+          "item": "wild_leek"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

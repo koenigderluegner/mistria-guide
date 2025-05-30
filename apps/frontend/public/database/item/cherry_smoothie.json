@@ -1,0 +1,38 @@
+{
+  "id": "cherry_smoothie",
+  "item": {
+    "description": "items/other/cooked_dishes/cherry_smoothie/description",
+    "name": "items/other/cooked_dishes/cherry_smoothie/name",
+    "icon_sprite": "spr_ui_item_cherry_smoothie",
+    "tags": [
+      "food",
+      "cold_drink",
+      "drink",
+      "drink_sound"
+    ],
+    "value": {
+      "store": 280
+    },
+    "recipe": {
+      "level_requirement": 10,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "cherry"
+        },
+        {
+          "count": 1,
+          "item": "honey"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

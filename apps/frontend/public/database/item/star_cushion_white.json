@@ -1,0 +1,33 @@
+{
+  "id": "star_cushion_white",
+  "item": {
+    "description": "items/furniture/shooting_star_set/star_cushion_white/description",
+    "name": "items/furniture/shooting_star_set/star_cushion_white/name",
+    "icon_sprite": "spr_ui_item_decor_star_cushion_white",
+    "tags": [
+      "furniture",
+      "star_festival_set",
+      "misc_seating"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 15,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "rabbit_wool"
+        },
+        {
+          "count": 2,
+          "item": "duck_feather"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sage",
+  "item": {
+    "description": "items/other/crops_and_forage/sage/description",
+    "name": "items/other/crops_and_forage/sage/name",
+    "icon_sprite": "spr_ui_item_sage",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 120
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "fishing_chair_blue",
+  "item": {
+    "description": "items/furniture/fishing_set/fishing_chair_blue/description",
+    "name": "items/furniture/fishing_set/fishing_chair_blue/name",
+    "icon_sprite": "spr_ui_item_furniture_fishing_chair_blue",
+    "tags": [
+      "furniture",
+      "dining_chair",
+      "fishing_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "cattail"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

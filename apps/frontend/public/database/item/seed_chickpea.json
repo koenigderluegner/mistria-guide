@@ -1,0 +1,14 @@
+{
+  "id": "seed_chickpea",
+  "item": {
+    "description": "items/other/crops_and_forage/seed_chickpea/description",
+    "name": "items/other/crops_and_forage/seed_chickpea/name",
+    "icon_sprite": "spr_ui_item_bagseed_chickpea_icon",
+    "tags": [
+      "seed"
+    ],
+    "value": {
+      "bin": 10
+    }
+  }
+}

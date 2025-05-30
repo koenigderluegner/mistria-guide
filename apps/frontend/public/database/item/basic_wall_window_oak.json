@@ -1,0 +1,34 @@
+{
+  "id": "basic_wall_window_oak",
+  "item": {
+    "description": "items/furniture/basic_set/basic_wall_window_oak/description",
+    "name": "items/furniture/basic_set/basic_wall_window_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_basic_wall_window_v1",
+    "tags": [
+      "furniture",
+      "window",
+      "basic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 150
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 15,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "glass"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

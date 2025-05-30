@@ -1,0 +1,41 @@
+{
+  "id": "praying_mantis",
+  "item": {
+    "description": "items/other/bugs/praying_mantis/description",
+    "name": "items/other/bugs/praying_mantis/name",
+    "icon_sprite": "spr_ui_item_insect_prayingmantis",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "bug": {
+    "type": "jump",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

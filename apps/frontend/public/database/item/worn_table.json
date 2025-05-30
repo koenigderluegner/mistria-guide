@@ -1,0 +1,30 @@
+{
+  "id": "worn_table",
+  "item": {
+    "description": "items/furniture/default_worn_set/worn_table/description",
+    "name": "items/furniture/default_worn_set/worn_table/name",
+    "icon_sprite": "spr_ui_item_furniture_default_table_v1",
+    "tags": [
+      "furniture",
+      "dining_table",
+      "default_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 90
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

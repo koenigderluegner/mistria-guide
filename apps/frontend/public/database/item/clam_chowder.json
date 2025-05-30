@@ -1,0 +1,38 @@
+{
+  "id": "clam_chowder",
+  "item": {
+    "description": "items/other/cooked_dishes/clam_chowder/description",
+    "name": "items/other/cooked_dishes/clam_chowder/name",
+    "icon_sprite": "spr_ui_item_clam_chowder",
+    "tags": [
+      "food",
+      "soup",
+      "drink_sound",
+      "fishy"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 10,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "clam"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

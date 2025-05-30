@@ -1,0 +1,14 @@
+{
+  "id": "gold_horse_trophy",
+  "item": {
+    "description": "items/other/festivals/gold_horse_trophy/description",
+    "name": "items/other/festivals/gold_horse_trophy/name",
+    "icon_sprite": "spr_ui_item_decor_gold_horse_trophy",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 100
+    }
+  }
+}

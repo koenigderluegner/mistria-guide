@@ -1,0 +1,13 @@
+{
+  "id": "stinky_stamina_potion",
+  "item": {
+    "description": "items/other/misc/stinky_stamina_potion/description",
+    "icon_sprite": "spr_ui_item_stinkypotion",
+    "tags": [
+      "drink_sound"
+    ],
+    "value": {
+      "bin": 1
+    }
+  }
+}

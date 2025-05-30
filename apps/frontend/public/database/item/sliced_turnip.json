@@ -1,0 +1,28 @@
+{
+  "id": "sliced_turnip",
+  "item": {
+    "description": "items/other/cooked_dishes/sliced_turnip/description",
+    "name": "items/other/cooked_dishes/sliced_turnip/name",
+    "icon_sprite": "spr_ui_item_sliced_turnip",
+    "tags": [
+      "food",
+      "greens"
+    ],
+    "value": {
+      "store": 150
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "turnip"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "muttering_cube",
+  "item": {
+    "description": "items/other/artifacts/muttering_cube/description",
+    "name": "items/other/artifacts/muttering_cube/name",
+    "icon_sprite": "spr_ui_item_muttering_cube",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 5
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "crop_faux_fennel",
+  "item": {
+    "description": "items/furniture/faux_plant_set/crop_faux_fennel/description",
+    "name": "items/furniture/faux_plant_set/crop_faux_fennel/name",
+    "icon_sprite": "spr_ui_item_decor_crop_faux_fennel",
+    "tags": [
+      "furniture",
+      "farm_decor",
+      "faux_spring_plants_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "fennel"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

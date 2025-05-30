@@ -1,0 +1,14 @@
+{
+  "id": "capybara_plushie",
+  "item": {
+    "description": "items/other/festivals/capybara_plushie/description",
+    "name": "items/other/festivals/capybara_plushie/name",
+    "icon_sprite": "spr_ui_item_decor_capybara_plushie",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 100
+    }
+  }
+}

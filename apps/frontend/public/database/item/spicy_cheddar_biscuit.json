@@ -1,0 +1,42 @@
+{
+  "id": "spicy_cheddar_biscuit",
+  "item": {
+    "description": "items/other/cooked_dishes/spicy_cheddar_biscuit/description",
+    "name": "items/other/cooked_dishes/spicy_cheddar_biscuit/name",
+    "icon_sprite": "spr_ui_item_spicy_cheddar_biscuit",
+    "tags": [
+      "food",
+      "snack",
+      "adept",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 800
+    },
+    "recipe": {
+      "level_requirement": 28,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "chili_pepper"
+        },
+        {
+          "count": 1,
+          "item": "cheese"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

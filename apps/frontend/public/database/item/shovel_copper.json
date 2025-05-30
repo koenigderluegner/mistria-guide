@@ -1,0 +1,31 @@
+{
+  "id": "shovel_copper",
+  "item": {
+    "description": "items/other/blacksmithing/shovel_copper/description",
+    "name": "items/other/blacksmithing/shovel_copper/name",
+    "icon_sprite": "spr_ui_item_tool_copper_shovel",
+    "tags": [
+      "shovel",
+      "blacksmithing",
+      "tool",
+      "copper_tool"
+    ],
+    "value": {
+      "bin": 480,
+      "store": 1000
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "copper_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

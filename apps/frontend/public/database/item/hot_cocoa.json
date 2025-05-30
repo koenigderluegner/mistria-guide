@@ -1,0 +1,43 @@
+{
+  "id": "hot_cocoa",
+  "item": {
+    "description": "items/other/cooked_dishes/hot_cocoa/description",
+    "name": "items/other/cooked_dishes/hot_cocoa/name",
+    "icon_sprite": "spr_ui_item_hotcocoa",
+    "tags": [
+      "food",
+      "drink",
+      "hot_drink",
+      "drink_sound",
+      "choco"
+    ],
+    "value": {
+      "store": 320
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "chocolate"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 2,
+          "item": "wintergreen_berry"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

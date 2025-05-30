@@ -1,0 +1,29 @@
+{
+  "id": "paper",
+  "item": {
+    "description": "items/other/materials/paper/description",
+    "name": "items/other/materials/paper/name",
+    "icon_sprite": "spr_ui_item_paper",
+    "tags": [
+      "material",
+      "milling",
+      "misc_mill"
+    ],
+    "value": {
+      "bin": 20,
+      "store": 100
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "item": "fiber",
+          "count": 5
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

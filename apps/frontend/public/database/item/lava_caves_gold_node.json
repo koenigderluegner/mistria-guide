@@ -1,0 +1,37 @@
+{
+  "id": "lava_caves_gold_node",
+  "item": {
+    "description": "items/furniture/lava_cave_set/lava_caves_gold_node/description",
+    "name": "items/furniture/lava_cave_set/lava_caves_gold_node/name",
+    "icon_sprite": "spr_ui_item_furniture_gold_node",
+    "tags": [
+      "furniture",
+      "lava_set",
+      "misc_furniture"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 18,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "ore_gold"
+        },
+        {
+          "count": 5,
+          "item": "refined_stone"
+        },
+        {
+          "count": 2,
+          "item": "purple_mushroom"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

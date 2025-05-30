@@ -1,0 +1,29 @@
+{
+  "id": "tuna_sashimi",
+  "item": {
+    "description": "items/other/cooked_dishes/tuna_sashimi/description",
+    "name": "items/other/cooked_dishes/tuna_sashimi/name",
+    "icon_sprite": "spr_ui_item_tuna_sashimi",
+    "tags": [
+      "food",
+      "hand_crafted_dish",
+      "fishy"
+    ],
+    "value": {
+      "store": 120
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "tuna"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

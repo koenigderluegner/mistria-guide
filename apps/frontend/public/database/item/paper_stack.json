@@ -1,0 +1,29 @@
+{
+  "id": "paper_stack",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/paper_stack/description",
+    "name": "items/furniture/tabletop_clutter_set/paper_stack/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_paper_stack",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "paper"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

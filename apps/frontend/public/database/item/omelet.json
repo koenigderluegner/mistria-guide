@@ -1,0 +1,40 @@
+{
+  "id": "omelet",
+  "item": {
+    "description": "items/other/cooked_dishes/omelet/description",
+    "name": "items/other/cooked_dishes/omelet/name",
+    "icon_sprite": "spr_ui_item_omelet",
+    "tags": [
+      "food",
+      "fried_dish"
+    ],
+    "value": {
+      "store": 300
+    },
+    "recipe": {
+      "level_requirement": 22,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "egg"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "cheese"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

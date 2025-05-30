@@ -1,0 +1,13 @@
+{
+  "id": "horse_potion",
+  "item": {
+    "description": "items/other/misc/horse_potion/description",
+    "icon_sprite": "spr_ui_item_stinkypotion",
+    "tags": [
+      "drink_sound"
+    ],
+    "value": {
+      "bin": 1
+    }
+  }
+}

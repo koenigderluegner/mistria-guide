@@ -1,0 +1,14 @@
+{
+  "id": "seed_burdock_root",
+  "item": {
+    "description": "items/other/crops_and_forage/seed_burdock_root/description",
+    "name": "items/other/crops_and_forage/seed_burdock_root/name",
+    "icon_sprite": "spr_ui_item_bagseed_burdock_icon",
+    "tags": [
+      "seed"
+    ],
+    "value": {
+      "bin": 10
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "upper_mines_mushroom",
+  "item": {
+    "description": "items/mines/upper_mines/upper_mines_mushroom/description",
+    "name": "items/mines/upper_mines/upper_mines_mushroom/name",
+    "icon_sprite": "spr_ui_item_upper_mines_mushroom",
+    "tags": [
+      "forageable",
+      "mines_forageable"
+    ],
+    "value": {
+      "bin": 20
+    }
+  }
+}

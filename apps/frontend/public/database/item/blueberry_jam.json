@@ -1,0 +1,32 @@
+{
+  "id": "blueberry_jam",
+  "item": {
+    "description": "items/other/cooked_dishes/blueberry_jam/description",
+    "name": "items/other/cooked_dishes/blueberry_jam/name",
+    "icon_sprite": "spr_ui_item_blueberry_jam",
+    "tags": [
+      "food",
+      "jam"
+    ],
+    "value": {
+      "store": 150
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 6,
+          "item": "blueberry"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

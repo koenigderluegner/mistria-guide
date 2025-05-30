@@ -1,0 +1,38 @@
+{
+  "id": "bell_berry_bakewell_tart",
+  "item": {
+    "description": "items/other/cooked_dishes/bell_berry_bakewell_tart/description",
+    "name": "items/other/cooked_dishes/bell_berry_bakewell_tart/name",
+    "icon_sprite": "spr_ui_item_bell_berry_bakewell_tart",
+    "tags": [
+      "food",
+      "baked_dessert",
+      "no_inn_plate"
+    ],
+    "recipe": {
+      "level_requirement": 26,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "bell_berry"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

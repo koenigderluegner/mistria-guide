@@ -1,0 +1,28 @@
+{
+  "id": "armored_bass",
+  "item": {
+    "description": "items/mines/lava_caves/armored_bass/description",
+    "name": "items/mines/lava_caves/armored_bass/name",
+    "icon_sprite": "spr_ui_item_fish_medium_armored_bass",
+    "tags": [
+      "fishable"
+    ],
+    "value": {
+      "bin": 65
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": false,
+    "water_type": "river",
+    "weather": false,
+    "locations": false,
+    "size": "medium",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "mines",
+    "is_chest": false,
+    "perk": []
+  }
+}

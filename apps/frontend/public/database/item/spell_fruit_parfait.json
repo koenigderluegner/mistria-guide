@@ -1,0 +1,48 @@
+{
+  "id": "spell_fruit_parfait",
+  "item": {
+    "description": "items/other/cooked_dishes/spell_fruit_parfait/description",
+    "name": "items/other/cooked_dishes/spell_fruit_parfait/name",
+    "icon_sprite": "spr_ui_item_spell_fruit_parfait",
+    "tags": [
+      "food",
+      "frozen_dessert"
+    ],
+    "value": {
+      "store": 1400
+    },
+    "recipe": {
+      "level_requirement": 40,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "spell_fruit"
+        },
+        {
+          "count": 1,
+          "item": "lava_chestnuts"
+        },
+        {
+          "count": 1,
+          "item": "crystal_berries"
+        },
+        {
+          "count": 1,
+          "item": "sweetroot"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "golden_cow_milk"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "spring_double_bed_pink",
+  "item": {
+    "description": "items/furniture/spring_set/spring_double_bed_pink/description",
+    "name": "items/furniture/spring_set/spring_double_bed_pink/name",
+    "icon_sprite": "spr_ui_item_furniture_spring_double_bed_pink",
+    "tags": [
+      "furniture",
+      "double_bed",
+      "spring_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 60,
+          "item": "basic_wood"
+        },
+        {
+          "count": 4,
+          "item": "hard_wood"
+        },
+        {
+          "count": 5,
+          "item": "cattail"
+        },
+        {
+          "count": 2,
+          "item": "tulip"
+        },
+        {
+          "count": 6,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "tiger_swallowtail_butterfly",
+  "item": {
+    "description": "items/other/bugs/tiger_swallowtail_butterfly/description",
+    "name": "items/other/bugs/tiger_swallowtail_butterfly/name",
+    "icon_sprite": "spr_ui_item_insect_tigerswallowtailbutterfly",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 15
+    }
+  },
+  "bug": {
+    "type": "fly_wave",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

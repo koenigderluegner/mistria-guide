@@ -1,0 +1,37 @@
+{
+  "id": "bathroom_bench_white",
+  "item": {
+    "description": "items/furniture/bathroom_furniture_set/bathroom_bench_white/description",
+    "name": "items/furniture/bathroom_furniture_set/bathroom_bench_white/name",
+    "icon_sprite": "spr_ui_item_furniture_bathroom_bench_white",
+    "tags": [
+      "furniture",
+      "misc_seating",
+      "bathroom_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "hard_wood"
+        },
+        {
+          "count": 3,
+          "item": "clay"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

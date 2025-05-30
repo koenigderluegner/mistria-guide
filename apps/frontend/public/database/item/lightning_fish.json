@@ -1,0 +1,35 @@
+{
+  "id": "lightning_fish",
+  "item": {
+    "description": "items/fish/river/lightning_fish/description",
+    "name": "items/fish/river/lightning_fish/name",
+    "icon_sprite": "spr_ui_item_fish_medium_lightning_fish",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 500
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "summer"
+    ],
+    "water_type": "river",
+    "weather": [
+      "heavy_inclement"
+    ],
+    "locations": false,
+    "size": "medium",
+    "any_size": false,
+    "legendary": true,
+    "rarity": "uncommon",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": [
+      "legendary"
+    ]
+  }
+}

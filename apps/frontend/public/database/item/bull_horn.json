@@ -1,0 +1,17 @@
+{
+  "id": "bull_horn",
+  "item": {
+    "description": "items/other/ranching/bull_horn/description",
+    "name": "items/other/ranching/bull_horn/name",
+    "icon_sprite": "spr_ui_item_cow_horn_regular",
+    "tags": [
+      "ranching",
+      "animal_harvest",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 120,
+      "store": 360
+    }
+  }
+}

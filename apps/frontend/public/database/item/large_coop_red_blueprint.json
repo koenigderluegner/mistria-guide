@@ -1,0 +1,11 @@
+{
+  "id": "large_coop_red_blueprint",
+  "item": {
+    "description": "items/other/misc/large_coop_red_blueprint/description",
+    "name": "items/other/misc/large_coop_red_blueprint/name",
+    "icon_sprite": "spr_ui_item_large_coop_red",
+    "value": {
+      "store": 6000
+    }
+  }
+}

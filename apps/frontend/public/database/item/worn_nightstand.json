@@ -1,0 +1,30 @@
+{
+  "id": "worn_nightstand",
+  "item": {
+    "description": "items/furniture/default_worn_set/worn_nightstand/description",
+    "name": "items/furniture/default_worn_set/worn_nightstand/name",
+    "icon_sprite": "spr_ui_item_furniture_default_nightstand_v1",
+    "tags": [
+      "furniture",
+      "nightstand",
+      "default_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 80
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 15,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "spring_flooring_orange",
+  "item": {
+    "description": "items/furniture/spring_set/spring_flooring_orange/description",
+    "name": "items/furniture/spring_set/spring_flooring_orange/name",
+    "icon_sprite": "spr_ui_item_furniture_spring_flooring_orange",
+    "tags": [
+      "furniture",
+      "wood_flooring",
+      "spring_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "ore_copper"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

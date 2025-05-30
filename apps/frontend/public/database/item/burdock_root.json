@@ -1,0 +1,15 @@
+{
+  "id": "burdock_root",
+  "item": {
+    "description": "items/other/crops_and_forage/burdock_root/description",
+    "name": "items/other/crops_and_forage/burdock_root/name",
+    "icon_sprite": "spr_ui_item_burdock_root",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 120
+    }
+  }
+}

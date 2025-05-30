@@ -1,0 +1,16 @@
+{
+  "id": "heather",
+  "item": {
+    "description": "items/other/crops_and_forage/heather/description",
+    "name": "items/other/crops_and_forage/heather/name",
+    "icon_sprite": "spr_ui_item_heather",
+    "tags": [
+      "forageable",
+      "flower"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 120
+    }
+  }
+}

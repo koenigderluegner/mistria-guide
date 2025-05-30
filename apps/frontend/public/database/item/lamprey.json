@@ -1,0 +1,31 @@
+{
+  "id": "lamprey",
+  "item": {
+    "description": "items/fish/river/lamprey/description",
+    "name": "items/fish/river/lamprey/name",
+    "icon_sprite": "spr_ui_item_fish_small_lamprey",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 70
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "fall"
+    ],
+    "water_type": "river",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "very_common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

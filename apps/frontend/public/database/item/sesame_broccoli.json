@@ -1,0 +1,32 @@
+{
+  "id": "sesame_broccoli",
+  "item": {
+    "description": "items/other/cooked_dishes/sesame_broccoli/description",
+    "name": "items/other/cooked_dishes/sesame_broccoli/name",
+    "icon_sprite": "spr_ui_item_sesame_broccoli",
+    "tags": [
+      "food",
+      "greens"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "broccoli"
+        },
+        {
+          "count": 1,
+          "item": "sesame"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

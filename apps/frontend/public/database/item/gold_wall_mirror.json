@@ -1,0 +1,33 @@
+{
+  "id": "gold_wall_mirror",
+  "item": {
+    "description": "items/furniture/bathroom_furniture_set/gold_wall_mirror/description",
+    "name": "items/furniture/bathroom_furniture_set/gold_wall_mirror/name",
+    "icon_sprite": "spr_ui_item_furniture_bathroom_wall_mirror_gold",
+    "tags": [
+      "furniture",
+      "misc_wall_decor",
+      "bathroom_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 32,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "hard_wood"
+        },
+        {
+          "count": 4,
+          "item": "glass"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

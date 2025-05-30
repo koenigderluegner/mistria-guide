@@ -1,0 +1,33 @@
+{
+  "id": "small_bathmat_black",
+  "item": {
+    "description": "items/furniture/bathroom_furniture_set/small_bathmat_black/description",
+    "name": "items/furniture/bathroom_furniture_set/small_bathmat_black/name",
+    "icon_sprite": "spr_ui_item_furniture_small_bathmat_black",
+    "tags": [
+      "furniture",
+      "small_rug",
+      "bathroom_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 34,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "fiber"
+        },
+        {
+          "count": 1,
+          "item": "sheep_wool"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

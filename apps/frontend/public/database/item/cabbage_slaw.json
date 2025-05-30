@@ -1,0 +1,32 @@
+{
+  "id": "cabbage_slaw",
+  "item": {
+    "description": "items/other/cooked_dishes/cabbage_slaw/description",
+    "name": "items/other/cooked_dishes/cabbage_slaw/name",
+    "icon_sprite": "spr_ui_item_cabbageslaw",
+    "tags": [
+      "food",
+      "salad"
+    ],
+    "value": {
+      "store": 230
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "cabbage"
+        },
+        {
+          "count": 1,
+          "item": "fennel"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

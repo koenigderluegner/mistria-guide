@@ -1,0 +1,18 @@
+{
+  "id": "perfect_diamond",
+  "item": {
+    "description": "items/other/artifacts/perfect_diamond/description",
+    "name": "items/other/artifacts/perfect_diamond/name",
+    "icon_sprite": "spr_ui_item_perfect_diamond",
+    "tags": [
+      "gem",
+      "material",
+      "ore",
+      "archaeology"
+    ],
+    "value": {
+      "bin": 225,
+      "renown": 10
+    }
+  }
+}

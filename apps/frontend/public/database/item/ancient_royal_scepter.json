@@ -1,0 +1,15 @@
+{
+  "id": "ancient_royal_scepter",
+  "item": {
+    "description": "items/other/artifacts/ancient_royal_scepter/description",
+    "name": "items/other/artifacts/ancient_royal_scepter/name",
+    "icon_sprite": "spr_ui_item_ancient_royal_scepter",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 125,
+      "renown": 20
+    }
+  }
+}

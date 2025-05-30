@@ -1,0 +1,30 @@
+{
+  "id": "cabin_firewood_oak",
+  "item": {
+    "description": "items/furniture/rustic_cabin_set/cabin_firewood_oak/description",
+    "name": "items/furniture/rustic_cabin_set/cabin_firewood_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_cabin_firewood_v3",
+    "tags": [
+      "furniture",
+      "misc_furniture",
+      "rustic_cabin_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 150
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

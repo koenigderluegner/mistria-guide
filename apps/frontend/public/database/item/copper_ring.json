@@ -1,0 +1,31 @@
+{
+  "id": "copper_ring",
+  "item": {
+    "description": "items/other/armor/copper_ring/description",
+    "name": "items/other/armor/copper_ring/name",
+    "icon_sprite": "spr_ui_item_equipment_copper_ring",
+    "tags": [
+      "accessory",
+      "armor",
+      "copper_armor",
+      "blacksmithing"
+    ],
+    "value": {
+      "bin": 480,
+      "store": 1000
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "copper_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

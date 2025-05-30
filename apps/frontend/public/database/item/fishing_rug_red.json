@@ -1,0 +1,33 @@
+{
+  "id": "fishing_rug_red",
+  "item": {
+    "description": "items/furniture/fishing_set/fishing_rug_red/description",
+    "name": "items/furniture/fishing_set/fishing_rug_red/name",
+    "icon_sprite": "spr_ui_item_furniture_fishing_rug_red",
+    "tags": [
+      "furniture",
+      "medium_rug",
+      "fishing_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "fiber"
+        },
+        {
+          "count": 2,
+          "item": "seaweed"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

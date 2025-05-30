@@ -1,0 +1,17 @@
+{
+  "id": "perfect_copper_ore",
+  "item": {
+    "description": "items/other/artifacts/perfect_copper_ore/description",
+    "name": "items/other/artifacts/perfect_copper_ore/name",
+    "icon_sprite": "spr_ui_item_perfect_copper_ore",
+    "tags": [
+      "material",
+      "ore",
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

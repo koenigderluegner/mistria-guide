@@ -1,0 +1,15 @@
+{
+  "id": "tea",
+  "item": {
+    "description": "items/other/crops_and_forage/tea/description",
+    "name": "items/other/crops_and_forage/tea/name",
+    "icon_sprite": "spr_ui_item_tea",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 135,
+      "store": 400
+    }
+  }
+}

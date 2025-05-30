@@ -1,0 +1,30 @@
+{
+  "id": "starter_wood_fence",
+  "item": {
+    "description": "items/furniture/starter_farm_set/starter_wood_fence/description",
+    "name": "items/furniture/starter_farm_set/starter_wood_fence/name",
+    "icon_sprite": "spr_ui_item_decor_starter_wood_fence",
+    "tags": [
+      "furniture",
+      "fencing",
+      "starter_farm_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 20
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

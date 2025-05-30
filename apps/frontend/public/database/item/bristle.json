@@ -1,0 +1,18 @@
+{
+  "id": "bristle",
+  "item": {
+    "description": "items/other/ranching/bristle/description",
+    "name": "items/other/ranching/bristle/name",
+    "icon_sprite": "spr_ui_item_capybara_bristle_regular",
+    "tags": [
+      "ranching",
+      "animal_fibre",
+      "animal_harvest",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 120,
+      "store": 360
+    }
+  }
+}

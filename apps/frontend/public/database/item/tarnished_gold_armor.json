@@ -1,0 +1,16 @@
+{
+  "id": "tarnished_gold_armor",
+  "item": {
+    "description": "items/other/armor/tarnished_gold_armor/description",
+    "name": "items/other/armor/tarnished_gold_armor/name",
+    "icon_sprite": "spr_ui_item_equipment_tarnished_gold_chestpiece",
+    "tags": [
+      "chest",
+      "armor"
+    ],
+    "value": {
+      "bin": 400,
+      "store": 800
+    }
+  }
+}

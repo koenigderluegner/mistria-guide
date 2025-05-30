@@ -1,0 +1,15 @@
+{
+  "id": "aldarian_gauntlet",
+  "item": {
+    "description": "items/other/artifacts/aldarian_gauntlet/description",
+    "name": "items/other/artifacts/aldarian_gauntlet/name",
+    "icon_sprite": "spr_ui_item_aldarian_gauntlet",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

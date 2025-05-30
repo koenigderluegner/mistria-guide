@@ -1,0 +1,15 @@
+{
+  "id": "meteorite",
+  "item": {
+    "description": "items/other/artifacts/meteorite/description",
+    "name": "items/other/artifacts/meteorite/name",
+    "icon_sprite": "spr_ui_item_meteorite",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 125,
+      "renown": 20
+    }
+  }
+}

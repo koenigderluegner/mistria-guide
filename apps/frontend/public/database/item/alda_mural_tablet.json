@@ -1,0 +1,15 @@
+{
+  "id": "alda_mural_tablet",
+  "item": {
+    "description": "items/other/artifacts/alda_mural_tablet/description",
+    "name": "items/other/artifacts/alda_mural_tablet/name",
+    "icon_sprite": "spr_ui_item_alda_mural_tablet",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

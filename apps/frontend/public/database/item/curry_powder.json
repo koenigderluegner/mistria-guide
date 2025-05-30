@@ -1,0 +1,16 @@
+{
+  "id": "curry_powder",
+  "item": {
+    "description": "items/other/materials/curry_powder/description",
+    "name": "items/other/materials/curry_powder/name",
+    "icon_sprite": "spr_ui_item_curry_powder",
+    "tags": [
+      "pantry",
+      "material"
+    ],
+    "value": {
+      "bin": 20,
+      "store": 40
+    }
+  }
+}

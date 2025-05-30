@@ -1,0 +1,44 @@
+{
+  "id": "glowberry_cookies",
+  "item": {
+    "description": "items/other/cooked_dishes/glowberry_cookies/description",
+    "name": "items/other/cooked_dishes/glowberry_cookies/name",
+    "icon_sprite": "spr_ui_item_glowberry_cookies",
+    "tags": [
+      "food",
+      "baked_dessert"
+    ],
+    "value": {
+      "store": 600
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 6,
+          "item": "glowberry"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "egg"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

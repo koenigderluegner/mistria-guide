@@ -1,0 +1,15 @@
+{
+  "id": "alda_feather_pendant",
+  "item": {
+    "description": "items/other/artifacts/alda_feather_pendant/description",
+    "name": "items/other/artifacts/alda_feather_pendant/name",
+    "icon_sprite": "spr_ui_item_alda_feather_pendant",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

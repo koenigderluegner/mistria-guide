@@ -1,0 +1,46 @@
+{
+  "id": "crab_cakes",
+  "item": {
+    "description": "items/other/cooked_dishes/crab_cakes/description",
+    "name": "items/other/cooked_dishes/crab_cakes/name",
+    "icon_sprite": "spr_ui_item_crab_cakes",
+    "tags": [
+      "food",
+      "simmered_dish",
+      "fishy",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 800
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "crab"
+        },
+        {
+          "count": 1,
+          "item": "egg"
+        },
+        {
+          "count": 1,
+          "item": "mayonnaise"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "dill"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

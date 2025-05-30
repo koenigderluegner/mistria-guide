@@ -1,0 +1,31 @@
+{
+  "id": "carp",
+  "item": {
+    "description": "items/fish/river/carp/description",
+    "name": "items/fish/river/carp/name",
+    "icon_sprite": "spr_ui_item_fish_medium_carp",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 35
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring"
+    ],
+    "water_type": "river",
+    "weather": false,
+    "locations": false,
+    "size": "medium",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

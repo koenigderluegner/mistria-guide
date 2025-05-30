@@ -1,0 +1,11 @@
+{
+  "id": "basic_pouch",
+  "item": {
+    "description": "items/other/misc/basic_pouch/description",
+    "name": "items/other/misc/basic_pouch/name",
+    "icon_sprite": "spr_ui_item_basic_pouch",
+    "value": {
+      "store": 1000
+    }
+  }
+}

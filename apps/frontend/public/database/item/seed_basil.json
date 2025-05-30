@@ -1,0 +1,14 @@
+{
+  "id": "seed_basil",
+  "item": {
+    "description": "items/other/crops_and_forage/seed_basil/description",
+    "name": "items/other/crops_and_forage/seed_basil/name",
+    "icon_sprite": "spr_ui_item_bagseed_basil_icon",
+    "tags": [
+      "seed"
+    ],
+    "value": {
+      "bin": 15
+    }
+  }
+}

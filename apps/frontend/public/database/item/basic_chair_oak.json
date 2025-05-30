@@ -1,0 +1,38 @@
+{
+  "id": "basic_chair_oak",
+  "item": {
+    "description": "items/furniture/basic_set/basic_chair_oak/description",
+    "name": "items/furniture/basic_set/basic_chair_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_basic_chair_v1",
+    "tags": [
+      "furniture",
+      "dining_chair",
+      "basic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 150
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "basic_wood"
+        },
+        {
+          "count": 2,
+          "item": "cattail"
+        },
+        {
+          "count": 2,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

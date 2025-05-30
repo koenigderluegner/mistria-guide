@@ -1,0 +1,37 @@
+{
+  "id": "cavern_hewn_rock_bookshelf",
+  "item": {
+    "description": "items/furniture/cavern_set/cavern_hewn_rock_bookshelf/description",
+    "name": "items/furniture/cavern_set/cavern_hewn_rock_bookshelf/name",
+    "icon_sprite": "spr_ui_item_furniture_hewn_rock_bookshelf",
+    "tags": [
+      "furniture",
+      "cavern_set",
+      "bookshelf"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 14,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "ore_stone"
+        },
+        {
+          "count": 5,
+          "item": "paper"
+        },
+        {
+          "count": 2,
+          "item": "earthshroom"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

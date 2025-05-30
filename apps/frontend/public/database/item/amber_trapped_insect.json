@@ -1,0 +1,15 @@
+{
+  "id": "amber_trapped_insect",
+  "item": {
+    "description": "items/other/artifacts/amber_trapped_insect/description",
+    "name": "items/other/artifacts/amber_trapped_insect/name",
+    "icon_sprite": "spr_ui_item_amber_trapped_insect",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

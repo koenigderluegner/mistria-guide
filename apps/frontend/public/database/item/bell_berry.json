@@ -1,0 +1,16 @@
+{
+  "id": "bell_berry",
+  "item": {
+    "description": "items/other/crops_and_forage/bell_berry/description",
+    "name": "items/other/crops_and_forage/bell_berry/name",
+    "icon_sprite": "spr_ui_item_bush_bell_berry",
+    "tags": [
+      "forageable",
+      "berry"
+    ],
+    "value": {
+      "bin": 20,
+      "store": 100
+    }
+  }
+}

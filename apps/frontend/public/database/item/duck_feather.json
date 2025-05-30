@@ -1,0 +1,19 @@
+{
+  "id": "duck_feather",
+  "item": {
+    "description": "items/other/ranching/duck_feather/description",
+    "name": "items/other/ranching/duck_feather/name",
+    "icon_sprite": "spr_ui_item_duck_feather_regular",
+    "tags": [
+      "ranching",
+      "feather",
+      "animal_fibre",
+      "animal_harvest",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 90,
+      "store": 270
+    }
+  }
+}

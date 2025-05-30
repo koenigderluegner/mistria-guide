@@ -1,0 +1,40 @@
+{
+  "id": "criminal_confession",
+  "item": {
+    "description": "items/other/artifacts/criminal_confession/description",
+    "name": "items/other/artifacts/criminal_confession/name",
+    "icon_sprite": "spr_ui_item_criminal_confession",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 10
+    }
+  },
+  "fish": {
+    "item": "unidentified_artifact",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "water_type": [
+      "ocean",
+      "river",
+      "pond"
+    ],
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": true,
+    "legendary": false,
+    "rarity": "artifact_divespots",
+    "retrieval": "divespot",
+    "is_chest": false,
+    "perk": [
+      "sunken_secrets"
+    ]
+  }
+}

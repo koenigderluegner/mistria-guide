@@ -1,0 +1,32 @@
+{
+  "id": "red_snapper",
+  "item": {
+    "description": "items/fish/ocean/red_snapper/description",
+    "name": "items/fish/ocean/red_snapper/name",
+    "icon_sprite": "spr_ui_item_fish_large_red_snapper",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 45
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "water_type": "ocean",
+    "weather": false,
+    "locations": false,
+    "size": "large",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

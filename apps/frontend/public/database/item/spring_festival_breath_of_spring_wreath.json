@@ -1,0 +1,15 @@
+{
+  "id": "spring_festival_breath_of_spring_wreath",
+  "item": {
+    "description": "items/furniture/spring_festival_set/spring_festival_breath_of_spring_wreath/description",
+    "name": "items/furniture/spring_festival_set/spring_festival_breath_of_spring_wreath/name",
+    "icon_sprite": "spr_ui_item_decor_spring_festival_breath_of_spring_wreath",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 150,
+      "store": 300
+    }
+  }
+}

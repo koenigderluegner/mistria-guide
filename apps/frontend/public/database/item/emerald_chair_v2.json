@@ -1,0 +1,41 @@
+{
+  "id": "emerald_chair_v2",
+  "item": {
+    "description": "items/furniture/emerald_set/emerald_chair_v2/description",
+    "name": "items/furniture/emerald_set/emerald_chair_v2/name",
+    "icon_sprite": "spr_ui_item_furniture_emerald_chair_v2",
+    "tags": [
+      "furniture",
+      "dining_chair",
+      "emerald_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 34,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "hard_wood"
+        },
+        {
+          "count": 5,
+          "item": "ore_emerald"
+        },
+        {
+          "count": 2,
+          "item": "gold_ingot"
+        },
+        {
+          "count": 2,
+          "item": "golden_bristle"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

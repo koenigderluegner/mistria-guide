@@ -1,0 +1,37 @@
+{
+  "id": "cottage_garden_trellis_v3",
+  "item": {
+    "description": "items/furniture/cottage_garden_set/cottage_garden_trellis_v3/description",
+    "name": "items/furniture/cottage_garden_set/cottage_garden_trellis_v3/name",
+    "icon_sprite": "spr_ui_item_decor_cottage_garden_trellis_v3",
+    "tags": [
+      "furniture",
+      "garden_decor",
+      "cottage_garden"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 24,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "hard_wood"
+        },
+        {
+          "count": 1,
+          "item": "sod"
+        },
+        {
+          "count": 1,
+          "item": "essence_drop"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

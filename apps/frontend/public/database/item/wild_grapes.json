@@ -1,0 +1,15 @@
+{
+  "id": "wild_grapes",
+  "item": {
+    "description": "items/other/crops_and_forage/wild_grapes/description",
+    "name": "items/other/crops_and_forage/wild_grapes/name",
+    "icon_sprite": "spr_ui_item_bush_grape",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 25,
+      "store": 200
+    }
+  }
+}

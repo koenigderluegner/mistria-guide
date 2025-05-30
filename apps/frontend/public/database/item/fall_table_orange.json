@@ -1,0 +1,37 @@
+{
+  "id": "fall_table_orange",
+  "item": {
+    "description": "items/furniture/fall_set/fall_table_orange/description",
+    "name": "items/furniture/fall_set/fall_table_orange/name",
+    "icon_sprite": "spr_ui_item_furniture_fall_table_orange",
+    "tags": [
+      "furniture",
+      "dining_table",
+      "fall_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 24,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "hard_wood"
+        },
+        {
+          "count": 3,
+          "item": "rabbit_wool"
+        },
+        {
+          "count": 2,
+          "item": "essence_drop"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

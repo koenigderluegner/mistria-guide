@@ -1,0 +1,28 @@
+{
+  "id": "lava_piranha",
+  "item": {
+    "description": "items/mines/lava_caves/lava_piranha/description",
+    "name": "items/mines/lava_caves/lava_piranha/name",
+    "icon_sprite": "spr_ui_item_fish_small_lava_piranha",
+    "tags": [
+      "fishable"
+    ],
+    "value": {
+      "bin": 50
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": false,
+    "water_type": "river",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "mines",
+    "is_chest": false,
+    "perk": []
+  }
+}

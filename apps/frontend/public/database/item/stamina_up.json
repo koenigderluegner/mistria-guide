@@ -1,0 +1,11 @@
+{
+  "id": "stamina_up",
+  "item": {
+    "description": "items/other/misc/stamina_up/description",
+    "name": "items/other/misc/stamina_up/name",
+    "icon_sprite": "spr_ui_item_stamina_potion",
+    "tags": [
+      "drink_sound"
+    ]
+  }
+}

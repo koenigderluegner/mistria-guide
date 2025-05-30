@@ -1,0 +1,15 @@
+{
+  "id": "miners_slab",
+  "item": {
+    "description": "items/mines/upper_mines/miners_slab/description",
+    "name": "items/mines/upper_mines/miners_slab/name",
+    "icon_sprite": "spr_ui_item_miners_slab",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

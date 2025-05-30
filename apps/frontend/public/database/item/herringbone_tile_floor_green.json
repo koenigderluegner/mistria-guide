@@ -1,0 +1,33 @@
+{
+  "id": "herringbone_tile_floor_green",
+  "item": {
+    "description": "items/furniture/bathroom_furniture_set/herringbone_tile_floor_green/description",
+    "name": "items/furniture/bathroom_furniture_set/herringbone_tile_floor_green/name",
+    "icon_sprite": "spr_ui_item_furniture_herringbone_tile_flooring_green",
+    "tags": [
+      "furniture",
+      "tile_flooring",
+      "bathroom_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "clay"
+        },
+        {
+          "count": 5,
+          "item": "monster_shell"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "oregano",
+  "item": {
+    "description": "items/other/crops_and_forage/oregano/description",
+    "name": "items/other/crops_and_forage/oregano/name",
+    "icon_sprite": "spr_ui_item_oregano",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 120
+    }
+  }
+}

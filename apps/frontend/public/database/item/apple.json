@@ -1,0 +1,15 @@
+{
+  "id": "apple",
+  "item": {
+    "description": "items/other/crops_and_forage/apple/description",
+    "name": "items/other/crops_and_forage/apple/name",
+    "icon_sprite": "spr_ui_item_apple",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 45,
+      "store": 180
+    }
+  }
+}

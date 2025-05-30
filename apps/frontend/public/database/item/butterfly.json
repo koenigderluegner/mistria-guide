@@ -1,0 +1,40 @@
+{
+  "id": "butterfly",
+  "item": {
+    "description": "items/other/bugs/butterfly/description",
+    "name": "items/other/bugs/butterfly/name",
+    "icon_sprite": "spr_ui_item_insect_butterfly",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "bug": {
+    "type": "fly_wave",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "hours": [
+      6,
+      20
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop",
+      "bush"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

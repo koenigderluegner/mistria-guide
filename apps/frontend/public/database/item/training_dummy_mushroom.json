@@ -1,0 +1,37 @@
+{
+  "id": "training_dummy_mushroom",
+  "item": {
+    "description": "items/furniture/training_dummy_set/training_dummy_mushroom/description",
+    "name": "items/furniture/training_dummy_set/training_dummy_mushroom/name",
+    "icon_sprite": "spr_ui_item_decor_training_dummy_mushroom",
+    "tags": [
+      "furniture",
+      "training_dummy_set",
+      "misc_decor"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": "6",
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        },
+        {
+          "count": 10,
+          "item": "fiber"
+        },
+        {
+          "count": 5,
+          "item": "monster_powder"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

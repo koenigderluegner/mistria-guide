@@ -1,0 +1,33 @@
+{
+  "id": "stone_storage_chest_v1",
+  "item": {
+    "description": "items/furniture/stone_set/stone_storage_chest_v1/description",
+    "name": "items/furniture/stone_set/stone_storage_chest_v1/name",
+    "icon_sprite": "spr_ui_item_decor_stone_storage_chest_v1",
+    "tags": [
+      "furniture",
+      "stone_garden_set",
+      "chest_and_storage"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 40,
+          "item": "ore_stone"
+        },
+        {
+          "count": 2,
+          "item": "monster_fang"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

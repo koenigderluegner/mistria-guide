@@ -1,0 +1,45 @@
+{
+  "id": "lobster_roll",
+  "item": {
+    "description": "items/other/cooked_dishes/lobster_roll/description",
+    "name": "items/other/cooked_dishes/lobster_roll/name",
+    "icon_sprite": "spr_ui_item_lobster_roll",
+    "tags": [
+      "food",
+      "hand_crafted_dish",
+      "fishy"
+    ],
+    "value": {
+      "store": 1000
+    },
+    "recipe": {
+      "level_requirement": 38,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "lobster"
+        },
+        {
+          "count": 1,
+          "item": "bread"
+        },
+        {
+          "count": 1,
+          "item": "mayonnaise"
+        },
+        {
+          "count": 1,
+          "item": "lemon"
+        },
+        {
+          "count": 1,
+          "item": "wild_leek"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

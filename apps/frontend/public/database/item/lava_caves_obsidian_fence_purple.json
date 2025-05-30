@@ -1,0 +1,33 @@
+{
+  "id": "lava_caves_obsidian_fence_purple",
+  "item": {
+    "description": "items/furniture/lava_cave_set/lava_caves_obsidian_fence_purple/description",
+    "name": "items/furniture/lava_cave_set/lava_caves_obsidian_fence_purple/name",
+    "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_fence_purple",
+    "tags": [
+      "furniture",
+      "lava_set",
+      "fencing"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "obsidian"
+        },
+        {
+          "count": 1,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

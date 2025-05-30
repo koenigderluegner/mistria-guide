@@ -1,0 +1,41 @@
+{
+  "id": "spring_bed_purple",
+  "item": {
+    "description": "items/furniture/spring_set/spring_bed_purple/description",
+    "name": "items/furniture/spring_set/spring_bed_purple/name",
+    "icon_sprite": "spr_ui_item_furniture_spring_bed_purple",
+    "tags": [
+      "furniture",
+      "single_bed",
+      "spring_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 40,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "cattail"
+        },
+        {
+          "count": 1,
+          "item": "lilac"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

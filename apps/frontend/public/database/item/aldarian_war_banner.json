@@ -1,0 +1,15 @@
+{
+  "id": "aldarian_war_banner",
+  "item": {
+    "description": "items/other/artifacts/aldarian_war_banner/description",
+    "name": "items/other/artifacts/aldarian_war_banner/name",
+    "icon_sprite": "spr_ui_item_aldarian_war_banner",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

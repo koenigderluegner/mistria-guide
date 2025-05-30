@@ -1,0 +1,15 @@
+{
+  "id": "dill",
+  "item": {
+    "description": "items/other/crops_and_forage/dill/description",
+    "name": "items/other/crops_and_forage/dill/name",
+    "icon_sprite": "spr_ui_item_dill",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 120
+    }
+  }
+}

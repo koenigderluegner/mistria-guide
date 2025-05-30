@@ -1,0 +1,15 @@
+{
+  "id": "ancient_gold_coin",
+  "item": {
+    "description": "items/other/artifacts/ancient_gold_coin/description",
+    "name": "items/other/artifacts/ancient_gold_coin/name",
+    "icon_sprite": "spr_ui_item_ancient_gold_coin",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

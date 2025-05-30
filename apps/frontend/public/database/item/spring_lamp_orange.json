@@ -1,0 +1,37 @@
+{
+  "id": "spring_lamp_orange",
+  "item": {
+    "description": "items/furniture/spring_set/spring_lamp_orange/description",
+    "name": "items/furniture/spring_set/spring_lamp_orange/name",
+    "icon_sprite": "spr_ui_item_furniture_spring_lamp_orange",
+    "tags": [
+      "furniture",
+      "table_lighting",
+      "spring_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "clay"
+        },
+        {
+          "count": 3,
+          "item": "glass"
+        },
+        {
+          "count": 1,
+          "item": "monster_core"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

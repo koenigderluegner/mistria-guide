@@ -1,0 +1,51 @@
+{
+  "id": "glass",
+  "item": {
+    "description": "items/other/materials/glass/description",
+    "name": "items/other/materials/glass/name",
+    "icon_sprite": "spr_ui_item_glass",
+    "tags": [
+      "refined_material",
+      "material"
+    ],
+    "value": {
+      "bin": 15,
+      "store": 80
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "count": 8,
+          "item": "ore_stone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  },
+  "fish": {
+    "item": "glass",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "water_type": [
+      "ocean"
+    ],
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "junk",
+    "retrieval": [
+      "divespot"
+    ],
+    "is_chest": false,
+    "perk": []
+  }
+}

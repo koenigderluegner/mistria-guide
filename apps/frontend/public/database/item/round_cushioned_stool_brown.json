@@ -1,0 +1,33 @@
+{
+  "id": "round_cushioned_stool_brown",
+  "item": {
+    "description": "items/furniture/bathroom_furniture_set/round_cushioned_stool_brown/description",
+    "name": "items/furniture/bathroom_furniture_set/round_cushioned_stool_brown/name",
+    "icon_sprite": "spr_ui_item_furniture_round_cushion_stool_brown",
+    "tags": [
+      "furniture",
+      "stool",
+      "bathroom_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 36,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "hard_wood"
+        },
+        {
+          "count": 2,
+          "item": "bristle"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

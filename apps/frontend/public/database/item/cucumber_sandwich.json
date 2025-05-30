@@ -1,0 +1,40 @@
+{
+  "id": "cucumber_sandwich",
+  "item": {
+    "description": "items/other/cooked_dishes/cucumber_sandwich/description",
+    "name": "items/other/cooked_dishes/cucumber_sandwich/name",
+    "icon_sprite": "spr_ui_item_cucumber_sandwich",
+    "tags": [
+      "food",
+      "hand_crafted_dish"
+    ],
+    "value": {
+      "store": 1200
+    },
+    "recipe": {
+      "level_requirement": 22,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "cucumber"
+        },
+        {
+          "count": 1,
+          "item": "mayonnaise"
+        },
+        {
+          "count": 1,
+          "item": "cheese"
+        },
+        {
+          "count": 1,
+          "item": "bread"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

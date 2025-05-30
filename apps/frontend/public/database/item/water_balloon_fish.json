@@ -1,0 +1,28 @@
+{
+  "id": "water_balloon_fish",
+  "item": {
+    "description": "items/mines/tide_caverns/water_balloon_fish/description",
+    "name": "items/mines/tide_caverns/water_balloon_fish/name",
+    "icon_sprite": "spr_ui_item_fish_medium_water_balloon_fish",
+    "tags": [
+      "fishable"
+    ],
+    "value": {
+      "bin": 50
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": false,
+    "water_type": "river",
+    "weather": false,
+    "locations": false,
+    "size": "medium",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "mines",
+    "is_chest": false,
+    "perk": []
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "humble_pie",
+  "item": {
+    "description": "items/other/cooked_dishes/humble_pie/description",
+    "name": "items/other/cooked_dishes/humble_pie/name",
+    "icon_sprite": "spr_ui_item_humblepie",
+    "value": {
+      "bin": 5
+    }
+  }
+}

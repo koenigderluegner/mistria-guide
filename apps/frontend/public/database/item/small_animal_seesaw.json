@@ -1,0 +1,11 @@
+{
+  "id": "small_animal_seesaw",
+  "item": {
+    "description": "items/other/ranching/small_animal_seesaw/description",
+    "name": "items/other/ranching/small_animal_seesaw/name",
+    "icon_sprite": "spr_ui_item_small_animal_toy_seesaw",
+    "value": {
+      "store": 500
+    }
+  }
+}

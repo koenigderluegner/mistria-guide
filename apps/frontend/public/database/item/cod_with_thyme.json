@@ -1,0 +1,37 @@
+{
+  "id": "cod_with_thyme",
+  "item": {
+    "description": "items/other/cooked_dishes/cod_with_thyme/description",
+    "name": "items/other/cooked_dishes/cod_with_thyme/name",
+    "icon_sprite": "spr_ui_item_cod_with_thyme",
+    "tags": [
+      "food",
+      "baked_dish",
+      "fishy"
+    ],
+    "value": {
+      "store": 250
+    },
+    "recipe": {
+      "level_requirement": 12,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "cod"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "thyme"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

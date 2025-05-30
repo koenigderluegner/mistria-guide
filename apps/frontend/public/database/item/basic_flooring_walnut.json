@@ -1,0 +1,30 @@
+{
+  "id": "basic_flooring_walnut",
+  "item": {
+    "description": "items/furniture/basic_set/basic_flooring_walnut/description",
+    "name": "items/furniture/basic_set/basic_flooring_walnut/name",
+    "icon_sprite": "spr_ui_item_furniture_basic_flooring_v2",
+    "tags": [
+      "furniture",
+      "wood_flooring",
+      "basic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 100
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cicada",
+  "item": {
+    "description": "items/other/bugs/cicada/description",
+    "name": "items/other/bugs/cicada/name",
+    "icon_sprite": "spr_ui_item_insect_cicada",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "canopy",
+      "grass"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "tree",
+      "stump"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

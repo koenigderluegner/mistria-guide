@@ -1,0 +1,29 @@
+{
+  "id": "crop_faux_ice_block",
+  "item": {
+    "description": "items/furniture/faux_plant_set/crop_faux_ice_block/description",
+    "name": "items/furniture/faux_plant_set/crop_faux_ice_block/name",
+    "icon_sprite": "spr_ui_item_decor_crop_faux_ice_block",
+    "tags": [
+      "furniture",
+      "farm_decor",
+      "faux_winter_plants_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "ice_block"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

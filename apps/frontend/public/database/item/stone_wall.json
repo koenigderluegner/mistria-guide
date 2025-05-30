@@ -1,0 +1,29 @@
+{
+  "id": "stone_wall",
+  "item": {
+    "description": "items/furniture/starter_farm_set/stone_wall/description",
+    "name": "items/furniture/starter_farm_set/stone_wall/name",
+    "icon_sprite": "spr_ui_item_fence_stone_wall",
+    "tags": [
+      "furniture",
+      "fencing",
+      "starter_farm_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "ore_stone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

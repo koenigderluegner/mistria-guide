@@ -1,0 +1,35 @@
+{
+  "id": "snow_fish",
+  "item": {
+    "description": "items/fish/ocean/snow_fish/description",
+    "name": "items/fish/ocean/snow_fish/name",
+    "icon_sprite": "spr_ui_item_fish_medium_snow_fish",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 500
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "winter"
+    ],
+    "water_type": "ocean",
+    "weather": [
+      "heavy_inclement"
+    ],
+    "locations": false,
+    "size": "medium",
+    "any_size": false,
+    "legendary": true,
+    "rarity": "uncommon",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": [
+      "legendary"
+    ]
+  }
+}

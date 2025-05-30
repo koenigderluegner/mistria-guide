@@ -1,0 +1,11 @@
+{
+  "id": "large_barn_red_blueprint",
+  "item": {
+    "description": "items/other/misc/large_barn_red_blueprint/description",
+    "name": "items/other/misc/large_barn_red_blueprint/name",
+    "icon_sprite": "spr_ui_item_large_barn_red",
+    "value": {
+      "store": 8000
+    }
+  }
+}

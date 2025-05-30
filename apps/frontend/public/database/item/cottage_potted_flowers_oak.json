@@ -1,0 +1,34 @@
+{
+  "id": "cottage_potted_flowers_oak",
+  "item": {
+    "description": "items/furniture/lovely_cottage_set/cottage_potted_flowers_oak/description",
+    "name": "items/furniture/lovely_cottage_set/cottage_potted_flowers_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_cottage_potted_flowers_v1",
+    "tags": [
+      "furniture",
+      "tabletop_plant",
+      "lovely_cottage_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "clay"
+        },
+        {
+          "count": 1,
+          "item": "small_grass_starter"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

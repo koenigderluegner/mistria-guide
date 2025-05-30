@@ -1,0 +1,31 @@
+{
+  "id": "angel_fish",
+  "item": {
+    "description": "items/fish/pond/angel_fish/description",
+    "name": "items/fish/pond/angel_fish/name",
+    "icon_sprite": "spr_ui_item_fish_small_angel_fish",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 45
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring"
+    ],
+    "water_type": "pond",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

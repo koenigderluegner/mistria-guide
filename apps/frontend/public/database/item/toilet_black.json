@@ -1,0 +1,37 @@
+{
+  "id": "toilet_black",
+  "item": {
+    "description": "items/furniture/bathroom_furniture_set/toilet_black/description",
+    "name": "items/furniture/bathroom_furniture_set/toilet_black/name",
+    "icon_sprite": "spr_ui_item_furniture_toilet_black",
+    "tags": [
+      "furniture",
+      "misc_furniture",
+      "bathroom_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 44,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "clay"
+        },
+        {
+          "count": 3,
+          "item": "monster_shell"
+        },
+        {
+          "count": 1,
+          "item": "tidestone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

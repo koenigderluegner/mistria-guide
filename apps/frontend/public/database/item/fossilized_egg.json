@@ -1,0 +1,16 @@
+{
+  "id": "fossilized_egg",
+  "item": {
+    "description": "items/other/artifacts/fossilized_egg/description",
+    "name": "items/other/artifacts/fossilized_egg/name",
+    "icon_sprite": "spr_ui_item_fossilized_egg",
+    "tags": [
+      "archaeology",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

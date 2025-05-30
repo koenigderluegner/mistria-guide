@@ -1,0 +1,15 @@
+{
+  "id": "ice_block",
+  "item": {
+    "description": "items/other/crops_and_forage/ice_block/description",
+    "name": "items/other/crops_and_forage/ice_block/name",
+    "icon_sprite": "spr_ui_item_ice_block",
+    "tags": [
+      "material"
+    ],
+    "value": {
+      "bin": 5,
+      "store": 25
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "summer_flooring_yellow",
+  "item": {
+    "description": "items/furniture/summer_set/summer_flooring_yellow/description",
+    "name": "items/furniture/summer_set/summer_flooring_yellow/name",
+    "icon_sprite": "spr_ui_item_furniture_summer_flooring_yellow",
+    "tags": [
+      "furniture",
+      "novelty_flooring",
+      "summer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 15,
+          "item": "sod"
+        },
+        {
+          "count": 2,
+          "item": "small_grass_starter"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

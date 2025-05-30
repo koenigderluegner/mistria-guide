@@ -1,0 +1,29 @@
+{
+  "id": "candle_chamberstick",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/candle_chamberstick/description",
+    "name": "items/furniture/tabletop_clutter_set/candle_chamberstick/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_candle_chamberstick",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

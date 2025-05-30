@@ -1,0 +1,15 @@
+{
+  "id": "nettle",
+  "item": {
+    "description": "items/other/crops_and_forage/nettle/description",
+    "name": "items/other/crops_and_forage/nettle/name",
+    "icon_sprite": "spr_ui_item_nettle",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 25,
+      "store": 100
+    }
+  }
+}

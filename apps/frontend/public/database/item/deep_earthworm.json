@@ -1,0 +1,42 @@
+{
+  "id": "deep_earthworm",
+  "item": {
+    "description": "items/mines/deep_earth/deep_earthworm/description",
+    "name": "items/mines/deep_earth/deep_earthworm/name",
+    "icon_sprite": "spr_ui_item_insect_deep_earthworm",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 25
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "idle_sprite": "spr_insect_deep_earthworm_entity_idle",
+    "move_sprite": "spr_insect_deep_earthworm_entity_move",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      17
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "dungeon_biome": "deep_earth",
+    "attraction": "none"
+  }
+}

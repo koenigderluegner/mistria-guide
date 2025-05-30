@@ -1,0 +1,15 @@
+{
+  "id": "ancient_stone_lantern",
+  "item": {
+    "description": "items/other/artifacts/ancient_stone_lantern/description",
+    "name": "items/other/artifacts/ancient_stone_lantern/name",
+    "icon_sprite": "spr_ui_item_ancient_stone_lantern",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "golden_cow_milk",
+  "item": {
+    "description": "items/other/ranching/golden_cow_milk/description",
+    "name": "items/other/ranching/golden_cow_milk/name",
+    "icon_sprite": "spr_ui_item_cow_milk_gold",
+    "tags": [
+      "ranching",
+      "milk",
+      "dairy",
+      "animal_harvest",
+      "drink_sound",
+      "drink",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 120,
+      "store": 360
+    }
+  }
+}

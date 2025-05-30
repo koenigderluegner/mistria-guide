@@ -1,0 +1,37 @@
+{
+  "id": "miners_floor_lamp_v2",
+  "item": {
+    "description": "items/furniture/mineshaft_set/miners_floor_lamp_v2/description",
+    "name": "items/furniture/mineshaft_set/miners_floor_lamp_v2/name",
+    "icon_sprite": "spr_ui_item_furniture_miners_floor_lamp_v2",
+    "tags": [
+      "furniture",
+      "mineshaft_set",
+      "floor_lighting"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "ore_stone"
+        },
+        {
+          "count": 3,
+          "item": "glass"
+        },
+        {
+          "count": 1,
+          "item": "monster_core"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

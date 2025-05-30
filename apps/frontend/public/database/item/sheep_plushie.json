@@ -1,0 +1,14 @@
+{
+  "id": "sheep_plushie",
+  "item": {
+    "description": "items/other/festivals/sheep_plushie/description",
+    "name": "items/other/festivals/sheep_plushie/name",
+    "icon_sprite": "spr_ui_item_decor_sheep_plushie",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 100
+    }
+  }
+}

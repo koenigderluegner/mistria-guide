@@ -1,0 +1,37 @@
+{
+  "id": "ornamental_sapphire_rock",
+  "item": {
+    "description": "items/furniture/tide_set/ornamental_sapphire_rock/description",
+    "name": "items/furniture/tide_set/ornamental_sapphire_rock/name",
+    "icon_sprite": "spr_ui_item_furniture_sapphire_rock",
+    "tags": [
+      "furniture",
+      "tide_caverns_set",
+      "misc_furniture"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "ore_stone"
+        },
+        {
+          "count": 3,
+          "item": "ore_sapphire"
+        },
+        {
+          "count": 3,
+          "item": "glowing_mushroom"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

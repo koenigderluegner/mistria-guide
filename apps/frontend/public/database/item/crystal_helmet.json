@@ -1,0 +1,16 @@
+{
+  "id": "crystal_helmet",
+  "item": {
+    "description": "items/other/armor/crystal_helmet/description",
+    "name": "items/other/armor/crystal_helmet/name",
+    "icon_sprite": "spr_ui_item_equipment_crystal_helmet",
+    "tags": [
+      "head",
+      "armor"
+    ],
+    "value": {
+      "bin": 300,
+      "store": 600
+    }
+  }
+}

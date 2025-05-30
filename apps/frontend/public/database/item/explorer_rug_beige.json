@@ -1,0 +1,33 @@
+{
+  "id": "explorer_rug_beige",
+  "item": {
+    "description": "items/furniture/explorer_set/explorer_rug_beige/description",
+    "name": "items/furniture/explorer_set/explorer_rug_beige/name",
+    "icon_sprite": "spr_ui_item_furniture_explorer_rug_beige",
+    "tags": [
+      "furniture",
+      "large_rug",
+      "explorer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "fiber"
+        },
+        {
+          "count": 1,
+          "item": "horse_hair"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

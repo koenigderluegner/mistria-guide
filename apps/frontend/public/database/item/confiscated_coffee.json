@@ -1,0 +1,17 @@
+{
+  "id": "confiscated_coffee",
+  "item": {
+    "description": "items/other/cooked_dishes/confiscated_coffee/description",
+    "name": "items/other/cooked_dishes/confiscated_coffee/name",
+    "icon_sprite": "spr_ui_item_confiscated_coffee",
+    "tags": [
+      "drink_sound",
+      "drink",
+      "caffeine"
+    ],
+    "value": {
+      "bin": 50,
+      "store": 100
+    }
+  }
+}

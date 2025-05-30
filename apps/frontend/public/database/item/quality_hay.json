@@ -1,0 +1,33 @@
+{
+  "id": "quality_hay",
+  "item": {
+    "description": "items/other/mill/quality_hay/description",
+    "name": "items/other/mill/quality_hay/name",
+    "icon_sprite": "spr_ui_item_animal_feed_hay_quality_bag",
+    "tags": [
+      "milling",
+      "animal_feed",
+      "milled_animal_feed",
+      "ranching"
+    ],
+    "value": {
+      "bin": 10
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "item": "hay",
+          "count": 1
+        },
+        {
+          "item": "water_chestnut",
+          "count": 1
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

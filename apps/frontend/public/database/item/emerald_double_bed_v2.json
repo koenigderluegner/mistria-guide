@@ -1,0 +1,41 @@
+{
+  "id": "emerald_double_bed_v2",
+  "item": {
+    "description": "items/furniture/emerald_set/emerald_double_bed_v2/description",
+    "name": "items/furniture/emerald_set/emerald_double_bed_v2/name",
+    "icon_sprite": "spr_ui_item_furniture_emerald_double_bed_v2",
+    "tags": [
+      "furniture",
+      "double_bed",
+      "emerald_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 38,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "hard_wood"
+        },
+        {
+          "count": 15,
+          "item": "ore_emerald"
+        },
+        {
+          "count": 6,
+          "item": "gold_ingot"
+        },
+        {
+          "count": 6,
+          "item": "golden_duck_feather"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

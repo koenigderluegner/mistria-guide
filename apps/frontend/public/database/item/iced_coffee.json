@@ -1,0 +1,39 @@
+{
+  "id": "iced_coffee",
+  "item": {
+    "description": "items/other/cooked_dishes/iced_coffee/description",
+    "name": "items/other/cooked_dishes/iced_coffee/name",
+    "icon_sprite": "spr_ui_item_iced_coffee",
+    "tags": [
+      "drink",
+      "drink_sound",
+      "caffeine",
+      "food",
+      "cold_drink"
+    ],
+    "value": {
+      "store": 110
+    },
+    "recipe": {
+      "level_requirement": 10,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "cow_milk"
+        },
+        {
+          "count": 1,
+          "item": "ice_block"
+        },
+        {
+          "count": 1,
+          "item": "coffee"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

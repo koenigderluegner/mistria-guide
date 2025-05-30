@@ -1,0 +1,15 @@
+{
+  "id": "red_obsidian",
+  "item": {
+    "description": "items/mines/lava_caves/red_obsidian/description",
+    "name": "items/mines/lava_caves/red_obsidian/name",
+    "icon_sprite": "spr_ui_item_red_obsidian",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 60,
+      "renown": 15
+    }
+  }
+}

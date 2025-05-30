@@ -1,0 +1,33 @@
+{
+  "id": "summer_rug_yellow",
+  "item": {
+    "description": "items/furniture/summer_set/summer_rug_yellow/description",
+    "name": "items/furniture/summer_set/summer_rug_yellow/name",
+    "icon_sprite": "spr_ui_item_furniture_summer_rug_yellow",
+    "tags": [
+      "furniture",
+      "medium_rug",
+      "summer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "fiber"
+        },
+        {
+          "count": 1,
+          "item": "sunflower"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

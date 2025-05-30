@@ -1,0 +1,28 @@
+{
+  "id": "baked_sweetroot",
+  "item": {
+    "description": "items/other/cooked_dishes/baked_sweetroot/description",
+    "name": "items/other/cooked_dishes/baked_sweetroot/name",
+    "icon_sprite": "spr_ui_item_baked_sweetroot",
+    "tags": [
+      "food",
+      "baked_dish"
+    ],
+    "value": {
+      "store": 175
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "sweetroot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

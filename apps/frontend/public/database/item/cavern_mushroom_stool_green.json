@@ -1,0 +1,37 @@
+{
+  "id": "cavern_mushroom_stool_green",
+  "item": {
+    "description": "items/furniture/cavern_set/cavern_mushroom_stool_green/description",
+    "name": "items/furniture/cavern_set/cavern_mushroom_stool_green/name",
+    "icon_sprite": "spr_ui_item_furniture_mushroom_stool_green",
+    "tags": [
+      "furniture",
+      "cavern_set",
+      "stool"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 12,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "ore_stone"
+        },
+        {
+          "count": 2,
+          "item": "earthshroom"
+        },
+        {
+          "count": 2,
+          "item": "wild_mushroom"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

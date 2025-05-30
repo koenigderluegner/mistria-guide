@@ -1,0 +1,33 @@
+{
+  "id": "sand_rug",
+  "item": {
+    "description": "items/furniture/tide_set/sand_rug/description",
+    "name": "items/furniture/tide_set/sand_rug/name",
+    "icon_sprite": "spr_ui_item_furniture_sand_rug",
+    "tags": [
+      "furniture",
+      "tide_caverns_set",
+      "medium_rug"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "fiber"
+        },
+        {
+          "count": 2,
+          "item": "feather"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

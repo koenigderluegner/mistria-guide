@@ -1,0 +1,38 @@
+{
+  "id": "alda_pot_replica_blue",
+  "item": {
+    "description": "items/furniture/mistrian_history_set/alda_pot_replica_blue/description",
+    "name": "items/furniture/mistrian_history_set/alda_pot_replica_blue/name",
+    "icon_sprite": "spr_ui_item_alda_pot_replica_blue",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "artifact_set",
+      "mistrian_history_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": "12",
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "clay"
+        },
+        {
+          "count": 5,
+          "item": "shards"
+        },
+        {
+          "count": 2,
+          "item": "shard_mass"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

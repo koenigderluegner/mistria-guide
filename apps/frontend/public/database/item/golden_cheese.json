@@ -1,0 +1,28 @@
+{
+  "id": "golden_cheese",
+  "item": {
+    "description": "items/other/mill/golden_cheese/description",
+    "name": "items/other/mill/golden_cheese/name",
+    "icon_sprite": "spr_ui_item_golden_cheese",
+    "tags": [
+      "milling",
+      "animal_product",
+      "ranching"
+    ],
+    "value": {
+      "bin": 260
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "item": "golden_cow_milk",
+          "count": 2
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

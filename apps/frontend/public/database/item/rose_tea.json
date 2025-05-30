@@ -1,0 +1,35 @@
+{
+  "id": "rose_tea",
+  "item": {
+    "description": "items/other/cooked_dishes/rose_tea/description",
+    "name": "items/other/cooked_dishes/rose_tea/name",
+    "icon_sprite": "spr_ui_item_rose_tea",
+    "tags": [
+      "drink",
+      "hot_drink",
+      "drink_sound",
+      "food",
+      "caffeine"
+    ],
+    "value": {
+      "store": 180
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "tea"
+        },
+        {
+          "count": 1,
+          "item": "rose"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

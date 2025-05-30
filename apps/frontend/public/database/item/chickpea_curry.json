@@ -1,0 +1,36 @@
+{
+  "id": "chickpea_curry",
+  "item": {
+    "description": "items/other/cooked_dishes/chickpea_curry/description",
+    "name": "items/other/cooked_dishes/chickpea_curry/name",
+    "icon_sprite": "spr_ui_item_chickpea_curry",
+    "tags": [
+      "food",
+      "simmered_dish"
+    ],
+    "value": {
+      "store": 260
+    },
+    "recipe": {
+      "level_requirement": 12,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "chickpea"
+        },
+        {
+          "count": 1,
+          "item": "curry_powder"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

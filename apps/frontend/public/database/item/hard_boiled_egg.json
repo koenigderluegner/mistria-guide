@@ -1,0 +1,28 @@
+{
+  "id": "hard_boiled_egg",
+  "item": {
+    "description": "items/other/cooked_dishes/hard_boiled_egg/description",
+    "name": "items/other/cooked_dishes/hard_boiled_egg/name",
+    "icon_sprite": "spr_ui_item_hard_boiled_egg",
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "value": {
+      "store": 100
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "egg"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

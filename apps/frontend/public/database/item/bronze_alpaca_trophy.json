@@ -1,0 +1,14 @@
+{
+  "id": "bronze_alpaca_trophy",
+  "item": {
+    "description": "items/other/festivals/bronze_alpaca_trophy/description",
+    "name": "items/other/festivals/bronze_alpaca_trophy/name",
+    "icon_sprite": "spr_ui_item_decor_bronze_alpaca_trophy",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 100
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "explorer_lamp_green",
+  "item": {
+    "description": "items/furniture/explorer_set/explorer_lamp_green/description",
+    "name": "items/furniture/explorer_set/explorer_lamp_green/name",
+    "icon_sprite": "spr_ui_item_furniture_explorer_lamp_green",
+    "tags": [
+      "furniture",
+      "floor_lighting",
+      "explorer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "glass"
+        },
+        {
+          "count": 1,
+          "item": "monster_core"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

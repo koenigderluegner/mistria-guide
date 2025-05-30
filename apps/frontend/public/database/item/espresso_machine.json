@@ -1,0 +1,32 @@
+{
+  "id": "espresso_machine",
+  "item": {
+    "description": "items/furniture/no_set/espresso_machine/description",
+    "name": "items/furniture/no_set/espresso_machine/name",
+    "icon_sprite": "spr_ui_item_espresso_machine_gold",
+    "tags": [
+      "furniture",
+      "misc_functional"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "gold_ingot"
+        },
+        {
+          "count": 10,
+          "item": "ore_diamond"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

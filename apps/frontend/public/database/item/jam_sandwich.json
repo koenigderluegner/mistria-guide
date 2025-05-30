@@ -1,0 +1,32 @@
+{
+  "id": "jam_sandwich",
+  "item": {
+    "description": "items/other/cooked_dishes/jam_sandwich/description",
+    "name": "items/other/cooked_dishes/jam_sandwich/name",
+    "icon_sprite": "spr_ui_item_jam_sandwich",
+    "tags": [
+      "food",
+      "hand_crafted_dish"
+    ],
+    "value": {
+      "store": 300
+    },
+    "recipe": {
+      "level_requirement": 10,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "bread"
+        },
+        {
+          "count": 1,
+          "item": "wild_berry_jam"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "wintergreen_berry",
+  "item": {
+    "description": "items/other/crops_and_forage/wintergreen_berry/description",
+    "name": "items/other/crops_and_forage/wintergreen_berry/name",
+    "icon_sprite": "spr_ui_item_bush_wintergreen",
+    "tags": [
+      "forageable",
+      "berry"
+    ],
+    "value": {
+      "bin": 5,
+      "store": 25
+    }
+  }
+}

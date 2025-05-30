@@ -1,0 +1,41 @@
+{
+  "id": "winter_stew",
+  "item": {
+    "description": "items/other/cooked_dishes/winter_stew/description",
+    "name": "items/other/cooked_dishes/winter_stew/name",
+    "icon_sprite": "spr_ui_item_winter_stew",
+    "tags": [
+      "food",
+      "stew",
+      "drink_sound"
+    ],
+    "value": {
+      "store": 650
+    },
+    "recipe": {
+      "level_requirement": 24,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "daikon_radish"
+        },
+        {
+          "count": 1,
+          "item": "burdock_root"
+        },
+        {
+          "count": 1,
+          "item": "oyster_mushroom"
+        },
+        {
+          "count": 1,
+          "item": "soy_sauce"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

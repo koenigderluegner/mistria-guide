@@ -1,0 +1,32 @@
+{
+  "id": "strawberries_and_cream",
+  "item": {
+    "description": "items/other/cooked_dishes/strawberries_and_cream/description",
+    "name": "items/other/cooked_dishes/strawberries_and_cream/name",
+    "icon_sprite": "spr_ui_item_strawberriesandcream",
+    "tags": [
+      "food",
+      "hand_crafted_dessert"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "strawberry"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

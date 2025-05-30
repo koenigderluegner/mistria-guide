@@ -1,0 +1,15 @@
+{
+  "id": "tiny_dinosaur_skeleton",
+  "item": {
+    "description": "items/other/artifacts/tiny_dinosaur_skeleton/description",
+    "name": "items/other/artifacts/tiny_dinosaur_skeleton/name",
+    "icon_sprite": "spr_ui_item_tiny_dinosaur_skeleton",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

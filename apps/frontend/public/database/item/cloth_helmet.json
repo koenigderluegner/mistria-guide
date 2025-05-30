@@ -1,0 +1,16 @@
+{
+  "id": "cloth_helmet",
+  "item": {
+    "description": "items/other/armor/cloth_helmet/description",
+    "name": "items/other/armor/cloth_helmet/name",
+    "icon_sprite": "spr_ui_item_equipment_cloth_helmet",
+    "tags": [
+      "head",
+      "armor"
+    ],
+    "value": {
+      "bin": 10,
+      "store": 100
+    }
+  }
+}

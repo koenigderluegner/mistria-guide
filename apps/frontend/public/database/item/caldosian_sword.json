@@ -1,0 +1,15 @@
+{
+  "id": "caldosian_sword",
+  "item": {
+    "description": "items/other/artifacts/caldosian_sword/description",
+    "name": "items/other/artifacts/caldosian_sword/name",
+    "icon_sprite": "spr_ui_item_caldosian_sword",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

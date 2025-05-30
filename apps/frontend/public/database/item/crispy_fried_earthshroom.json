@@ -1,0 +1,37 @@
+{
+  "id": "crispy_fried_earthshroom",
+  "item": {
+    "description": "items/other/cooked_dishes/crispy_fried_earthshroom/description",
+    "name": "items/other/cooked_dishes/crispy_fried_earthshroom/name",
+    "icon_sprite": "spr_ui_item_crispy_fried_earthshroom",
+    "tags": [
+      "food",
+      "snack",
+      "mushroomy"
+    ],
+    "value": {
+      "store": 300
+    },
+    "recipe": {
+      "level_requirement": 14,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "earthshroom"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "oil"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

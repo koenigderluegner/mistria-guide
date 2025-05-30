@@ -1,0 +1,28 @@
+{
+  "id": "butter",
+  "item": {
+    "description": "items/other/mill/butter/description",
+    "name": "items/other/mill/butter/name",
+    "icon_sprite": "spr_ui_item_butter",
+    "tags": [
+      "milling",
+      "animal_product",
+      "ranching"
+    ],
+    "value": {
+      "bin": 90
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "item": "cow_milk",
+          "count": 2
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

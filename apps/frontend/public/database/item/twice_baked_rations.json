@@ -1,0 +1,12 @@
+{
+  "id": "twice_baked_rations",
+  "item": {
+    "description": "items/other/cooked_dishes/twice_baked_rations/description",
+    "name": "items/other/cooked_dishes/twice_baked_rations/name",
+    "icon_sprite": "spr_ui_item_twice_baked_rations",
+    "value": {
+      "bin": 100,
+      "store": 200
+    }
+  }
+}

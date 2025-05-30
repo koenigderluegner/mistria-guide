@@ -1,0 +1,14 @@
+{
+  "id": "mana_potion",
+  "item": {
+    "description": "items/other/misc/mana_potion/description",
+    "name": "items/other/misc/mana_potion/name",
+    "icon_sprite": "spr_ui_item_mana_potion",
+    "tags": [
+      "drink_sound"
+    ],
+    "value": {
+      "bin": 100
+    }
+  }
+}

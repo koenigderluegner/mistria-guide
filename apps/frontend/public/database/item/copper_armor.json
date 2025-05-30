@@ -1,0 +1,31 @@
+{
+  "id": "copper_armor",
+  "item": {
+    "description": "items/other/armor/copper_armor/description",
+    "name": "items/other/armor/copper_armor/name",
+    "icon_sprite": "spr_ui_item_equipment_copper_chestpiece",
+    "tags": [
+      "chest",
+      "armor",
+      "copper_armor",
+      "blacksmithing"
+    ],
+    "value": {
+      "bin": 480,
+      "store": 1000
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "copper_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

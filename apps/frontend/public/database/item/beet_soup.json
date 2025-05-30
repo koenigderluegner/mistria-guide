@@ -1,0 +1,49 @@
+{
+  "id": "beet_soup",
+  "item": {
+    "description": "items/other/cooked_dishes/beet_soup/description",
+    "name": "items/other/cooked_dishes/beet_soup/name",
+    "icon_sprite": "spr_ui_item_beet_soup",
+    "tags": [
+      "soup",
+      "food",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 1500
+    },
+    "recipe": {
+      "level_requirement": 40,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "beet"
+        },
+        {
+          "count": 1,
+          "item": "carrot"
+        },
+        {
+          "count": 1,
+          "item": "potato"
+        },
+        {
+          "count": 1,
+          "item": "onion"
+        },
+        {
+          "count": 1,
+          "item": "cabbage"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

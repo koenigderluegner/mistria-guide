@@ -1,0 +1,42 @@
+{
+  "id": "grilled_cheese",
+  "item": {
+    "description": "items/other/cooked_dishes/grilled_cheese/description",
+    "name": "items/other/cooked_dishes/grilled_cheese/name",
+    "icon_sprite": "spr_ui_item_grilled_cheese",
+    "tags": [
+      "chef",
+      "grilled_dish",
+      "food",
+      "inn_plate"
+    ],
+    "value": {
+      "store": 800
+    },
+    "recipe": {
+      "level_requirement": 22,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "bread"
+        },
+        {
+          "count": 1,
+          "item": "cheese"
+        },
+        {
+          "count": 1,
+          "item": "rock_salt"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "roasted_cauliflower",
+  "item": {
+    "description": "items/other/cooked_dishes/roasted_cauliflower/description",
+    "name": "items/other/cooked_dishes/roasted_cauliflower/name",
+    "icon_sprite": "spr_ui_item_roasted_cauliflower",
+    "tags": [
+      "food",
+      "roasted_dish"
+    ],
+    "value": {
+      "store": 175
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "cauliflower"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

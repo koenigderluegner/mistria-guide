@@ -1,0 +1,15 @@
+{
+  "id": "rustic_cabin_scroll_bundle",
+  "item": {
+    "description": "items/furniture/rustic_cabin_set/rustic_cabin_scroll_bundle/description",
+    "name": "items/furniture/rustic_cabin_set/rustic_cabin_scroll_bundle/name",
+    "icon_sprite": "spr_ui_item_setscroll_rusticcabin",
+    "tags": [
+      "scroll",
+      "blacklist_popup"
+    ],
+    "value": {
+      "store": 1000
+    }
+  }
+}

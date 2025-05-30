@@ -1,0 +1,37 @@
+{
+  "id": "lava_caves_diamond_rock",
+  "item": {
+    "description": "items/furniture/lava_cave_set/lava_caves_diamond_rock/description",
+    "name": "items/furniture/lava_cave_set/lava_caves_diamond_rock/name",
+    "icon_sprite": "spr_ui_item_furniture_diamond_rock",
+    "tags": [
+      "furniture",
+      "lava_set",
+      "misc_furniture"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 18,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "ore_diamond"
+        },
+        {
+          "count": 3,
+          "item": "refined_stone"
+        },
+        {
+          "count": 2,
+          "item": "glass"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

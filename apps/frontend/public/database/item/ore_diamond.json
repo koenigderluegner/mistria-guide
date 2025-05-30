@@ -1,0 +1,30 @@
+{
+  "id": "ore_diamond",
+  "item": {
+    "description": "items/other/materials/ore_diamond/description",
+    "name": "items/other/materials/ore_diamond/name",
+    "icon_sprite": "spr_ui_item_diamond",
+    "tags": [
+      "refined_material",
+      "gem",
+      "material",
+      "ore"
+    ],
+    "value": {
+      "bin": 70,
+      "store": 800
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "count": 35,
+          "item": "ore_stone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

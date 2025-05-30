@@ -1,0 +1,33 @@
+{
+  "id": "glass_whisky",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/glass_whisky/description",
+    "name": "items/furniture/tabletop_clutter_set/glass_whisky/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_glass_whisky",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "glass"
+        },
+        {
+          "count": 2,
+          "item": "ice_block"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

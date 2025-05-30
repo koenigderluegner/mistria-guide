@@ -1,0 +1,16 @@
+{
+  "id": "scrap_metal_chestpiece",
+  "item": {
+    "description": "items/other/armor/scrap_metal_chestpiece/description",
+    "name": "items/other/armor/scrap_metal_chestpiece/name",
+    "icon_sprite": "spr_ui_item_equipment_scrap_metal_chestpiece",
+    "tags": [
+      "chest",
+      "armor"
+    ],
+    "value": {
+      "bin": 100,
+      "store": 200
+    }
+  }
+}

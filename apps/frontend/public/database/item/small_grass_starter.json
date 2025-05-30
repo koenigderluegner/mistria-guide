@@ -1,0 +1,32 @@
+{
+  "id": "small_grass_starter",
+  "item": {
+    "description": "items/other/mill/small_grass_starter/description",
+    "name": "items/other/mill/small_grass_starter/name",
+    "icon_sprite": "spr_ui_item_small_grass_starter",
+    "tags": [
+      "milling",
+      "misc_mill",
+      "crop"
+    ],
+    "value": {
+      "bin": 15
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "item": "grass_seed",
+          "count": 2
+        },
+        {
+          "item": "sod",
+          "count": 1
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

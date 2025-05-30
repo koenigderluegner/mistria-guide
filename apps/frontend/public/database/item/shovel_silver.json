@@ -1,0 +1,30 @@
+{
+  "id": "shovel_silver",
+  "item": {
+    "description": "items/other/blacksmithing/shovel_silver/description",
+    "name": "items/other/blacksmithing/shovel_silver/name",
+    "icon_sprite": "spr_ui_item_tool_silver_shovel",
+    "tags": [
+      "shovel",
+      "blacksmithing",
+      "tool"
+    ],
+    "value": {
+      "bin": 970,
+      "store": 3000
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "silver_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

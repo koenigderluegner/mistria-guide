@@ -1,0 +1,35 @@
+{
+  "id": "crayfish",
+  "item": {
+    "description": "items/fish/river/crayfish/description",
+    "name": "items/fish/river/crayfish/name",
+    "icon_sprite": "spr_ui_item_dive_crayfish",
+    "tags": [
+      "dive",
+      "river",
+      "fishy"
+    ],
+    "value": {
+      "bin": 25
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "water_type": "river",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": true,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "divespot",
+    "is_chest": false,
+    "perk": []
+  }
+}

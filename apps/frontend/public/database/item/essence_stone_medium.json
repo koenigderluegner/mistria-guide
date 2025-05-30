@@ -1,0 +1,27 @@
+{
+  "id": "essence_stone_medium",
+  "item": {
+    "description": "items/other/materials/essence_stone_medium/description",
+    "name": "items/other/materials/essence_stone_medium/name",
+    "icon_sprite": "spr_ui_item_essence_stone_medium",
+    "tags": [
+      "essence_stone",
+      "material"
+    ],
+    "value": {
+      "bin": 160
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "ore_stone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

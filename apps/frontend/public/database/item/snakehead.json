@@ -1,0 +1,32 @@
+{
+  "id": "snakehead",
+  "item": {
+    "description": "items/fish/pond/snakehead/description",
+    "name": "items/fish/pond/snakehead/name",
+    "icon_sprite": "spr_ui_item_fish_large_snakehead",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 60
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "water_type": "pond",
+    "weather": false,
+    "locations": false,
+    "size": "large",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "uncommon",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

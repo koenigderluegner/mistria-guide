@@ -1,0 +1,38 @@
+{
+  "id": "picnic_pie_plate_yellow",
+  "item": {
+    "description": "items/furniture/decor_picnic_set/picnic_pie_plate_yellow/description",
+    "name": "items/furniture/decor_picnic_set/picnic_pie_plate_yellow/name",
+    "icon_sprite": "spr_ui_item_picnic_pie_plate_yellow",
+    "tags": [
+      "furniture",
+      "kitchen_decor",
+      "picnic_decor_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 400
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "clay"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

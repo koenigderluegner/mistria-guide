@@ -1,0 +1,41 @@
+{
+  "id": "sweet_sesame_balls",
+  "item": {
+    "description": "items/other/cooked_dishes/sweet_sesame_balls/description",
+    "name": "items/other/cooked_dishes/sweet_sesame_balls/name",
+    "icon_sprite": "spr_ui_item_sweet_sesame_balls",
+    "tags": [
+      "food",
+      "candy",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 500
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "sesame"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "oil"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

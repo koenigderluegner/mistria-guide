@@ -1,0 +1,17 @@
+{
+  "id": "morel_mushroom",
+  "item": {
+    "description": "items/other/crops_and_forage/morel_mushroom/description",
+    "name": "items/other/crops_and_forage/morel_mushroom/name",
+    "icon_sprite": "spr_ui_item_morelmushroom",
+    "tags": [
+      "forageable",
+      "mushroom",
+      "mushroomy"
+    ],
+    "value": {
+      "bin": 25,
+      "store": 100
+    }
+  }
+}

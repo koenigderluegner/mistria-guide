@@ -1,0 +1,35 @@
+{
+  "id": "seaweed",
+  "item": {
+    "description": "items/fish/misc/seaweed/description",
+    "name": "items/fish/misc/seaweed/name",
+    "icon_sprite": "spr_ui_item_dive_seaweed",
+    "tags": [
+      "dive",
+      "ocean",
+      "fishable"
+    ],
+    "value": {
+      "bin": 15
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "water_type": "ocean",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": true,
+    "legendary": false,
+    "rarity": "very_very_common",
+    "retrieval": "divespot",
+    "is_chest": false,
+    "perk": []
+  }
+}

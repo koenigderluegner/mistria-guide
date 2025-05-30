@@ -1,0 +1,33 @@
+{
+  "id": "glass_absinthe",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/glass_absinthe/description",
+    "name": "items/furniture/tabletop_clutter_set/glass_absinthe/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_glass_absinthe",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "glass"
+        },
+        {
+          "count": 1,
+          "item": "ore_emerald"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "incredibly_hot_pot",
+  "item": {
+    "description": "items/other/cooked_dishes/incredibly_hot_pot/description",
+    "name": "items/other/cooked_dishes/incredibly_hot_pot/name",
+    "icon_sprite": "spr_ui_item_incredibly_hot_pot",
+    "tags": [
+      "food",
+      "simmered_dish",
+      "mushroomy"
+    ],
+    "value": {
+      "store": 800
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "flame_pepper"
+        },
+        {
+          "count": 1,
+          "item": "ash_mushroom"
+        },
+        {
+          "count": 1,
+          "item": "lava_chestnuts"
+        },
+        {
+          "count": 1,
+          "item": "hot_potato"
+        },
+        {
+          "count": 1,
+          "item": "earthshroom"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

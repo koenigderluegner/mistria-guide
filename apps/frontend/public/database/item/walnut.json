@@ -1,0 +1,15 @@
+{
+  "id": "walnut",
+  "item": {
+    "description": "items/other/crops_and_forage/walnut/description",
+    "name": "items/other/crops_and_forage/walnut/name",
+    "icon_sprite": "spr_ui_item_walnut",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 25,
+      "store": 100
+    }
+  }
+}

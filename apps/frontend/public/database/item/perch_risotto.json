@@ -1,0 +1,45 @@
+{
+  "id": "perch_risotto",
+  "item": {
+    "description": "items/other/cooked_dishes/perch_risotto/description",
+    "name": "items/other/cooked_dishes/perch_risotto/name",
+    "icon_sprite": "spr_ui_item_perch_risotto",
+    "tags": [
+      "food",
+      "sauteed_dish",
+      "fishy"
+    ],
+    "value": {
+      "store": 900
+    },
+    "recipe": {
+      "level_requirement": 34,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "perch"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "garlic"
+        },
+        {
+          "count": 1,
+          "item": "rosemary"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

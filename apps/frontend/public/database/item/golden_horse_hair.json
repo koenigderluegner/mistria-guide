@@ -1,0 +1,18 @@
+{
+  "id": "golden_horse_hair",
+  "item": {
+    "description": "items/other/ranching/golden_horse_hair/description",
+    "name": "items/other/ranching/golden_horse_hair/name",
+    "icon_sprite": "spr_ui_item_horse_hair_gold",
+    "tags": [
+      "ranching",
+      "animal_fibre",
+      "animal_harvest",
+      "animal_product"
+    ],
+    "value": {
+      "bin": 390,
+      "store": 780
+    }
+  }
+}

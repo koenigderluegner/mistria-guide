@@ -1,0 +1,16 @@
+{
+  "id": "glowberry",
+  "item": {
+    "description": "items/other/crops_and_forage/glowberry/description",
+    "name": "items/other/crops_and_forage/glowberry/name",
+    "icon_sprite": "spr_ui_item_bush_glowberry",
+    "tags": [
+      "forageable",
+      "berry"
+    ],
+    "value": {
+      "bin": 5,
+      "store": 25
+    }
+  }
+}

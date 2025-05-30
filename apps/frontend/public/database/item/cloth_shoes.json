@@ -1,0 +1,16 @@
+{
+  "id": "cloth_shoes",
+  "item": {
+    "description": "items/other/armor/cloth_shoes/description",
+    "name": "items/other/armor/cloth_shoes/name",
+    "icon_sprite": "spr_ui_item_equipment_cloth_shoes",
+    "tags": [
+      "boots",
+      "armor"
+    ],
+    "value": {
+      "bin": 10,
+      "store": 100
+    }
+  }
+}

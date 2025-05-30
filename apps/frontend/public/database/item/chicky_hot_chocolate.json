@@ -1,0 +1,16 @@
+{
+  "id": "chicky_hot_chocolate",
+  "item": {
+    "description": "items/other/festivals/chicky_hot_chocolate/description",
+    "name": "items/other/festivals/chicky_hot_chocolate/name",
+    "icon_sprite": "spr_ui_item_chicky_hot_chocolate",
+    "tags": [
+      "drink_sound",
+      "drink"
+    ],
+    "value": {
+      "bin": 200,
+      "store": 400
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "vegetable_pot_pie",
+  "item": {
+    "description": "items/other/cooked_dishes/vegetable_pot_pie/description",
+    "name": "items/other/cooked_dishes/vegetable_pot_pie/name",
+    "icon_sprite": "spr_ui_item_vegetable_pot_pie",
+    "tags": [
+      "food",
+      "sauteed_dish"
+    ],
+    "value": {
+      "store": 1400
+    },
+    "recipe": {
+      "level_requirement": 38,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "potato"
+        },
+        {
+          "count": 1,
+          "item": "turnip"
+        },
+        {
+          "count": 1,
+          "item": "carrot"
+        },
+        {
+          "count": 1,
+          "item": "peas"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

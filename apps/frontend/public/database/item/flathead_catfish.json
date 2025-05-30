@@ -1,0 +1,31 @@
+{
+  "id": "flathead_catfish",
+  "item": {
+    "description": "items/fish/pond/flathead_catfish/description",
+    "name": "items/fish/pond/flathead_catfish/name",
+    "icon_sprite": "spr_ui_item_fish_medium_flathead_catfish",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 30
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "winter"
+    ],
+    "water_type": "pond",
+    "weather": false,
+    "locations": false,
+    "size": "medium",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

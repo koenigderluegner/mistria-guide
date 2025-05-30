@@ -1,0 +1,16 @@
+{
+  "id": "iris",
+  "item": {
+    "description": "items/other/crops_and_forage/iris/description",
+    "name": "items/other/crops_and_forage/iris/name",
+    "icon_sprite": "spr_ui_item_iris",
+    "tags": [
+      "forageable",
+      "flower"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 120
+    }
+  }
+}

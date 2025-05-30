@@ -1,0 +1,42 @@
+{
+  "id": "spicy_crab_sushi",
+  "item": {
+    "description": "items/other/cooked_dishes/spicy_crab_sushi/description",
+    "name": "items/other/cooked_dishes/spicy_crab_sushi/name",
+    "icon_sprite": "spr_ui_item_spicy_crab_sushi",
+    "tags": [
+      "chef",
+      "hand_crafted_dish",
+      "food",
+      "fishy"
+    ],
+    "value": {
+      "store": 750
+    },
+    "recipe": {
+      "level_requirement": 22,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "crab"
+        },
+        {
+          "count": 1,
+          "item": "seaweed"
+        },
+        {
+          "count": 1,
+          "item": "chili_pepper"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

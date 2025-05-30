@@ -1,0 +1,38 @@
+{
+  "id": "cottage_potted_fig_oak",
+  "item": {
+    "description": "items/furniture/lovely_cottage_set/cottage_potted_fig_oak/description",
+    "name": "items/furniture/lovely_cottage_set/cottage_potted_fig_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_cottage_potted_fig_v1",
+    "tags": [
+      "furniture",
+      "potted_tree",
+      "lovely_cottage_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 300
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "basic_wood"
+        },
+        {
+          "count": 2,
+          "item": "clay"
+        },
+        {
+          "count": 2,
+          "item": "sod"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

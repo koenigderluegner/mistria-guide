@@ -1,0 +1,15 @@
+{
+  "id": "petrified_wood",
+  "item": {
+    "description": "items/other/artifacts/petrified_wood/description",
+    "name": "items/other/artifacts/petrified_wood/name",
+    "icon_sprite": "spr_ui_item_petrified_wood",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

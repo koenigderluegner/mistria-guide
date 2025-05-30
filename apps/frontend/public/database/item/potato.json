@@ -1,0 +1,15 @@
+{
+  "id": "potato",
+  "item": {
+    "description": "items/other/crops_and_forage/potato/description",
+    "name": "items/other/crops_and_forage/potato/name",
+    "icon_sprite": "spr_ui_item_potato",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 75,
+      "store": 300
+    }
+  }
+}

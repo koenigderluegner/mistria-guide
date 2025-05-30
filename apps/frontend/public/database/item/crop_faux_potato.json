@@ -1,0 +1,29 @@
+{
+  "id": "crop_faux_potato",
+  "item": {
+    "description": "items/furniture/faux_plant_set/crop_faux_potato/description",
+    "name": "items/furniture/faux_plant_set/crop_faux_potato/name",
+    "icon_sprite": "spr_ui_item_decor_crop_faux_potato",
+    "tags": [
+      "furniture",
+      "farm_decor",
+      "faux_spring_plants_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "potato"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

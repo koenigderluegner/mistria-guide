@@ -1,0 +1,39 @@
+{
+  "id": "fish_stew",
+  "item": {
+    "description": "items/other/cooked_dishes/fish_stew/description",
+    "name": "items/other/cooked_dishes/fish_stew/name",
+    "icon_sprite": "spr_ui_item_fishstew",
+    "tags": [
+      "food",
+      "cozy",
+      "stew",
+      "fishy",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 10,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "smallmouth_bass"
+        },
+        {
+          "count": 1,
+          "item": "red_snapper"
+        },
+        {
+          "count": 1,
+          "item": "wild_leek"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

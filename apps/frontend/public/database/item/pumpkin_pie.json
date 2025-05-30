@@ -1,0 +1,45 @@
+{
+  "id": "pumpkin_pie",
+  "item": {
+    "description": "items/other/cooked_dishes/pumpkin_pie/description",
+    "name": "items/other/cooked_dishes/pumpkin_pie/name",
+    "icon_sprite": "spr_ui_item_pumpkin_pie",
+    "tags": [
+      "food",
+      "baked_dessert",
+      "cozy"
+    ],
+    "value": {
+      "store": 1000
+    },
+    "recipe": {
+      "level_requirement": 38,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "pumpkin"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "cow_milk"
+        },
+        {
+          "count": 1,
+          "item": "egg"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

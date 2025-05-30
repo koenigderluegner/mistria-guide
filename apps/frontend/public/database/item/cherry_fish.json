@@ -1,0 +1,35 @@
+{
+  "id": "cherry_fish",
+  "item": {
+    "description": "items/fish/pond/cherry_fish/description",
+    "name": "items/fish/pond/cherry_fish/name",
+    "icon_sprite": "spr_ui_item_fish_small_cherry_fish",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 500
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring"
+    ],
+    "water_type": "pond",
+    "weather": [
+      "special"
+    ],
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": true,
+    "rarity": "uncommon",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": [
+      "legendary"
+    ]
+  }
+}

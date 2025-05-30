@@ -1,0 +1,15 @@
+{
+  "id": "alda_clay_pot",
+  "item": {
+    "description": "items/other/artifacts/alda_clay_pot/description",
+    "name": "items/other/artifacts/alda_clay_pot/name",
+    "icon_sprite": "spr_ui_item_alda_clay_pot",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

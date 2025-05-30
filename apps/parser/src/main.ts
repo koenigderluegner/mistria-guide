@@ -5,6 +5,7 @@ import { itemParser } from './parsers/item-parser';
 import { TypesGenerator } from './types-generator/types-generator';
 import { bugParser } from './parsers/bug-parser';
 import { fishParser } from './parsers/fish-parser';
+import { dbItemParser } from './parsers/db-item-parser';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
@@ -38,6 +39,12 @@ writeFileToFrontendDatabase('bugs.json', bugs);
 
 const fish = fishParser(data.fish);
 writeFileToFrontendDatabase('fish.json', fish);
+
+const dbItems = dbItemParser(items, bugs, fish);
+dbItems.forEach((item) => {
+  writeFileToFrontendDatabase(`/item/${item.id}.json`, item);
+});
+
 
 createReadableFiles(data, blacklistedKeys);
 TypesGenerator.generate();

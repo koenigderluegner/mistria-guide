@@ -1,0 +1,41 @@
+{
+  "id": "caterpillar",
+  "item": {
+    "description": "items/other/bugs/caterpillar/description",
+    "name": "items/other/bugs/caterpillar/name",
+    "icon_sprite": "spr_ui_item_insect_caterpillar",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "canopy",
+      "default"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "tree",
+      "stump"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

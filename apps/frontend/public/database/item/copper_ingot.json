@@ -1,0 +1,30 @@
+{
+  "id": "copper_ingot",
+  "item": {
+    "description": "items/other/blacksmithing/copper_ingot/description",
+    "name": "items/other/blacksmithing/copper_ingot/name",
+    "icon_sprite": "spr_ui_item_copper_ingot",
+    "tags": [
+      "ingot",
+      "blacksmithing",
+      "ingot"
+    ],
+    "value": {
+      "bin": 110,
+      "store": 250
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "ore_copper"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

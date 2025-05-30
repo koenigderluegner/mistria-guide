@@ -1,0 +1,14 @@
+{
+  "id": "blue_chicken_wall_ribbon",
+  "item": {
+    "description": "items/other/festivals/blue_chicken_wall_ribbon/description",
+    "name": "items/other/festivals/blue_chicken_wall_ribbon/name",
+    "icon_sprite": "spr_ui_item_decor_blue_chicken_ribbon",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 100
+    }
+  }
+}

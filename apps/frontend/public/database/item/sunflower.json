@@ -1,0 +1,16 @@
+{
+  "id": "sunflower",
+  "item": {
+    "description": "items/other/crops_and_forage/sunflower/description",
+    "name": "items/other/crops_and_forage/sunflower/name",
+    "icon_sprite": "spr_ui_item_sunflower",
+    "tags": [
+      "crop",
+      "flower"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 120
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "hermit_crab",
+  "item": {
+    "description": "items/other/bugs/hermit_crab/description",
+    "name": "items/other/bugs/hermit_crab/name",
+    "icon_sprite": "spr_ui_item_insect_hermitcrab",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 15
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [],
+    "locations": [
+      "beach"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

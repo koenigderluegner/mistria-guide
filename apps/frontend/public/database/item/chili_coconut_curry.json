@@ -1,0 +1,46 @@
+{
+  "id": "chili_coconut_curry",
+  "item": {
+    "description": "items/other/cooked_dishes/chili_coconut_curry/description",
+    "name": "items/other/cooked_dishes/chili_coconut_curry/name",
+    "icon_sprite": "spr_ui_item_chili_coconut_curry",
+    "tags": [
+      "chef",
+      "simmered_dish",
+      "food",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 1600
+    },
+    "recipe": {
+      "level_requirement": 36,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "coconut_milk"
+        },
+        {
+          "count": 1,
+          "item": "chili_pepper"
+        },
+        {
+          "count": 1,
+          "item": "curry_powder"
+        },
+        {
+          "count": 1,
+          "item": "wild_mushroom"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

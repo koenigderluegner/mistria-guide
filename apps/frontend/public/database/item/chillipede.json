@@ -1,0 +1,38 @@
+{
+  "id": "chillipede",
+  "item": {
+    "description": "items/other/bugs/chillipede/description",
+    "name": "items/other/bugs/chillipede/name",
+    "icon_sprite": "spr_ui_item_insect_chillipede",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 15
+    }
+  },
+  "bug": {
+    "type": "crawl",
+    "has_light": false,
+    "spawn": [
+      "rock"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special",
+      "inclement",
+      "heavy_inclement"
+    ],
+    "rarity": "uncommon",
+    "liked_object_categories": [],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

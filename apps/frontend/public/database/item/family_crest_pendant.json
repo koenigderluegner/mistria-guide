@@ -1,0 +1,15 @@
+{
+  "id": "family_crest_pendant",
+  "item": {
+    "description": "items/other/artifacts/family_crest_pendant/description",
+    "name": "items/other/artifacts/family_crest_pendant/name",
+    "icon_sprite": "spr_ui_item_family_crest_pendant",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

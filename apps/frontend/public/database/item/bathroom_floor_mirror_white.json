@@ -1,0 +1,33 @@
+{
+  "id": "bathroom_floor_mirror_white",
+  "item": {
+    "description": "items/furniture/bathroom_furniture_set/bathroom_floor_mirror_white/description",
+    "name": "items/furniture/bathroom_furniture_set/bathroom_floor_mirror_white/name",
+    "icon_sprite": "spr_ui_item_furniture_bathroom_floor_mirror_white",
+    "tags": [
+      "furniture",
+      "home_essential",
+      "bathroom_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 34,
+      "ingredients": [
+        {
+          "count": 6,
+          "item": "hard_wood"
+        },
+        {
+          "count": 6,
+          "item": "glass"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

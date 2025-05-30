@@ -1,0 +1,8 @@
+{
+  "id": "water_tablet_rubbing",
+  "item": {
+    "description": "items/other/misc/water_tablet_rubbing/description",
+    "name": "items/other/misc/water_tablet_rubbing/name",
+    "icon_sprite": "spr_ui_item_water_tablet_rubbing"
+  }
+}

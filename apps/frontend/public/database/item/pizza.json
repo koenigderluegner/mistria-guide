@@ -1,0 +1,37 @@
+{
+  "id": "pizza",
+  "item": {
+    "description": "items/other/cooked_dishes/pizza/description",
+    "name": "items/other/cooked_dishes/pizza/name",
+    "icon_sprite": "spr_ui_item_pizza",
+    "tags": [
+      "chef",
+      "baked_dish",
+      "food"
+    ],
+    "value": {
+      "store": 450
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "tomato"
+        },
+        {
+          "count": 1,
+          "item": "cheese"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "sea_bream_rice",
+  "item": {
+    "description": "items/other/cooked_dishes/sea_bream_rice/description",
+    "name": "items/other/cooked_dishes/sea_bream_rice/name",
+    "icon_sprite": "spr_ui_item_sea_bream_rice",
+    "tags": [
+      "food",
+      "sauteed_dish",
+      "fishy"
+    ],
+    "value": {
+      "store": 750
+    },
+    "recipe": {
+      "level_requirement": 36,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "sea_bream"
+        },
+        {
+          "count": 1,
+          "item": "soy_sauce"
+        },
+        {
+          "count": 1,
+          "item": "wild_mushroom"
+        },
+        {
+          "count": 1,
+          "item": "earthshroom"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

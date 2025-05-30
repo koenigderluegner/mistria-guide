@@ -1,0 +1,37 @@
+{
+  "id": "star_lantern_white",
+  "item": {
+    "description": "items/furniture/shooting_star_set/star_lantern_white/description",
+    "name": "items/furniture/shooting_star_set/star_lantern_white/name",
+    "icon_sprite": "spr_ui_item_decor_star_lantern_white",
+    "tags": [
+      "furniture",
+      "star_festival_set",
+      "floor_lighting"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 15,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "silver_ingot"
+        },
+        {
+          "count": 1,
+          "item": "monster_core"
+        },
+        {
+          "count": 1,
+          "item": "essence_drop"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

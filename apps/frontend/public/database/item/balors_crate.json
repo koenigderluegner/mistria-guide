@@ -1,0 +1,11 @@
+{
+  "id": "balors_crate",
+  "item": {
+    "description": "items/other/misc/balors_crate/description",
+    "name": "items/other/misc/balors_crate/name",
+    "icon_sprite": "spr_town_crate_cutscene_spring",
+    "value": {
+      "bin": 1
+    }
+  }
+}

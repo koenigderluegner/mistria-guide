@@ -1,0 +1,34 @@
+{
+  "id": "cabin_wallpaper_oak",
+  "item": {
+    "description": "items/furniture/rustic_cabin_set/cabin_wallpaper_oak/description",
+    "name": "items/furniture/rustic_cabin_set/cabin_wallpaper_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_cabin_wallpaper_v3",
+    "tags": [
+      "furniture",
+      "wallpaper",
+      "rustic_cabin_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 240
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "paper"
+        },
+        {
+          "count": 15,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

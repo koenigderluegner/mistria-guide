@@ -1,0 +1,15 @@
+{
+  "id": "rice_stalk",
+  "item": {
+    "description": "items/other/crops_and_forage/rice_stalk/description",
+    "name": "items/other/crops_and_forage/rice_stalk/name",
+    "icon_sprite": "spr_ui_item_rice_stalk",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 150,
+      "store": 450
+    }
+  }
+}

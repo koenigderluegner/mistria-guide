@@ -1,0 +1,40 @@
+{
+  "id": "monster_mash",
+  "item": {
+    "description": "items/other/cooked_dishes/monster_mash/description",
+    "name": "items/other/cooked_dishes/monster_mash/name",
+    "icon_sprite": "spr_ui_item_monster_mash",
+    "tags": [
+      "food",
+      "simmered_dish"
+    ],
+    "value": {
+      "store": 300
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "monster_fang"
+        },
+        {
+          "count": 1,
+          "item": "monster_shell"
+        },
+        {
+          "count": 1,
+          "item": "monster_horn"
+        },
+        {
+          "count": 1,
+          "item": "monster_powder"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

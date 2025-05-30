@@ -1,0 +1,15 @@
+{
+  "id": "breath_of_fire",
+  "item": {
+    "description": "items/mines/lava_caves/breath_of_fire/description",
+    "name": "items/mines/lava_caves/breath_of_fire/name",
+    "icon_sprite": "spr_ui_item_breath_of_flame",
+    "tags": [
+      "forageable",
+      "mines_forageable"
+    ],
+    "value": {
+      "bin": 45
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dragon_claw",
+  "item": {
+    "description": "items/other/artifacts/dragon_claw/description",
+    "name": "items/other/artifacts/dragon_claw/name",
+    "icon_sprite": "spr_ui_item_dragon_claw",
+    "tags": [
+      "archaeology",
+      "dragon_part"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

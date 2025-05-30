@@ -1,0 +1,42 @@
+{
+  "id": "basic_table_oak",
+  "item": {
+    "description": "items/furniture/basic_set/basic_table_oak/description",
+    "name": "items/furniture/basic_set/basic_table_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_basic_table_v1",
+    "tags": [
+      "furniture",
+      "dining_table",
+      "basic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 300
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "ore_stone"
+        },
+        {
+          "count": 3,
+          "item": "paper"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "basic_flower_pot_white",
+  "item": {
+    "description": "items/furniture/basic_set/basic_flower_pot_white/description",
+    "name": "items/furniture/basic_set/basic_flower_pot_white/name",
+    "icon_sprite": "spr_ui_item_furniture_basic_flower_pot_v2",
+    "tags": [
+      "furniture",
+      "tabletop_plant",
+      "basic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 100
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "sod"
+        },
+        {
+          "count": 1,
+          "item": "clay"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

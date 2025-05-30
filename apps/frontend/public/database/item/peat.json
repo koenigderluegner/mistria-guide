@@ -1,0 +1,28 @@
+{
+  "id": "peat",
+  "item": {
+    "description": "items/other/materials/peat/description",
+    "name": "items/other/materials/peat/name",
+    "icon_sprite": "spr_ui_item_peat",
+    "tags": [
+      "refined_material",
+      "material"
+    ],
+    "value": {
+      "bin": 5,
+      "store": 50
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "count": 6,
+          "item": "ore_stone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

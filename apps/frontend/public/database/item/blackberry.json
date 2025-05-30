@@ -1,0 +1,16 @@
+{
+  "id": "blackberry",
+  "item": {
+    "description": "items/other/crops_and_forage/blackberry/description",
+    "name": "items/other/crops_and_forage/blackberry/name",
+    "icon_sprite": "spr_ui_item_bush_blackberry",
+    "tags": [
+      "forageable",
+      "berry"
+    ],
+    "value": {
+      "bin": 5,
+      "store": 25
+    }
+  }
+}

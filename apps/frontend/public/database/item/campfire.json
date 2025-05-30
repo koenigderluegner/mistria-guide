@@ -1,0 +1,38 @@
+{
+  "id": "campfire",
+  "item": {
+    "description": "items/furniture/starter_farm_set/campfire/description",
+    "name": "items/furniture/starter_farm_set/campfire/name",
+    "icon_sprite": "spr_ui_item_decor_beach_campfire",
+    "tags": [
+      "furniture",
+      "farm_decor",
+      "starter_farm_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 50,
+          "item": "ore_stone"
+        },
+        {
+          "count": 30,
+          "item": "basic_wood"
+        },
+        {
+          "count": 3,
+          "item": "peat"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

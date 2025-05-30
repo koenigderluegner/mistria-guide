@@ -1,0 +1,17 @@
+{
+  "id": "mushroom_brew",
+  "item": {
+    "description": "items/other/cooked_dishes/mushroom_brew/description",
+    "name": "items/other/cooked_dishes/mushroom_brew/name",
+    "icon_sprite": "spr_ui_item_mushroom_brew",
+    "tags": [
+      "drink",
+      "drink_sound",
+      "mushroomy"
+    ],
+    "value": {
+      "bin": 40,
+      "store": 80
+    }
+  }
+}

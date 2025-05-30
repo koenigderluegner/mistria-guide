@@ -1,0 +1,40 @@
+{
+  "id": "cup_of_tea",
+  "item": {
+    "description": "items/other/cooked_dishes/cup_of_tea/description",
+    "name": "items/other/cooked_dishes/cup_of_tea/name",
+    "icon_sprite": "spr_ui_item_cupoftea",
+    "tags": [
+      "food",
+      "drink",
+      "hot_drink",
+      "drink_sound",
+      "caffeine",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 400
+    },
+    "recipe": {
+      "level_requirement": 16,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "lemon"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "tea"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

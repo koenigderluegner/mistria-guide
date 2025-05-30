@@ -1,0 +1,31 @@
+{
+  "id": "golden_shiner",
+  "item": {
+    "description": "items/fish/pond/golden_shiner/description",
+    "name": "items/fish/pond/golden_shiner/name",
+    "icon_sprite": "spr_ui_item_fish_small_golden_shiner",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 45
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "summer"
+    ],
+    "water_type": "pond",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

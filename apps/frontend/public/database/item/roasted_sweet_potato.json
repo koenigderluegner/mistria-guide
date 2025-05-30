@@ -1,0 +1,28 @@
+{
+  "id": "roasted_sweet_potato",
+  "item": {
+    "description": "items/other/cooked_dishes/roasted_sweet_potato/description",
+    "name": "items/other/cooked_dishes/roasted_sweet_potato/name",
+    "icon_sprite": "spr_ui_item_roasted_sweet_potato",
+    "tags": [
+      "food",
+      "roasted_dish"
+    ],
+    "value": {
+      "store": 150
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "sweet_potato"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

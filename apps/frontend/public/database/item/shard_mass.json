@@ -1,0 +1,28 @@
+{
+  "id": "shard_mass",
+  "item": {
+    "description": "items/other/materials/shard_mass/description",
+    "name": "items/other/materials/shard_mass/name",
+    "icon_sprite": "spr_ui_item_shard_mass",
+    "tags": [
+      "refined_material",
+      "material"
+    ],
+    "value": {
+      "bin": 10,
+      "store": 80
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "count": 15,
+          "item": "ore_stone"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "obsidian_blade",
+  "item": {
+    "description": "items/other/artifacts/obsidian_blade/description",
+    "name": "items/other/artifacts/obsidian_blade/name",
+    "icon_sprite": "spr_ui_item_obsidian_blade",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

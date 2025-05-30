@@ -1,0 +1,36 @@
+{
+  "id": "freshwater_oyster",
+  "item": {
+    "description": "items/fish/misc/freshwater_oyster/description",
+    "name": "items/fish/misc/freshwater_oyster/name",
+    "icon_sprite": "spr_ui_item_dive_freshwater_oyster",
+    "tags": [
+      "dive",
+      "river",
+      "fishy",
+      "fishable"
+    ],
+    "value": {
+      "bin": 25
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "water_type": "river",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": true,
+    "legendary": false,
+    "rarity": "very_very_common",
+    "retrieval": "divespot",
+    "is_chest": false,
+    "perk": []
+  }
+}

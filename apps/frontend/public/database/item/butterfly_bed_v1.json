@@ -1,0 +1,41 @@
+{
+  "id": "butterfly_bed_v1",
+  "item": {
+    "description": "items/furniture/insect_set/butterfly_bed_v1/description",
+    "name": "items/furniture/insect_set/butterfly_bed_v1/name",
+    "icon_sprite": "spr_ui_item_furniture_butterfly_bed_v1",
+    "tags": [
+      "furniture",
+      "insect_set",
+      "single_bed"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 40,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "question_mark_butterfly"
+        },
+        {
+          "count": 2,
+          "item": "feather"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

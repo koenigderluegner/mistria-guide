@@ -1,0 +1,38 @@
+{
+  "id": "cabin_table_walnut",
+  "item": {
+    "description": "items/furniture/rustic_cabin_set/cabin_table_walnut/description",
+    "name": "items/furniture/rustic_cabin_set/cabin_table_walnut/name",
+    "icon_sprite": "spr_ui_item_furniture_cabin_table_v2",
+    "tags": [
+      "furniture",
+      "dining_table",
+      "rustic_cabin_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 450
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        },
+        {
+          "count": 10,
+          "item": "ore_stone"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

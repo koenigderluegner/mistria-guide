@@ -1,0 +1,16 @@
+{
+  "id": "jasmine",
+  "item": {
+    "description": "items/other/crops_and_forage/jasmine/description",
+    "name": "items/other/crops_and_forage/jasmine/name",
+    "icon_sprite": "spr_ui_item_jasmine",
+    "tags": [
+      "flower",
+      "forageable"
+    ],
+    "value": {
+      "bin": 35,
+      "store": 140
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "carrot",
+  "item": {
+    "description": "items/other/crops_and_forage/carrot/description",
+    "name": "items/other/crops_and_forage/carrot/name",
+    "icon_sprite": "spr_ui_item_carrot",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 80,
+      "store": 250
+    }
+  }
+}

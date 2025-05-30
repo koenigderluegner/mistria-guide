@@ -1,0 +1,31 @@
+{
+  "id": "herring",
+  "item": {
+    "description": "items/fish/river/herring/description",
+    "name": "items/fish/river/herring/name",
+    "icon_sprite": "spr_ui_item_fish_small_herring",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 45
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "winter"
+    ],
+    "water_type": "river",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "very_common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

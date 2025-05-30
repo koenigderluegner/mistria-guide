@@ -1,0 +1,30 @@
+{
+  "id": "sword_copper",
+  "item": {
+    "description": "items/other/blacksmithing/sword_copper/description",
+    "name": "items/other/blacksmithing/sword_copper/name",
+    "icon_sprite": "spr_ui_item_tool_copper_sword",
+    "tags": [
+      "sword",
+      "blacksmithing",
+      "weapon"
+    ],
+    "value": {
+      "bin": 480,
+      "store": 1000
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "copper_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

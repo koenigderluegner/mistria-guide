@@ -1,0 +1,15 @@
+{
+  "id": "corn",
+  "item": {
+    "description": "items/other/crops_and_forage/corn/description",
+    "name": "items/other/crops_and_forage/corn/name",
+    "icon_sprite": "spr_ui_item_corn",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 125,
+      "store": 375
+    }
+  }
+}

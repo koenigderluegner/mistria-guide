@@ -1,0 +1,15 @@
+{
+  "id": "pumpkin",
+  "item": {
+    "description": "items/other/crops_and_forage/pumpkin/description",
+    "name": "items/other/crops_and_forage/pumpkin/name",
+    "icon_sprite": "spr_ui_item_pumpkin",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 180,
+      "store": 540
+    }
+  }
+}

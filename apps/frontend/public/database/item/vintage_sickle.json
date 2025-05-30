@@ -1,0 +1,15 @@
+{
+  "id": "vintage_sickle",
+  "item": {
+    "description": "items/other/artifacts/vintage_sickle/description",
+    "name": "items/other/artifacts/vintage_sickle/name",
+    "icon_sprite": "spr_ui_item_vintage_sickle",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "pond_snail",
+  "item": {
+    "description": "items/other/bugs/pond_snail/description",
+    "name": "items/other/bugs/pond_snail/name",
+    "icon_sprite": "spr_ui_item_dive_pond_snail",
+    "tags": [
+      "dive",
+      "pond"
+    ],
+    "value": {
+      "bin": 25
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "water_type": "pond",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": true,
+    "legendary": false,
+    "rarity": "very_very_common",
+    "retrieval": "divespot",
+    "is_chest": false,
+    "perk": []
+  }
+}

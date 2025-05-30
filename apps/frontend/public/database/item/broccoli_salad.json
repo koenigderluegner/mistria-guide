@@ -1,0 +1,33 @@
+{
+  "id": "broccoli_salad",
+  "item": {
+    "description": "items/other/cooked_dishes/broccoli_salad/description",
+    "name": "items/other/cooked_dishes/broccoli_salad/name",
+    "icon_sprite": "spr_ui_item_broccoli_salad",
+    "tags": [
+      "food",
+      "salad"
+    ],
+    "recipe": {
+      "level_requirement": 18,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "broccoli"
+        },
+        {
+          "count": 1,
+          "item": "cranberry"
+        },
+        {
+          "count": 1,
+          "item": "mayonnaise"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

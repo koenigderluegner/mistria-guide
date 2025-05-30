@@ -1,0 +1,49 @@
+{
+  "id": "sushi_platter",
+  "item": {
+    "description": "items/other/cooked_dishes/sushi_platter/description",
+    "name": "items/other/cooked_dishes/sushi_platter/name",
+    "icon_sprite": "spr_ui_item_sushiplatter",
+    "tags": [
+      "food",
+      "hand_crafted_dish",
+      "fishy"
+    ],
+    "value": {
+      "store": 1000
+    },
+    "recipe": {
+      "level_requirement": 40,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "tuna"
+        },
+        {
+          "count": 1,
+          "item": "salmon"
+        },
+        {
+          "count": 1,
+          "item": "mackerel"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        },
+        {
+          "count": 1,
+          "item": "seaweed"
+        },
+        {
+          "count": 1,
+          "item": "soy_sauce"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

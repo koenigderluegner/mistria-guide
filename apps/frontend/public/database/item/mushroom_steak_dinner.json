@@ -1,0 +1,46 @@
+{
+  "id": "mushroom_steak_dinner",
+  "item": {
+    "description": "items/other/cooked_dishes/mushroom_steak_dinner/description",
+    "name": "items/other/cooked_dishes/mushroom_steak_dinner/name",
+    "icon_sprite": "spr_ui_item_mushroom_steak_dinner",
+    "tags": [
+      "food",
+      "sauteed_dish",
+      "mushroomy",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 900
+    },
+    "recipe": {
+      "level_requirement": 36,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "oyster_mushroom"
+        },
+        {
+          "count": 1,
+          "item": "butter"
+        },
+        {
+          "count": 1,
+          "item": "cauliflower"
+        },
+        {
+          "count": 1,
+          "item": "beet"
+        },
+        {
+          "count": 1,
+          "item": "tide_lettuce"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

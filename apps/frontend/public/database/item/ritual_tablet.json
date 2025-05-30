@@ -1,0 +1,15 @@
+{
+  "id": "ritual_tablet",
+  "item": {
+    "description": "items/other/artifacts/ritual_tablet/description",
+    "name": "items/other/artifacts/ritual_tablet/name",
+    "icon_sprite": "spr_ui_item_ritual_tablet",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

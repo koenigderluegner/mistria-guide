@@ -1,0 +1,42 @@
+{
+  "id": "basic_bed_oak",
+  "item": {
+    "description": "items/furniture/basic_set/basic_bed_oak/description",
+    "name": "items/furniture/basic_set/basic_bed_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_basic_bed_v1",
+    "tags": [
+      "furniture",
+      "single_bed",
+      "basic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 300
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 40,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "cattail"
+        },
+        {
+          "count": 5,
+          "item": "fiber"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

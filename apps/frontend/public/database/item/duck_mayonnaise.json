@@ -1,0 +1,28 @@
+{
+  "id": "duck_mayonnaise",
+  "item": {
+    "description": "items/other/mill/duck_mayonnaise/description",
+    "name": "items/other/mill/duck_mayonnaise/name",
+    "icon_sprite": "spr_ui_item_duck_mayonnaise",
+    "tags": [
+      "milling",
+      "animal_product",
+      "ranching"
+    ],
+    "value": {
+      "bin": 70
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "item": "duck_egg",
+          "count": 2
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "seafood_snow_pea_noodles",
+  "item": {
+    "description": "items/other/cooked_dishes/seafood_snow_pea_noodles/description",
+    "name": "items/other/cooked_dishes/seafood_snow_pea_noodles/name",
+    "icon_sprite": "spr_ui_item_seafood_snow_pea_noodles",
+    "tags": [
+      "chef",
+      "sauteed_dish",
+      "food",
+      "no_inn_plate"
+    ],
+    "value": {
+      "store": 1500
+    },
+    "recipe": {
+      "level_requirement": 40,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "snow_peas"
+        },
+        {
+          "count": 1,
+          "item": "noodles"
+        },
+        {
+          "count": 1,
+          "item": "king_crab"
+        },
+        {
+          "count": 1,
+          "item": "bonito"
+        },
+        {
+          "count": 1,
+          "item": "herring"
+        },
+        {
+          "count": 1,
+          "item": "soy_sauce"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

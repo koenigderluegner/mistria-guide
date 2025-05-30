@@ -1,0 +1,38 @@
+{
+  "id": "cabin_chair_cherry",
+  "item": {
+    "description": "items/furniture/rustic_cabin_set/cabin_chair_cherry/description",
+    "name": "items/furniture/rustic_cabin_set/cabin_chair_cherry/name",
+    "icon_sprite": "spr_ui_item_furniture_cabin_chair_v1",
+    "tags": [
+      "furniture",
+      "stool",
+      "rustic_cabin_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "cattail"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

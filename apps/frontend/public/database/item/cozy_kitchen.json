@@ -1,0 +1,12 @@
+{
+  "id": "cozy_kitchen",
+  "item": {
+    "description": "items/other/misc/cozy_kitchen/description",
+    "name": "items/other/misc/cozy_kitchen/name",
+    "icon_sprite": "spr_ui_item_kitchen_tier_2",
+    "value": {
+      "bin": 750,
+      "store": 1500
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "water_sprite_statue_v4",
+  "item": {
+    "description": "items/furniture/water_sprite_set/water_sprite_statue_v4/description",
+    "name": "items/furniture/water_sprite_set/water_sprite_statue_v4/name",
+    "icon_sprite": "spr_ui_item_object_water_sprite_statue_v4",
+    "tags": [
+      "furniture",
+      "automation"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "refined_stone"
+        },
+        {
+          "count": 3,
+          "item": "sea_grapes"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

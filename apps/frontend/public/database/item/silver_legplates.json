@@ -1,0 +1,31 @@
+{
+  "id": "silver_legplates",
+  "item": {
+    "description": "items/other/armor/silver_legplates/description",
+    "name": "items/other/armor/silver_legplates/name",
+    "icon_sprite": "spr_ui_item_equipment_silver_pants",
+    "tags": [
+      "legs",
+      "armor",
+      "blacksmithing",
+      "silver_armor"
+    ],
+    "value": {
+      "bin": 970,
+      "store": 3000
+    },
+    "recipe": {
+      "level_requirement": 18,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "silver_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 50
+      }
+    }
+  }
+}

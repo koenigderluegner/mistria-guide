@@ -1,0 +1,33 @@
+{
+  "id": "spring_wallpaper_pink",
+  "item": {
+    "description": "items/furniture/spring_set/spring_wallpaper_pink/description",
+    "name": "items/furniture/spring_set/spring_wallpaper_pink/name",
+    "icon_sprite": "spr_ui_item_furniture_spring_wallpaper_pink",
+    "tags": [
+      "furniture",
+      "wallpaper",
+      "spring_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "paper"
+        },
+        {
+          "count": 3,
+          "item": "tulip"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

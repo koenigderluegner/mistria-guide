@@ -1,0 +1,11 @@
+{
+  "id": "dungeon_fountain_health",
+  "item": {
+    "description": "items/other/misc/dungeon_fountain_health/description",
+    "name": "items/other/misc/dungeon_fountain_health/name",
+    "icon_sprite": "spr_ui_item_stone_cup",
+    "tags": [
+      "drink_sound"
+    ]
+  }
+}

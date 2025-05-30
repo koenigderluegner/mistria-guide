@@ -1,0 +1,15 @@
+{
+  "id": "rose_hip",
+  "item": {
+    "description": "items/other/crops_and_forage/rose_hip/description",
+    "name": "items/other/crops_and_forage/rose_hip/name",
+    "icon_sprite": "spr_ui_item_bush_rosehip",
+    "tags": [
+      "forageable"
+    ],
+    "value": {
+      "bin": 20,
+      "store": 80
+    }
+  }
+}

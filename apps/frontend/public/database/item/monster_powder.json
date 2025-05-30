@@ -1,0 +1,15 @@
+{
+  "id": "monster_powder",
+  "item": {
+    "description": "items/other/monster_drops/monster_powder/description",
+    "name": "items/other/monster_drops/monster_powder/name",
+    "icon_sprite": "spr_ui_item_monster_powder",
+    "tags": [
+      "monster_part",
+      "material"
+    ],
+    "value": {
+      "bin": 15
+    }
+  }
+}

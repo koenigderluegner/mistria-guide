@@ -1,0 +1,34 @@
+{
+  "id": "picnic_basket_yellow",
+  "item": {
+    "description": "items/furniture/decor_picnic_set/picnic_basket_yellow/description",
+    "name": "items/furniture/decor_picnic_set/picnic_basket_yellow/name",
+    "icon_sprite": "spr_ui_item_picnic_basket_yellow",
+    "tags": [
+      "furniture",
+      "misc_outdoor_decor",
+      "picnic_decor_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "hay"
+        },
+        {
+          "count": 1,
+          "item": "paper"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

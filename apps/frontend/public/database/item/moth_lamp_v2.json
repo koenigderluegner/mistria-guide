@@ -1,0 +1,41 @@
+{
+  "id": "moth_lamp_v2",
+  "item": {
+    "description": "items/furniture/insect_set/moth_lamp_v2/description",
+    "name": "items/furniture/insect_set/moth_lamp_v2/name",
+    "icon_sprite": "spr_ui_item_furniture_moth_lamp_v2",
+    "tags": [
+      "furniture",
+      "insect_set",
+      "table_lighting"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 15,
+          "item": "ore_stone"
+        },
+        {
+          "count": 2,
+          "item": "glass"
+        },
+        {
+          "count": 1,
+          "item": "lantern_moth"
+        },
+        {
+          "count": 1,
+          "item": "monster_core"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

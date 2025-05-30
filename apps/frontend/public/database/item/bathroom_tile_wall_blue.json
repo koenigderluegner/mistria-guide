@@ -1,0 +1,33 @@
+{
+  "id": "bathroom_tile_wall_blue",
+  "item": {
+    "description": "items/furniture/bathroom_furniture_set/bathroom_tile_wall_blue/description",
+    "name": "items/furniture/bathroom_furniture_set/bathroom_tile_wall_blue/name",
+    "icon_sprite": "spr_ui_item_furniture_bathroom_tile_wall_blue",
+    "tags": [
+      "furniture",
+      "wallpaper",
+      "bathroom_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 28,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "hard_wood"
+        },
+        {
+          "count": 2,
+          "item": "rabbit_wool"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

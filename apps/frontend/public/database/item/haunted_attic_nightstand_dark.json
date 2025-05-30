@@ -1,0 +1,38 @@
+{
+  "id": "haunted_attic_nightstand_dark",
+  "item": {
+    "description": "items/furniture/haunted_attic_set/haunted_attic_nightstand_dark/description",
+    "name": "items/furniture/haunted_attic_set/haunted_attic_nightstand_dark/name",
+    "icon_sprite": "spr_ui_item_furniture_haunted_attic_nightstand_dark",
+    "tags": [
+      "furniture",
+      "nightstand",
+      "haunted_attic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 350
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "iron_ingot"
+        },
+        {
+          "count": 5,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

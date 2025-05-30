@@ -1,0 +1,42 @@
+{
+  "id": "sesame_tuna_bowl",
+  "item": {
+    "description": "items/other/cooked_dishes/sesame_tuna_bowl/description",
+    "name": "items/other/cooked_dishes/sesame_tuna_bowl/name",
+    "icon_sprite": "spr_ui_item_sesame_tuna_bowl",
+    "tags": [
+      "chef",
+      "hand_crafted_dish",
+      "food",
+      "fishy"
+    ],
+    "value": {
+      "store": 600
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "tuna"
+        },
+        {
+          "count": 1,
+          "item": "sesame"
+        },
+        {
+          "count": 1,
+          "item": "cucumber"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

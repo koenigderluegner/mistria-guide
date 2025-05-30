@@ -1,0 +1,37 @@
+{
+  "id": "explorer_chair_beige",
+  "item": {
+    "description": "items/furniture/explorer_set/explorer_chair_beige/description",
+    "name": "items/furniture/explorer_set/explorer_chair_beige/name",
+    "icon_sprite": "spr_ui_item_furniture_explorer_chair_beige",
+    "tags": [
+      "furniture",
+      "accent_chair",
+      "explorer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "basic_wood"
+        },
+        {
+          "count": 2,
+          "item": "horse_hair"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

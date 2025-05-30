@@ -1,0 +1,38 @@
+{
+  "id": "haunted_attic_table_dusty",
+  "item": {
+    "description": "items/furniture/haunted_attic_set/haunted_attic_table_dusty/description",
+    "name": "items/furniture/haunted_attic_set/haunted_attic_table_dusty/name",
+    "icon_sprite": "spr_ui_item_furniture_haunted_attic_table_dusty",
+    "tags": [
+      "furniture",
+      "dining_table",
+      "haunted_attic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 500
+    },
+    "recipe": {
+      "level_requirement": 6,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "iron_ingot"
+        },
+        {
+          "count": 1,
+          "item": "sheep_wool"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "spell_fruit",
+  "item": {
+    "description": "items/mines/ruins/spell_fruit/description",
+    "name": "items/mines/ruins/spell_fruit/name",
+    "icon_sprite": "spr_ui_item_spell_fruit",
+    "tags": [
+      "forageable",
+      "mines_forageable"
+    ],
+    "value": {
+      "bin": 10
+    }
+  }
+}

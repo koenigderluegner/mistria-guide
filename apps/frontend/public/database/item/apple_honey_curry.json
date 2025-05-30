@@ -1,0 +1,49 @@
+{
+  "id": "apple_honey_curry",
+  "item": {
+    "description": "items/other/cooked_dishes/apple_honey_curry/description",
+    "name": "items/other/cooked_dishes/apple_honey_curry/name",
+    "icon_sprite": "spr_ui_item_apple_honey_curry",
+    "tags": [
+      "chef",
+      "simmered_dish",
+      "food"
+    ],
+    "value": {
+      "store": 1300
+    },
+    "recipe": {
+      "level_requirement": 40,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "apple"
+        },
+        {
+          "count": 1,
+          "item": "honey"
+        },
+        {
+          "count": 1,
+          "item": "curry_powder"
+        },
+        {
+          "count": 1,
+          "item": "sweet_potato"
+        },
+        {
+          "count": 1,
+          "item": "onion"
+        },
+        {
+          "count": 1,
+          "item": "rice"
+        }
+      ],
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "basic_bookshelf_walnut",
+  "item": {
+    "description": "items/furniture/basic_set/basic_bookshelf_walnut/description",
+    "name": "items/furniture/basic_set/basic_bookshelf_walnut/name",
+    "icon_sprite": "spr_ui_item_furniture_basic_bookshelf_v2",
+    "tags": [
+      "furniture",
+      "bookshelf",
+      "basic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 400
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "paper"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

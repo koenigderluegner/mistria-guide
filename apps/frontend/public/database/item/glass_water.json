@@ -1,0 +1,29 @@
+{
+  "id": "glass_water",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/glass_water/description",
+    "name": "items/furniture/tabletop_clutter_set/glass_water/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_glass_water",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "glass"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

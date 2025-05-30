@@ -1,0 +1,16 @@
+{
+  "id": "net_worn",
+  "item": {
+    "description": "items/other/blacksmithing/net_worn/description",
+    "name": "items/other/blacksmithing/net_worn/name",
+    "icon_sprite": "spr_ui_item_tool_rusty_net",
+    "tags": [
+      "net",
+      "tool"
+    ],
+    "value": {
+      "bin": 50,
+      "store": 200
+    }
+  }
+}

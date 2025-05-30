@@ -1,0 +1,41 @@
+{
+  "id": "emerald_rug_v2",
+  "item": {
+    "description": "items/furniture/emerald_set/emerald_rug_v2/description",
+    "name": "items/furniture/emerald_set/emerald_rug_v2/name",
+    "icon_sprite": "spr_ui_item_furniture_emerald_rug_v2",
+    "tags": [
+      "furniture",
+      "medium_rug",
+      "emerald_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 32,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "ore_emerald"
+        },
+        {
+          "count": 3,
+          "item": "golden_alpaca_wool"
+        },
+        {
+          "count": 3,
+          "item": "golden_sheep_wool"
+        },
+        {
+          "count": 3,
+          "item": "golden_rabbit_wool"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

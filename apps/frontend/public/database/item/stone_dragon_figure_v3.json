@@ -1,0 +1,33 @@
+{
+  "id": "stone_dragon_figure_v3",
+  "item": {
+    "description": "items/furniture/mistrian_history_set/stone_dragon_figure_v3/description",
+    "name": "items/furniture/mistrian_history_set/stone_dragon_figure_v3/name",
+    "icon_sprite": "spr_ui_item_decor_stone_dragon_figure_v3",
+    "tags": [
+      "furniture",
+      "mistrian_history_set",
+      "misc_decor"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 14,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "ore_stone"
+        },
+        {
+          "count": 4,
+          "item": "monster_horn"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

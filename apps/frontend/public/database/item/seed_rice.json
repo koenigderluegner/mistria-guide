@@ -1,0 +1,14 @@
+{
+  "id": "seed_rice",
+  "item": {
+    "description": "items/other/crops_and_forage/seed_rice/description",
+    "name": "items/other/crops_and_forage/seed_rice/name",
+    "icon_sprite": "spr_ui_item_bagseed_rice_icon",
+    "tags": [
+      "seed"
+    ],
+    "value": {
+      "store": 300
+    }
+  }
+}

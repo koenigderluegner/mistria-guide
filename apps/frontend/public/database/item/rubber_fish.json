@@ -1,0 +1,40 @@
+{
+  "id": "rubber_fish",
+  "item": {
+    "description": "items/other/artifacts/rubber_fish/description",
+    "name": "items/other/artifacts/rubber_fish/name",
+    "icon_sprite": "spr_ui_item_rubber_fish",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  },
+  "fish": {
+    "item": "unidentified_artifact",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "water_type": [
+      "ocean",
+      "river",
+      "pond"
+    ],
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": true,
+    "legendary": false,
+    "rarity": "artifact_fishing",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": [
+      "aquatic_antiquities"
+    ]
+  }
+}

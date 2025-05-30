@@ -1,0 +1,30 @@
+{
+  "id": "basic_doormat_green",
+  "item": {
+    "description": "items/furniture/basic_set/basic_doormat_green/description",
+    "name": "items/furniture/basic_set/basic_doormat_green/name",
+    "icon_sprite": "spr_ui_item_furniture_basic_doormat_v2",
+    "tags": [
+      "furniture",
+      "small_rug",
+      "basic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 30
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "hay"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "crafting_scroll",
+  "item": {
+    "description": "items/other/misc/crafting_scroll/description",
+    "name": "items/other/misc/crafting_scroll/name",
+    "icon_sprite": "spr_ui_item_craftingscroll",
+    "tags": [
+      "scroll"
+    ],
+    "value": {
+      "store": 300
+    }
+  }
+}

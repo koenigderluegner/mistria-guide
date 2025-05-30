@@ -1,0 +1,42 @@
+{
+  "id": "cottage_table_ash",
+  "item": {
+    "description": "items/furniture/lovely_cottage_set/cottage_table_ash/description",
+    "name": "items/furniture/lovely_cottage_set/cottage_table_ash/name",
+    "icon_sprite": "spr_ui_item_furniture_cottage_table_v2",
+    "tags": [
+      "furniture",
+      "dining_table",
+      "lovely_cottage_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 500
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 40,
+          "item": "basic_wood"
+        },
+        {
+          "count": 10,
+          "item": "ore_stone"
+        },
+        {
+          "count": 1,
+          "item": "copper_ingot"
+        },
+        {
+          "count": 10,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

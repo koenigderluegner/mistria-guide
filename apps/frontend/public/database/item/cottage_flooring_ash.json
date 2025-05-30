@@ -1,0 +1,30 @@
+{
+  "id": "cottage_flooring_ash",
+  "item": {
+    "description": "items/furniture/lovely_cottage_set/cottage_flooring_ash/description",
+    "name": "items/furniture/lovely_cottage_set/cottage_flooring_ash/name",
+    "icon_sprite": "spr_ui_item_furniture_cottage_flooring_v2",
+    "tags": [
+      "furniture",
+      "wood_flooring",
+      "lovely_cottage_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "firefly_wall_string_lights_yellow",
+  "item": {
+    "description": "items/furniture/insect_set/firefly_wall_string_lights_yellow/description",
+    "name": "items/furniture/insect_set/firefly_wall_string_lights_yellow/name",
+    "icon_sprite": "spr_ui_item_decor_firefly_string_lights_yellow",
+    "tags": [
+      "furniture",
+      "wall_lighting",
+      "insect_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 26,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "firefly"
+        },
+        {
+          "count": 3,
+          "item": "monster_core"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

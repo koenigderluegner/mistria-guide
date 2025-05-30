@@ -1,0 +1,42 @@
+{
+  "id": "fiber",
+  "item": {
+    "description": "items/other/materials/fiber/description",
+    "name": "items/other/materials/fiber/name",
+    "icon_sprite": "spr_ui_item_fiber",
+    "tags": [
+      "junk",
+      "fishable",
+      "material"
+    ],
+    "value": {
+      "bin": 2,
+      "store": 20
+    }
+  },
+  "fish": {
+    "item": "fiber",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "water_type": [
+      "river",
+      "pond",
+      "ocean"
+    ],
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "junk",
+    "retrieval": [
+      "fishing"
+    ],
+    "is_chest": false,
+    "perk": []
+  }
+}

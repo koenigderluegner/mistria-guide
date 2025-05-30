@@ -1,0 +1,11 @@
+{
+  "id": "recipe_scroll",
+  "item": {
+    "description": "items/other/misc/recipe_scroll/description",
+    "name": "items/other/misc/recipe_scroll/name",
+    "icon_sprite": "spr_ui_item_recipescroll",
+    "tags": [
+      "scroll"
+    ]
+  }
+}

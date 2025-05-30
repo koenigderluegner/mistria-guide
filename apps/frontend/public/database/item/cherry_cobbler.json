@@ -1,0 +1,32 @@
+{
+  "id": "cherry_cobbler",
+  "item": {
+    "description": "items/other/cooked_dishes/cherry_cobbler/description",
+    "name": "items/other/cooked_dishes/cherry_cobbler/name",
+    "icon_sprite": "spr_ui_item_cherry_cobbler",
+    "tags": [
+      "food",
+      "baked_dessert"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "cherry"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

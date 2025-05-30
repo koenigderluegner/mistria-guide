@@ -1,0 +1,15 @@
+{
+  "id": "heart_shaped_duck_treat",
+  "item": {
+    "description": "items/other/ranching/heart_shaped_duck_treat/description",
+    "name": "items/other/ranching/heart_shaped_duck_treat/name",
+    "icon_sprite": "spr_ui_item_animal_treat_duck",
+    "tags": [
+      "duck_treat",
+      "weird_gift"
+    ],
+    "value": {
+      "store": 225
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cottage_wallpaper_ash",
+  "item": {
+    "description": "items/furniture/lovely_cottage_set/cottage_wallpaper_ash/description",
+    "name": "items/furniture/lovely_cottage_set/cottage_wallpaper_ash/name",
+    "icon_sprite": "spr_ui_item_furniture_cottage_wallpaper_v2",
+    "tags": [
+      "furniture",
+      "wallpaper",
+      "lovely_cottage_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "paper"
+        },
+        {
+          "count": 15,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

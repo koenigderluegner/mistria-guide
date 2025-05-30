@@ -1,0 +1,32 @@
+{
+  "id": "rosehip_jam",
+  "item": {
+    "description": "items/other/cooked_dishes/rosehip_jam/description",
+    "name": "items/other/cooked_dishes/rosehip_jam/name",
+    "icon_sprite": "spr_ui_item_rosehip_jam",
+    "tags": [
+      "food",
+      "jam"
+    ],
+    "value": {
+      "store": 180
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "rose_hip"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

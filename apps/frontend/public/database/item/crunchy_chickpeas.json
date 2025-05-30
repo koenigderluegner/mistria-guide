@@ -1,0 +1,32 @@
+{
+  "id": "crunchy_chickpeas",
+  "item": {
+    "description": "items/other/cooked_dishes/crunchy_chickpeas/description",
+    "name": "items/other/cooked_dishes/crunchy_chickpeas/name",
+    "icon_sprite": "spr_ui_item_crunchychickpeas",
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "value": {
+      "store": 110
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "chickpea"
+        },
+        {
+          "count": 1,
+          "item": "rock_salt"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

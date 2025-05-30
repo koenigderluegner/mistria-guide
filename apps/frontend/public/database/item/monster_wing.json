@@ -1,0 +1,15 @@
+{
+  "id": "monster_wing",
+  "item": {
+    "description": "items/other/monster_drops/monster_wing/description",
+    "name": "items/other/monster_drops/monster_wing/name",
+    "icon_sprite": "spr_ui_item_monster_wing",
+    "tags": [
+      "monster_part",
+      "material"
+    ],
+    "value": {
+      "bin": 30
+    }
+  }
+}

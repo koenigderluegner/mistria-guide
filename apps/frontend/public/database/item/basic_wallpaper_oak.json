@@ -1,0 +1,30 @@
+{
+  "id": "basic_wallpaper_oak",
+  "item": {
+    "description": "items/furniture/basic_set/basic_wallpaper_oak/description",
+    "name": "items/furniture/basic_set/basic_wallpaper_oak/name",
+    "icon_sprite": "spr_ui_item_furniture_basic_wallpaper_v1",
+    "tags": [
+      "furniture",
+      "wallpaper",
+      "basic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 240
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 5,
+          "item": "paper"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

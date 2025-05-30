@@ -1,0 +1,15 @@
+{
+  "id": "cabbage",
+  "item": {
+    "description": "items/other/crops_and_forage/cabbage/description",
+    "name": "items/other/crops_and_forage/cabbage/name",
+    "icon_sprite": "spr_ui_item_cabbage",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 180,
+      "store": 540
+    }
+  }
+}

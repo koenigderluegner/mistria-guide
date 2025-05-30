@@ -1,0 +1,15 @@
+{
+  "id": "spring_festival_planter",
+  "item": {
+    "description": "items/furniture/spring_festival_set/spring_festival_planter/description",
+    "name": "items/furniture/spring_festival_set/spring_festival_planter/name",
+    "icon_sprite": "spr_ui_item_decor_spring_festival_planter",
+    "tags": [
+      "furniture"
+    ],
+    "value": {
+      "bin": 250,
+      "store": 500
+    }
+  }
+}

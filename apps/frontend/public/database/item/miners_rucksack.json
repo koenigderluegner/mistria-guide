@@ -1,0 +1,15 @@
+{
+  "id": "miners_rucksack",
+  "item": {
+    "description": "items/mines/upper_mines/miners_rucksack/description",
+    "name": "items/mines/upper_mines/miners_rucksack/name",
+    "icon_sprite": "spr_ui_item_miners_rucksack",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

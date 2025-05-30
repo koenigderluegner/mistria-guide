@@ -1,0 +1,16 @@
+{
+  "id": "wild_berries",
+  "item": {
+    "description": "items/other/crops_and_forage/wild_berries/description",
+    "name": "items/other/crops_and_forage/wild_berries/name",
+    "icon_sprite": "spr_ui_item_bush_wildberry",
+    "tags": [
+      "forageable",
+      "berry"
+    ],
+    "value": {
+      "bin": 1,
+      "store": 15
+    }
+  }
+}

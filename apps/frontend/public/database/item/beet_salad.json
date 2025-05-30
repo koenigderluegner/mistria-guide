@@ -1,0 +1,28 @@
+{
+  "id": "beet_salad",
+  "item": {
+    "description": "items/other/cooked_dishes/beet_salad/description",
+    "name": "items/other/cooked_dishes/beet_salad/name",
+    "icon_sprite": "spr_ui_item_beet_salad",
+    "tags": [
+      "food",
+      "salad"
+    ],
+    "value": {
+      "store": 150
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "beet"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}

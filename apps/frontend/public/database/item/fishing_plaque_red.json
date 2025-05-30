@@ -1,0 +1,38 @@
+{
+  "id": "fishing_plaque_red",
+  "item": {
+    "description": "items/furniture/fishing_set/fishing_plaque_red/description",
+    "name": "items/furniture/fishing_set/fishing_plaque_red/name",
+    "icon_sprite": "spr_ui_item_furniture_fishing_plaque_red",
+    "tags": [
+      "furniture",
+      "wall_decor",
+      "fishing_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 160
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "basic_wood"
+        },
+        {
+          "count": 1,
+          "item": "iron_ingot"
+        },
+        {
+          "count": 1,
+          "item": "trout"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dragon_altar_water",
+  "item": {
+    "description": "items/furniture/dragon_altar_set/dragon_altar_water/description",
+    "name": "items/furniture/dragon_altar_set/dragon_altar_water/name",
+    "icon_sprite": "spr_ui_item_decor_water_seal_altar",
+    "tags": [
+      "furniture",
+      "dragon_altar_set",
+      "misc_decor"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 30,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "ore_silver"
+        },
+        {
+          "count": 5,
+          "item": "crystal"
+        },
+        {
+          "count": 3,
+          "item": "monster_wing"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

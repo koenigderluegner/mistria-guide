@@ -1,0 +1,25 @@
+{
+  "id": "axe_mistril",
+  "item": {
+    "description": "items/other/blacksmithing/axe_mistril/description",
+    "name": "items/other/blacksmithing/axe_mistril/name",
+    "icon_sprite": "spr_ui_item_tool_mistril_axe",
+    "value": {
+      "bin": 1450,
+      "store": 5000
+    },
+    "recipe": {
+      "level_requirement": 28,
+      "ingredients": [
+        {
+          "count": 4,
+          "item": "mistril_ingot"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

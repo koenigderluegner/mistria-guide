@@ -1,0 +1,15 @@
+{
+  "id": "pear",
+  "item": {
+    "description": "items/other/crops_and_forage/pear/description",
+    "name": "items/other/crops_and_forage/pear/name",
+    "icon_sprite": "spr_ui_item_pear",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 45,
+      "store": 180
+    }
+  }
+}

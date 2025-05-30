@@ -1,0 +1,28 @@
+{
+  "id": "cheese",
+  "item": {
+    "description": "items/other/mill/cheese/description",
+    "name": "items/other/mill/cheese/name",
+    "icon_sprite": "spr_ui_item_cheese",
+    "tags": [
+      "milling",
+      "animal_product",
+      "ranching"
+    ],
+    "value": {
+      "bin": 90
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "item": "cow_milk",
+          "count": 2
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

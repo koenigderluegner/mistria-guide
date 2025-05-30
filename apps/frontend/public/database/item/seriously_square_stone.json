@@ -1,0 +1,15 @@
+{
+  "id": "seriously_square_stone",
+  "item": {
+    "description": "items/mines/deep_earth/seriously_square_stone/description",
+    "name": "items/mines/deep_earth/seriously_square_stone/name",
+    "icon_sprite": "spr_ui_item_seriously_square_rock",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 40,
+      "renown": 5
+    }
+  }
+}

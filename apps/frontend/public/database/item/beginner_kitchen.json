@@ -1,0 +1,11 @@
+{
+  "id": "beginner_kitchen",
+  "item": {
+    "description": "items/other/misc/beginner_kitchen/description",
+    "name": "items/other/misc/beginner_kitchen/name",
+    "icon_sprite": "spr_ui_item_kitchen_tier_1",
+    "value": {
+      "bin": 500
+    }
+  }
+}

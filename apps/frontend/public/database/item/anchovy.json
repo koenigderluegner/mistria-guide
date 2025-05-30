@@ -1,0 +1,31 @@
+{
+  "id": "anchovy",
+  "item": {
+    "description": "items/fish/ocean/anchovy/description",
+    "name": "items/fish/ocean/anchovy/name",
+    "icon_sprite": "spr_ui_item_fish_small_anchovy",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 35
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": [
+      "spring"
+    ],
+    "water_type": "ocean",
+    "weather": false,
+    "locations": false,
+    "size": "small",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "very_common",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

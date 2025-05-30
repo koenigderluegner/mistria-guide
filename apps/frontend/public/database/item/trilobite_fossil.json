@@ -1,0 +1,15 @@
+{
+  "id": "trilobite_fossil",
+  "item": {
+    "description": "items/other/artifacts/trilobite_fossil/description",
+    "name": "items/other/artifacts/trilobite_fossil/name",
+    "icon_sprite": "spr_ui_item_trilobite_fossil",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 50,
+      "renown": 5
+    }
+  }
+}

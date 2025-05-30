@@ -1,0 +1,29 @@
+{
+  "id": "goby",
+  "item": {
+    "description": "items/fish/river/goby/description",
+    "name": "items/fish/river/goby/name",
+    "icon_sprite": "spr_ui_item_fish_medium_goby",
+    "tags": [
+      "fishable",
+      "fishy"
+    ],
+    "value": {
+      "bin": 70
+    }
+  },
+  "fish": {
+    "item": "<..>",
+    "seasons": false,
+    "water_type": "river",
+    "weather": false,
+    "locations": false,
+    "size": "medium",
+    "any_size": false,
+    "legendary": false,
+    "rarity": "uncommon",
+    "retrieval": "fishing",
+    "is_chest": false,
+    "perk": []
+  }
+}

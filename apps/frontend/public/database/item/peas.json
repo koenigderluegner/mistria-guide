@@ -1,0 +1,15 @@
+{
+  "id": "peas",
+  "item": {
+    "description": "items/other/crops_and_forage/peas/description",
+    "name": "items/other/crops_and_forage/peas/name",
+    "icon_sprite": "spr_ui_item_peas",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 135,
+      "store": 400
+    }
+  }
+}

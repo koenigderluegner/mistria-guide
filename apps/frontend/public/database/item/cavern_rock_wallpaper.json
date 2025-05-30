@@ -1,0 +1,37 @@
+{
+  "id": "cavern_rock_wallpaper",
+  "item": {
+    "description": "items/furniture/cavern_set/cavern_rock_wallpaper/description",
+    "name": "items/furniture/cavern_set/cavern_rock_wallpaper/name",
+    "icon_sprite": "spr_ui_item_furniture_wallpaper_deep_earth",
+    "tags": [
+      "furniture",
+      "cavern_set",
+      "wallpaper"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 10,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "ore_stone"
+        },
+        {
+          "count": 5,
+          "item": "ore_silver"
+        },
+        {
+          "count": 5,
+          "item": "paper"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

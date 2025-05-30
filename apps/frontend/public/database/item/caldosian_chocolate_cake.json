@@ -1,0 +1,41 @@
+{
+  "id": "caldosian_chocolate_cake",
+  "item": {
+    "description": "items/other/cooked_dishes/caldosian_chocolate_cake/description",
+    "name": "items/other/cooked_dishes/caldosian_chocolate_cake/name",
+    "icon_sprite": "spr_ui_item_caldosian_chocolate_cake",
+    "tags": [
+      "food",
+      "baked_dessert",
+      "choco"
+    ],
+    "value": {
+      "store": 650
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "chocolate"
+        },
+        {
+          "count": 1,
+          "item": "flour"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        },
+        {
+          "count": 1,
+          "item": "egg"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

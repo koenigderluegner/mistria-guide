@@ -1,0 +1,32 @@
+{
+  "id": "trail_mix",
+  "item": {
+    "description": "items/other/cooked_dishes/trail_mix/description",
+    "name": "items/other/cooked_dishes/trail_mix/name",
+    "icon_sprite": "spr_ui_item_trailmix",
+    "tags": [
+      "food",
+      "snack"
+    ],
+    "value": {
+      "store": 100
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "water_chestnut"
+        },
+        {
+          "count": 1,
+          "item": "wild_berries"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

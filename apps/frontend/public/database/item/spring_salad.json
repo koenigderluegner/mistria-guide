@@ -1,0 +1,36 @@
+{
+  "id": "spring_salad",
+  "item": {
+    "description": "items/other/cooked_dishes/spring_salad/description",
+    "name": "items/other/cooked_dishes/spring_salad/name",
+    "icon_sprite": "spr_ui_item_springsalad",
+    "tags": [
+      "food",
+      "salad"
+    ],
+    "value": {
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "fennel"
+        },
+        {
+          "count": 1,
+          "item": "fiddlehead"
+        },
+        {
+          "count": 1,
+          "item": "nettle"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

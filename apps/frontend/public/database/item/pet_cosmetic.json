@@ -1,0 +1,13 @@
+{
+  "id": "pet_cosmetic",
+  "item": {
+    "description": "items/other/misc/pet_cosmetic/description",
+    "icon_sprite": "spr_illegal_16",
+    "tags": [
+      "blacklist_popup"
+    ],
+    "value": {
+      "store": 500
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "oil",
+  "item": {
+    "description": "items/other/materials/oil/description",
+    "name": "items/other/materials/oil/name",
+    "icon_sprite": "spr_ui_item_oil",
+    "tags": [
+      "material",
+      "material"
+    ],
+    "value": {
+      "bin": 30,
+      "store": 60
+    },
+    "recipe": {
+      "ingredients": [
+        {
+          "count": 2,
+          "item": "sesame"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 15
+      }
+    }
+  }
+}

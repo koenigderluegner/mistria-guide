@@ -1,0 +1,15 @@
+{
+  "id": "hardened_essence",
+  "item": {
+    "description": "items/other/artifacts/hardened_essence/description",
+    "name": "items/other/artifacts/hardened_essence/name",
+    "icon_sprite": "spr_ui_item_hardened_essence",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "narrows_moss",
+  "item": {
+    "description": "items/mines/upper_mines/narrows_moss/description",
+    "name": "items/mines/upper_mines/narrows_moss/name",
+    "icon_sprite": "spr_ui_item_narrows_moss",
+    "tags": [
+      "forageable",
+      "mines_forageable"
+    ],
+    "value": {
+      "bin": 20
+    }
+  }
+}

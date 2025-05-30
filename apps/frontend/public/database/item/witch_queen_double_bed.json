@@ -1,0 +1,37 @@
+{
+  "id": "witch_queen_double_bed",
+  "item": {
+    "description": "items/furniture/witch_queen_set/witch_queen_double_bed/description",
+    "name": "items/furniture/witch_queen_set/witch_queen_double_bed/name",
+    "icon_sprite": "spr_ui_item_furniture_witch_queen_double_bed",
+    "tags": [
+      "furniture",
+      "double_bed",
+      "witch_queen_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 26,
+      "ingredients": [
+        {
+          "count": 1000,
+          "item": "hard_wood"
+        },
+        {
+          "count": 6,
+          "item": "shard_mass"
+        },
+        {
+          "count": 6,
+          "item": "golden_feather"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

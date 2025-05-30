@@ -1,0 +1,37 @@
+{
+  "id": "tide_touched_cavern_wall",
+  "item": {
+    "description": "items/furniture/tide_set/tide_touched_cavern_wall/description",
+    "name": "items/furniture/tide_set/tide_touched_cavern_wall/name",
+    "icon_sprite": "spr_ui_item_furniture_tide_wallpaper",
+    "tags": [
+      "furniture",
+      "tide_caverns_set",
+      "wallpaper"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 20,
+          "item": "ore_stone"
+        },
+        {
+          "count": 5,
+          "item": "ore_iron"
+        },
+        {
+          "count": 5,
+          "item": "paper"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

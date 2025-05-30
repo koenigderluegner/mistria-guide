@@ -1,0 +1,33 @@
+{
+  "id": "summer_jar_lamp_yellow",
+  "item": {
+    "description": "items/furniture/summer_set/summer_jar_lamp_yellow/description",
+    "name": "items/furniture/summer_set/summer_jar_lamp_yellow/name",
+    "icon_sprite": "spr_ui_item_furniture_summer_jar_lamp_yellow",
+    "tags": [
+      "furniture",
+      "table_lighting",
+      "summer_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 3,
+          "item": "glass"
+        },
+        {
+          "count": 1,
+          "item": "firefly"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

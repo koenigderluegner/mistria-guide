@@ -1,0 +1,41 @@
+{
+  "id": "gazpacho",
+  "item": {
+    "description": "items/other/cooked_dishes/gazpacho/description",
+    "name": "items/other/cooked_dishes/gazpacho/name",
+    "icon_sprite": "spr_ui_item_gazpacho",
+    "tags": [
+      "food",
+      "cozy",
+      "soup"
+    ],
+    "value": {
+      "store": 750
+    },
+    "recipe": {
+      "level_requirement": 26,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "cucumber"
+        },
+        {
+          "count": 1,
+          "item": "tomato"
+        },
+        {
+          "count": 1,
+          "item": "watermelon"
+        },
+        {
+          "count": 1,
+          "item": "basil"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 40
+      }
+    }
+  }
+}

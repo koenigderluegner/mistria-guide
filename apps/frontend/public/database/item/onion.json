@@ -1,0 +1,15 @@
+{
+  "id": "onion",
+  "item": {
+    "description": "items/other/crops_and_forage/onion/description",
+    "name": "items/other/crops_and_forage/onion/name",
+    "icon_sprite": "spr_ui_item_onion",
+    "tags": [
+      "crop"
+    ],
+    "value": {
+      "bin": 135,
+      "store": 400
+    }
+  }
+}

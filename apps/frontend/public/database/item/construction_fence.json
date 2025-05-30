@@ -1,0 +1,13 @@
+{
+  "id": "construction_fence",
+  "item": {
+    "description": "items/other/misc/construction_fence/description",
+    "name": "items/other/misc/construction_fence/name",
+    "icon_sprite": "spr_ui_item_decor_starter_wood_fence",
+    "tags": [],
+    "value": {
+      "bin": 10,
+      "store": 20
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "gryphon_statue_replica_v3",
+  "item": {
+    "description": "items/furniture/mistrian_history_set/gryphon_statue_replica_v3/description",
+    "name": "items/furniture/mistrian_history_set/gryphon_statue_replica_v3/name",
+    "icon_sprite": "spr_ui_item_decor_gryphon_statue_v3",
+    "tags": [
+      "furniture",
+      "misc_outdoor_decor",
+      "mistrian_history_set"
+    ],
+    "value": {
+      "bin": "self.recipe*1.1"
+    },
+    "recipe": {
+      "level_requirement": 20,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "refined_stone"
+        },
+        {
+          "count": 3,
+          "item": "monster_shell"
+        },
+        {
+          "count": 3,
+          "item": "monster_horn"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

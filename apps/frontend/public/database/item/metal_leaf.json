@@ -1,0 +1,15 @@
+{
+  "id": "metal_leaf",
+  "item": {
+    "description": "items/other/artifacts/metal_leaf/description",
+    "name": "items/other/artifacts/metal_leaf/name",
+    "icon_sprite": "spr_ui_item_metal_leaf",
+    "tags": [
+      "archaeology"
+    ],
+    "value": {
+      "bin": 75,
+      "renown": 10
+    }
+  }
+}

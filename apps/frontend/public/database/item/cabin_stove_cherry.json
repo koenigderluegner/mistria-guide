@@ -1,0 +1,38 @@
+{
+  "id": "cabin_stove_cherry",
+  "item": {
+    "description": "items/furniture/rustic_cabin_set/cabin_stove_cherry/description",
+    "name": "items/furniture/rustic_cabin_set/cabin_stove_cherry/name",
+    "icon_sprite": "spr_ui_item_furniture_cabin_stove_v1",
+    "tags": [
+      "furniture",
+      "misc_furniture",
+      "rustic_cabin_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 600
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "iron_ingot"
+        },
+        {
+          "count": 30,
+          "item": "ore_stone"
+        },
+        {
+          "count": 5,
+          "item": "peat"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

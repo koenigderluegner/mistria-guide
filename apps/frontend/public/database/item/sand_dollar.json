@@ -1,0 +1,17 @@
+{
+  "id": "sand_dollar",
+  "item": {
+    "description": "items/fish/misc/sand_dollar/description",
+    "name": "items/fish/misc/sand_dollar/name",
+    "icon_sprite": "spr_ui_item_shell_sand_dollar",
+    "tags": [
+      "dive",
+      "forageable",
+      "material"
+    ],
+    "value": {
+      "bin": 25,
+      "store": 100
+    }
+  }
+}

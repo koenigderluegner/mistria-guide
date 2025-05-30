@@ -1,0 +1,14 @@
+{
+  "id": "seed_lilac",
+  "item": {
+    "description": "items/other/crops_and_forage/seed_lilac/description",
+    "name": "items/other/crops_and_forage/seed_lilac/name",
+    "icon_sprite": "spr_ui_item_bagseed_lilac_icon",
+    "tags": [
+      "seed"
+    ],
+    "value": {
+      "bin": 10
+    }
+  }
+}

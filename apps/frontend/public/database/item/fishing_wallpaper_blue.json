@@ -1,0 +1,33 @@
+{
+  "id": "fishing_wallpaper_blue",
+  "item": {
+    "description": "items/furniture/fishing_set/fishing_wallpaper_blue/description",
+    "name": "items/furniture/fishing_set/fishing_wallpaper_blue/name",
+    "icon_sprite": "spr_ui_item_furniture_fishing_wall_blue",
+    "tags": [
+      "furniture",
+      "wallpaper",
+      "fishing_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 1,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "paper"
+        },
+        {
+          "count": 10,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

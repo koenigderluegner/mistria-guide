@@ -1,0 +1,38 @@
+{
+  "id": "haunted_attic_chair_dark",
+  "item": {
+    "description": "items/furniture/haunted_attic_set/haunted_attic_chair_dark/description",
+    "name": "items/furniture/haunted_attic_set/haunted_attic_chair_dark/name",
+    "icon_sprite": "spr_ui_item_furniture_haunted_attic_chair_dark",
+    "tags": [
+      "furniture",
+      "dining_chair",
+      "haunted_attic_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 300
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 25,
+          "item": "basic_wood"
+        },
+        {
+          "count": 5,
+          "item": "fiber"
+        },
+        {
+          "count": 3,
+          "item": "sap"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

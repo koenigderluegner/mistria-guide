@@ -1,0 +1,32 @@
+{
+  "id": "candied_strawberries",
+  "item": {
+    "description": "items/other/cooked_dishes/candied_strawberries/description",
+    "name": "items/other/cooked_dishes/candied_strawberries/name",
+    "icon_sprite": "spr_ui_item_candied_strawberries",
+    "tags": [
+      "food",
+      "candy"
+    ],
+    "value": {
+      "store": 250
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 1,
+          "item": "strawberry"
+        },
+        {
+          "count": 1,
+          "item": "sugar"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

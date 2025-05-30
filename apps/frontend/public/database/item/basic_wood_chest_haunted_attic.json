@@ -1,0 +1,30 @@
+{
+  "id": "basic_wood_chest_haunted_attic",
+  "item": {
+    "description": "items/furniture/basic_chest_set/basic_wood_chest_haunted_attic/description",
+    "name": "items/furniture/basic_chest_set/basic_wood_chest_haunted_attic/name",
+    "icon_sprite": "spr_ui_item_furniture_basic_chest_v07",
+    "tags": [
+      "furniture",
+      "basic_chest_set",
+      "chest_and_storage"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 250
+    },
+    "recipe": {
+      "level_requirement": 4,
+      "ingredients": [
+        {
+          "count": 30,
+          "item": "basic_wood"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 30
+      }
+    }
+  }
+}

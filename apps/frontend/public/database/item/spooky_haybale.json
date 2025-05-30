@@ -1,0 +1,30 @@
+{
+  "id": "spooky_haybale",
+  "item": {
+    "description": "items/furniture/starter_farm_set/spooky_haybale/description",
+    "name": "items/furniture/starter_farm_set/spooky_haybale/name",
+    "icon_sprite": "spr_ui_item_decor_spooky_haybale",
+    "tags": [
+      "furniture",
+      "farm_decor",
+      "starter_farm_set"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 200
+    },
+    "recipe": {
+      "level_requirement": 2,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "hay"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 20
+      }
+    }
+  }
+}

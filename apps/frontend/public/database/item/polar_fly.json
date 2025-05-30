@@ -1,0 +1,41 @@
+{
+  "id": "polar_fly",
+  "item": {
+    "description": "items/other/bugs/polar_fly/description",
+    "name": "items/other/bugs/polar_fly/name",
+    "icon_sprite": "spr_ui_item_insect_polar_fly",
+    "tags": [
+      "bugs"
+    ],
+    "value": {
+      "bin": 10
+    }
+  },
+  "bug": {
+    "type": "fly_wave",
+    "idle_sprite": "spr_insect_polar_fly_entity_idle",
+    "move_sprite": "spr_insect_polar_fly_entity_move",
+    "has_light": false,
+    "spawn": [
+      "default"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "hours": [
+      6,
+      26
+    ],
+    "weather": [
+      "calm",
+      "special"
+    ],
+    "rarity": "common",
+    "liked_object_categories": [
+      "grass",
+      "crop"
+    ],
+    "can_spawn_on_water": false,
+    "attraction": "none"
+  }
+}

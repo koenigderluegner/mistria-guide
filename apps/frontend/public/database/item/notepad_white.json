@@ -1,0 +1,29 @@
+{
+  "id": "notepad_white",
+  "item": {
+    "description": "items/furniture/tabletop_clutter_set/notepad_white/description",
+    "name": "items/furniture/tabletop_clutter_set/notepad_white/name",
+    "icon_sprite": "spr_ui_item_decor_clutter_notepad_white",
+    "tags": [
+      "furniture",
+      "misc_decor",
+      "tabletop_clutter"
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1"
+    },
+    "recipe": {
+      "level_requirement": 8,
+      "ingredients": [
+        {
+          "count": 10,
+          "item": "paper"
+        }
+      ],
+      "duration": {
+        "hours": 0,
+        "minutes": 10
+      }
+    }
+  }
+}
