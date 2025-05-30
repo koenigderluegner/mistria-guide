@@ -1,0 +1,12 @@
+@if (item.hasValue()) {
+  <p>
+    <img src="/assets/sprites/{{ item.value().item.icon_sprite }}.png" alt="" />
+    {{ item.value().item.name }}
+
+  </p>
+
+  {{ item.value() | json }}
+}
+
+
+
