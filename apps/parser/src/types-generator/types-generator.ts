@@ -32,7 +32,7 @@ export class TypesGenerator {
       const valuesName = enumEntry.valuesName ?? enumEntry.enumName + 's';
       const content = `export const ${valuesName} = ${JSON.stringify(
         enumEntry.values
-      )} as const;
+      ).replaceAll('"', "'")} as const;
 
 export type ${enumEntry.enumName} = typeof ${valuesName}[number];`;
       const fileBaseName = pascalCaseToKebabCase(enumEntry.enumName);

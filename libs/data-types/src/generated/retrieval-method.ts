@@ -1,3 +1,3 @@
-export const RetrievalMethods = ['fishing', 'divespot', 'mines'] as const;
+export const RetrievalMethods = ['fishing','divespot','mines'] as const;
 
-export type RetrievalMethod = (typeof RetrievalMethods)[number];
+export type RetrievalMethod = typeof RetrievalMethods[number];
