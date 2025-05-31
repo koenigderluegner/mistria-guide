@@ -6,6 +6,7 @@ import { TypesGenerator } from './types-generator/types-generator';
 import { bugParser } from './parsers/bug-parser';
 import { fishParser } from './parsers/fish-parser';
 import { dbItemParser } from './parsers/db-item-parser';
+import { skillsParser } from './parsers/skills-parser';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
@@ -34,6 +35,9 @@ function createReadableFiles(
 const items = itemParser(data.items);
 writeFileToFrontendDatabase('items.json', items);
 
+const skills = skillsParser(data.ui.skill_menu, data.perks, data.skills);
+writeFileToFrontendDatabase('skills.json', skills);
+
 const bugs = bugParser(data.bugs);
 writeFileToFrontendDatabase('bugs.json', bugs);
 
@@ -44,7 +48,6 @@ const dbItems = dbItemParser(items, bugs, fish);
 dbItems.forEach((item) => {
   writeFileToFrontendDatabase(`/item/${item.id}.json`, item);
 });
-
 
 createReadableFiles(data, blacklistedKeys);
 TypesGenerator.generate();

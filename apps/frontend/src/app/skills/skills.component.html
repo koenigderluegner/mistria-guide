@@ -1,0 +1,11 @@
+@if (item.hasValue()) {
+  <p>
+    <app-sprite [name]="item.value().blacksmithing.icon_sprite_key" />
+    {{ item.value().blacksmithing.name }}
+  </p>
+
+  {{ item.value() | json }}
+}
+
+
+
