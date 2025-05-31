@@ -2,10 +2,11 @@ import { Component, input } from '@angular/core';
 import { httpResource } from '@angular/common/http';
 import { DbItem } from '@mistria-guide/data-types';
 import { JsonPipe } from '@angular/common';
+import { SpriteComponent } from '../shared/sprite/sprite.component';
 
 @Component({
   selector: 'app-item',
-  imports: [JsonPipe],
+  imports: [JsonPipe, SpriteComponent],
   templateUrl: './item.component.html',
 })
 export class ItemComponent {

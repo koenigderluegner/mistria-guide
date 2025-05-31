@@ -1,6 +1,6 @@
 @if (item.hasValue()) {
   <p>
-    <img src="/assets/sprites/{{ item.value().item.icon_sprite }}.png" alt="" />
+    <app-sprite [name]="item.value().item.icon_sprite" />
     {{ item.value().item.name }}
 
   </p>

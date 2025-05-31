@@ -1,11 +1,11 @@
 import { TranslationReference } from './translation-reference';
 import { RawRecipe, Recipe, transformRecipe } from './recipe';
-import { Quality, Tag, ToolType } from './generated';
+import { IconSprite, Quality, Tag, ToolType } from './generated';
 
 export type RawItem = {
   name: TranslationReference;
   description: TranslationReference;
-  icon_sprite: string;
+  icon_sprite: IconSprite;
   tags: Tag[];
 
   object: string;
@@ -29,7 +29,7 @@ export function transformItem(item: RawItem): Item {
     tags: item.tags,
     value: item.value,
   };
-  if('recipe' in item){
+  if ('recipe' in item) {
     res.recipe = transformRecipe(item);
   }
   return res;
@@ -38,7 +38,7 @@ export function transformItem(item: RawItem): Item {
 export type Item = {
   name: TranslationReference;
   description: TranslationReference;
-  icon_sprite: string;
+  icon_sprite: IconSprite;
   tags: string[];
   recipe?: Recipe;
   value: {
