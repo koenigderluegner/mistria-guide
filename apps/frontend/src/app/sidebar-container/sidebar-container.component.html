@@ -1,12 +1,12 @@
 <div
-  class="text-foreground group/body overscroll-none font-sans antialiased [--footer-height:calc(var(--spacing)*14)] [--header-height:calc(var(--spacing)*14)] __variable_5cfdac __variable_224a03 __variable_e8ce0c theme-default">
+  class="text-foreground group/body overscroll-none font-sans antialiased [--footer-height:calc(var(--spacing)*14)] [--header-height:calc(var(--spacing)*14)]">
   <div class="bg-background">
     <div style="--sidebar-width:16rem;--sidebar-width-icon:3rem"
          class="group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-svh w-full ">
       @if (!isSmallScreen()) {
         <div class="group peer text-sidebar-foreground hidden md:block"
              [attr.data-state]="sidebarMenuOpen() ? 'expanded' :'collapsed'"
-             [attr.data-collapsible]="sidebarMenuOpen() ? 'icon' :null"
+             [attr.data-collapsible]="sidebarMenuOpen() ?  null: 'icon'"
              data-variant="sidebar" data-side="left">
           <div
             class="relative w-(--sidebar-width) bg-transparent transition-[width] duration-200 ease-linear group-data-[collapsible=offcanvas]:w-0 group-data-[side=right]:rotate-180 group-data-[collapsible=icon]:w-(--sidebar-width-icon)"></div>
@@ -102,11 +102,7 @@
   <div data-sidebar="header" class="flex flex-col gap-2 p-2">
     <ul data-sidebar="menu" class="flex w-full min-w-0 flex-col gap-1">
       <li data-sidebar="menu-item" class="group/menu-item relative">
-        <button data-sidebar="menu-button" data-size="lg"
-                data-active="false"
-                class="peer/menu-button flex w-full items-center gap-2 overflow-hidden rounded-md p-2 text-left outline-hidden ring-sidebar-ring transition-[width,height,padding] focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-data-[sidebar=menu-action]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:size-8! [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 hover:bg-sidebar-accent hover:text-sidebar-accent-foreground h-12 text-sm group-data-[collapsible=icon]:p-0! data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground"
-                type="button" aria-haspopup="menu" aria-expanded="false"
-                data-state="closed">
+        <a data-sidebar="menu-button" data-size="lg" appSidebarMenuItem link="/" [activeOptions]="{exact:true}">
           <div
             class="bg-sidebar-primary text-sidebar-primary-foreground flex aspect-square size-8 items-center justify-center rounded-lg">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
@@ -118,14 +114,9 @@
             </svg>
           </div>
           <div class="grid flex-1 text-left text-sm leading-tight"><span
-            class="truncate font-medium">Acme Inc</span><span class="truncate text-xs">Enterprise</span></div>
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-               stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-               class="lucide lucide-chevrons-up-down ml-auto">
-            <path d="m7 15 5 5 5-5"></path>
-            <path d="m7 9 5-5 5 5"></path>
-          </svg>
-        </button>
+            class="truncate font-medium">Mistria Guide</span><span
+            class="truncate text-xs">Game v0.0.0 - App v0.0.0</span></div>
+        </a>
       </li>
     </ul>
   </div>
@@ -140,56 +131,12 @@
         <li data-sidebar="menu-item"
             class="group/menu-item relative group/collapsible"
             data-state="closed">
-          <button data-sidebar="menu-button" data-size="default"
-                  data-active="false"
-                  class="peer/menu-button flex w-full items-center gap-2 overflow-hidden rounded-md p-2 text-left outline-hidden ring-sidebar-ring transition-[width,height,padding] focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-data-[sidebar=menu-action]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:size-8! group-data-[collapsible=icon]:p-2! [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 hover:bg-sidebar-accent hover:text-sidebar-accent-foreground h-8 text-sm"
-                  type="button" aria-expanded="false" data-state="closed">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                 class="lucide lucide-square-terminal">
-              <path d="m7 11 2-2-2-2"></path>
-              <path d="M11 13h4"></path>
-              <rect width="18" height="18" x="3" y="3" rx="2" ry="2"></rect>
-            </svg>
-            <span>Playground</span>
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                 class="lucide lucide-chevron-right ml-auto transition-transform duration-200 group-data-[state=open]/collapsible:rotate-90">
-              <path d="m9 18 6-6-6-6"></path>
-            </svg>
-          </button>
-          <div data-state="closed"
-               style="--radix-collapsible-content-height: 96px; --radix-collapsible-content-width: 239px;"
-               hidden=""></div>
+          <a appSidebarMenuItem link="/item/acorn">
+            <app-sprite name="spr_ui_item_acorn" class="scale-150 shrink-0" />
+            <span>Acorn</span>
+          </a>
         </li>
       </ul>
     </div>
   </div>
-  <div data-sidebar="footer" class="flex flex-col gap-2 p-2">
-    <ul data-sidebar="menu" class="flex w-full min-w-0 flex-col gap-1">
-      <li data-sidebar="menu-item" class="group/menu-item relative">
-        <button data-sidebar="menu-button" data-size="lg"
-                data-active="false"
-                class="peer/menu-button flex w-full items-center gap-2 overflow-hidden rounded-md p-2 text-left outline-hidden ring-sidebar-ring transition-[width,height,padding] focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-data-[sidebar=menu-action]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:size-8! [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 hover:bg-sidebar-accent hover:text-sidebar-accent-foreground h-12 text-sm group-data-[collapsible=icon]:p-0! data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground"
-                type="button" aria-haspopup="menu" aria-expanded="false"
-                data-state="closed"><span
-          class="relative flex size-8 shrink-0 overflow-hidden h-8 w-8 rounded-lg"><img
-          class="aspect-square size-full" alt="shadcn"
-          src="/avatars/shadcn.jpg"></span>
-          <div class="grid flex-1 text-left text-sm leading-tight"><span
-            class="truncate font-medium">shadcn</span><span class="truncate text-xs">m.com</span></div>
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-               stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-               class="lucide lucide-chevrons-up-down ml-auto size-4">
-            <path d="m7 15 5 5 5-5"></path>
-            <path d="m7 9 5-5 5 5"></path>
-          </svg>
-        </button>
-      </li>
-    </ul>
-  </div>
-  <button data-sidebar="rail" aria-label="Toggle Sidebar" tabindex="-1"
-          title="Toggle Sidebar"
-          class="hover:after:bg-sidebar-border absolute inset-y-0 z-20 hidden w-4 -translate-x-1/2 transition-all ease-linear group-data-[side=left]:-right-4 group-data-[side=right]:left-0 after:absolute after:inset-y-0 after:left-1/2 after:w-[2px] sm:flex in-data-[side=left]:cursor-w-resize in-data-[side=right]:cursor-e-resize [[data-side=left][data-state=collapsed]_&]:cursor-e-resize [[data-side=right][data-state=collapsed]_&]:cursor-w-resize hover:group-data-[collapsible=offcanvas]:bg-sidebar group-data-[collapsible=offcanvas]:translate-x-0 group-data-[collapsible=offcanvas]:after:left-full [[data-side=left][data-collapsible=offcanvas]_&]:-right-2 [[data-side=right][data-collapsible=offcanvas]_&]:-left-2"></button>
-
 </ng-template>

@@ -8,10 +8,12 @@ import {
 } from '@angular/core';
 import { DOCUMENT, NgTemplateOutlet } from '@angular/common';
 import { BreakpointObserver } from '@angular/cdk/layout';
+import { SidebarMenuItemDirective } from './sidebar-menu-item.directive';
+import { SpriteComponent } from '../shared/sprite/sprite.component';
 
 @Component({
   selector: 'app-sidebar-container',
-  imports: [NgTemplateOutlet],
+  imports: [NgTemplateOutlet, SidebarMenuItemDirective, SpriteComponent],
   templateUrl: './sidebar-container.component.html',
 })
 export class SidebarContainerComponent {
@@ -37,9 +39,7 @@ export class SidebarContainerComponent {
       ?.getComputedStyle(this.#document.body)
       .getPropertyValue('--breakpoint-md');
     const value = `(max-width: ${style})`;
-    console.log(value);
     this.breakpointObserver.observe(value).subscribe((result) => {
-      console.log(result);
       this.isSmallScreen.set(result.matches);
     });
   }
