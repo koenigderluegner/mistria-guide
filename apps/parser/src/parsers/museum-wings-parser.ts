@@ -44,7 +44,7 @@ export function museumWingsParser(
 
     Object.assign(wing, {
       sets,
-      name: TranslationReferenceResolver.resolve(musuem_wings[wing.wing].name,
+      name: TranslationReferenceResolver.resolve(musuem_wings[wing.wing].name),
     });
 
     res[wing.wing] = wing;
