@@ -1,4 +1,6 @@
 @use "tailwindcss";
+@use '@angular/material' as mat;
+@use 'theme-colors' as *;
 @import "./tw-animate.css";
 
 @custom-variant dark (&:is(.dark *));
@@ -145,4 +147,19 @@
   --ring: oklch(0.556 0 0);
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.556 0 0);
+}
+
+
+html {
+  @include mat.theme((
+    color: $primary-palette,
+    typography: Roboto,
+    density: 0
+  ));
+}
+
+@utility icon-size-* {
+  width: calc(var(--spacing) * --value(number));
+  height: calc(var(--spacing) * --value(number));
+  font-size: calc(var(--spacing) * --value(number));
 }
