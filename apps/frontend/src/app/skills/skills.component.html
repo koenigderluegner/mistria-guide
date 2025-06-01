@@ -1,11 +1,33 @@
-@if (item.hasValue()) {
-  <p>
-    <app-sprite [name]="item.value().blacksmithing.icon_sprite_key" />
-    {{ item.value().blacksmithing.name }}
-  </p>
+<div class="container">
+  @let skill = foundSkill();
+  @if (skill) {
+    <section>
+      <header class="flex gap-4 section-title items-center mb-6">
+        <app-sprite class="scale-125" [name]="skill.icon_sprite_key" />
+        <h2>{{ skill.name }}</h2>
+      </header>
 
-  {{ item.value() | json }}
-}
-
+      @for (tier of tiers(); track tier) {
+        <ul class="flex flex-col gap-4">
+          @for (perk of tier; track perk.perk) {
+            <li class="flex flex-col gap-1">
+              <div class="flex gap-2 items-center">
+                <app-sprite [name]="perk.icon" />
+                {{ perk.name }}
+              </div>
+              <div>
+                {{ perk.description }}
+              </div>
+            </li>
+          }
+        </ul>
+        @if (!$last) {
+          <div data-orientation="horizontal"
+               class="bg-border shrink-0 data-[orientation=horizontal]:h-px data-[orientation=horizontal]:w-full data-[orientation=vertical]:h-full data-[orientation=vertical]:w-px my-4"></div>
+        }
+      }
+    </section>
+  }
+</div>
 
 
