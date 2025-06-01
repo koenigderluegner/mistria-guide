@@ -12,6 +12,6 @@ import { SpriteComponent } from '../shared/sprite/sprite.component';
 export class ItemComponent {
   itemId = input<string>();
   item = httpResource<DbItem>(() =>
-    !this.itemId() ? undefined : '/database/item/' + this.itemId() + '.json'
+    !this.itemId() ? undefined : 'database/item/' + this.itemId() + '.json'
   );
 }

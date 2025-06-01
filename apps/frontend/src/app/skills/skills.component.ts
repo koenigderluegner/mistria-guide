@@ -11,5 +11,5 @@ import { SpriteComponent } from '../shared/sprite/sprite.component';
 })
 export class SkillsComponent {
   itemId = input<string>();
-  item = httpResource<Record<SkillId, Skill>>('/database/skills.json');
+  item = httpResource<Record<SkillId, Skill>>('database/skills.json');
 }
