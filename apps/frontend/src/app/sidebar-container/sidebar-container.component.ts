@@ -11,7 +11,7 @@ import { BreakpointObserver } from '@angular/cdk/layout';
 import { SidebarMenuItemDirective } from './sidebar-menu-item.directive';
 import { SpriteComponent } from '../shared/sprite/sprite.component';
 import { MatIcon } from '@angular/material/icon';
-import { RouterLink } from '@angular/router';
+import { NavigationEnd, Router, RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-sidebar-container',
@@ -35,8 +35,15 @@ export class SidebarContainerComponent {
     );
   });
   #document = inject(DOCUMENT);
+  #router = inject(Router);
 
   constructor() {
+    this.#router.events.subscribe((event) => {
+      if (event instanceof NavigationEnd) {
+        this.mobileSidebarMenuOpen.set(false);
+      }
+    });
+
     effect(() => {
       if (this.mobileSidebarMenuOpen() && this.isSmallScreen()) {
         untracked(() => this.showMobileSidebar.set(true));
