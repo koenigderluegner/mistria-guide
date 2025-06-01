@@ -1,0 +1,2107 @@
+{
+  "horse": {
+    "core": {
+      "name": "ranching/animals/horse/core/name",
+      "plural_name": "ranching/animals/horse/core/plural_name",
+      "female_other": "ranching/animals/horse/core/female_other",
+      "male_other": "ranching/animals/horse/core/male_other",
+      "new_baby_born": "ranching/animals/horse/core/new_baby_born",
+      "size": "large",
+      "default_icon_variant": "sandy_bay",
+      "cosmetic_sub_icon": "spr_ui_item_sub_animal_horse",
+      "progression_requirement": "repaired_haydens_farm"
+    },
+    "breeding": {
+      "uses_egg": false,
+      "treat": "heart_shaped_horse_treat"
+    },
+    "mounting": {
+      "is_mount": true
+    },
+    "eating": {
+      "kind": "hay",
+      "offset": [
+        18,
+        -2
+      ],
+      "baby_offset": [
+        14,
+        -2
+      ],
+      "shake_frames": [
+        1,
+        9
+      ]
+    },
+    "petting": {
+      "kind": "pet"
+    },
+    "pricing": {
+      "buy_price": 2300,
+      "baby_sell_price": 650,
+      "adult_sell_prices": [
+        900,
+        975,
+        1170,
+        1300,
+        1450,
+        1600,
+        1850,
+        2100,
+        2300,
+        2500,
+        2600
+      ]
+    },
+    "production": {
+      "male": {
+        "days_to_produce": 3,
+        "normal_product": "horse_hair",
+        "golden_product": "golden_horse_hair"
+      },
+      "female": {
+        "days_to_produce": 3,
+        "normal_product": "horse_hair",
+        "golden_product": "golden_horse_hair"
+      }
+    },
+    "sounds": {
+      "baby": [
+        {
+          "ambient": "SoundEffects/Animals/FoalAmbient",
+          "positive_react": "SoundEffects/Animals/FoalPositiveReact",
+          "negative_react": "SoundEffects/Animals/FoalNegativeReact"
+        }
+      ],
+      "adult": [
+        {
+          "ambient": "SoundEffects/Animals/HorseAmbient",
+          "positive_react": "SoundEffects/Animals/HorsePositiveReact",
+          "negative_react": "SoundEffects/Animals/HorseNegativeReact"
+        }
+      ]
+    },
+    "variants": {
+      "default": {
+        "lut": "spr_animal_horse_lut",
+        "male": {
+          "key": "basic_base",
+          "ui_key": "basic",
+          "top_key": "basic_top"
+        },
+        "female": {
+          "key": "basic_base",
+          "ui_key": "basic",
+          "top_key": "basic_top"
+        },
+        "baby": {
+          "key": "basic_baby_foal",
+          "top_key": "<n/a>"
+        }
+      },
+      "spotted": {
+        "name": "ranching/animals/horse/variants/spotted/name",
+        "lut_index": 1,
+        "default_unlocked": true
+      },
+      "sandy_bay": {
+        "name": "ranching/animals/horse/variants/sandy_bay/name",
+        "lut_index": 2,
+        "default_unlocked": true
+      },
+      "champagne": {
+        "name": "ranching/animals/horse/variants/champagne/name",
+        "lut_index": 3,
+        "default_unlocked": true
+      },
+      "chestnut": {
+        "name": "ranching/animals/horse/variants/chestnut/name",
+        "tier": 2,
+        "lut_index": 4
+      },
+      "black": {
+        "name": "ranching/animals/horse/variants/black/name",
+        "tier": 2,
+        "lut_index": 5
+      },
+      "white": {
+        "name": "ranching/animals/horse/variants/white/name",
+        "tier": 2,
+        "lut_index": 6
+      },
+      "blue": {
+        "name": "ranching/animals/horse/variants/blue/name",
+        "tier": 3,
+        "lut_index": 7
+      },
+      "purple": {
+        "name": "ranching/animals/horse/variants/purple/name",
+        "tier": 3,
+        "lut_index": 8
+      },
+      "pink": {
+        "name": "ranching/animals/horse/variants/pink/name",
+        "tier": 3,
+        "lut_index": 9
+      },
+      "silver": {
+        "name": "ranching/animals/horse/variants/silver/name",
+        "tier": 4,
+        "lut": "<n/a>",
+        "male": {
+          "key": "silver_base",
+          "ui_key": "silver",
+          "top_key": "silver_top"
+        },
+        "female": {
+          "key": "silver_base",
+          "ui_key": "silver",
+          "top_key": "silver_top"
+        },
+        "baby": {
+          "key": "silver_baby_foal"
+        }
+      },
+      "gold": {
+        "name": "ranching/animals/horse/variants/gold/name",
+        "tier": 5,
+        "lut": "<n/a>",
+        "male": {
+          "key": "gold_base",
+          "ui_key": "gold",
+          "top_key": "gold_top"
+        },
+        "female": {
+          "key": "gold_base",
+          "ui_key": "gold",
+          "top_key": "gold_top"
+        },
+        "baby": {
+          "key": "gold_baby_foal"
+        }
+      },
+      "spring": {
+        "name": "ranching/animals/horse/variants/spring/name",
+        "tier": 6,
+        "born_in": "spring",
+        "lut_index": 12,
+        "default_cosmetic": "flower_crown"
+      },
+      "summer": {
+        "name": "ranching/animals/horse/variants/summer/name",
+        "tier": 6,
+        "born_in": "summer",
+        "lut_index": 13,
+        "default_cosmetic": "seashell_clips"
+      },
+      "fall": {
+        "name": "ranching/animals/horse/variants/fall/name",
+        "tier": 6,
+        "born_in": "fall",
+        "lut_index": 14,
+        "default_cosmetic": "dark_unicorn_horn"
+      },
+      "winter": {
+        "name": "ranching/animals/horse/variants/winter/name",
+        "tier": 6,
+        "born_in": "winter",
+        "lut_index": 15,
+        "default_cosmetic": "antlers"
+      },
+      "mistmare": {
+        "name": "ranching/animals/horse/variants/mistmare/name",
+        "lut": "<n/a>",
+        "acquirable": false,
+        "male": {
+          "key": "mistmare_base",
+          "ui_key": "mistmare",
+          "top_key": "mistmare_top"
+        },
+        "female": {
+          "key": "mistmare_base",
+          "ui_key": "mistmare",
+          "top_key": "mistmare_top"
+        }
+      }
+    },
+    "cosmetics": {
+      "default": {
+        "male": {
+          "key": "base",
+          "top_key": "top"
+        },
+        "female": {
+          "key": "base",
+          "top_key": "top"
+        }
+      },
+      "antlers": {
+        "name": "ranching/animals/horse/cosmetics/antlers/name"
+      },
+      "cowboy_hat": {
+        "name": "ranching/animals/horse/cosmetics/cowboy_hat/name"
+      },
+      "crown": {
+        "name": "ranching/animals/horse/cosmetics/crown/name"
+      },
+      "derby_hat": {
+        "name": "ranching/animals/horse/cosmetics/derby_hat/name"
+      },
+      "dark_unicorn_horn": {
+        "name": "ranching/animals/horse/cosmetics/dark_unicorn_horn/name"
+      },
+      "flower_crown": {
+        "name": "ranching/animals/horse/cosmetics/flower_crown/name"
+      },
+      "pink_bow": {
+        "name": "ranching/animals/horse/cosmetics/pink_bow/name"
+      },
+      "ribbon_blue": {
+        "name": "ranching/animals/horse/cosmetics/ribbon_blue/name"
+      },
+      "ribbon_red": {
+        "name": "ranching/animals/horse/cosmetics/ribbon_red/name"
+      },
+      "ribbon_white": {
+        "name": "ranching/animals/horse/cosmetics/ribbon_white/name"
+      },
+      "unicorn_horn": {
+        "name": "ranching/animals/horse/cosmetics/unicorn_horn/name"
+      },
+      "seashell_clips": {
+        "name": "ranching/animals/horse/cosmetics/seashell_clips/name"
+      },
+      "monocle": {
+        "name": "ranching/animals/horse/cosmetics/monocle/name"
+      },
+      "bandana": {
+        "name": "ranching/animals/horse/cosmetics/bandana/name"
+      }
+    }
+  },
+  "cow": {
+    "core": {
+      "name": "ranching/animals/cow/core/name",
+      "plural_name": "ranching/animals/cow/core/plural_name",
+      "female_other": "ranching/animals/cow/core/female_other",
+      "male_other": "ranching/animals/cow/core/male_other",
+      "new_baby_born": "ranching/animals/cow/core/new_baby_born",
+      "size": "large",
+      "default_icon_variant": "spotted",
+      "cosmetic_sub_icon": "spr_ui_item_sub_animal_cow"
+    },
+    "breeding": {
+      "uses_egg": false,
+      "treat": "heart_shaped_cow_treat"
+    },
+    "mounting": {
+      "is_mount": true
+    },
+    "eating": {
+      "kind": "hay",
+      "offset": [
+        18,
+        -2
+      ],
+      "baby_offset": [
+        14,
+        -4
+      ],
+      "shake_frames": [
+        1,
+        9
+      ]
+    },
+    "petting": {
+      "kind": "pet"
+    },
+    "pricing": {
+      "buy_price": 2000,
+      "baby_sell_price": 500,
+      "adult_sell_prices": [
+        700,
+        750,
+        900,
+        1000,
+        1100,
+        1200,
+        1400,
+        1600,
+        2000,
+        2200,
+        2300
+      ]
+    },
+    "production": {
+      "male": {
+        "days_to_produce": 3,
+        "normal_product": "bull_horn",
+        "golden_product": "golden_bull_horn"
+      },
+      "female": {
+        "days_to_produce": 1,
+        "normal_product": "cow_milk",
+        "golden_product": "golden_cow_milk"
+      }
+    },
+    "sounds": {
+      "baby": [
+        {
+          "ambient": "SoundEffects/Animals/CowAAmbient",
+          "positive_react": "SoundEffects/Animals/CalfPositiveReact",
+          "negative_react": "SoundEffects/Animals/CowUpsetReact"
+        }
+      ],
+      "adult": [
+        {
+          "ambient": "SoundEffects/Animals/CowAAmbient",
+          "positive_react": "SoundEffects/Animals/CowAPositiveReact",
+          "negative_react": "SoundEffects/Animals/CowUpsetReact"
+        },
+        {
+          "ambient": "SoundEffects/Animals/CowAAmbient",
+          "positive_react": "SoundEffects/Animals/CowAPositiveReact",
+          "negative_react": "SoundEffects/Animals/CowUpsetReact"
+        },
+        {
+          "ambient": "SoundEffects/Animals/CowDAmbient",
+          "positive_react": "SoundEffects/Animals/CowAPositiveReact",
+          "negative_react": "SoundEffects/Animals/CowUpsetReact"
+        },
+        {
+          "ambient": "SoundEffects/Animals/CowDAmbient",
+          "positive_react": "SoundEffects/Animals/CowAPositiveReact",
+          "negative_react": "SoundEffects/Animals/CowUpsetReact"
+        }
+      ]
+    },
+    "variants": {
+      "default": {
+        "lut": "spr_animal_cow_lut",
+        "male": {
+          "key": "basic_male_base",
+          "ui_key": "basic_male",
+          "top_key": "basic_male_top"
+        },
+        "female": {
+          "key": "basic_female_base",
+          "ui_key": "basic_female",
+          "top_key": "basic_female_top"
+        },
+        "baby": {
+          "key": "basic_baby_calf",
+          "top_key": "<n/a>"
+        }
+      },
+      "brown": {
+        "name": "ranching/animals/cow/variants/brown/name",
+        "default_unlocked": true,
+        "lut_index": 1
+      },
+      "spotted": {
+        "name": "ranching/animals/cow/variants/spotted/name",
+        "default_unlocked": true,
+        "lut_index": 2
+      },
+      "black": {
+        "name": "ranching/animals/cow/variants/black/name",
+        "default_unlocked": true,
+        "lut_index": 3
+      },
+      "chocolate": {
+        "name": "ranching/animals/cow/variants/chocolate/name",
+        "tier": 2,
+        "lut_index": 4
+      },
+      "red": {
+        "name": "ranching/animals/cow/variants/red/name",
+        "tier": 2,
+        "lut_index": 5
+      },
+      "white": {
+        "name": "ranching/animals/cow/variants/white/name",
+        "tier": 2,
+        "lut_index": 6
+      },
+      "blue": {
+        "name": "ranching/animals/cow/variants/blue/name",
+        "tier": 3,
+        "lut_index": 7
+      },
+      "purple": {
+        "name": "ranching/animals/cow/variants/purple/name",
+        "tier": 3,
+        "lut_index": 8
+      },
+      "pink": {
+        "name": "ranching/animals/cow/variants/pink/name",
+        "tier": 3,
+        "lut_index": 9
+      },
+      "silver": {
+        "name": "ranching/animals/cow/variants/silver/name",
+        "tier": 4,
+        "lut_index": 10
+      },
+      "gold": {
+        "name": "ranching/animals/cow/variants/gold/name",
+        "tier": 5,
+        "lut_index": 11
+      },
+      "spring": {
+        "name": "ranching/animals/cow/variants/spring/name",
+        "tier": 6,
+        "born_in": "spring",
+        "lut_index": 12,
+        "default_cosmetic": "flower_crown"
+      },
+      "summer": {
+        "name": "ranching/animals/cow/variants/summer/name",
+        "tier": 6,
+        "born_in": "summer",
+        "lut_index": 13,
+        "default_cosmetic": "sun_hat"
+      },
+      "fall": {
+        "name": "ranching/animals/cow/variants/fall/name",
+        "tier": 6,
+        "born_in": "fall",
+        "lut_index": 14,
+        "default_cosmetic": "horns"
+      },
+      "winter": {
+        "name": "ranching/animals/cow/variants/winter/name",
+        "tier": 6,
+        "born_in": "winter",
+        "lut_index": 15,
+        "default_cosmetic": "antlers"
+      }
+    },
+    "cosmetics": {
+      "default": {
+        "male": {
+          "key": "male_base",
+          "top_key": "male_top"
+        },
+        "female": {
+          "key": "female_base",
+          "top_key": "female_top"
+        }
+      },
+      "antlers": {
+        "name": "ranching/animals/cow/cosmetics/antlers/name"
+      },
+      "beret": {
+        "name": "ranching/animals/cow/cosmetics/beret/name"
+      },
+      "cheese_hat": {
+        "name": "ranching/animals/cow/cosmetics/cheese_hat/name"
+      },
+      "cowboy_hat": {
+        "name": "ranching/animals/cow/cosmetics/cowboy_hat/name"
+      },
+      "crown": {
+        "name": "ranching/animals/cow/cosmetics/crown/name"
+      },
+      "flower_crown": {
+        "name": "ranching/animals/cow/cosmetics/flower_crown/name"
+      },
+      "halo": {
+        "name": "ranching/animals/cow/cosmetics/halo/name"
+      },
+      "horns": {
+        "name": "ranching/animals/cow/cosmetics/horns/name"
+      },
+      "pink_bow": {
+        "name": "ranching/animals/cow/cosmetics/pink_bow/name"
+      },
+      "pink_sunglasses": {
+        "name": "ranching/animals/cow/cosmetics/pink_sunglasses/name"
+      },
+      "ribbon_blue": {
+        "name": "ranching/animals/cow/cosmetics/ribbon_blue/name"
+      },
+      "ribbon_red": {
+        "name": "ranching/animals/cow/cosmetics/ribbon_red/name"
+      },
+      "ribbon_white": {
+        "name": "ranching/animals/cow/cosmetics/ribbon_white/name"
+      },
+      "sun_hat": {
+        "name": "ranching/animals/cow/cosmetics/sun_hat/name"
+      },
+      "bell_collar": {
+        "name": "ranching/animals/cow/cosmetics/bell_collar/name"
+      },
+      "laurels": {
+        "name": "ranching/animals/cow/cosmetics/laurels/name"
+      }
+    }
+  },
+  "chicken": {
+    "core": {
+      "name": "ranching/animals/chicken/core/name",
+      "plural_name": "ranching/animals/chicken/core/plural_name",
+      "female_other": "ranching/animals/chicken/core/female_other",
+      "male_other": "ranching/animals/chicken/core/male_other",
+      "new_baby_born": "ranching/animals/chicken/core/new_baby_born",
+      "size": "small",
+      "default_icon_variant": "white",
+      "cosmetic_sub_icon": "spr_ui_item_sub_animal_chicken"
+    },
+    "breeding": {
+      "uses_egg": true,
+      "days_until_adult": 3,
+      "treat": "heart_shaped_chicken_treat",
+      "sparkle_offset": [
+        0,
+        -12
+      ]
+    },
+    "mounting": {
+      "is_mount": false
+    },
+    "eating": {
+      "kind": "seed",
+      "offset": [
+        8,
+        -2
+      ],
+      "baby_offset": [
+        4,
+        0
+      ],
+      "shake_frames": [
+        0,
+        10
+      ]
+    },
+    "petting": {
+      "kind": "pick_up",
+      "held_offset": [
+        9,
+        16
+      ]
+    },
+    "pricing": {
+      "buy_price": 1000,
+      "baby_sell_price": 250,
+      "adult_sell_prices": [
+        350,
+        375,
+        450,
+        500,
+        550,
+        600,
+        700,
+        800,
+        1000,
+        1100,
+        1150
+      ]
+    },
+    "production": {
+      "male": {
+        "days_to_produce": 3,
+        "normal_product": "feather",
+        "golden_product": "golden_feather"
+      },
+      "female": {
+        "days_to_produce": 1,
+        "normal_product": "egg",
+        "golden_product": "golden_egg"
+      }
+    },
+    "sounds": {
+      "baby": [
+        {
+          "ambient": "SoundEffects/Animals/ChickenBabyAmbient",
+          "positive_react": "SoundEffects/Animals/ChickBabyAPositiveReact",
+          "negative_react": "SoundEffects/Animals/ChickenUpsetReact"
+        }
+      ],
+      "adult": [
+        {
+          "ambient": "SoundEffects/Animals/ChickenAAmbient",
+          "positive_react": "SoundEffects/Animals/ChickenPositiveReact",
+          "negative_react": "SoundEffects/Animals/ChickenUpsetReact"
+        },
+        {
+          "ambient": "SoundEffects/Animals/ChickenBAmbient",
+          "positive_react": "SoundEffects/Animals/ChickenPositiveReact",
+          "negative_react": "SoundEffects/Animals/ChickenUpsetReact"
+        },
+        {
+          "ambient": "SoundEffects/Animals/ChickenCAmbient",
+          "positive_react": "SoundEffects/Animals/ChickenPositiveReact",
+          "negative_react": "SoundEffects/Animals/ChickenUpsetReact"
+        },
+        {
+          "ambient": "SoundEffects/Animals/ChickenDAmbient",
+          "positive_react": "SoundEffects/Animals/ChickenPositiveReact",
+          "negative_react": "SoundEffects/Animals/ChickenUpsetReact"
+        }
+      ]
+    },
+    "variants": {
+      "default": {
+        "lut": "spr_animal_chicken_lut",
+        "male": {
+          "key": "basic_male",
+          "top_key": "<n/a>"
+        },
+        "female": {
+          "key": "basic_female",
+          "top_key": "<n/a>"
+        },
+        "baby": {
+          "key": "basic_baby_chick",
+          "top_key": "<n/a>"
+        }
+      },
+      "white": {
+        "name": "ranching/animals/chicken/variants/white/name",
+        "default_unlocked": true,
+        "lut_index": 1
+      },
+      "brown": {
+        "name": "ranching/animals/chicken/variants/brown/name",
+        "default_unlocked": true,
+        "lut_index": 2
+      },
+      "spotted": {
+        "name": "ranching/animals/chicken/variants/spotted/name",
+        "default_unlocked": true,
+        "lut": "<n/a>",
+        "male": {
+          "key": "spotted_male"
+        },
+        "female": {
+          "key": "spotted_female"
+        },
+        "baby": {
+          "lut": "spr_animal_chicken_lut",
+          "lut_index": 3
+        }
+      },
+      "red": {
+        "name": "ranching/animals/chicken/variants/red/name",
+        "tier": 2,
+        "lut_index": 4
+      },
+      "yellow": {
+        "name": "ranching/animals/chicken/variants/yellow/name",
+        "tier": 2,
+        "lut_index": 5
+      },
+      "gray": {
+        "name": "ranching/animals/chicken/variants/gray/name",
+        "tier": 2,
+        "lut_index": 6
+      },
+      "blue": {
+        "name": "ranching/animals/chicken/variants/blue/name",
+        "tier": 3,
+        "lut_index": 7
+      },
+      "purple": {
+        "name": "ranching/animals/chicken/variants/purple/name",
+        "tier": 3,
+        "lut_index": 8
+      },
+      "pink": {
+        "name": "ranching/animals/chicken/variants/pink/name",
+        "tier": 3,
+        "lut_index": 9
+      },
+      "silver": {
+        "name": "ranching/animals/chicken/variants/silver/name",
+        "tier": 4,
+        "lut": "<n/a>",
+        "male": {
+          "key": "silver_male"
+        },
+        "female": {
+          "key": "silver_female"
+        },
+        "baby": {
+          "key": "silver_baby_chick"
+        }
+      },
+      "gold": {
+        "name": "ranching/animals/chicken/variants/gold/name",
+        "tier": 5,
+        "lut": "<n/a>",
+        "male": {
+          "key": "gold_male"
+        },
+        "female": {
+          "key": "gold_female"
+        },
+        "baby": {
+          "key": "gold_baby_chick"
+        }
+      },
+      "spring": {
+        "name": "ranching/animals/chicken/variants/spring/name",
+        "tier": 6,
+        "born_in": "spring",
+        "lut_index": 10,
+        "default_cosmetic": "flower_crown"
+      },
+      "summer": {
+        "name": "ranching/animals/chicken/variants/summer/name",
+        "tier": 6,
+        "born_in": "summer",
+        "lut": "<n/a>",
+        "default_cosmetic": "sunglasses",
+        "male": {
+          "key": "summer_male"
+        },
+        "female": {
+          "key": "summer_female"
+        },
+        "baby": {
+          "key": "summer_baby_chick"
+        }
+      },
+      "fall": {
+        "name": "ranching/animals/chicken/variants/fall/name",
+        "tier": 6,
+        "born_in": "fall",
+        "default_cosmetic": "red_eyes",
+        "lut": "<n/a>",
+        "male": {
+          "key": "fall_male"
+        },
+        "female": {
+          "key": "fall_female"
+        },
+        "baby": {
+          "lut": "spr_animal_chicken_lut",
+          "lut_index": 11
+        }
+      },
+      "winter": {
+        "name": "ranching/animals/chicken/variants/winter/name",
+        "tier": 6,
+        "born_in": "winter",
+        "lut": "<n/a>",
+        "default_cosmetic": "winter_hat",
+        "male": {
+          "key": "winter_male"
+        },
+        "female": {
+          "key": "winter_female"
+        },
+        "baby": {
+          "key": "winter_baby_chick"
+        }
+      }
+    },
+    "cosmetics": {
+      "business_tie": {
+        "name": "ranching/animals/chicken/cosmetics/business_tie/name"
+      },
+      "ear_muffs": {
+        "name": "ranching/animals/chicken/cosmetics/ear_muffs/name"
+      },
+      "egg_hat": {
+        "name": "ranching/animals/chicken/cosmetics/egg_hat/name"
+      },
+      "sunglasses": {
+        "name": "ranching/animals/chicken/cosmetics/sunglasses/name"
+      },
+      "flower_crown": {
+        "name": "ranching/animals/chicken/cosmetics/flower_crown/name"
+      },
+      "pearl_necklace": {
+        "name": "ranching/animals/chicken/cosmetics/pearl_necklace/name"
+      },
+      "red_eyes": {
+        "name": "ranching/animals/chicken/cosmetics/red_eyes/name"
+      },
+      "ribbon_blue": {
+        "name": "ranching/animals/chicken/cosmetics/ribbon_blue/name"
+      },
+      "ribbon_red": {
+        "name": "ranching/animals/chicken/cosmetics/ribbon_red/name"
+      },
+      "ribbon_white": {
+        "name": "ranching/animals/chicken/cosmetics/ribbon_white/name"
+      },
+      "top_hat": {
+        "name": "ranching/animals/chicken/cosmetics/top_hat/name"
+      },
+      "winter_hat": {
+        "name": "ranching/animals/chicken/cosmetics/winter_hat/name"
+      },
+      "yellow_bow": {
+        "name": "ranching/animals/chicken/cosmetics/yellow_bow/name"
+      },
+      "apple": {
+        "name": "ranching/animals/chicken/cosmetics/apple/name"
+      },
+      "baseball_cap": {
+        "name": "ranching/animals/chicken/cosmetics/baseball_cap/name"
+      }
+    }
+  },
+  "capybara": {
+    "core": {
+      "name": "ranching/animals/capybara/core/name",
+      "plural_name": "ranching/animals/capybara/core/plural_name",
+      "female_other": "ranching/animals/capybara/core/female_other",
+      "male_other": "ranching/animals/capybara/core/male_other",
+      "new_baby_born": "ranching/animals/capybara/core/new_baby_born",
+      "size": "small",
+      "default_icon_variant": "light_brown",
+      "cosmetic_sub_icon": "spr_ui_item_sub_animal_capybara",
+      "progression_requirement": "repaired_haydens_farm",
+      "minimum_date": {
+        "season": "winter",
+        "day": 1
+      }
+    },
+    "breeding": {
+      "uses_egg": false,
+      "days_until_adult": 3,
+      "treat": "heart_shaped_capybara_treat"
+    },
+    "mounting": {
+      "is_mount": false
+    },
+    "eating": {
+      "kind": "seed",
+      "offset": [
+        18,
+        -2
+      ],
+      "baby_offset": [
+        18,
+        -2
+      ],
+      "shake_frames": [
+        1,
+        9
+      ]
+    },
+    "petting": {
+      "kind": "pick_up",
+      "held_offset": [
+        9,
+        15
+      ]
+    },
+    "pricing": {
+      "buy_price": 2000,
+      "baby_sell_price": 500,
+      "adult_sell_prices": [
+        700,
+        750,
+        900,
+        1000,
+        1150,
+        1200,
+        1400,
+        1600,
+        2000,
+        2200,
+        2300
+      ]
+    },
+    "production": {
+      "male": {
+        "days_to_produce": 3,
+        "normal_product": "bristle",
+        "golden_product": "golden_bristle"
+      },
+      "female": {
+        "days_to_produce": 3,
+        "normal_product": "bristle",
+        "golden_product": "golden_bristle"
+      }
+    },
+    "sounds": {
+      "baby": [
+        {
+          "ambient": "SoundEffects/Animals/BabyCapybaraAmbient",
+          "positive_react": "SoundEffects/Animals/BabyCapybaraPositiveReact",
+          "negative_react": "SoundEffects/Animals/BabyCapybaraNegativeReact"
+        }
+      ],
+      "adult": [
+        {
+          "ambient": "SoundEffects/Animals/CapybaraAmbient",
+          "positive_react": "SoundEffects/Animals/CapybaraPositiveReact",
+          "negative_react": "SoundEffects/Animals/CapybaraNegativeReact"
+        }
+      ]
+    },
+    "variants": {
+      "default": {
+        "lut": "spr_animal_capybara_lut",
+        "male": {
+          "key": "basic_capybara",
+          "top_key": "<n/a>"
+        },
+        "female": {
+          "key": "basic_capybara",
+          "top_key": "<n/a>"
+        },
+        "baby": {
+          "key": "basic_baby_capybara",
+          "top_key": "<n/a>"
+        }
+      },
+      "light_brown": {
+        "name": "ranching/animals/capybara/variants/light_brown/name",
+        "lut_index": 1,
+        "default_unlocked": true
+      },
+      "dark_brown": {
+        "name": "ranching/animals/capybara/variants/dark_brown/name",
+        "lut_index": 2,
+        "default_unlocked": true
+      },
+      "pale": {
+        "name": "ranching/animals/capybara/variants/pale/name",
+        "lut_index": 3,
+        "default_unlocked": true
+      },
+      "gray": {
+        "name": "ranching/animals/capybara/variants/gray/name",
+        "tier": 2,
+        "lut_index": 4
+      },
+      "white": {
+        "name": "ranching/animals/capybara/variants/white/name",
+        "tier": 2,
+        "lut_index": 5
+      },
+      "red": {
+        "name": "ranching/animals/capybara/variants/red/name",
+        "tier": 2,
+        "lut_index": 6
+      },
+      "blue": {
+        "name": "ranching/animals/capybara/variants/blue/name",
+        "tier": 3,
+        "lut_index": 7
+      },
+      "purple": {
+        "name": "ranching/animals/capybara/variants/purple/name",
+        "tier": 3,
+        "lut_index": 8
+      },
+      "pink": {
+        "name": "ranching/animals/capybara/variants/pink/name",
+        "tier": 3,
+        "lut_index": 9
+      },
+      "gold": {
+        "name": "ranching/animals/capybara/variants/gold/name",
+        "tier": 5,
+        "lut_index": 10
+      },
+      "silver": {
+        "name": "ranching/animals/capybara/variants/silver/name",
+        "tier": 4,
+        "lut_index": 11
+      },
+      "spring": {
+        "name": "ranching/animals/capybara/variants/spring/name",
+        "tier": 6,
+        "lut_index": 12,
+        "born_in": "spring",
+        "default_cosmetic": "flower_crown"
+      },
+      "summer": {
+        "name": "ranching/animals/capybara/variants/summer/name",
+        "tier": 6,
+        "lut_index": 13,
+        "born_in": "summer",
+        "default_cosmetic": "umbrella_hat"
+      },
+      "fall": {
+        "name": "ranching/animals/capybara/variants/fall/name",
+        "tier": 6,
+        "lut_index": 14,
+        "born_in": "fall",
+        "default_cosmetic": "horns"
+      },
+      "winter": {
+        "name": "ranching/animals/capybara/variants/winter/name",
+        "tier": 6,
+        "lut_index": 15,
+        "born_in": "winter",
+        "default_cosmetic": "winter_hat"
+      }
+    },
+    "cosmetics": {
+      "baseball_cap": {
+        "name": "ranching/animals/capybara/cosmetics/baseball_cap/name"
+      },
+      "bow": {
+        "name": "ranching/animals/capybara/cosmetics/bow/name"
+      },
+      "bowler_hat": {
+        "name": "ranching/animals/capybara/cosmetics/bowler_hat/name"
+      },
+      "flower_crown": {
+        "name": "ranching/animals/capybara/cosmetics/flower_crown/name"
+      },
+      "horns": {
+        "name": "ranching/animals/capybara/cosmetics/horns/name"
+      },
+      "leaf": {
+        "name": "ranching/animals/capybara/cosmetics/leaf/name"
+      },
+      "ribbon_blue": {
+        "name": "ranching/animals/capybara/cosmetics/ribbon_blue/name"
+      },
+      "ribbon_red": {
+        "name": "ranching/animals/capybara/cosmetics/ribbon_red/name"
+      },
+      "ribbon_white": {
+        "name": "ranching/animals/capybara/cosmetics/ribbon_white/name"
+      },
+      "umbrella_hat": {
+        "name": "ranching/animals/capybara/cosmetics/umbrella_hat/name"
+      },
+      "winter_hat": {
+        "name": "ranching/animals/capybara/cosmetics/winter_hat/name"
+      },
+      "yuzu": {
+        "name": "ranching/animals/capybara/cosmetics/yuzu/name"
+      },
+      "angel_wings": {
+        "name": "ranching/animals/capybara/cosmetics/angel_wings/name"
+      },
+      "bat_wings": {
+        "name": "ranching/animals/capybara/cosmetics/bat_wings/name"
+      }
+    }
+  },
+  "alpaca": {
+    "core": {
+      "name": "ranching/animals/alpaca/core/name",
+      "plural_name": "ranching/animals/alpaca/core/plural_name",
+      "female_other": "ranching/animals/alpaca/core/female_other",
+      "male_other": "ranching/animals/alpaca/core/male_other",
+      "new_baby_born": "ranching/animals/alpaca/core/new_baby_born",
+      "size": "large",
+      "default_icon_variant": "white",
+      "cosmetic_sub_icon": "spr_ui_item_sub_animal_alpaca",
+      "progression_requirement": "repaired_haydens_farm",
+      "minimum_date": {
+        "season": "winter",
+        "day": 1
+      }
+    },
+    "breeding": {
+      "uses_egg": false,
+      "treat": "heart_shaped_alpaca_treat"
+    },
+    "mounting": {
+      "is_mount": true
+    },
+    "eating": {
+      "kind": "hay",
+      "offset": [
+        21,
+        0
+      ],
+      "baby_offset": [
+        12,
+        -2
+      ],
+      "shake_frames": [
+        1,
+        9
+      ]
+    },
+    "petting": {
+      "kind": "pet"
+    },
+    "pricing": {
+      "buy_price": 2300,
+      "baby_sell_price": 650,
+      "adult_sell_prices": [
+        900,
+        975,
+        1170,
+        1300,
+        1450,
+        1600,
+        1850,
+        2100,
+        2300,
+        2500,
+        2600
+      ]
+    },
+    "production": {
+      "male": {
+        "days_to_produce": 3,
+        "normal_product": "alpaca_wool",
+        "golden_product": "golden_alpaca_wool"
+      },
+      "female": {
+        "days_to_produce": 3,
+        "normal_product": "alpaca_wool",
+        "golden_product": "golden_alpaca_wool"
+      }
+    },
+    "sounds": {
+      "baby": [
+        {
+          "ambient": "SoundEffects/Animals/BabyAlpacaAmbient",
+          "positive_react": "SoundEffects/Animals/BabyAlpacaPositiveReact",
+          "negative_react": "SoundEffects/Animals/BabyAlpacaNegativeReact"
+        }
+      ],
+      "adult": [
+        {
+          "ambient": "SoundEffects/Animals/AlpacaAmbient",
+          "positive_react": "SoundEffects/Animals/AlpacaPositiveReact",
+          "negative_react": "SoundEffects/Animals/AlpacaNegativeReact"
+        }
+      ]
+    },
+    "variants": {
+      "default": {
+        "lut": "spr_animal_alpaca_lut",
+        "male": {
+          "key": "basic_base",
+          "ui_key": "basic",
+          "top_key": "basic_top"
+        },
+        "female": {
+          "key": "basic_base",
+          "ui_key": "basic",
+          "top_key": "basic_top"
+        },
+        "baby": {
+          "key": "basic_baby_cria",
+          "top_key": "<n/a>"
+        }
+      },
+      "white": {
+        "name": "ranching/animals/alpaca/variants/white/name",
+        "lut_index": 1,
+        "default_unlocked": true
+      },
+      "black": {
+        "name": "ranching/animals/alpaca/variants/black/name",
+        "lut_index": 2,
+        "default_unlocked": true
+      },
+      "brown": {
+        "name": "ranching/animals/alpaca/variants/brown/name",
+        "lut_index": 3,
+        "default_unlocked": true
+      },
+      "snowy": {
+        "name": "ranching/animals/alpaca/variants/snowy/name",
+        "tier": 2,
+        "lut_index": 4
+      },
+      "desert": {
+        "name": "ranching/animals/alpaca/variants/desert/name",
+        "tier": 2,
+        "lut_index": 5
+      },
+      "indigo": {
+        "name": "ranching/animals/alpaca/variants/indigo/name",
+        "tier": 2,
+        "lut_index": 6
+      },
+      "blue": {
+        "name": "ranching/animals/alpaca/variants/blue/name",
+        "tier": 3,
+        "lut_index": 7
+      },
+      "purple": {
+        "name": "ranching/animals/alpaca/variants/purple/name",
+        "tier": 3,
+        "lut_index": 8
+      },
+      "pink": {
+        "name": "ranching/animals/alpaca/variants/pink/name",
+        "tier": 3,
+        "lut_index": 9
+      },
+      "silver": {
+        "name": "ranching/animals/alpaca/variants/silver/name",
+        "tier": 4,
+        "lut_index": 10
+      },
+      "gold": {
+        "name": "ranching/animals/alpaca/variants/gold/name",
+        "tier": 5,
+        "lut_index": 11
+      },
+      "spring": {
+        "name": "ranching/animals/alpaca/variants/spring/name",
+        "tier": 6,
+        "born_in": "spring",
+        "lut_index": 12,
+        "default_cosmetic": "flower_crown"
+      },
+      "summer": {
+        "name": "ranching/animals/alpaca/variants/summer/name",
+        "tier": 6,
+        "born_in": "summer",
+        "lut_index": 13,
+        "default_cosmetic": "sunglasses"
+      },
+      "fall": {
+        "name": "ranching/animals/alpaca/variants/fall/name",
+        "tier": 6,
+        "born_in": "fall",
+        "lut": "<n/a>",
+        "default_cosmetic": "horns",
+        "male": {
+          "key": "fall_base",
+          "ui_key": "fall",
+          "top_key": "fall_top"
+        },
+        "female": {
+          "key": "fall_base",
+          "ui_key": "fall",
+          "top_key": "fall_top"
+        },
+        "baby": {
+          "key": "fall_baby_cria"
+        }
+      },
+      "winter": {
+        "name": "ranching/animals/alpaca/variants/winter/name",
+        "tier": 6,
+        "born_in": "winter",
+        "lut_index": 15,
+        "default_cosmetic": "winter_hat"
+      }
+    },
+    "cosmetics": {
+      "default": {
+        "male": {
+          "key": "base",
+          "top_key": "top"
+        },
+        "female": {
+          "key": "base",
+          "top_key": "top"
+        }
+      },
+      "beaded_necklace": {
+        "name": "ranching/animals/alpaca/cosmetics/beaded_necklace/name"
+      },
+      "bowtie": {
+        "name": "ranching/animals/alpaca/cosmetics/bowtie/name"
+      },
+      "flower_crown": {
+        "name": "ranching/animals/alpaca/cosmetics/flower_crown/name"
+      },
+      "gold_pendant": {
+        "name": "ranching/animals/alpaca/cosmetics/gold_pendant/name"
+      },
+      "horns": {
+        "name": "ranching/animals/alpaca/cosmetics/horns/name"
+      },
+      "ribbon_blue": {
+        "name": "ranching/animals/alpaca/cosmetics/ribbon_blue/name"
+      },
+      "ribbon_red": {
+        "name": "ranching/animals/alpaca/cosmetics/ribbon_red/name"
+      },
+      "ribbon_white": {
+        "name": "ranching/animals/alpaca/cosmetics/ribbon_white/name"
+      },
+      "scarf": {
+        "name": "ranching/animals/alpaca/cosmetics/scarf/name"
+      },
+      "spiked_collar": {
+        "name": "ranching/animals/alpaca/cosmetics/spiked_collar/name"
+      },
+      "sunglasses": {
+        "name": "ranching/animals/alpaca/cosmetics/sunglasses/name"
+      },
+      "winter_hat": {
+        "name": "ranching/animals/alpaca/cosmetics/winter_hat/name"
+      },
+      "beret": {
+        "name": "ranching/animals/alpaca/cosmetics/beret/name"
+      },
+      "lacy_collar": {
+        "name": "ranching/animals/alpaca/cosmetics/lacy_collar/name"
+      }
+    }
+  },
+  "rabbit": {
+    "core": {
+      "name": "ranching/animals/rabbit/core/name",
+      "plural_name": "ranching/animals/rabbit/core/plural_name",
+      "female_other": "ranching/animals/rabbit/core/female_other",
+      "male_other": "ranching/animals/rabbit/core/male_other",
+      "new_baby_born": "ranching/animals/rabbit/core/new_baby_born",
+      "size": "small",
+      "default_icon_variant": "black_and_white",
+      "cosmetic_sub_icon": "spr_ui_item_sub_animal_rabbit",
+      "progression_requirement": "repaired_haydens_farm"
+    },
+    "breeding": {
+      "uses_egg": false,
+      "days_until_adult": 3,
+      "treat": "heart_shaped_rabbit_treat"
+    },
+    "mounting": {
+      "is_mount": false
+    },
+    "eating": {
+      "kind": "seed",
+      "offset": [
+        18,
+        -2
+      ],
+      "baby_offset": [
+        18,
+        -2
+      ],
+      "shake_frames": [
+        1,
+        9
+      ]
+    },
+    "petting": {
+      "kind": "pick_up",
+      "held_offset": [
+        9,
+        15
+      ]
+    },
+    "pricing": {
+      "buy_price": 1500,
+      "baby_sell_price": 375,
+      "adult_sell_prices": [
+        500,
+        560,
+        675,
+        750,
+        825,
+        900,
+        1050,
+        1200,
+        1500,
+        1700,
+        1800
+      ]
+    },
+    "production": {
+      "male": {
+        "days_to_produce": 3,
+        "normal_product": "rabbit_wool",
+        "golden_product": "golden_rabbit_wool"
+      },
+      "female": {
+        "days_to_produce": 3,
+        "normal_product": "rabbit_wool",
+        "golden_product": "golden_rabbit_wool"
+      }
+    },
+    "sounds": {
+      "baby": [
+        {
+          "ambient": "<n/a>",
+          "positive_react": "SoundEffects/Animals/BabyRabbitPositiveReact",
+          "negative_react": "SoundEffects/Animals/BabyRabbitNegativeReact"
+        }
+      ],
+      "adult": [
+        {
+          "ambient": "<n/a>",
+          "positive_react": "SoundEffects/Animals/RabbitPositiveReact",
+          "negative_react": "SoundEffects/Animals/RabbitNegativeReact"
+        }
+      ]
+    },
+    "variants": {
+      "default": {
+        "lut": "spr_animal_rabbit_basic_lut",
+        "male": {
+          "key": "basic_rabbit",
+          "top_key": "<n/a>"
+        },
+        "female": {
+          "key": "basic_rabbit",
+          "top_key": "<n/a>"
+        },
+        "baby": {
+          "key": "basic_baby_rabbit",
+          "top_key": "<n/a>"
+        }
+      },
+      "white": {
+        "name": "ranching/animals/rabbit/variants/white/name",
+        "lut_index": 1,
+        "default_unlocked": true
+      },
+      "brown": {
+        "name": "ranching/animals/rabbit/variants/brown/name",
+        "lut_index": 2,
+        "default_unlocked": true
+      },
+      "black_and_white": {
+        "name": "ranching/animals/rabbit/variants/black_and_white/name",
+        "lut_index": 3,
+        "default_unlocked": true
+      },
+      "brown_sable": {
+        "name": "ranching/animals/rabbit/variants/brown_sable/name",
+        "tier": 2,
+        "lut_index": 4
+      },
+      "orange_sable": {
+        "name": "ranching/animals/rabbit/variants/orange_sable/name",
+        "tier": 2,
+        "lut_index": 5
+      },
+      "black": {
+        "name": "ranching/animals/rabbit/variants/black/name",
+        "tier": 2,
+        "lut_index": 6
+      },
+      "blue": {
+        "name": "ranching/animals/rabbit/variants/blue/name",
+        "tier": 3,
+        "lut_index": 7
+      },
+      "purple": {
+        "name": "ranching/animals/rabbit/variants/purple/name",
+        "tier": 3,
+        "lut_index": 8
+      },
+      "pink": {
+        "name": "ranching/animals/rabbit/variants/pink/name",
+        "tier": 3,
+        "lut_index": 9
+      },
+      "silver": {
+        "name": "ranching/animals/rabbit/variants/silver/name",
+        "tier": 4,
+        "lut_index": 10
+      },
+      "gold": {
+        "name": "ranching/animals/rabbit/variants/gold/name",
+        "tier": 5,
+        "lut_index": 11
+      },
+      "spring": {
+        "name": "ranching/animals/rabbit/variants/spring/name",
+        "tier": 6,
+        "lut_index": 12,
+        "born_in": "spring",
+        "default_cosmetic": "flower_crown"
+      },
+      "summer": {
+        "name": "ranching/animals/rabbit/variants/summer/name",
+        "tier": 6,
+        "lut_index": 13,
+        "born_in": "summer",
+        "default_cosmetic": "sunglasses"
+      },
+      "fall": {
+        "name": "ranching/animals/rabbit/variants/fall/name",
+        "tier": 6,
+        "born_in": "fall",
+        "default_cosmetic": "horn",
+        "lut": "<n/a>",
+        "male": {
+          "key": "fall_rabbit"
+        },
+        "female": {
+          "key": "fall_rabbit"
+        },
+        "baby": {
+          "key": "fall_baby_rabbit"
+        }
+      },
+      "winter": {
+        "name": "ranching/animals/rabbit/variants/winter/name",
+        "tier": 6,
+        "lut_index": 14,
+        "born_in": "winter",
+        "default_cosmetic": "winter_hat"
+      }
+    },
+    "cosmetics": {
+      "daisy_clips": {
+        "name": "ranching/animals/rabbit/cosmetics/daisy_clips/name"
+      },
+      "flower_crown": {
+        "name": "ranching/animals/rabbit/cosmetics/flower_crown/name"
+      },
+      "halo": {
+        "name": "ranching/animals/rabbit/cosmetics/halo/name"
+      },
+      "heart_clips": {
+        "name": "ranching/animals/rabbit/cosmetics/heart_clips/name"
+      },
+      "horn": {
+        "name": "ranching/animals/rabbit/cosmetics/horn/name"
+      },
+      "pink_bow": {
+        "name": "ranching/animals/rabbit/cosmetics/pink_bow/name"
+      },
+      "ribbon_blue": {
+        "name": "ranching/animals/rabbit/cosmetics/ribbon_blue/name"
+      },
+      "ribbon_red": {
+        "name": "ranching/animals/rabbit/cosmetics/ribbon_red/name"
+      },
+      "ribbon_white": {
+        "name": "ranching/animals/rabbit/cosmetics/ribbon_white/name"
+      },
+      "sunglasses": {
+        "name": "ranching/animals/rabbit/cosmetics/sunglasses/name"
+      },
+      "top_hat": {
+        "name": "ranching/animals/rabbit/cosmetics/top_hat/name"
+      },
+      "winter_hat": {
+        "name": "ranching/animals/rabbit/cosmetics/winter_hat/name"
+      },
+      "cowboy_hat": {
+        "name": "ranching/animals/rabbit/cosmetics/cowboy_hat/name"
+      },
+      "chef_hat": {
+        "name": "ranching/animals/rabbit/cosmetics/chef_hat/name"
+      }
+    }
+  },
+  "sheep": {
+    "core": {
+      "name": "ranching/animals/sheep/core/name",
+      "plural_name": "ranching/animals/sheep/core/plural_name",
+      "female_other": "ranching/animals/sheep/core/female_other",
+      "male_other": "ranching/animals/sheep/core/male_other",
+      "new_baby_born": "ranching/animals/sheep/core/new_baby_born",
+      "size": "large",
+      "default_icon_variant": "white",
+      "cosmetic_sub_icon": "spr_ui_item_sub_animal_sheep",
+      "progression_requirement": "repaired_haydens_farm"
+    },
+    "breeding": {
+      "uses_egg": false,
+      "treat": "heart_shaped_sheep_treat"
+    },
+    "mounting": {
+      "is_mount": true
+    },
+    "eating": {
+      "kind": "hay",
+      "offset": [
+        12,
+        -2
+      ],
+      "baby_offset": [
+        10,
+        -2
+      ],
+      "shake_frames": [
+        1,
+        9
+      ]
+    },
+    "petting": {
+      "kind": "pet"
+    },
+    "pricing": {
+      "buy_price": 2000,
+      "baby_sell_price": 500,
+      "adult_sell_prices": [
+        700,
+        750,
+        900,
+        1000,
+        1100,
+        1200,
+        1400,
+        1600,
+        2000,
+        2200,
+        2300
+      ]
+    },
+    "production": {
+      "male": {
+        "days_to_produce": 3,
+        "normal_product": "sheep_wool",
+        "golden_product": "golden_sheep_wool"
+      },
+      "female": {
+        "days_to_produce": 3,
+        "normal_product": "sheep_wool",
+        "golden_product": "golden_sheep_wool"
+      }
+    },
+    "sounds": {
+      "baby": [
+        {
+          "ambient": "SoundEffects/Animals/BabySheepAmbient",
+          "positive_react": "SoundEffects/Animals/BabySheepPositiveReact",
+          "negative_react": "SoundEffects/Animals/BabySheepNegativeReact"
+        }
+      ],
+      "adult": [
+        {
+          "ambient": "SoundEffects/Animals/SheepAmbient",
+          "positive_react": "SoundEffects/Animals/SheepPositiveReact",
+          "negative_react": "SoundEffects/Animals/SheepNegativeReact"
+        }
+      ]
+    },
+    "variants": {
+      "default": {
+        "lut": "spr_animal_sheep_lut",
+        "male": {
+          "key": "basic_male_base",
+          "ui_key": "basic_male",
+          "top_key": "basic_male_top"
+        },
+        "female": {
+          "key": "basic_female_base",
+          "ui_key": "basic_female",
+          "top_key": "basic_female_top"
+        },
+        "baby": {
+          "key": "basic_baby_lamb",
+          "top_key": "<n/a>"
+        }
+      },
+      "white": {
+        "name": "ranching/animals/sheep/variants/white/name",
+        "default_unlocked": true,
+        "lut_index": 1
+      },
+      "black": {
+        "name": "ranching/animals/sheep/variants/black/name",
+        "default_unlocked": true,
+        "lut_index": 2
+      },
+      "brown": {
+        "name": "ranching/animals/sheep/variants/brown/name",
+        "default_unlocked": true,
+        "lut_index": 3
+      },
+      "black_nosed": {
+        "name": "ranching/animals/sheep/variants/black_nosed/name",
+        "tier": 2,
+        "lut_index": 4
+      },
+      "beige": {
+        "name": "ranching/animals/sheep/variants/beige/name",
+        "tier": 2,
+        "lut_index": 5
+      },
+      "white_nosed": {
+        "name": "ranching/animals/sheep/variants/white_nosed/name",
+        "tier": 2,
+        "lut_index": 6
+      },
+      "blue": {
+        "name": "ranching/animals/sheep/variants/blue/name",
+        "tier": 3,
+        "lut_index": 7
+      },
+      "purple": {
+        "name": "ranching/animals/sheep/variants/purple/name",
+        "tier": 3,
+        "lut_index": 8
+      },
+      "pink": {
+        "name": "ranching/animals/sheep/variants/pink/name",
+        "tier": 3,
+        "lut_index": 9
+      },
+      "silver": {
+        "name": "ranching/animals/sheep/variants/silver/name",
+        "tier": 4,
+        "lut_index": 10
+      },
+      "gold": {
+        "name": "ranching/animals/sheep/variants/gold/name",
+        "tier": 5,
+        "lut_index": 11
+      },
+      "spring": {
+        "name": "ranching/animals/sheep/variants/spring/name",
+        "born_in": "spring",
+        "default_cosmetic": "flower_crown",
+        "tier": 6,
+        "lut_index": 12
+      },
+      "summer": {
+        "name": "ranching/animals/sheep/variants/summer/name",
+        "born_in": "summer",
+        "default_cosmetic": "palm_tree",
+        "tier": 6,
+        "lut_index": 13
+      },
+      "fall": {
+        "name": "ranching/animals/sheep/variants/fall/name",
+        "born_in": "fall",
+        "default_cosmetic": "horns",
+        "tier": 6,
+        "lut": "<n/a>",
+        "male": {
+          "key": "fall_male_base",
+          "ui_key": "fall_male",
+          "top_key": "fall_male_top"
+        },
+        "female": {
+          "key": "fall_female_base",
+          "ui_key": "fall_female",
+          "top_key": "fall_female_top"
+        },
+        "baby": {
+          "key": "fall_baby_lamb"
+        }
+      },
+      "winter": {
+        "name": "ranching/animals/sheep/variants/winter/name",
+        "born_in": "winter",
+        "default_cosmetic": "winter_hat",
+        "tier": 6,
+        "lut_index": 15
+      }
+    },
+    "cosmetics": {
+      "default": {
+        "male": {
+          "key": "base",
+          "top_key": "top"
+        },
+        "female": {
+          "key": "base",
+          "top_key": "top"
+        }
+      },
+      "flower_crown": {
+        "name": "ranching/animals/sheep/cosmetics/flower_crown/name"
+      },
+      "palm_tree": {
+        "name": "ranching/animals/sheep/cosmetics/palm_tree/name"
+      },
+      "party_hat": {
+        "name": "ranching/animals/sheep/cosmetics/party_hat/name"
+      },
+      "pink_bow": {
+        "name": "ranching/animals/sheep/cosmetics/pink_bow/name"
+      },
+      "mushroom_hat": {
+        "name": "ranching/animals/sheep/cosmetics/mushroom_hat/name"
+      },
+      "horns": {
+        "name": "ranching/animals/sheep/cosmetics/horns/name"
+      },
+      "winter_hat": {
+        "name": "ranching/animals/sheep/cosmetics/winter_hat/name"
+      },
+      "ribbon_blue": {
+        "name": "ranching/animals/sheep/cosmetics/ribbon_blue/name"
+      },
+      "ribbon_red": {
+        "name": "ranching/animals/sheep/cosmetics/ribbon_red/name"
+      },
+      "ribbon_white": {
+        "name": "ranching/animals/sheep/cosmetics/ribbon_white/name"
+      },
+      "tartan_beret": {
+        "name": "ranching/animals/sheep/cosmetics/tartan_beret/name"
+      },
+      "unicorn_horn": {
+        "name": "ranching/animals/sheep/cosmetics/unicorn_horn/name"
+      },
+      "hot_water_bottle": {
+        "name": "ranching/animals/sheep/cosmetics/hot_water_bottle/name"
+      },
+      "green_visor": {
+        "name": "ranching/animals/sheep/cosmetics/green_visor/name"
+      }
+    }
+  },
+  "duck": {
+    "core": {
+      "name": "ranching/animals/duck/core/name",
+      "plural_name": "ranching/animals/duck/core/plural_name",
+      "female_other": "ranching/animals/duck/core/female_other",
+      "male_other": "ranching/animals/duck/core/male_other",
+      "new_baby_born": "ranching/animals/duck/core/new_baby_born",
+      "size": "small",
+      "default_icon_variant": "mallard",
+      "cosmetic_sub_icon": "spr_ui_item_sub_animal_duck",
+      "progression_requirement": "repaired_haydens_farm"
+    },
+    "breeding": {
+      "uses_egg": true,
+      "days_until_adult": 3,
+      "treat": "heart_shaped_duck_treat"
+    },
+    "mounting": {
+      "is_mount": false
+    },
+    "eating": {
+      "kind": "seed",
+      "offset": [
+        8,
+        -2
+      ],
+      "baby_offset": [
+        4,
+        0
+      ],
+      "shake_frames": [
+        0,
+        10
+      ]
+    },
+    "petting": {
+      "kind": "pick_up",
+      "held_offset": [
+        9,
+        15
+      ]
+    },
+    "pricing": {
+      "buy_price": 1500,
+      "baby_sell_price": 375,
+      "adult_sell_prices": [
+        500,
+        560,
+        675,
+        750,
+        825,
+        900,
+        1050,
+        1200,
+        1500,
+        1700,
+        1800
+      ]
+    },
+    "production": {
+      "male": {
+        "days_to_produce": 3,
+        "normal_product": "duck_feather",
+        "golden_product": "golden_duck_feather"
+      },
+      "female": {
+        "days_to_produce": 1,
+        "normal_product": "duck_egg",
+        "golden_product": "golden_duck_egg"
+      }
+    },
+    "sounds": {
+      "baby": [
+        {
+          "ambient": "SoundEffects/Animals/BabyDuckAmbient",
+          "positive_react": "SoundEffects/Animals/BabyDuckPositiveReact",
+          "negative_react": "SoundEffects/Animals/BabyDuckNegativeReact"
+        }
+      ],
+      "adult": [
+        {
+          "ambient": "SoundEffects/Animals/DuckAmbient",
+          "positive_react": "SoundEffects/Animals/DuckPositiveReact",
+          "negative_react": "SoundEffects/Animals/DuckNegativeReact"
+        }
+      ]
+    },
+    "variants": {
+      "default": {
+        "lut": "spr_animal_duck_lut",
+        "male": {
+          "key": "basic_duck",
+          "top_key": "<n/a>"
+        },
+        "female": {
+          "key": "basic_duck",
+          "top_key": "<n/a>"
+        },
+        "baby": {
+          "key": "basic_baby_duckling",
+          "top_key": "<n/a>"
+        }
+      },
+      "mallard": {
+        "name": "ranching/animals/duck/variants/mallard/name",
+        "lut_index": 1,
+        "default_unlocked": true,
+        "female": {
+          "lut_index": 2
+        }
+      },
+      "muscovy": {
+        "name": "ranching/animals/duck/variants/muscovy/name",
+        "lut_index": 3,
+        "default_unlocked": true
+      },
+      "white": {
+        "name": "ranching/animals/duck/variants/white/name",
+        "lut_index": 4,
+        "default_unlocked": true
+      },
+      "mandarin": {
+        "name": "ranching/animals/duck/variants/mandarin/name",
+        "tier": 2,
+        "lut_index": 5,
+        "female": {
+          "lut_index": 6
+        }
+      },
+      "ruddy_shelduck": {
+        "name": "ranching/animals/duck/variants/ruddy_shelduck/name",
+        "tier": 2,
+        "lut_index": 7
+      },
+      "cayuga": {
+        "name": "ranching/animals/duck/variants/cayuga/name",
+        "tier": 2,
+        "lut_index": 8
+      },
+      "blue": {
+        "name": "ranching/animals/duck/variants/blue/name",
+        "tier": 3,
+        "lut_index": 9,
+        "female": {
+          "lut_index": 10
+        }
+      },
+      "purple": {
+        "name": "ranching/animals/duck/variants/purple/name",
+        "tier": 3,
+        "lut_index": 11,
+        "female": {
+          "lut_index": 12
+        }
+      },
+      "pink": {
+        "name": "ranching/animals/duck/variants/pink/name",
+        "tier": 3,
+        "lut_index": 13,
+        "female": {
+          "lut_index": 14
+        }
+      },
+      "silver": {
+        "name": "ranching/animals/duck/variants/silver/name",
+        "tier": 4,
+        "lut_index": 17,
+        "female": {
+          "lut_index": 18
+        }
+      },
+      "gold": {
+        "name": "ranching/animals/duck/variants/gold/name",
+        "tier": 5,
+        "lut_index": 15,
+        "female": {
+          "lut_index": 16
+        }
+      },
+      "spring": {
+        "name": "ranching/animals/duck/variants/spring/name",
+        "tier": 6,
+        "lut_index": 19,
+        "born_in": "spring",
+        "default_cosmetic": "flower_crown",
+        "female": {
+          "lut_index": 20
+        }
+      },
+      "summer": {
+        "name": "ranching/animals/duck/variants/summer/name",
+        "tier": 6,
+        "lut_index": 21,
+        "born_in": "summer",
+        "default_cosmetic": "sunglasses",
+        "female": {
+          "lut_index": 22
+        }
+      },
+      "fall": {
+        "name": "ranching/animals/duck/variants/fall/name",
+        "tier": 6,
+        "lut": "<n/a>",
+        "born_in": "fall",
+        "default_cosmetic": "red_eyes",
+        "male": {
+          "key": "fall_duck"
+        },
+        "female": {
+          "key": "fall_duck"
+        },
+        "baby": {
+          "lut": "spr_animal_duck_lut",
+          "lut_index": 23
+        }
+      },
+      "winter": {
+        "name": "ranching/animals/duck/variants/winter/name",
+        "tier": 6,
+        "lut_index": 24,
+        "born_in": "winter",
+        "default_cosmetic": "winter_hat",
+        "female": {
+          "lut_index": 25
+        }
+      }
+    },
+    "cosmetics": {
+      "black_bowtie": {
+        "name": "ranching/animals/duck/cosmetics/black_bowtie/name"
+      },
+      "bonnet": {
+        "name": "ranching/animals/duck/cosmetics/bonnet/name"
+      },
+      "flower_crown": {
+        "name": "ranching/animals/duck/cosmetics/flower_crown/name"
+      },
+      "pink_bow": {
+        "name": "ranching/animals/duck/cosmetics/pink_bow/name"
+      },
+      "red_eyes": {
+        "name": "ranching/animals/duck/cosmetics/red_eyes/name"
+      },
+      "ribbon_blue": {
+        "name": "ranching/animals/duck/cosmetics/ribbon_blue/name"
+      },
+      "ribbon_red": {
+        "name": "ranching/animals/duck/cosmetics/ribbon_red/name"
+      },
+      "ribbon_white": {
+        "name": "ranching/animals/duck/cosmetics/ribbon_white/name"
+      },
+      "ruffled_collar": {
+        "name": "ranching/animals/duck/cosmetics/ruffled_collar/name"
+      },
+      "sun_hat": {
+        "name": "ranching/animals/duck/cosmetics/sun_hat/name"
+      },
+      "sunglasses": {
+        "name": "ranching/animals/duck/cosmetics/sunglasses/name"
+      },
+      "winter_hat": {
+        "name": "ranching/animals/duck/cosmetics/winter_hat/name"
+      },
+      "backwards_cap": {
+        "name": "ranching/animals/duck/cosmetics/backwards_cap/name"
+      },
+      "strawberry_hat": {
+        "name": "ranching/animals/duck/cosmetics/strawberry_hat/name"
+      }
+    }
+  }
+}

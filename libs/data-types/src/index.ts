@@ -1,4 +1,5 @@
 export * from './generated/index';
+export * from './animal';
 export * from './bug';
 export * from './db-item';
 export * from './fish';

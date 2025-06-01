@@ -14,6 +14,7 @@ export * from './location';
 export * from './bug-attraction';
 export * from './dungeon-biome';
 export * from './bug-liked-object-category';
+export * from './animal-id';
 export * from './water-type';
 export * from './fish-size';
 export * from './fishing-rarity';

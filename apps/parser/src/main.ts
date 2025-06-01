@@ -9,6 +9,7 @@ import { dbItemParser } from './parsers/db-item-parser';
 import { skillsParser } from './parsers/skills-parser';
 import { museumWingsParser } from './parsers/museum-wings-parser';
 import { TranslationReferenceResolver } from './localization/tranlation-reference-resolver';
+import { animalParser } from './parsers/animal-parser';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
@@ -43,6 +44,9 @@ writeFileToFrontendDatabase('skills.json', skills);
 
 const bugs = bugParser(data.bugs);
 writeFileToFrontendDatabase('bugs.json', bugs);
+
+const animals = animalParser(data.ranching.animals);
+writeFileToFrontendDatabase('animals.json', animals);
 
 const fish = fishParser(data.fish);
 writeFileToFrontendDatabase('fish.json', fish);
