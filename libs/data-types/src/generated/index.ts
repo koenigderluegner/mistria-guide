@@ -19,3 +19,5 @@ export * from './fish-size';
 export * from './fishing-rarity';
 export * from './fishing-location';
 export * from './retrieval-method';
+export * from './wing-id';
+export * from './wing-set-id';

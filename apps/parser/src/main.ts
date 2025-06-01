@@ -7,6 +7,7 @@ import { bugParser } from './parsers/bug-parser';
 import { fishParser } from './parsers/fish-parser';
 import { dbItemParser } from './parsers/db-item-parser';
 import { skillsParser } from './parsers/skills-parser';
+import { museumWingsParser } from './parsers/museum-wings-parser';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
@@ -48,6 +49,12 @@ const dbItems = dbItemParser(items, bugs, fish);
 dbItems.forEach((item) => {
   writeFileToFrontendDatabase(`/item/${item.id}.json`, item);
 });
+
+const musuemWings = museumWingsParser(
+  data.ui.menus.standard_menus.museum,
+  data.museum_wings
+);
+writeFileToFrontendDatabase('museum-wings.json', musuemWings);
 
 createReadableFiles(data, blacklistedKeys);
 TypesGenerator.generate();
