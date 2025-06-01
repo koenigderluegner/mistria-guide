@@ -102,7 +102,7 @@
   <div data-sidebar="header" class="flex flex-col gap-2 p-2">
     <ul data-sidebar="menu" class="flex w-full min-w-0 flex-col gap-1">
       <li data-sidebar="menu-item" class="group/menu-item relative">
-        <a data-sidebar="menu-button" data-size="lg" appSidebarMenuItem link="/" [activeOptions]="{exact:true}">
+        <a data-sidebar="menu-button" data-size="lg" appSidebarMenuItem routerLink="/" [activeOptions]="{exact:true}">
           <div
             class="bg-sidebar-primary text-sidebar-primary-foreground flex aspect-square size-8 items-center justify-center rounded-lg">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
@@ -131,7 +131,7 @@
         <li data-sidebar="menu-item"
             class="group/menu-item relative group/collapsible"
             data-state="closed">
-          <a appSidebarMenuItem link="/item/acorn">
+          <a appSidebarMenuItem routerLink="/item/acorn">
             <app-sprite name="spr_ui_item_acorn" class="scale-150 shrink-0" />
             <span>Acorn</span>
           </a>
@@ -139,9 +139,26 @@
         <li data-sidebar="menu-item"
             class="group/menu-item relative group/collapsible"
             data-state="closed">
-          <a appSidebarMenuItem link="/skills">
+          <a appSidebarMenuItem routerLink="/skills">
             <app-sprite name="spr_ui_item_essence" class="scale-150 shrink-0" />
             <span>Acorn</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <div data-sidebar="group" class="relative flex w-full min-w-0 flex-col p-2 mt-auto">
+      <div data-sidebar="group-label"
+           class="text-sidebar-foreground/70 ring-sidebar-ring flex h-8 shrink-0 items-center rounded-md px-2 text-xs font-medium outline-hidden transition-[margin,opacity] duration-200 ease-linear focus-visible:ring-2 [&>svg]:size-4 [&>svg]:shrink-0 group-data-[collapsible=icon]:-mt-8 group-data-[collapsible=icon]:opacity-0">
+        Mistria Guide
+      </div>
+      <ul data-sidebar="menu" class="flex w-full min-w-0 flex-col gap-1">
+        <li data-sidebar="menu-item"
+            class="group/menu-item relative group/collapsible"
+            data-state="closed">
+          <a appSidebarMenuItem href="https://github.com/koenigderluegner/mistria-guide" target="_blank">
+            <mat-icon svgIcon="github-mark" class="shrink-0 !icon-size-4" />
+            <span>Code on Github</span>
           </a>
         </li>
       </ul>

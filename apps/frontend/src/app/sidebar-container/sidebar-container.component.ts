@@ -10,10 +10,18 @@ import { DOCUMENT, NgTemplateOutlet } from '@angular/common';
 import { BreakpointObserver } from '@angular/cdk/layout';
 import { SidebarMenuItemDirective } from './sidebar-menu-item.directive';
 import { SpriteComponent } from '../shared/sprite/sprite.component';
+import { MatIcon } from '@angular/material/icon';
+import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-sidebar-container',
-  imports: [NgTemplateOutlet, SidebarMenuItemDirective, SpriteComponent],
+  imports: [
+    NgTemplateOutlet,
+    SidebarMenuItemDirective,
+    SpriteComponent,
+    MatIcon,
+    RouterLink,
+  ],
   templateUrl: './sidebar-container.component.html',
 })
 export class SidebarContainerComponent {

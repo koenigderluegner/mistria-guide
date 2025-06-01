@@ -1,4 +1,4 @@
-import { RouterLink, RouterLinkActive } from '@angular/router';
+import { RouterLinkActive } from '@angular/router';
 import { Directive, inject } from '@angular/core';
 import { toSignal } from '@angular/core/rxjs-interop';
 
@@ -10,10 +10,6 @@ import { toSignal } from '@angular/core/rxjs-interop';
     '[attr.data-active]': 'routeIsActive()',
   },
   hostDirectives: [
-    {
-      directive: RouterLink,
-      inputs: ['routerLink: link'],
-    },
     {
       directive: RouterLinkActive,
       inputs: [
