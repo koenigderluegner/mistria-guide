@@ -71,4 +71,16 @@ export class SidebarContainerComponent {
   removeSidebarWhenClosed() {
     if (!this.mobileSidebarMenuOpen()) this.showMobileSidebar.set(false);
   }
+
+  toggleTheme() {
+    const htmlElement = this.#document.documentElement;
+    const isDarkMode = htmlElement.classList.contains('dark');
+    const theme = isDarkMode ? 'light' : 'dark';
+    const oldTheme = !isDarkMode ? 'light' : 'dark';
+
+    htmlElement.classList.toggle(theme);
+    htmlElement.classList.remove(oldTheme);
+    htmlElement.style.colorScheme = theme;
+    localStorage.setItem('theme', theme);
+  }
 }
