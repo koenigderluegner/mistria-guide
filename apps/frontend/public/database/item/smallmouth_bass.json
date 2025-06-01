@@ -1,8 +1,8 @@
 {
   "id": "smallmouth_bass",
   "item": {
-    "description": "items/fish/river/smallmouth_bass/description",
-    "name": "items/fish/river/smallmouth_bass/name",
+    "description": "A common small river fish found in all seasons.",
+    "name": "Smallmouth Bass",
     "icon_sprite": "spr_ui_item_fish_small_smallmouth_bass",
     "tags": [
       "fishable",

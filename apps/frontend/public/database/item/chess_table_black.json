@@ -1,8 +1,8 @@
 {
   "id": "chess_table_black",
   "item": {
-    "description": "items/furniture/chess_set/chess_table_black/description",
-    "name": "items/furniture/chess_set/chess_table_black/name",
+    "description": "A black chess table.",
+    "name": "Chess Table",
     "icon_sprite": "spr_ui_item_furniture_chess_table_black",
     "tags": [
       "furniture",

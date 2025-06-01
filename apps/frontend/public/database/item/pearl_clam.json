@@ -1,8 +1,8 @@
 {
   "id": "pearl_clam",
   "item": {
-    "description": "items/fish/misc/pearl_clam/description",
-    "name": "items/fish/misc/pearl_clam/name",
+    "description": "A common ocean mollusk, found in all seasons.",
+    "name": "Pearl Clam",
     "icon_sprite": "spr_ui_item_dive_pearl_clam",
     "tags": [
       "dive",

@@ -1,8 +1,8 @@
 {
   "id": "minnow",
   "item": {
-    "description": "items/fish/river/minnow/description",
-    "name": "items/fish/river/minnow/name",
+    "description": "A common small river fish found in summer.",
+    "name": "Minnow",
     "icon_sprite": "spr_ui_item_fish_small_minnow",
     "tags": [
       "fishable",

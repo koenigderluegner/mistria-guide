@@ -1,8 +1,8 @@
 {
   "id": "sand_dollar",
   "item": {
-    "description": "items/fish/misc/sand_dollar/description",
-    "name": "items/fish/misc/sand_dollar/name",
+    "description": "A common shell found on the beach.",
+    "name": "Sand Dollar",
     "icon_sprite": "spr_ui_item_shell_sand_dollar",
     "tags": [
       "dive",

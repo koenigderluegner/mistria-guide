@@ -1,8 +1,8 @@
 {
   "id": "blue_conch_shell",
   "item": {
-    "description": "items/fish/misc/blue_conch_shell/description",
-    "name": "items/fish/misc/blue_conch_shell/name",
+    "description": "A common blue conch shell.",
+    "name": "Blue Conch Shell",
     "icon_sprite": "spr_ui_item_shell_small_blue_conch",
     "tags": [
       "fish_or_dive",

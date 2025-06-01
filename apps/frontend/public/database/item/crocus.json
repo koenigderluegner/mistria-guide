@@ -1,8 +1,8 @@
 {
   "id": "crocus",
   "item": {
-    "description": "items/other/crops_and_forage/crocus/description",
-    "name": "items/other/crops_and_forage/crocus/name",
+    "description": "A fetching light purple flower foraged in winter. Can be used in crafting recipes.",
+    "name": "Crocus",
     "icon_sprite": "spr_ui_item_crocus",
     "tags": [
       "flower",

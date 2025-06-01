@@ -1,8 +1,8 @@
 {
   "id": "sapling_pear",
   "item": {
-    "description": "items/other/crops_and_forage/sapling_pear/description",
-    "name": "items/other/crops_and_forage/sapling_pear/name",
+    "description": "A pear tree sapling. This tree can be planted any time of year, but will only fruit in the summer.",
+    "name": "Pear Sapling",
     "icon_sprite": "spr_ui_item_pear_sapling",
     "tags": [
       "seed"

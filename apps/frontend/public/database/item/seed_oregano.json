@@ -1,8 +1,8 @@
 {
   "id": "seed_oregano",
   "item": {
-    "description": "items/other/crops_and_forage/seed_oregano/description",
-    "name": "items/other/crops_and_forage/seed_oregano/name",
+    "description": "Oregano seed. This summer crop can be harvested every 3 days once it reaches maturity.",
+    "name": "Oregano Seed",
     "icon_sprite": "spr_ui_item_bagseed_oregano_icon",
     "tags": [
       "seed"

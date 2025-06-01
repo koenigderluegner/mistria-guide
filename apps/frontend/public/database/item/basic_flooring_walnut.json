@@ -1,8 +1,8 @@
 {
   "id": "basic_flooring_walnut",
   "item": {
-    "description": "items/furniture/basic_set/basic_flooring_walnut/description",
-    "name": "items/furniture/basic_set/basic_flooring_walnut/name",
+    "description": "Basic walnut flooring for your home.",
+    "name": "Basic Flooring",
     "icon_sprite": "spr_ui_item_furniture_basic_flooring_v2",
     "tags": [
       "furniture",

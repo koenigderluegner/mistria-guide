@@ -1,8 +1,8 @@
 {
   "id": "crystal_apple",
   "item": {
-    "description": "items/other/artifacts/crystal_apple/description",
-    "name": "items/other/artifacts/crystal_apple/name",
+    "description": "A rare artifact. Appears to have been infused with essence.",
+    "name": "Crystal Apple",
     "icon_sprite": "spr_ui_item_crystal_apple",
     "tags": [
       "archaeology"

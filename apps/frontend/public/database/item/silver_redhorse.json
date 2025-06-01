@@ -1,8 +1,8 @@
 {
   "id": "silver_redhorse",
   "item": {
-    "description": "items/fish/deep_woods/silver_redhorse/description",
-    "name": "items/fish/deep_woods/silver_redhorse/name",
+    "description": "An uncommon medium Deep Woods fish found in all seasons.",
+    "name": "Silver Redhorse",
     "icon_sprite": "spr_ui_item_fish_medium_silver_redhorse",
     "tags": [
       "fishable",

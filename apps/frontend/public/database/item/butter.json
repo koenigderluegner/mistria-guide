@@ -1,8 +1,8 @@
 {
   "id": "butter",
   "item": {
-    "description": "items/other/mill/butter/description",
-    "name": "items/other/mill/butter/name",
+    "description": "Butter made with cow's milk. Used in a variety of cooking recipes.",
+    "name": "Butter",
     "icon_sprite": "spr_ui_item_butter",
     "tags": [
       "milling",

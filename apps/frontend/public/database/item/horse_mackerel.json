@@ -1,8 +1,8 @@
 {
   "id": "horse_mackerel",
   "item": {
-    "description": "items/fish/ocean/horse_mackerel/description",
-    "name": "items/fish/ocean/horse_mackerel/name",
+    "description": "A common small ocean fish found in winter.",
+    "name": "Horse Mackerel",
     "icon_sprite": "spr_ui_item_fish_small_horse_mackerel",
     "tags": [
       "fishable",

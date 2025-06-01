@@ -1,8 +1,8 @@
 {
   "id": "alda_pot_replica_green",
   "item": {
-    "description": "items/furniture/mistrian_history_set/alda_pot_replica_green/description",
-    "name": "items/furniture/mistrian_history_set/alda_pot_replica_green/name",
+    "description": "A green colored replica of an Alda Pot artifact.",
+    "name": "Alda Pot Replica",
     "icon_sprite": "spr_ui_item_alda_pot_replica_green",
     "tags": [
       "furniture",

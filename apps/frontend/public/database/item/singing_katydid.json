@@ -1,8 +1,8 @@
 {
   "id": "singing_katydid",
   "item": {
-    "description": "items/other/bugs/singing_katydid/description",
-    "name": "items/other/bugs/singing_katydid/name",
+    "description": "A rare Deep Woods insect. These remarkable insects spend their whole lives crafting a unique and beautiful song.",
+    "name": "Singing Katydid",
     "icon_sprite": "spr_ui_item_insect_singing_katydid",
     "tags": [
       "bugs"

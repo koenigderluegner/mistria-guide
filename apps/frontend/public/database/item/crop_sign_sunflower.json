@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_sunflower",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_sunflower/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_sunflower/name",
+    "description": "A wooden sign featuring a painted sunflower.",
+    "name": "Sunflower Sign",
     "icon_sprite": "spr_ui_item_crop_sign_sunflower",
     "tags": [
       "furniture",

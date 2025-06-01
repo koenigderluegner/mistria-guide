@@ -1,8 +1,8 @@
 {
   "id": "cottage_garden_trellis_v2",
   "item": {
-    "description": "items/furniture/cottage_garden_set/cottage_garden_trellis_v2/description",
-    "name": "items/furniture/cottage_garden_set/cottage_garden_trellis_v2/name",
+    "description": "A pretty off-white garden trellis covered in flowering ivy.",
+    "name": "Cottage Garden Trellis",
     "icon_sprite": "spr_ui_item_decor_cottage_garden_trellis_v2",
     "tags": [
       "furniture",

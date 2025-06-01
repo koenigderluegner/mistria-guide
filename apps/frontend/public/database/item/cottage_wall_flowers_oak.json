@@ -1,8 +1,8 @@
 {
   "id": "cottage_wall_flowers_oak",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_wall_flowers_oak/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_wall_flowers_oak/name",
+    "description": "A lovely bouquet of dried yellow flowers to hang on your wall.",
+    "name": "Lovely Cottage Wall Flowers",
     "icon_sprite": "spr_ui_item_furniture_cottage_wall_flowers_v1",
     "tags": [
       "furniture",

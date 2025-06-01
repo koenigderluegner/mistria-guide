@@ -1,8 +1,8 @@
 {
   "id": "color_paving_stone_v12",
   "item": {
-    "description": "items/furniture/color_paving_stone_set/color_paving_stone_v12/description",
-    "name": "items/furniture/color_paving_stone_set/color_paving_stone_v12/name",
+    "description": "A small dark green paving stone.",
+    "name": "Color Paving Stone",
     "icon_sprite": "spr_ui_item_decor_floor_tile_small_12",
     "tags": [
       "furniture",

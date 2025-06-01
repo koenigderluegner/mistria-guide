@@ -1,8 +1,8 @@
 {
   "id": "basic_bed_walnut",
   "item": {
-    "description": "items/furniture/basic_set/basic_bed_walnut/description",
-    "name": "items/furniture/basic_set/basic_bed_walnut/name",
+    "description": "A basic walnut single bed with green sheets.",
+    "name": "Basic Single Bed",
     "icon_sprite": "spr_ui_item_furniture_basic_bed_v2",
     "tags": [
       "furniture",

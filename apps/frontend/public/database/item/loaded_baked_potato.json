@@ -1,8 +1,8 @@
 {
   "id": "loaded_baked_potato",
   "item": {
-    "description": "items/other/cooked_dishes/loaded_baked_potato/description",
-    "name": "items/other/cooked_dishes/loaded_baked_potato/name",
+    "description": "A hot and fluffy baked potato with all the trimmings.",
+    "name": "Loaded Baked Potato",
     "icon_sprite": "spr_ui_item_loadedbakedpotato",
     "tags": [
       "food",

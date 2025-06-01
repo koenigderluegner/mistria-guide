@@ -1,8 +1,8 @@
 {
   "id": "color_paving_stone_v22",
   "item": {
-    "description": "items/furniture/color_paving_stone_set/color_paving_stone_v22/description",
-    "name": "items/furniture/color_paving_stone_set/color_paving_stone_v22/name",
+    "description": "A small light purple paving stone.",
+    "name": "Color Paving Stone",
     "icon_sprite": "spr_ui_item_decor_floor_tile_small_22",
     "tags": [
       "furniture",

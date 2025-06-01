@@ -1,8 +1,8 @@
 {
   "id": "dried_squid",
   "item": {
-    "description": "items/other/cooked_dishes/dried_squid/description",
-    "name": "items/other/cooked_dishes/dried_squid/name",
+    "description": "This tasty dried squid is a popular oceanside snack.",
+    "name": "Dried Squid",
     "icon_sprite": "spr_ui_item_driedsquid",
     "tags": [
       "food",

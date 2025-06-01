@@ -1,8 +1,8 @@
 {
   "id": "recipe_scroll",
   "item": {
-    "description": "items/other/misc/recipe_scroll/description",
-    "name": "items/other/misc/recipe_scroll/name",
+    "description": "Use this scroll to learn how to cook the following dish: {}.",
+    "name": "Recipe: {}",
     "icon_sprite": "spr_ui_item_recipescroll",
     "tags": [
       "scroll"

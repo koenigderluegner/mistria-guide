@@ -1,8 +1,8 @@
 {
   "id": "vintage_cow_bell",
   "item": {
-    "description": "items/other/artifacts/vintage_cow_bell/description",
-    "name": "items/other/artifacts/vintage_cow_bell/name",
+    "description": "A legendary artifact. This vintage bell would have been used to call cows home in bygone years.",
+    "name": "Vintage Cow Bell",
     "icon_sprite": "spr_ui_item_vintage_bell",
     "tags": [
       "archaeology"

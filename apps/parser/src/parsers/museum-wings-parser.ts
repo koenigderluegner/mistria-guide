@@ -1,5 +1,6 @@
 import { TypesGenerator } from '../types-generator/types-generator';
 import { TranslationReference, WingId } from '@mistria-guide/data-types';
+import { TranslationReferenceResolver } from '../localization/tranlation-reference-resolver';
 
 // TODO proper typing
 export function museumWingsParser(
@@ -25,10 +26,15 @@ export function museumWingsParser(
       .map((order) => {
         const setId = `${wing.wing}-${order}`;
         wingSetIds.push(setId);
+        const resolvedSet = musuem_wings[wing.wing].sets[order];
         return {
           orderId: order,
           setId,
-          ...musuem_wings[wing.wing].sets[order],
+          ...resolvedSet,
+          name: TranslationReferenceResolver.resolve(resolvedSet.name),
+          description: TranslationReferenceResolver.resolve(
+            resolvedSet.description
+          ),
         };
       })
       .reduce((acc, set) => {
@@ -36,7 +42,10 @@ export function museumWingsParser(
         return acc;
       }, {});
 
-    Object.assign(wing, { sets, name: musuem_wings[wing.wing].name });
+    Object.assign(wing, {
+      sets,
+      name: TranslationReferenceResolver.resolve(musuem_wings[wing.wing].name,
+    });
 
     res[wing.wing] = wing;
   });

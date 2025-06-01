@@ -1,8 +1,8 @@
 {
   "id": "fish_stew",
   "item": {
-    "description": "items/other/cooked_dishes/fish_stew/description",
-    "name": "items/other/cooked_dishes/fish_stew/name",
+    "description": "This flavorful stew blends the taste of freshly cooked fish with sweet wild leek.",
+    "name": "Fish Stew",
     "icon_sprite": "spr_ui_item_fishstew",
     "tags": [
       "food",

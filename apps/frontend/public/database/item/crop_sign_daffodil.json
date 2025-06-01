@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_daffodil",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_daffodil/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_daffodil/name",
+    "description": "A wooden sign featuring a painted daffodil.",
+    "name": "Daffodil Sign",
     "icon_sprite": "spr_ui_item_crop_sign_daffodil",
     "tags": [
       "furniture",

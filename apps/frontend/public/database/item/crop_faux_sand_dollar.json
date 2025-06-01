@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_sand_dollar",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_sand_dollar/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_sand_dollar/name",
+    "description": "A decorative faux sand dollar.",
+    "name": "Faux Sand Dollar",
     "icon_sprite": "spr_ui_item_decor_crop_faux_sand_dollar",
     "tags": [
       "furniture",

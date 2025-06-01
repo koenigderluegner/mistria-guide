@@ -1,8 +1,8 @@
 {
   "id": "pineshroom_toast",
   "item": {
-    "description": "items/other/cooked_dishes/pineshroom_toast/description",
-    "name": "items/other/cooked_dishes/pineshroom_toast/name",
+    "description": "A simple holiday sweet treat that's unique to Mistria.",
+    "name": "Pineshroom Toast",
     "icon_sprite": "spr_ui_item_pineshroom_toast",
     "tags": [
       "food",

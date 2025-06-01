@@ -1,8 +1,8 @@
 {
   "id": "firefly_wall_string_lights_pink",
   "item": {
-    "description": "items/furniture/insect_set/firefly_wall_string_lights_pink/description",
-    "name": "items/furniture/insect_set/firefly_wall_string_lights_pink/name",
+    "description": "Pink firefly string lights to hang on your wall.",
+    "name": "Firefly Wall String Lights",
     "icon_sprite": "spr_ui_item_decor_firefly_string_lights_pink",
     "tags": [
       "furniture",

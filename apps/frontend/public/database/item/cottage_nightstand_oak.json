@@ -1,8 +1,8 @@
 {
   "id": "cottage_nightstand_oak",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_nightstand_oak/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_nightstand_oak/name",
+    "description": "A lovely nightstand painted antique white and sage green.",
+    "name": "Lovely Cottage Nightstand",
     "icon_sprite": "spr_ui_item_furniture_cottage_nightstand_v1",
     "tags": [
       "furniture",

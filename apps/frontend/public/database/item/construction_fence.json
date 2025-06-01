@@ -1,8 +1,8 @@
 {
   "id": "construction_fence",
   "item": {
-    "description": "items/other/misc/construction_fence/description",
-    "name": "items/other/misc/construction_fence/name",
+    "description": "A simple construction fence.",
+    "name": "Construction Fence",
     "icon_sprite": "spr_ui_item_decor_starter_wood_fence",
     "tags": [],
     "value": {

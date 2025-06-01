@@ -1,8 +1,8 @@
 {
   "id": "gem_shard_caterpillar",
   "item": {
-    "description": "items/mines/deep_earth/gem_shard_caterpillar/description",
-    "name": "items/mines/deep_earth/gem_shard_caterpillar/name",
+    "description": "An uncommon Deep Earth insect. It seems to feed on crystal berries.",
+    "name": "Gem Shard Caterpillar",
     "icon_sprite": "spr_ui_item_insect_gem_shard_caterpillar",
     "tags": [
       "bugs"

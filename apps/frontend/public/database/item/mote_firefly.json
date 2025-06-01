@@ -1,8 +1,8 @@
 {
   "id": "mote_firefly",
   "item": {
-    "description": "items/other/bugs/mote_firefly/description",
-    "name": "items/other/bugs/mote_firefly/name",
+    "description": "A common Deep Woods insect. Legends say that they are known to guide lost travelers out of the woods.",
+    "name": "Mote Firefly",
     "icon_sprite": "spr_ui_item_insect_mote_firefly",
     "tags": [
       "bugs"

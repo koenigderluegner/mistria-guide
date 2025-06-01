@@ -1,8 +1,8 @@
 {
   "id": "ancient_horn_circlet",
   "item": {
-    "description": "items/other/artifacts/ancient_horn_circlet/description",
-    "name": "items/other/artifacts/ancient_horn_circlet/name",
+    "description": "A rare artifact. A horn circlet from the age of the Witch Queens. Was this a fashion accessory or did it serve a greater purpose?",
+    "name": "Ancient Horn Circlet",
     "icon_sprite": "spr_ui_item_ancient_horn_circlet",
     "tags": [
       "archaeology"

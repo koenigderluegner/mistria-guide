@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_sugar_cane",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_sugar_cane/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_sugar_cane/name",
+    "description": "A wooden sign featuring painted sugar cane.",
+    "name": "Sugar Cane Sign",
     "icon_sprite": "spr_ui_item_crop_sign_sugar_cane",
     "tags": [
       "furniture",

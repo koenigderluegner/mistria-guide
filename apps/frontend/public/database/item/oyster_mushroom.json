@@ -1,8 +1,8 @@
 {
   "id": "oyster_mushroom",
   "item": {
-    "description": "items/other/crops_and_forage/oyster_mushroom/description",
-    "name": "items/other/crops_and_forage/oyster_mushroom/name",
+    "description": "A wild mushroom foraged in winter. Has an earthy flavor. Commonly used as a cooking ingredient.",
+    "name": "Oyster Mushroom",
     "icon_sprite": "spr_ui_item_oyster_mushroom",
     "tags": [
       "forageable",

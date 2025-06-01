@@ -1,8 +1,8 @@
 {
   "id": "red_wine",
   "item": {
-    "description": "items/other/cooked_dishes/red_wine/description",
-    "name": "items/other/cooked_dishes/red_wine/name",
+    "description": "A dry wine with a complex bouquet.",
+    "name": "Red Wine",
     "icon_sprite": "spr_ui_item_red_wine",
     "tags": [
       "drink_sound",

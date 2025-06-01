@@ -1,8 +1,8 @@
 {
   "id": "rose_tea",
   "item": {
-    "description": "items/other/cooked_dishes/rose_tea/description",
-    "name": "items/other/cooked_dishes/rose_tea/name",
+    "description": "A soothing tea with a light rose flavor.",
+    "name": "Rose Tea",
     "icon_sprite": "spr_ui_item_rose_tea",
     "tags": [
       "drink",

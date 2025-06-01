@@ -1,8 +1,8 @@
 {
   "id": "chess_queen_black",
   "item": {
-    "description": "items/furniture/chess_set/chess_queen_black/description",
-    "name": "items/furniture/chess_set/chess_queen_black/name",
+    "description": "An oversized black queen chess piece.",
+    "name": "Chess Queen Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_queen_black",
     "tags": [
       "furniture",

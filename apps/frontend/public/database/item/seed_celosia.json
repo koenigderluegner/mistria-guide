@@ -1,8 +1,8 @@
 {
   "id": "seed_celosia",
   "item": {
-    "description": "items/other/crops_and_forage/seed_celosia/description",
-    "name": "items/other/crops_and_forage/seed_celosia/name",
+    "description": "Celosia seed. This fast growing fall flower can be harvested once.",
+    "name": "Celosia Seed",
     "icon_sprite": "spr_ui_item_bagseed_celosia_icon",
     "tags": [
       "seed"

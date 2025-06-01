@@ -1,8 +1,8 @@
 {
   "id": "notepad_white",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/notepad_white/description",
-    "name": "items/furniture/tabletop_clutter_set/notepad_white/name",
+    "description": "A decorative white notepad.",
+    "name": "Notepad",
     "icon_sprite": "spr_ui_item_decor_clutter_notepad_white",
     "tags": [
       "furniture",

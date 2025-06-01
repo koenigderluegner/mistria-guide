@@ -1,8 +1,8 @@
 {
   "id": "big_bell",
   "item": {
-    "description": "items/furniture/automation_set/big_bell/description",
-    "name": "items/furniture/automation_set/big_bell/name",
+    "description": "A big bell that can be used to call all animals in and out of their buildings at once.",
+    "name": "Big Bell",
     "icon_sprite": "spr_ui_item_big_bell",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_wild_leek",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_wild_leek/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_wild_leek/name",
+    "description": "A decorative faux wild leek.",
+    "name": "Faux Wild Leek",
     "icon_sprite": "spr_ui_item_decor_crop_faux_wild_leek",
     "tags": [
       "furniture",

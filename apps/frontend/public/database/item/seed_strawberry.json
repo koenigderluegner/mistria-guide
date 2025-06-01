@@ -1,8 +1,8 @@
 {
   "id": "seed_strawberry",
   "item": {
-    "description": "items/other/crops_and_forage/seed_strawberry/description",
-    "name": "items/other/crops_and_forage/seed_strawberry/name",
+    "description": "Strawberry seed. This spring crop can be harvested every 3 days once it reaches maturity.",
+    "name": "Strawberry Seed",
     "icon_sprite": "spr_ui_item_bagseed_strawberry_icon",
     "tags": [
       "seed"

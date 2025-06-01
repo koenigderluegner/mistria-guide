@@ -1,8 +1,8 @@
 {
   "id": "holly",
   "item": {
-    "description": "items/other/crops_and_forage/holly/description",
-    "name": "items/other/crops_and_forage/holly/name",
+    "description": "A wild plant foraged in winter. Can be used in crafting recipes.",
+    "name": "Holly",
     "icon_sprite": "spr_ui_item_holly",
     "tags": [
       "forageable"

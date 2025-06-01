@@ -1,8 +1,8 @@
 {
   "id": "water_sprite_statue_v1",
   "item": {
-    "description": "items/furniture/water_sprite_set/water_sprite_statue_v1/description",
-    "name": "items/furniture/water_sprite_set/water_sprite_statue_v1/name",
+    "description": "Place and apply an Essence Stone to automatically water crops in a 2 tile radius.",
+    "name": "Water Sprite Statue",
     "icon_sprite": "spr_ui_item_object_water_sprite_statue_v1",
     "tags": [
       "furniture",

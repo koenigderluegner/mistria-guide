@@ -1,8 +1,8 @@
 {
   "id": "basic_flower_pot_orange",
   "item": {
-    "description": "items/furniture/basic_set/basic_flower_pot_orange/description",
-    "name": "items/furniture/basic_set/basic_flower_pot_orange/name",
+    "description": "A basic orange flower pot for decoration.",
+    "name": "Basic Flower Pot",
     "icon_sprite": "spr_ui_item_furniture_basic_flower_pot_v1",
     "tags": [
       "furniture",

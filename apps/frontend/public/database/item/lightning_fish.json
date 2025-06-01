@@ -1,8 +1,8 @@
 {
   "id": "lightning_fish",
   "item": {
-    "description": "items/fish/river/lightning_fish/description",
-    "name": "items/fish/river/lightning_fish/name",
+    "description": "A legendary medium river fish found on stormy days in summer.",
+    "name": "Lightning Fish",
     "icon_sprite": "spr_ui_item_fish_medium_lightning_fish",
     "tags": [
       "fishable",

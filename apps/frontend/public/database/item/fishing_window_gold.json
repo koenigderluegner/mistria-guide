@@ -1,8 +1,8 @@
 {
   "id": "fishing_window_gold",
   "item": {
-    "description": "items/furniture/fishing_set/fishing_window_gold/description",
-    "name": "items/furniture/fishing_set/fishing_window_gold/name",
+    "description": "A nautical porthole window with a wooden finish.",
+    "name": "Porthole Window",
     "icon_sprite": "spr_ui_item_furniture_fishing_window_gold",
     "tags": [
       "furniture",

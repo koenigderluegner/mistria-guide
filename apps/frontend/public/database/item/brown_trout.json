@@ -1,8 +1,8 @@
 {
   "id": "brown_trout",
   "item": {
-    "description": "items/fish/pond/brown_trout/description",
-    "name": "items/fish/pond/brown_trout/name",
+    "description": "A common large pond fish found in spring.",
+    "name": "Brown Trout",
     "icon_sprite": "spr_ui_item_fish_large_brown_trout",
     "tags": [
       "fishable",

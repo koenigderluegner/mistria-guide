@@ -1,8 +1,8 @@
 {
   "id": "verdigris_tassets",
   "item": {
-    "description": "items/other/armor/verdigris_tassets/description",
-    "name": "items/other/armor/verdigris_tassets/name",
+    "description": "Tassets constructed out of verdigris copper. Equip to increase defense.",
+    "name": "Verdigris Tassets",
     "icon_sprite": "spr_ui_item_equipment_verdigris_tassets",
     "tags": [
       "legs",

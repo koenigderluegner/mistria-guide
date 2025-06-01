@@ -1,8 +1,8 @@
 {
   "id": "bathroom_wall_towel_pink",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_wall_towel_pink/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_wall_towel_pink/name",
+    "description": "A pink bathroom wall towel.",
+    "name": "Bathroom Wall Towel",
     "icon_sprite": "spr_ui_item_furniture_bathroom_wall_towel_pink",
     "tags": [
       "furniture",

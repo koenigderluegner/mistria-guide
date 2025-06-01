@@ -1,8 +1,8 @@
 {
   "id": "cabin_bookshelf_walnut",
   "item": {
-    "description": "items/furniture/rustic_cabin_set/cabin_bookshelf_walnut/description",
-    "name": "items/furniture/rustic_cabin_set/cabin_bookshelf_walnut/name",
+    "description": "A rustic walnut bookshelf.",
+    "name": "Rustic Cabin Bookshelf",
     "icon_sprite": "spr_ui_item_furniture_cabin_bookshelf_v2",
     "tags": [
       "furniture",

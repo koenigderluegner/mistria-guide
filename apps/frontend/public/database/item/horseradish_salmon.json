@@ -1,8 +1,8 @@
 {
   "id": "horseradish_salmon",
   "item": {
-    "description": "items/other/cooked_dishes/horseradish_salmon/description",
-    "name": "items/other/cooked_dishes/horseradish_salmon/name",
+    "description": "A mouthwatering salmon steak with a spicy horseradish crust.",
+    "name": "Horseradish Salmon",
     "icon_sprite": "spr_ui_item_horseradish_salmon",
     "tags": [
       "food",

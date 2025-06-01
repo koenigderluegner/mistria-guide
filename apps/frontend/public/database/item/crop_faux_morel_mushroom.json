@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_morel_mushroom",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_morel_mushroom/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_morel_mushroom/name",
+    "description": "A decorative faux morel mushroom.",
+    "name": "Faux Morel Mushroom",
     "icon_sprite": "spr_ui_item_decor_crop_faux_morel_mushroom",
     "tags": [
       "furniture",

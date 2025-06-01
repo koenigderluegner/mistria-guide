@@ -1,8 +1,8 @@
 {
   "id": "golden_cheese",
   "item": {
-    "description": "items/other/mill/golden_cheese/description",
-    "name": "items/other/mill/golden_cheese/name",
+    "description": "High quality cheese made with golden cow's milk. Used in high level cooking recipes.",
+    "name": "Golden Cheese",
     "icon_sprite": "spr_ui_item_golden_cheese",
     "tags": [
       "milling",

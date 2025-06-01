@@ -1,8 +1,8 @@
 {
   "id": "ash_mushroom",
   "item": {
-    "description": "items/mines/lava_caves/ash_mushroom/description",
-    "name": "items/mines/lava_caves/ash_mushroom/name",
+    "description": "A delicate mushroom that releases ashlike spores when jostled.",
+    "name": "Ash Mushroom",
     "icon_sprite": "spr_ui_item_ash_mushroom",
     "tags": [
       "forageable",

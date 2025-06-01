@@ -1,8 +1,8 @@
 {
   "id": "cottage_bed_double_oak",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_bed_double_oak/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_bed_double_oak/name",
+    "description": "A lovely double bed with soft pink floral sheets.",
+    "name": "Lovely Cottage Double Bed",
     "icon_sprite": "spr_ui_item_furniture_cottage_double_bed_v1",
     "tags": [
       "furniture",

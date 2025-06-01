@@ -1,8 +1,8 @@
 {
   "id": "seafood_snow_pea_noodles",
   "item": {
-    "description": "items/other/cooked_dishes/seafood_snow_pea_noodles/description",
-    "name": "items/other/cooked_dishes/seafood_snow_pea_noodles/name",
+    "description": "A dish of stir fried noodles loaded with snow peas and fresh seafood.",
+    "name": "Seafood Snow Pea Noodles",
     "icon_sprite": "spr_ui_item_seafood_snow_pea_noodles",
     "tags": [
       "chef",

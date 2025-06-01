@@ -1,8 +1,8 @@
 {
   "id": "scrap_metal_ring",
   "item": {
-    "description": "items/other/armor/scrap_metal_ring/description",
-    "name": "items/other/armor/scrap_metal_ring/name",
+    "description": "A scrap metal ring. Equip to increase defense.",
+    "name": "Scrap Metal Ring",
     "icon_sprite": "spr_ui_item_equipment_scrap_metal_ring",
     "tags": [
       "armor",

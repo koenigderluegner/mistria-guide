@@ -1,8 +1,8 @@
 {
   "id": "smoked_trout_soup",
   "item": {
-    "description": "items/other/cooked_dishes/smoked_trout_soup/description",
-    "name": "items/other/cooked_dishes/smoked_trout_soup/name",
+    "description": "This rich and creamy soup has an irresistible flavor of smoked fish.",
+    "name": "Smoked Trout Soup",
     "icon_sprite": "spr_ui_item_smokedtroutsoup",
     "tags": [
       "food",

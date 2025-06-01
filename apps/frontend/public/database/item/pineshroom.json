@@ -1,8 +1,8 @@
 {
   "id": "pineshroom",
   "item": {
-    "description": "items/other/crops_and_forage/pineshroom/description",
-    "name": "items/other/crops_and_forage/pineshroom/name",
+    "description": "A wild mushroom foraged in winter. It's sweet with a hint of vanilla flavor. Commonly used as a cooking ingredient.",
+    "name": "Pineshroom",
     "icon_sprite": "spr_ui_item_pineshroom",
     "tags": [
       "forageable",

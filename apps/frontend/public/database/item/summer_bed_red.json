@@ -1,8 +1,8 @@
 {
   "id": "summer_bed_red",
   "item": {
-    "description": "items/furniture/summer_set/summer_bed_red/description",
-    "name": "items/furniture/summer_set/summer_bed_red/name",
+    "description": "A white linen bed with a red flower vine wrapped around the headboard.",
+    "name": "Summer Bed",
     "icon_sprite": "spr_ui_item_furniture_summer_bed_red",
     "tags": [
       "furniture",

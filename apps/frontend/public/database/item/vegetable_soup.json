@@ -1,8 +1,8 @@
 {
   "id": "vegetable_soup",
   "item": {
-    "description": "items/other/cooked_dishes/vegetable_soup/description",
-    "name": "items/other/cooked_dishes/vegetable_soup/name",
+    "description": "A healthy and filling soup made with fresh vegetables.",
+    "name": "Vegetable Soup",
     "icon_sprite": "spr_ui_item_vegetablesoup",
     "tags": [
       "food",

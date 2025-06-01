@@ -1,8 +1,8 @@
 {
   "id": "coral",
   "item": {
-    "description": "items/mines/tide_caverns/coral/description",
-    "name": "items/mines/tide_caverns/coral/name",
+    "description": "A pretty piece of coral. Found in the Tide Caverns & used for crafting.",
+    "name": "Coral",
     "icon_sprite": "spr_ui_item_coral",
     "tags": [
       "refined_material",

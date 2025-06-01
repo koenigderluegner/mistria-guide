@@ -1,8 +1,8 @@
 {
   "id": "seed_daisy",
   "item": {
-    "description": "items/other/crops_and_forage/seed_daisy/description",
-    "name": "items/other/crops_and_forage/seed_daisy/name",
+    "description": "Daisy seed. This fast growing summer flower can be harvested once.",
+    "name": "Daisy Seed",
     "icon_sprite": "spr_ui_item_bagseed_daisy_icon",
     "tags": [
       "seed"

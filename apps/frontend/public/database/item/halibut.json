@@ -1,8 +1,8 @@
 {
   "id": "halibut",
   "item": {
-    "description": "items/fish/ocean/halibut/description",
-    "name": "items/fish/ocean/halibut/name",
+    "description": "A common large ocean fish found on rainy days in fall.",
+    "name": "Halibut",
     "icon_sprite": "spr_ui_item_fish_large_halibut",
     "tags": [
       "fishable",

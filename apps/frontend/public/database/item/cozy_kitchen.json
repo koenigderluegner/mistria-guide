@@ -1,8 +1,8 @@
 {
   "id": "cozy_kitchen",
   "item": {
-    "description": "items/other/misc/cozy_kitchen/description",
-    "name": "items/other/misc/cozy_kitchen/name",
+    "description": "An intermediate kitchen used for making 1-3 star dishes. Suitable for cooking levels 0-39.",
+    "name": "Level 2 Kitchen",
     "icon_sprite": "spr_ui_item_kitchen_tier_2",
     "value": {
       "bin": 750,

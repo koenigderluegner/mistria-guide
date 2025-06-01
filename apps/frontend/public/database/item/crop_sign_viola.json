@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_viola",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_viola/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_viola/name",
+    "description": "A wooden sign featuring a painted viola.",
+    "name": "Viola Sign",
     "icon_sprite": "spr_ui_item_crop_sign_viola",
     "tags": [
       "furniture",

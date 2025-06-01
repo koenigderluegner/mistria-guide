@@ -1,8 +1,8 @@
 {
   "id": "spell_fruit_parfait",
   "item": {
-    "description": "items/other/cooked_dishes/spell_fruit_parfait/description",
-    "name": "items/other/cooked_dishes/spell_fruit_parfait/name",
+    "description": "This otherworldly dessert is the delicious pinnacle of a pastry chef's art.",
+    "name": "Spell Fruit Parfait",
     "icon_sprite": "spr_ui_item_spell_fruit_parfait",
     "tags": [
       "food",

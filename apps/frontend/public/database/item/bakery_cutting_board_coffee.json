@@ -1,8 +1,8 @@
 {
   "id": "bakery_cutting_board_coffee",
   "item": {
-    "description": "items/furniture/decor_bakery_set/bakery_cutting_board_coffee/description",
-    "name": "items/furniture/decor_bakery_set/bakery_cutting_board_coffee/name",
+    "description": "A baker's cutting board, complete with a fresh brown loaf.",
+    "name": "Bakery Cutting Board",
     "icon_sprite": "spr_ui_item_decor_bakery_cutting_board_v2",
     "tags": [
       "furniture",

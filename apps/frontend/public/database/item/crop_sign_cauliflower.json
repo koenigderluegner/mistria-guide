@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_cauliflower",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_cauliflower/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_cauliflower/name",
+    "description": "A wooden sign featuring a painted cauliflower.",
+    "name": "Cauliflower Sign",
     "icon_sprite": "spr_ui_item_crop_sign_cauliflower",
     "tags": [
       "furniture",

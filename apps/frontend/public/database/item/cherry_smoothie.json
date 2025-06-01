@@ -1,8 +1,8 @@
 {
   "id": "cherry_smoothie",
   "item": {
-    "description": "items/other/cooked_dishes/cherry_smoothie/description",
-    "name": "items/other/cooked_dishes/cherry_smoothie/name",
+    "description": "This smoothie is thick, creamy, and loaded with cherries.",
+    "name": "Cherry Smoothie",
     "icon_sprite": "spr_ui_item_cherry_smoothie",
     "tags": [
       "food",

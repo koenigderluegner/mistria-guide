@@ -1,8 +1,8 @@
 {
   "id": "strawberry",
   "item": {
-    "description": "items/other/crops_and_forage/strawberry/description",
-    "name": "items/other/crops_and_forage/strawberry/name",
+    "description": "A spring fruit crop. Sweet and flavorful, these berries are frequently used in dessert recipes.",
+    "name": "Strawberry",
     "icon_sprite": "spr_ui_item_strawberry",
     "tags": [
       "crop",

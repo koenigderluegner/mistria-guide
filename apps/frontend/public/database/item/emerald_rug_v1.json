@@ -1,8 +1,8 @@
 {
   "id": "emerald_rug_v1",
   "item": {
-    "description": "items/furniture/emerald_set/emerald_rug_v1/description",
-    "name": "items/furniture/emerald_set/emerald_rug_v1/name",
+    "description": "An ornate emerald rug with cream detailing.",
+    "name": "Emerald Rug",
     "icon_sprite": "spr_ui_item_furniture_emerald_rug_v1",
     "tags": [
       "furniture",

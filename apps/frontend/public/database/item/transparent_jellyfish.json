@@ -1,8 +1,8 @@
 {
   "id": "transparent_jellyfish",
   "item": {
-    "description": "items/mines/tide_caverns/transparent_jellyfish/description",
-    "name": "items/mines/tide_caverns/transparent_jellyfish/name",
+    "description": "A common medium Tide Caverns invertebrate. It evolved in darkness, resulting in an unusual transparent appearance.",
+    "name": "Transparent Jellyfish",
     "icon_sprite": "spr_ui_item_fish_medium_transparent_jellyfish",
     "tags": [
       "fishable"

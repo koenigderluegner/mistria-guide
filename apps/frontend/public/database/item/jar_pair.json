@@ -1,8 +1,8 @@
 {
   "id": "jar_pair",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/jar_pair/description",
-    "name": "items/furniture/tabletop_clutter_set/jar_pair/name",
+    "description": "A pair of decorative glass jars.",
+    "name": "Pair of Jars",
     "icon_sprite": "spr_ui_item_decor_clutter_jar_pair",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "worn_wallpaper",
   "item": {
-    "description": "items/furniture/default_worn_set/worn_wallpaper/description",
-    "name": "items/furniture/default_worn_set/worn_wallpaper/name",
+    "description": "Worn stone wallpaper.",
+    "name": "Worn Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_default_wallpaper_v1",
     "tags": [
       "furniture",

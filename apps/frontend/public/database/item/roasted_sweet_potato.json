@@ -1,8 +1,8 @@
 {
   "id": "roasted_sweet_potato",
   "item": {
-    "description": "items/other/cooked_dishes/roasted_sweet_potato/description",
-    "name": "items/other/cooked_dishes/roasted_sweet_potato/name",
+    "description": "This roasted sweet potato has a custard-like consistency.",
+    "name": "Roasted Sweet Potato",
     "icon_sprite": "spr_ui_item_roasted_sweet_potato",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "dirt_dot_one",
   "item": {
-    "description": "items/furniture/starter_farm_set/dirt_dot_one/description",
-    "name": "items/furniture/starter_farm_set/dirt_dot_one/name",
+    "description": "Use this item to add a single dot detail to a dirt tile.",
+    "name": "Dirt Tile 1 Dot",
     "icon_sprite": "spr_ui_item_decor_starter_dirt_dot_one",
     "tags": [
       "furniture",

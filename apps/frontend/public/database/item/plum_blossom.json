@@ -1,8 +1,8 @@
 {
   "id": "plum_blossom",
   "item": {
-    "description": "items/other/crops_and_forage/plum_blossom/description",
-    "name": "items/other/crops_and_forage/plum_blossom/name",
+    "description": "A delicate pink flower grown in the winter. Can be given as a gift or used in various crafting recipes.",
+    "name": "Plum Blossom",
     "icon_sprite": "spr_ui_item_plum_blossom",
     "tags": [
       "forageable",

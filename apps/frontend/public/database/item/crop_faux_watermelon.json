@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_watermelon",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_watermelon/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_watermelon/name",
+    "description": "A decorative faux watermelon.",
+    "name": "Faux Watermelon",
     "icon_sprite": "spr_ui_item_decor_crop_faux_watermelon",
     "tags": [
       "furniture",

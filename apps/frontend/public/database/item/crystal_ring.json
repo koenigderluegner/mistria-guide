@@ -1,8 +1,8 @@
 {
   "id": "crystal_ring",
   "item": {
-    "description": "items/other/armor/crystal_ring/description",
-    "name": "items/other/armor/crystal_ring/name",
+    "description": "A ring constructed out of crystal. Equip to increase defense.",
+    "name": "Crystal Ring",
     "icon_sprite": "spr_ui_item_equipment_crystal_ring",
     "tags": [
       "accessory",

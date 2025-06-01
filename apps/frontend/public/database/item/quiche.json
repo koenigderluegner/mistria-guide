@@ -1,8 +1,8 @@
 {
   "id": "quiche",
   "item": {
-    "description": "items/other/cooked_dishes/quiche/description",
-    "name": "items/other/cooked_dishes/quiche/name",
+    "description": "A savory tart filled with fluffy eggs.",
+    "name": "Quiche",
     "icon_sprite": "spr_ui_item_quiche",
     "tags": [
       "food",

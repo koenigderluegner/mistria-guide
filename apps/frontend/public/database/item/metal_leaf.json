@@ -1,8 +1,8 @@
 {
   "id": "metal_leaf",
   "item": {
-    "description": "items/other/artifacts/metal_leaf/description",
-    "name": "items/other/artifacts/metal_leaf/name",
+    "description": "A rare artifact. So detailed, it's not clear if it was grown or crafted.",
+    "name": "Metal Leaf",
     "icon_sprite": "spr_ui_item_metal_leaf",
     "tags": [
       "archaeology"

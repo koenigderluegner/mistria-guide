@@ -1,8 +1,8 @@
 {
   "id": "apple_pie",
   "item": {
-    "description": "items/other/cooked_dishes/apple_pie/description",
-    "name": "items/other/cooked_dishes/apple_pie/name",
+    "description": "A flaky pie filled with tender slices of slow-cooked apple.",
+    "name": "Apple Pie",
     "icon_sprite": "spr_ui_item_apple_pie",
     "tags": [
       "food",

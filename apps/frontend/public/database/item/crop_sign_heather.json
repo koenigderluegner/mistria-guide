@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_heather",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_heather/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_heather/name",
+    "description": "A wooden sign featuring painted heather.",
+    "name": "Heather Sign",
     "icon_sprite": "spr_ui_item_crop_sign_heather",
     "tags": [
       "furniture",

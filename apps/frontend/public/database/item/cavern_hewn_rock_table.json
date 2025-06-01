@@ -1,8 +1,8 @@
 {
   "id": "cavern_hewn_rock_table",
   "item": {
-    "description": "items/furniture/cavern_set/cavern_hewn_rock_table/description",
-    "name": "items/furniture/cavern_set/cavern_hewn_rock_table/name",
+    "description": "A hewn rock table.",
+    "name": "Hewn Rock Table",
     "icon_sprite": "spr_ui_item_furniture_hewn_stone_table",
     "tags": [
       "furniture",

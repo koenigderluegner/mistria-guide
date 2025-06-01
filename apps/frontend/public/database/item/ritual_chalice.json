@@ -1,8 +1,8 @@
 {
   "id": "ritual_chalice",
   "item": {
-    "description": "items/other/artifacts/ritual_chalice/description",
-    "name": "items/other/artifacts/ritual_chalice/name",
+    "description": "An uncommon artifact. This ornate chalice was presumably used during ancient rituals.",
+    "name": "Ritual Chalice",
     "icon_sprite": "spr_ui_item_ritual_chalice",
     "tags": [
       "archaeology"

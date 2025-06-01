@@ -1,8 +1,8 @@
 {
   "id": "wine_glass_white",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/wine_glass_white/description",
-    "name": "items/furniture/tabletop_clutter_set/wine_glass_white/name",
+    "description": "A decorative white wine glass.",
+    "name": "White Wine Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_wine_glass_white",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "beach_hopper",
   "item": {
-    "description": "items/other/bugs/beach_hopper/description",
-    "name": "items/other/bugs/beach_hopper/name",
+    "description": "A common insect found at the beach in all seasons.",
+    "name": "Beach Hopper",
     "icon_sprite": "spr_ui_item_insect_beach_hopper",
     "tags": [
       "bugs"

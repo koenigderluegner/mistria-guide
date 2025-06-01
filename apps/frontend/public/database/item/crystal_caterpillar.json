@@ -1,8 +1,8 @@
 {
   "id": "crystal_caterpillar",
   "item": {
-    "description": "items/other/bugs/crystal_caterpillar/description",
-    "name": "items/other/bugs/crystal_caterpillar/name",
+    "description": "A rare insect found on snowy days in winter.",
+    "name": "Crystal Caterpillar",
     "icon_sprite": "spr_ui_item_insect_crystalcaterpillar",
     "tags": [
       "bugs"

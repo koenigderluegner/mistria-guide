@@ -1,8 +1,8 @@
 {
   "id": "puddle_spider",
   "item": {
-    "description": "items/mines/tide_caverns/puddle_spider/description",
-    "name": "items/mines/tide_caverns/puddle_spider/name",
+    "description": "An rare Tide Caverns insect. Seems to use the vibrations on puddles to hunt.",
+    "name": "Puddle Spider",
     "icon_sprite": "spr_ui_item_insect_puddle_spider",
     "tags": [
       "bugs"

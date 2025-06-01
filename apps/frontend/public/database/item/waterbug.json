@@ -1,8 +1,8 @@
 {
   "id": "waterbug",
   "item": {
-    "description": "items/other/bugs/waterbug/description",
-    "name": "items/other/bugs/waterbug/name",
+    "description": "A common insect found at the beach in all seasons.",
+    "name": "Waterbug",
     "icon_sprite": "spr_ui_item_insect_waterbug",
     "tags": [
       "bugs"

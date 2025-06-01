@@ -1,8 +1,8 @@
 {
   "id": "seed_chrysanthemum",
   "item": {
-    "description": "items/other/crops_and_forage/seed_chrysanthemum/description",
-    "name": "items/other/crops_and_forage/seed_chrysanthemum/name",
+    "description": "Chrysanthemum seed. This fall flower can be harvested once.",
+    "name": "Chrysanthemum Seed",
     "icon_sprite": "spr_ui_item_bagseed_chrysanthemum_icon",
     "tags": [
       "seed"

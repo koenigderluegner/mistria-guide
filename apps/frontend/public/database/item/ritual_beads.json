@@ -1,8 +1,8 @@
 {
   "id": "ritual_beads",
   "item": {
-    "description": "items/other/artifacts/ritual_beads/description",
-    "name": "items/other/artifacts/ritual_beads/name",
+    "description": "An uncommon artifact. Running these beads through your hand evokes a feeling of serenity.",
+    "name": "Ritual Beads",
     "icon_sprite": "spr_ui_item_ritual_beads",
     "tags": [
       "archaeology"

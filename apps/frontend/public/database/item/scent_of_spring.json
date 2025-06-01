@@ -1,8 +1,8 @@
 {
   "id": "scent_of_spring",
   "item": {
-    "description": "items/other/festivals/scent_of_spring/description",
-    "name": "items/other/festivals/scent_of_spring/name",
+    "description": "This small bottle emanates a scent of breath of spring. This Spring Festival souvenir is loved by everyone.",
+    "name": "Scent of Spring",
     "icon_sprite": "spr_ui_item_scent_of_spring",
     "value": {
       "store": 500,

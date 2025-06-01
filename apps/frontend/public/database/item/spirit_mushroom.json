@@ -1,8 +1,8 @@
 {
   "id": "spirit_mushroom",
   "item": {
-    "description": "items/other/crops_and_forage/spirit_mushroom/description",
-    "name": "items/other/crops_and_forage/spirit_mushroom/name",
+    "description": "A wild mushroom foraged in all seasons. It only seems to grow deep in the woods. Sometimes used in cooking recipes.",
+    "name": "Spirit Mushroom",
     "icon_sprite": "spr_ui_item_spirit_mushroom",
     "tags": [
       "forageable",

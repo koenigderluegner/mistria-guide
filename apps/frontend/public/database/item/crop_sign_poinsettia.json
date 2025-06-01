@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_poinsettia",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_poinsettia/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_poinsettia/name",
+    "description": "A wooden sign featuring a painted poinsettia.",
+    "name": "Poinsettia Sign",
     "icon_sprite": "spr_ui_item_crop_sign_poinsettia",
     "tags": [
       "furniture",

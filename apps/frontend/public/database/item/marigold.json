@@ -1,8 +1,8 @@
 {
   "id": "marigold",
   "item": {
-    "description": "items/other/crops_and_forage/marigold/description",
-    "name": "items/other/crops_and_forage/marigold/name",
+    "description": "A vibrant orange flower grown in the summer. Can be given as a gift or used in various crafting recipes.",
+    "name": "Marigold",
     "icon_sprite": "spr_ui_item_marigold",
     "tags": [
       "flower",

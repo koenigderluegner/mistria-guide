@@ -1,8 +1,8 @@
 {
   "id": "pick_axe_iron",
   "item": {
-    "description": "items/other/blacksmithing/pick_axe_iron/description",
-    "name": "items/other/blacksmithing/pick_axe_iron/name",
+    "description": "An iron pickaxe. Can be charged to strike a 3x3 area.",
+    "name": "Iron Pickaxe",
     "icon_sprite": "spr_ui_item_tool_iron_pickaxe",
     "tags": [
       "pick_axe",

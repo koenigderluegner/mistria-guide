@@ -1,8 +1,8 @@
 {
   "id": "fennel",
   "item": {
-    "description": "items/other/crops_and_forage/fennel/description",
-    "name": "items/other/crops_and_forage/fennel/name",
+    "description": "A wild herb foraged in spring with a mild licorice flavor. Commonly used as a cooking ingredient.",
+    "name": "Fennel",
     "icon_sprite": "spr_ui_item_fennel",
     "tags": [
       "forageable"

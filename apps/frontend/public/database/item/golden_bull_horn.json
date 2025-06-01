@@ -1,8 +1,8 @@
 {
   "id": "golden_bull_horn",
   "item": {
-    "description": "items/other/ranching/golden_bull_horn/description",
-    "name": "items/other/ranching/golden_bull_horn/name",
+    "description": "A gold quality horn dropped by a bull. Used in high level crafting recipes.",
+    "name": "Golden Bull Horn",
     "icon_sprite": "spr_ui_item_cow_horn_gold",
     "tags": [
       "ranching",

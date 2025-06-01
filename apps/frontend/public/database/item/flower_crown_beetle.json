@@ -1,8 +1,8 @@
 {
   "id": "flower_crown_beetle",
   "item": {
-    "description": "items/other/bugs/flower_crown_beetle/description",
-    "name": "items/other/bugs/flower_crown_beetle/name",
+    "description": "A legendary insect found during the daytime in spring. It's so cute!",
+    "name": "Flower Crown Beetle",
     "icon_sprite": "spr_ui_item_insect_flowercrownbeetle",
     "tags": [
       "bugs"

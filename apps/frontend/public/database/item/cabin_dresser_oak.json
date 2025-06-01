@@ -1,8 +1,8 @@
 {
   "id": "cabin_dresser_oak",
   "item": {
-    "description": "items/furniture/rustic_cabin_set/cabin_dresser_oak/description",
-    "name": "items/furniture/rustic_cabin_set/cabin_dresser_oak/name",
+    "description": "A rustic oak dresser.",
+    "name": "Rustic Cabin Dresser",
     "icon_sprite": "spr_ui_item_furniture_cabin_dresser_v3",
     "tags": [
       "furniture",

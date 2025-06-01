@@ -1,8 +1,8 @@
 {
   "id": "shale_grass",
   "item": {
-    "description": "items/mines/deep_earth/shale_grass/description",
-    "name": "items/mines/deep_earth/shale_grass/name",
+    "description": "This grass only looks like it's made of rock. Very tough to cut.",
+    "name": "Shale Grass",
     "icon_sprite": "spr_ui_item_shale_grass",
     "tags": [
       "forageable",

@@ -1,8 +1,8 @@
 {
   "id": "bristle",
   "item": {
-    "description": "items/other/ranching/bristle/description",
-    "name": "items/other/ranching/bristle/name",
+    "description": "Stiff hairs dropped from the coat of a capybara. Used in a variety of crafting recipes.",
+    "name": "Bristle",
     "icon_sprite": "spr_ui_item_capybara_bristle_regular",
     "tags": [
       "ranching",

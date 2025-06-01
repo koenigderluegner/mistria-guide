@@ -1,8 +1,8 @@
 {
   "id": "seed_tulip",
   "item": {
-    "description": "items/other/crops_and_forage/seed_tulip/description",
-    "name": "items/other/crops_and_forage/seed_tulip/name",
+    "description": "Tulip seed. This spring flower can be harvested once.",
+    "name": "Tulip Seed",
     "icon_sprite": "spr_ui_item_bagseed_tulip_icon",
     "tags": [
       "seed"

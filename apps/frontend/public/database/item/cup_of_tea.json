@@ -1,8 +1,8 @@
 {
   "id": "cup_of_tea",
   "item": {
-    "description": "items/other/cooked_dishes/cup_of_tea/description",
-    "name": "items/other/cooked_dishes/cup_of_tea/name",
+    "description": "A hot cup of black tea with a squeeze of lemon juice and a pinch of sugar.",
+    "name": "Tea with Lemon",
     "icon_sprite": "spr_ui_item_cupoftea",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "miners_shelves_v1",
   "item": {
-    "description": "items/furniture/mineshaft_set/miners_shelves_v1/description",
-    "name": "items/furniture/mineshaft_set/miners_shelves_v1/name",
+    "description": "Industrial shelves with a warm-tone hue.",
+    "name": "Mines Shelf",
     "icon_sprite": "spr_ui_item_furniture_miners_shelves_v1",
     "tags": [
       "furniture",

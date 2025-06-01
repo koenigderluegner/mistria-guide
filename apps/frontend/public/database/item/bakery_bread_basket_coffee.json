@@ -1,8 +1,8 @@
 {
   "id": "bakery_bread_basket_coffee",
   "item": {
-    "description": "items/furniture/decor_bakery_set/bakery_bread_basket_coffee/description",
-    "name": "items/furniture/decor_bakery_set/bakery_bread_basket_coffee/name",
+    "description": "A decorative bread basket with white fabric.",
+    "name": "Bakery Bread Basket",
     "icon_sprite": "spr_ui_item_decor_bakery_bread_basket_v2",
     "tags": [
       "furniture",

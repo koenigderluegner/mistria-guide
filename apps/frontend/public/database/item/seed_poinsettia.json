@@ -1,8 +1,8 @@
 {
   "id": "seed_poinsettia",
   "item": {
-    "description": "items/other/crops_and_forage/seed_poinsettia/description",
-    "name": "items/other/crops_and_forage/seed_poinsettia/name",
+    "description": "Poinsettia seed. This winter flower can be harvested once.",
+    "name": "Poinsettia Seed",
     "icon_sprite": "spr_ui_item_bagseed_poinsettia_icon",
     "tags": [
       "seed"

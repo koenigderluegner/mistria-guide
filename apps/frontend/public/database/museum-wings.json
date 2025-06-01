@@ -6,8 +6,8 @@
       "common_finds": {
         "orderId": "common_finds",
         "setId": "archaeology-common_finds",
-        "name": "museum_wings/archaeology/sets/common_finds/name",
-        "description": "museum_wings/archaeology/sets/common_finds/description",
+        "name": "Dig Site Material Set",
+        "description": "A collection of common materials found while digging.",
         "items": [
           "sod",
           "peat",
@@ -19,8 +19,8 @@
       "prehistoric": {
         "orderId": "prehistoric",
         "setId": "archaeology-prehistoric",
-        "name": "museum_wings/archaeology/sets/prehistoric/name",
-        "description": "museum_wings/archaeology/sets/prehistoric/description",
+        "name": "Prehistoric Artifact Set",
+        "description": "A collection of artifacts from an unimaginably long time ago.",
         "items": [
           "amber_trapped_insect",
           "trilobite_fossil",
@@ -32,8 +32,8 @@
       "ancient": {
         "orderId": "ancient",
         "setId": "archaeology-ancient",
-        "name": "museum_wings/archaeology/sets/ancient/name",
-        "description": "museum_wings/archaeology/sets/ancient/description",
+        "name": "Ancient Artifact Set",
+        "description": "A collection of artifacts from the age of the Witch Queen's reign.",
         "items": [
           "ancient_stone_lantern",
           "ancient_gold_coin",
@@ -45,8 +45,8 @@
       "alda": {
         "orderId": "alda",
         "setId": "archaeology-alda",
-        "name": "museum_wings/archaeology/sets/alda/name",
-        "description": "museum_wings/archaeology/sets/alda/description",
+        "name": "Alda Artifact Set",
+        "description": "A collection of artifacts from the Dark Ages of Aldaria's history.",
         "items": [
           "alda_bronze_sword",
           "alda_clay_pot",
@@ -58,8 +58,8 @@
       "caldosian": {
         "orderId": "caldosian",
         "setId": "archaeology-caldosian",
-        "name": "museum_wings/archaeology/sets/caldosian/name",
-        "description": "museum_wings/archaeology/sets/caldosian/description",
+        "name": "Caldosian Artifact Set",
+        "description": "A collection of artifacts from the Caldosian Empire's history.",
         "items": [
           "caldosian_sword",
           "caldosian_emperor_bust",
@@ -71,8 +71,8 @@
       "aldarian": {
         "orderId": "aldarian",
         "setId": "archaeology-aldarian",
-        "name": "museum_wings/archaeology/sets/aldarian/name",
-        "description": "museum_wings/archaeology/sets/aldarian/description",
+        "name": "Aldarian Artifact Set",
+        "description": "A collection of artifacts from the Aldarian Kingdom's history.",
         "items": [
           "aldarian_sword",
           "family_crest_pendant",
@@ -84,8 +84,8 @@
       "oopart": {
         "orderId": "oopart",
         "setId": "archaeology-oopart",
-        "name": "museum_wings/archaeology/sets/oopart/name",
-        "description": "museum_wings/archaeology/sets/oopart/description",
+        "name": "Oopart Artifact Set",
+        "description": "A collection of out of place artifacts with dubious archaeological value.",
         "items": [
           "muttering_cube",
           "weightless_stone",
@@ -97,8 +97,8 @@
       "aquatic": {
         "orderId": "aquatic",
         "setId": "archaeology-aquatic",
-        "name": "museum_wings/archaeology/sets/aquatic/name",
-        "description": "museum_wings/archaeology/sets/aquatic/description",
+        "name": "Aquatic Artifact Set",
+        "description": "A collection of artifacts fished from the waters.",
         "items": [
           "rubber_fish",
           "giant_fish_scale",
@@ -110,8 +110,8 @@
       "sunken": {
         "orderId": "sunken",
         "setId": "archaeology-sunken",
-        "name": "museum_wings/archaeology/sets/sunken/name",
-        "description": "museum_wings/archaeology/sets/sunken/description",
+        "name": "Sunken Artifact Set",
+        "description": "A collection of artifacts found by diving below the waters.",
         "items": [
           "rusted_shield",
           "rock_with_a_hole",
@@ -123,8 +123,8 @@
       "deep_woods": {
         "orderId": "deep_woods",
         "setId": "archaeology-deep_woods",
-        "name": "museum_wings/archaeology/sets/deep_woods/name",
-        "description": "museum_wings/archaeology/sets/deep_woods/description",
+        "name": "Deep Woods Artifact Set",
+        "description": "A collection of artifacts from the depths of the Deep Woods.",
         "items": [
           "petrified_wood",
           "gathering_basket",
@@ -136,8 +136,8 @@
       "mine": {
         "orderId": "mine",
         "setId": "archaeology-mine",
-        "name": "museum_wings/archaeology/sets/mine/name",
-        "description": "museum_wings/archaeology/sets/mine/description",
+        "name": "Buried Artifact Set",
+        "description": "A collection of artifacts from the depths below Mistria.",
         "items": [
           "stone_horse",
           "flint_arrowhead",
@@ -149,8 +149,8 @@
       "upper_mines_artifacts": {
         "orderId": "upper_mines_artifacts",
         "setId": "archaeology-upper_mines_artifacts",
-        "name": "museum_wings/archaeology/sets/upper_mines_artifacts/name",
-        "description": "museum_wings/archaeology/sets/upper_mines_artifacts/description",
+        "name": "Upper Mines Artifact Set",
+        "description": "A collection of artifacts from the Upper Mines.",
         "items": [
           "miners_pickaxe",
           "tin_lunchbox",
@@ -162,8 +162,8 @@
       "tide_caverns": {
         "orderId": "tide_caverns",
         "setId": "archaeology-tide_caverns",
-        "name": "museum_wings/archaeology/sets/tide_caverns/name",
-        "description": "museum_wings/archaeology/sets/tide_caverns/description",
+        "name": "Tide Cavern Artifact Set",
+        "description": "A collection of artifacts from the Tide Caverns.",
         "items": [
           "stone_shell",
           "tidestone",
@@ -175,8 +175,8 @@
       "deep_earth": {
         "orderId": "deep_earth",
         "setId": "archaeology-deep_earth",
-        "name": "museum_wings/archaeology/sets/deep_earth/name",
-        "description": "museum_wings/archaeology/sets/deep_earth/description",
+        "name": "Deep Earth Artifact Set",
+        "description": "A collection of artifacts from the Deep Earth.",
         "items": [
           "really_round_rock",
           "seriously_square_stone",
@@ -188,8 +188,8 @@
       "lava_caves": {
         "orderId": "lava_caves",
         "setId": "archaeology-lava_caves",
-        "name": "museum_wings/archaeology/sets/lava_caves/name",
-        "description": "museum_wings/archaeology/sets/lava_caves/description",
+        "name": "Lava Caves Artifact Set",
+        "description": "A collection of artifacts from the Lava Caves.",
         "items": [
           "fire_crystal",
           "warm_rock",
@@ -201,8 +201,8 @@
       "ritual": {
         "orderId": "ritual",
         "setId": "archaeology-ritual",
-        "name": "museum_wings/archaeology/sets/ritual/name",
-        "description": "museum_wings/archaeology/sets/ritual/description",
+        "name": "Ritual Artifact Set",
+        "description": "A collection of artifacts found in underground ritual chambers.",
         "items": [
           "ritual_incense_burner",
           "ritual_beads",
@@ -214,8 +214,8 @@
       "vintage_farm_tools": {
         "orderId": "vintage_farm_tools",
         "setId": "archaeology-vintage_farm_tools",
-        "name": "museum_wings/archaeology/sets/vintage_farm_tools/name",
-        "description": "museum_wings/archaeology/sets/vintage_farm_tools/description",
+        "name": "Vintage Farm Tools Set",
+        "description": "A collection of vintage farm tools found on your farm.",
         "items": [
           "vintage_watering_can",
           "vintage_hammer",
@@ -227,8 +227,8 @@
       "metals_of_mistria": {
         "orderId": "metals_of_mistria",
         "setId": "archaeology-metals_of_mistria",
-        "name": "museum_wings/archaeology/sets/metals_of_mistria/name",
-        "description": "museum_wings/archaeology/sets/metals_of_mistria/description",
+        "name": "Metals of Mistria Set",
+        "description": "A collection of perfect metal ores from across Mistria.",
         "items": [
           "perfect_copper_ore",
           "perfect_iron_ore",
@@ -240,8 +240,8 @@
       "gems_of_mistria": {
         "orderId": "gems_of_mistria",
         "setId": "archaeology-gems_of_mistria",
-        "name": "museum_wings/archaeology/sets/gems_of_mistria/name",
-        "description": "museum_wings/archaeology/sets/gems_of_mistria/description",
+        "name": "Gems of Mistria Set",
+        "description": "A collection of perfect gems from across Mistria.",
         "items": [
           "perfect_ruby",
           "perfect_sapphire",
@@ -251,7 +251,7 @@
         ]
       }
     },
-    "name": "museum_wings/archaeology/name"
+    "name": "Archaeology"
   },
   "fish": {
     "wing": "fish",
@@ -260,8 +260,8 @@
       "multi_season_fish": {
         "orderId": "multi_season_fish",
         "setId": "fish-multi_season_fish",
-        "name": "museum_wings/fish/sets/multi_season_fish/name",
-        "description": "museum_wings/fish/sets/multi_season_fish/description",
+        "name": "Multi-Season Fish Set",
+        "description": "A collection of fish found across multiple seasons.",
         "items": [
           "pollock",
           "koi",
@@ -273,8 +273,8 @@
       "spring_river": {
         "orderId": "spring_river",
         "setId": "fish-spring_river",
-        "name": "museum_wings/fish/sets/spring_river/name",
-        "description": "museum_wings/fish/sets/spring_river/description",
+        "name": "Spring River Fish Set",
+        "description": "A collection of fish found in the river during Spring.",
         "items": [
           "bluegill",
           "chub",
@@ -286,8 +286,8 @@
       "spring_pond": {
         "orderId": "spring_pond",
         "setId": "fish-spring_pond",
-        "name": "museum_wings/fish/sets/spring_pond/name",
-        "description": "museum_wings/fish/sets/spring_pond/description",
+        "name": "Spring Pond Fish Set",
+        "description": "A collection of fish found in the pond during Spring.",
         "items": [
           "barb",
           "angel_fish",
@@ -299,8 +299,8 @@
       "spring_ocean": {
         "orderId": "spring_ocean",
         "setId": "fish-spring_ocean",
-        "name": "museum_wings/fish/sets/spring_ocean/name",
-        "description": "museum_wings/fish/sets/spring_ocean/description",
+        "name": "Spring Ocean Fish Set",
+        "description": "A collection of fish found in the ocean during Spring.",
         "items": [
           "anchovy",
           "shrimp",
@@ -312,8 +312,8 @@
       "summer_river": {
         "orderId": "summer_river",
         "setId": "fish-summer_river",
-        "name": "museum_wings/fish/sets/summer_river/name",
-        "description": "museum_wings/fish/sets/summer_river/description",
+        "name": "Summer River Fish Set",
+        "description": "A collection of fish found in the river during Summer.",
         "items": [
           "minnow",
           "loach",
@@ -325,8 +325,8 @@
       "summer_pond": {
         "orderId": "summer_pond",
         "setId": "fish-summer_pond",
-        "name": "museum_wings/fish/sets/summer_pond/name",
-        "description": "museum_wings/fish/sets/summer_pond/description",
+        "name": "Summer Pond Fish Set",
+        "description": "A collection of fish found in the pond during Summer.",
         "items": [
           "lake_chub",
           "golden_shiner",
@@ -338,8 +338,8 @@
       "summer_ocean": {
         "orderId": "summer_ocean",
         "setId": "fish-summer_ocean",
-        "name": "museum_wings/fish/sets/summer_ocean/name",
-        "description": "museum_wings/fish/sets/summer_ocean/description",
+        "name": "Summer Ocean Fish Set",
+        "description": "A collection of fish found in the ocean during Summer.",
         "items": [
           "dart",
           "crab",
@@ -351,8 +351,8 @@
       "fall_river": {
         "orderId": "fall_river",
         "setId": "fish-fall_river",
-        "name": "museum_wings/fish/sets/fall_river/name",
-        "description": "museum_wings/fish/sets/fall_river/description",
+        "name": "Fall River Fish Set",
+        "description": "A collection of fish found in the river during Fall.",
         "items": [
           "grayling",
           "lamprey",
@@ -364,8 +364,8 @@
       "fall_pond": {
         "orderId": "fall_pond",
         "setId": "fish-fall_pond",
-        "name": "museum_wings/fish/sets/fall_pond/name",
-        "description": "museum_wings/fish/sets/fall_pond/description",
+        "name": "Fall Pond Fish Set",
+        "description": "A collection of fish found in the pond during Fall.",
         "items": [
           "killifish",
           "striped_bass",
@@ -377,8 +377,8 @@
       "fall_ocean": {
         "orderId": "fall_ocean",
         "setId": "fish-fall_ocean",
-        "name": "museum_wings/fish/sets/fall_ocean/name",
-        "description": "museum_wings/fish/sets/fall_ocean/description",
+        "name": "Fall Ocean Fish Set",
+        "description": "A collection of fish found in the ocean during Fall.",
         "items": [
           "saury",
           "butterfish",
@@ -390,8 +390,8 @@
       "winter_river": {
         "orderId": "winter_river",
         "setId": "fish-winter_river",
-        "name": "museum_wings/fish/sets/winter_river/name",
-        "description": "museum_wings/fish/sets/winter_river/description",
+        "name": "Winter River Fish Set",
+        "description": "A collection of fish found in the river during Winter.",
         "items": [
           "dace",
           "herring",
@@ -403,8 +403,8 @@
       "winter_pond": {
         "orderId": "winter_pond",
         "setId": "fish-winter_pond",
-        "name": "museum_wings/fish/sets/winter_pond/name",
-        "description": "museum_wings/fish/sets/winter_pond/description",
+        "name": "Winter Pond Fish Set",
+        "description": "A collection of fish found in the pond during Winter.",
         "items": [
           "tilapia",
           "flathead_catfish",
@@ -416,8 +416,8 @@
       "winter_ocean": {
         "orderId": "winter_ocean",
         "setId": "fish-winter_ocean",
-        "name": "museum_wings/fish/sets/winter_ocean/name",
-        "description": "museum_wings/fish/sets/winter_ocean/description",
+        "name": "Winter Ocean Fish Set",
+        "description": "A collection of fish found in the ocean during Winter.",
         "items": [
           "sand_lance",
           "horse_mackerel",
@@ -429,8 +429,8 @@
       "deep_woods": {
         "orderId": "deep_woods",
         "setId": "fish-deep_woods",
-        "name": "museum_wings/fish/sets/deep_woods/name",
-        "description": "museum_wings/fish/sets/deep_woods/description",
+        "name": "Deep Woods Fish Set",
+        "description": "A collection of fish found in the Deep Woods.",
         "items": [
           "sunny",
           "forest_perch",
@@ -442,8 +442,8 @@
       "upper_mines": {
         "orderId": "upper_mines",
         "setId": "fish-upper_mines",
-        "name": "museum_wings/fish/sets/upper_mines/name",
-        "description": "museum_wings/fish/sets/upper_mines/description",
+        "name": "Upper Mines Fish Set",
+        "description": "A collection of fish found in the Upper Mines.",
         "items": [
           "cave_shrimp",
           "rock_guppy",
@@ -455,8 +455,8 @@
       "tide_caverns": {
         "orderId": "tide_caverns",
         "setId": "fish-tide_caverns",
-        "name": "museum_wings/fish/sets/tide_caverns/name",
-        "description": "museum_wings/fish/sets/tide_caverns/description",
+        "name": "Tide Caverns Fish Set",
+        "description": "A collection of fish found in the Tide Caverns.",
         "items": [
           "sapphire_betta",
           "archerfish",
@@ -468,8 +468,8 @@
       "deep_earth": {
         "orderId": "deep_earth",
         "setId": "fish-deep_earth",
-        "name": "museum_wings/fish/sets/deep_earth/name",
-        "description": "museum_wings/fish/sets/deep_earth/description",
+        "name": "Deep Earth Fish Set",
+        "description": "A collection of fish found in the Deep Earth.",
         "items": [
           "pebble_minnow",
           "shardfin",
@@ -481,8 +481,8 @@
       "lava_caves": {
         "orderId": "lava_caves",
         "setId": "fish-lava_caves",
-        "name": "museum_wings/fish/sets/lava_caves/name",
-        "description": "museum_wings/fish/sets/lava_caves/description",
+        "name": "Lava Caves Fish Set",
+        "description": "A collection of fish found in the Lava Caves.",
         "items": [
           "lava_piranha",
           "candelabra_seadragon",
@@ -494,8 +494,8 @@
       "legendary": {
         "orderId": "legendary",
         "setId": "fish-legendary",
-        "name": "museum_wings/fish/sets/legendary/name",
-        "description": "museum_wings/fish/sets/legendary/description",
+        "name": "Legendary Fish Set",
+        "description": "A collection of legendary fish.",
         "items": [
           "cherry_fish",
           "lightning_fish",
@@ -504,7 +504,7 @@
         ]
       }
     },
-    "name": "museum_wings/fish/name"
+    "name": "Fish"
   },
   "flora": {
     "wing": "flora",
@@ -513,8 +513,8 @@
       "spring_crops": {
         "orderId": "spring_crops",
         "setId": "flora-spring_crops",
-        "name": "museum_wings/flora/sets/spring_crops/name",
-        "description": "museum_wings/flora/sets/spring_crops/description",
+        "name": "Spring Crop Set",
+        "description": "A collection of crops grown during Spring.",
         "items": [
           "cabbage",
           "potato",
@@ -526,8 +526,8 @@
       "spring_flowers": {
         "orderId": "spring_flowers",
         "setId": "flora-spring_flowers",
-        "name": "museum_wings/flora/sets/spring_flowers/name",
-        "description": "museum_wings/flora/sets/spring_flowers/description",
+        "name": "Spring Flower Set",
+        "description": "A collection of flowers grown during Spring.",
         "items": [
           "daffodil",
           "tulip",
@@ -539,8 +539,8 @@
       "spring_forage": {
         "orderId": "spring_forage",
         "setId": "flora-spring_forage",
-        "name": "museum_wings/flora/sets/spring_forage/name",
-        "description": "museum_wings/flora/sets/spring_forage/description",
+        "name": "Spring Forage Set",
+        "description": "A collection of foraged items found during Spring.",
         "items": [
           "fennel",
           "fiddlehead",
@@ -552,8 +552,8 @@
       "summer_crops": {
         "orderId": "summer_crops",
         "setId": "flora-summer_crops",
-        "name": "museum_wings/flora/sets/summer_crops/name",
-        "description": "museum_wings/flora/sets/summer_crops/description",
+        "name": "Summer Crop Set",
+        "description": "A collection of crops grown during Summer.",
         "items": [
           "cucumber",
           "chili_pepper",
@@ -565,8 +565,8 @@
       "summer_flowers": {
         "orderId": "summer_flowers",
         "setId": "flora-summer_flowers",
-        "name": "museum_wings/flora/sets/summer_flowers/name",
-        "description": "museum_wings/flora/sets/summer_flowers/description",
+        "name": "Summer Flower Set",
+        "description": "A collection of flowers grown during Summer.",
         "items": [
           "daisy",
           "iris",
@@ -578,8 +578,8 @@
       "summer_forage": {
         "orderId": "summer_forage",
         "setId": "flora-summer_forage",
-        "name": "museum_wings/flora/sets/summer_forage/name",
-        "description": "museum_wings/flora/sets/summer_forage/description",
+        "name": "Summer Forage Set",
+        "description": "A collection of foraged items found during Summer.",
         "items": [
           "sage",
           "basil",
@@ -591,8 +591,8 @@
       "fall_crops": {
         "orderId": "fall_crops",
         "setId": "flora-fall_crops",
-        "name": "museum_wings/flora/sets/fall_crops/name",
-        "description": "museum_wings/flora/sets/fall_crops/description",
+        "name": "Fall Crop Set",
+        "description": "A collection of crops grown during Fall.",
         "items": [
           "broccoli",
           "cranberry",
@@ -604,8 +604,8 @@
       "fall_flowers": {
         "orderId": "fall_flowers",
         "setId": "flora-fall_flowers",
-        "name": "museum_wings/flora/sets/fall_flowers/name",
-        "description": "museum_wings/flora/sets/fall_flowers/description",
+        "name": "Fall Flower Set",
+        "description": "A collection of flowers grown during Fall.",
         "items": [
           "celosia",
           "chrysanthemum",
@@ -617,8 +617,8 @@
       "fall_forage": {
         "orderId": "fall_forage",
         "setId": "flora-fall_forage",
-        "name": "museum_wings/flora/sets/fall_forage/name",
-        "description": "museum_wings/flora/sets/fall_forage/description",
+        "name": "Fall Forage Set",
+        "description": "A collection of foraged items found during Fall.",
         "items": [
           "rosemary",
           "garlic",
@@ -630,8 +630,8 @@
       "winter_crops": {
         "orderId": "winter_crops",
         "setId": "flora-winter_crops",
-        "name": "museum_wings/flora/sets/winter_crops/name",
-        "description": "museum_wings/flora/sets/winter_crops/description",
+        "name": "Winter Crop Set",
+        "description": "A collection of crops grown during Winter.",
         "items": [
           "beet",
           "cauliflower",
@@ -643,8 +643,8 @@
       "winter_flowers": {
         "orderId": "winter_flowers",
         "setId": "flora-winter_flowers",
-        "name": "museum_wings/flora/sets/winter_flowers/name",
-        "description": "museum_wings/flora/sets/winter_flowers/description",
+        "name": "Winter Flower Set",
+        "description": "A collection of flowers grown during Winter.",
         "items": [
           "frost_lily",
           "poinsettia",
@@ -656,8 +656,8 @@
       "winter_forage": {
         "orderId": "winter_forage",
         "setId": "flora-winter_forage",
-        "name": "museum_wings/flora/sets/winter_forage/name",
-        "description": "museum_wings/flora/sets/winter_forage/description",
+        "name": "Winter Forage Set",
+        "description": "A collection of foraged items found during Winter.",
         "items": [
           "burdock_root",
           "holly",
@@ -669,8 +669,8 @@
       "deep_woods": {
         "orderId": "deep_woods",
         "setId": "flora-deep_woods",
-        "name": "museum_wings/flora/sets/deep_woods/name",
-        "description": "museum_wings/flora/sets/deep_woods/description",
+        "name": "Deep Woods Forage Set",
+        "description": "A collection of foraged items found in the Deep Woods.",
         "items": [
           "thorn_vine",
           "spirit_mushroom",
@@ -682,8 +682,8 @@
       "upper_mines": {
         "orderId": "upper_mines",
         "setId": "flora-upper_mines",
-        "name": "museum_wings/flora/sets/upper_mines/name",
-        "description": "museum_wings/flora/sets/upper_mines/description",
+        "name": "Upper Mines Forage Set",
+        "description": "A collection of foraged items found in the Upper Mines.",
         "items": [
           "upper_mines_mushroom",
           "red_toadstool",
@@ -695,8 +695,8 @@
       "tide_caverns": {
         "orderId": "tide_caverns",
         "setId": "flora-tide_caverns",
-        "name": "museum_wings/flora/sets/tide_caverns/name",
-        "description": "museum_wings/flora/sets/tide_caverns/description",
+        "name": "Tide Caverns Forage Set",
+        "description": "A collection of foraged items found in the Tide Caverns.",
         "items": [
           "underseaweed",
           "sea_grapes",
@@ -708,8 +708,8 @@
       "deep_earth": {
         "orderId": "deep_earth",
         "setId": "flora-deep_earth",
-        "name": "museum_wings/flora/sets/deep_earth/name",
-        "description": "museum_wings/flora/sets/deep_earth/description",
+        "name": "Deep Earth Forage Set",
+        "description": "A collection of foraged items found in the Deep Earth.",
         "items": [
           "crystal_berries",
           "shale_grass",
@@ -721,8 +721,8 @@
       "lava_caves": {
         "orderId": "lava_caves",
         "setId": "flora-lava_caves",
-        "name": "museum_wings/flora/sets/lava_caves/name",
-        "description": "museum_wings/flora/sets/lava_caves/description",
+        "name": "Lava Caves Forage Set",
+        "description": "A collection of foraged items found in the Lava Caves.",
         "items": [
           "flame_pepper",
           "ash_mushroom",
@@ -732,7 +732,7 @@
         ]
       }
     },
-    "name": "museum_wings/flora/name"
+    "name": "Flora"
   },
   "insect": {
     "wing": "insect",
@@ -741,8 +741,8 @@
       "multi_season": {
         "orderId": "multi_season",
         "setId": "insect-multi_season",
-        "name": "museum_wings/insect/sets/multi_season/name",
-        "description": "museum_wings/insect/sets/multi_season/description",
+        "name": "Multi-Season Insect Set",
+        "description": "A collection of insects found across multiple seasons.",
         "items": [
           "ant",
           "bumblebee",
@@ -754,8 +754,8 @@
       "spring": {
         "orderId": "spring",
         "setId": "insect-spring",
-        "name": "museum_wings/insect/sets/spring/name",
-        "description": "museum_wings/insect/sets/spring/description",
+        "name": "Spring Insect Set",
+        "description": "A collection of insects found in Spring.",
         "items": [
           "luna_moth",
           "butterfly",
@@ -767,8 +767,8 @@
       "summer": {
         "orderId": "summer",
         "setId": "insect-summer",
-        "name": "museum_wings/insect/sets/summer/name",
-        "description": "museum_wings/insect/sets/summer/description",
+        "name": "Summer Insect Set",
+        "description": "A collection of insects found in Summer.",
         "items": [
           "cicada",
           "cricket",
@@ -780,8 +780,8 @@
       "fall": {
         "orderId": "fall",
         "setId": "insect-fall",
-        "name": "museum_wings/insect/sets/fall/name",
-        "description": "museum_wings/insect/sets/fall/description",
+        "name": "Fall Insect Set",
+        "description": "A collection of insects found in Fall.",
         "items": [
           "walking_leaf",
           "cicada_nymph",
@@ -793,8 +793,8 @@
       "winter": {
         "orderId": "winter",
         "setId": "insect-winter",
-        "name": "museum_wings/insect/sets/winter/name",
-        "description": "museum_wings/insect/sets/winter/description",
+        "name": "Winter Insect Set",
+        "description": "A collection of insects found in Winter.",
         "items": [
           "crystal_caterpillar",
           "walking_stick",
@@ -806,8 +806,8 @@
       "rare": {
         "orderId": "rare",
         "setId": "insect-rare",
-        "name": "museum_wings/insect/sets/rare/name",
-        "description": "museum_wings/insect/sets/rare/description",
+        "name": "Rare Insect Set",
+        "description": "A collection of insects that are particularly hard to find.",
         "items": [
           "jewel_beetle",
           "lightning_dragonfly",
@@ -819,8 +819,8 @@
       "grass": {
         "orderId": "grass",
         "setId": "insect-grass",
-        "name": "museum_wings/insect/sets/grass/name",
-        "description": "museum_wings/insect/sets/grass/description",
+        "name": "Grass Insect Set",
+        "description": "A collection of insects found in grass.",
         "items": [
           "grasshopper",
           "petalhopper",
@@ -832,8 +832,8 @@
       "beach": {
         "orderId": "beach",
         "setId": "insect-beach",
-        "name": "museum_wings/insect/sets/beach/name",
-        "description": "museum_wings/insect/sets/beach/description",
+        "name": "Beach Insect Set",
+        "description": "A collection of insects and other crawlies found at the beach.",
         "items": [
           "hermit_crab",
           "relic_crab",
@@ -845,8 +845,8 @@
       "deep_woods": {
         "orderId": "deep_woods",
         "setId": "insect-deep_woods",
-        "name": "museum_wings/insect/sets/deep_woods/name",
-        "description": "museum_wings/insect/sets/deep_woods/description",
+        "name": "Deep Woods Insect Set",
+        "description": "A collection of insects found in the Deep Woods.",
         "items": [
           "windleaf_butterfly",
           "mote_firefly",
@@ -858,8 +858,8 @@
       "upper_mines": {
         "orderId": "upper_mines",
         "setId": "insect-upper_mines",
-        "name": "museum_wings/insect/sets/upper_mines/name",
-        "description": "museum_wings/insect/sets/upper_mines/description",
+        "name": "Upper Mines Insect Set",
+        "description": "A collection of insects found in the Upper Mines.",
         "items": [
           "lantern_moth",
           "copper_beetle",
@@ -871,8 +871,8 @@
       "tide_caverns": {
         "orderId": "tide_caverns",
         "setId": "insect-tide_caverns",
-        "name": "museum_wings/insect/sets/tide_caverns/name",
-        "description": "museum_wings/insect/sets/tide_caverns/description",
+        "name": "Tide Caverns Insect Set",
+        "description": "A collection of insects found in the Tide Caverns.",
         "items": [
           "sea_scarab",
           "waterfly",
@@ -884,8 +884,8 @@
       "deep_earth": {
         "orderId": "deep_earth",
         "setId": "insect-deep_earth",
-        "name": "museum_wings/insect/sets/deep_earth/name",
-        "description": "museum_wings/insect/sets/deep_earth/description",
+        "name": "Deep Earth Insect Set",
+        "description": "A collection of insects found in the Deep Earth.",
         "items": [
           "rock_roach",
           "deep_earthworm",
@@ -897,8 +897,8 @@
       "lava_caves": {
         "orderId": "lava_caves",
         "setId": "insect-lava_caves",
-        "name": "museum_wings/insect/sets/lava_caves/name",
-        "description": "museum_wings/insect/sets/lava_caves/description",
+        "name": "Lava Caves Insect Set",
+        "description": "A collection of insects found in the Lava Caves.",
         "items": [
           "fire_wasp",
           "cooktop_beetle",
@@ -910,8 +910,8 @@
       "legendary": {
         "orderId": "legendary",
         "setId": "insect-legendary",
-        "name": "museum_wings/insect/sets/legendary/name",
-        "description": "museum_wings/insect/sets/legendary/description",
+        "name": "Legendary Insect Set",
+        "description": "A collection of insects that are exceptionally hard to find.",
         "items": [
           "fairy_bee",
           "flower_crown_beetle",
@@ -921,6 +921,6 @@
         ]
       }
     },
-    "name": "museum_wings/insect/name"
+    "name": "Insects"
   }
 }

@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_beet",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_beet/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_beet/name",
+    "description": "A wooden sign featuring a painted beet.",
+    "name": "Beet Sign",
     "icon_sprite": "spr_ui_item_crop_sign_beet",
     "tags": [
       "furniture",

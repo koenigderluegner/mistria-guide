@@ -1,8 +1,8 @@
 {
   "id": "water_sphere",
   "item": {
-    "description": "items/other/artifacts/water_sphere/description",
-    "name": "items/other/artifacts/water_sphere/name",
+    "description": "An uncommon artifact. You're not sure why, but it won't pop.",
+    "name": "Water Sphere",
     "icon_sprite": "spr_ui_item_water_sphere",
     "tags": [
       "archaeology"

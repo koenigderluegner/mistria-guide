@@ -1,8 +1,8 @@
 {
   "id": "stone_table_v3",
   "item": {
-    "description": "items/furniture/stone_set/stone_table_v3/description",
-    "name": "items/furniture/stone_set/stone_table_v3/name",
+    "description": "A small stone table.",
+    "name": "Stone Table",
     "icon_sprite": "spr_ui_item_decor_stone_table_v3",
     "tags": [
       "furniture",

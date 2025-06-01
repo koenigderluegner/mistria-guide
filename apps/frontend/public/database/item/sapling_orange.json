@@ -1,8 +1,8 @@
 {
   "id": "sapling_orange",
   "item": {
-    "description": "items/other/crops_and_forage/sapling_orange/description",
-    "name": "items/other/crops_and_forage/sapling_orange/name",
+    "description": "An orange tree sapling. This tree can be planted any time of year, but will only fruit in the fall.",
+    "name": "Orange Sapling",
     "icon_sprite": "spr_ui_item_orange_sapling",
     "tags": [
       "seed"

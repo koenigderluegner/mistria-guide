@@ -1,8 +1,8 @@
 {
   "id": "mocha",
   "item": {
-    "description": "items/other/cooked_dishes/mocha/description",
-    "name": "items/other/cooked_dishes/mocha/name",
+    "description": "A delicious cup of coffee blended with chocolate.",
+    "name": "Mocha",
     "icon_sprite": "spr_ui_item_mocha",
     "tags": [
       "food",

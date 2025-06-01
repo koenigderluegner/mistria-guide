@@ -1,8 +1,8 @@
 {
   "id": "worn_nightstand",
   "item": {
-    "description": "items/furniture/default_worn_set/worn_nightstand/description",
-    "name": "items/furniture/default_worn_set/worn_nightstand/name",
+    "description": "A worn wooden nightstand.",
+    "name": "Worn Nightstand",
     "icon_sprite": "spr_ui_item_furniture_default_nightstand_v1",
     "tags": [
       "furniture",

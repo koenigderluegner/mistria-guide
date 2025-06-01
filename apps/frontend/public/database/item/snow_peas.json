@@ -1,8 +1,8 @@
 {
   "id": "snow_peas",
   "item": {
-    "description": "items/other/crops_and_forage/snow_peas/description",
-    "name": "items/other/crops_and_forage/snow_peas/name",
+    "description": "A winter crop that regrows. Has a very sweet flavor. Commonly used as a cooking ingredient.",
+    "name": "Snow Peas",
     "icon_sprite": "spr_ui_item_snow_peas",
     "tags": [
       "crop"

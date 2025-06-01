@@ -1,8 +1,8 @@
 {
   "id": "ritual_incense_burner",
   "item": {
-    "description": "items/other/artifacts/ritual_incense_burner/description",
-    "name": "items/other/artifacts/ritual_incense_burner/name",
+    "description": "An uncommon artifact. The faint scent of incense still clings to this ancient burner.",
+    "name": "Ritual Incense Burner",
     "icon_sprite": "spr_ui_item_ritual_incense_burner",
     "tags": [
       "archaeology"

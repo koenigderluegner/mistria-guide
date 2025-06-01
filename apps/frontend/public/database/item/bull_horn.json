@@ -1,8 +1,8 @@
 {
   "id": "bull_horn",
   "item": {
-    "description": "items/other/ranching/bull_horn/description",
-    "name": "items/other/ranching/bull_horn/name",
+    "description": "A horn dropped by a bull. Used in a variety of crafting recipes.",
+    "name": "Bull Horn",
     "icon_sprite": "spr_ui_item_cow_horn_regular",
     "tags": [
       "ranching",

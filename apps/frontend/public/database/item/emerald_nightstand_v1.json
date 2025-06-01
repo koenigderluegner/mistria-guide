@@ -1,8 +1,8 @@
 {
   "id": "emerald_nightstand_v1",
   "item": {
-    "description": "items/furniture/emerald_set/emerald_nightstand_v1/description",
-    "name": "items/furniture/emerald_set/emerald_nightstand_v1/name",
+    "description": "An ornate emerald nightstand with gold detailing.",
+    "name": "Emerald Nightstand",
     "icon_sprite": "spr_ui_item_furniture_emerald_nightstand_v1",
     "tags": [
       "furniture",

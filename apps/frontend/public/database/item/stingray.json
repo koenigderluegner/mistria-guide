@@ -1,8 +1,8 @@
 {
   "id": "stingray",
   "item": {
-    "description": "items/fish/ocean/stingray/description",
-    "name": "items/fish/ocean/stingray/name",
+    "description": "A common medium ocean fish found in summer.",
+    "name": "Stingray",
     "icon_sprite": "spr_ui_item_fish_medium_stingray",
     "tags": [
       "fishable",

@@ -1,8 +1,8 @@
 {
   "id": "seed_chickpea",
   "item": {
-    "description": "items/other/crops_and_forage/seed_chickpea/description",
-    "name": "items/other/crops_and_forage/seed_chickpea/name",
+    "description": "Chickpea seed. This spring crop can be harvested every 3 days once it reaches maturity.",
+    "name": "Chickpea Seed",
     "icon_sprite": "spr_ui_item_bagseed_chickpea_icon",
     "tags": [
       "seed"

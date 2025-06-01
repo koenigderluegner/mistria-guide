@@ -1,8 +1,8 @@
 {
   "id": "bluefish",
   "item": {
-    "description": "items/fish/pond/bluefish/description",
-    "name": "items/fish/pond/bluefish/name",
+    "description": "A common large pond fish found on rainy days in fall.",
+    "name": "Bluefish",
     "icon_sprite": "spr_ui_item_fish_large_bluefish",
     "tags": [
       "fishable",

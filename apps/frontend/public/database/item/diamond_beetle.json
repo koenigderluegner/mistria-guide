@@ -1,8 +1,8 @@
 {
   "id": "diamond_beetle",
   "item": {
-    "description": "items/mines/lava_caves/diamond_beetle/description",
-    "name": "items/mines/lava_caves/diamond_beetle/name",
+    "description": "A rare Lava Caves insect. This wondrous beetle had an impenetrable defense... unless you pick it up.",
+    "name": "Diamond Beetle",
     "icon_sprite": "spr_ui_item_insect_diamond_beetle",
     "tags": [
       "bugs"

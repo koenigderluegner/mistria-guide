@@ -1,8 +1,8 @@
 {
   "id": "snapping_turtle",
   "item": {
-    "description": "items/fish/pond/snapping_turtle/description",
-    "name": "items/fish/pond/snapping_turtle/name",
+    "description": "A common large pond reptile found in summer and winter.",
+    "name": "Snapping Turtle",
     "icon_sprite": "spr_ui_item_fish_large_snapping_turtle",
     "tags": [
       "fishable",

@@ -1,8 +1,8 @@
 {
   "id": "copper_greaves",
   "item": {
-    "description": "items/other/armor/copper_greaves/description",
-    "name": "items/other/armor/copper_greaves/name",
+    "description": "A pair of copper greaves. Equip to increase defense.",
+    "name": "Copper Greaves",
     "icon_sprite": "spr_ui_item_equipment_copper_boots",
     "tags": [
       "boots",

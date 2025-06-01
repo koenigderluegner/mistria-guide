@@ -1,8 +1,8 @@
 {
   "id": "bell_berry",
   "item": {
-    "description": "items/other/crops_and_forage/bell_berry/description",
-    "name": "items/other/crops_and_forage/bell_berry/name",
+    "description": "A wild berry foraged in all seasons. These uniquely shaped sweet fruits are only found in Mistria. Sometimes used in cooking recipes.",
+    "name": "Bell Berry",
     "icon_sprite": "spr_ui_item_bush_bell_berry",
     "tags": [
       "forageable",

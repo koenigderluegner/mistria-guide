@@ -1,8 +1,8 @@
 {
   "id": "snapdragon",
   "item": {
-    "description": "items/other/crops_and_forage/snapdragon/description",
-    "name": "items/other/crops_and_forage/snapdragon/name",
+    "description": "A darling pink flower foraged in winter. Can be used in crafting recipes.",
+    "name": "Snapdragon",
     "icon_sprite": "spr_ui_item_snapdragon",
     "tags": [
       "flower",

@@ -1,8 +1,8 @@
 {
   "id": "fishing_plaque_red",
   "item": {
-    "description": "items/furniture/fishing_set/fishing_plaque_red/description",
-    "name": "items/furniture/fishing_set/fishing_plaque_red/name",
+    "description": "A faux fish wall plaque featuring a red-purple fish.",
+    "name": "Faux Fish Wall Plaque",
     "icon_sprite": "spr_ui_item_furniture_fishing_plaque_red",
     "tags": [
       "furniture",

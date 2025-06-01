@@ -1,8 +1,8 @@
 {
   "id": "catmint",
   "item": {
-    "description": "items/other/crops_and_forage/catmint/description",
-    "name": "items/other/crops_and_forage/catmint/name",
+    "description": "A cute purple flower grown in the summer. Can be given as a gift or used in various crafting recipes.",
+    "name": "Catmint",
     "icon_sprite": "spr_ui_item_catmint",
     "tags": [
       "flower",

@@ -1,8 +1,8 @@
 {
   "id": "lamprey",
   "item": {
-    "description": "items/fish/river/lamprey/description",
-    "name": "items/fish/river/lamprey/name",
+    "description": "A common small river fish found in fall.",
+    "name": "Lamprey",
     "icon_sprite": "spr_ui_item_fish_small_lamprey",
     "tags": [
       "fishable",

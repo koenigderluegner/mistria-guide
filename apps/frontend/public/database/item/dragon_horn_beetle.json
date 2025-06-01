@@ -1,8 +1,8 @@
 {
   "id": "dragon_horn_beetle",
   "item": {
-    "description": "items/other/bugs/dragon_horn_beetle/description",
-    "name": "items/other/bugs/dragon_horn_beetle/name",
+    "description": "An uncommon Deep Woods insect. This beetle spends most of its time sharpening its horn.",
+    "name": "Dragon Horn Beetle",
     "icon_sprite": "spr_ui_item_insect_dragon_horn_beetle",
     "tags": [
       "bugs"

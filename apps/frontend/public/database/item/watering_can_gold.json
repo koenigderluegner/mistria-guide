@@ -1,8 +1,8 @@
 {
   "id": "watering_can_gold",
   "item": {
-    "description": "items/other/blacksmithing/watering_can_gold/description",
-    "name": "items/other/blacksmithing/watering_can_gold/name",
+    "description": "A splendid golden watering can. Can be charged to water a 6x6 area.",
+    "name": "Gold Watering Can",
     "icon_sprite": "spr_ui_item_tool_gold_watering_can",
     "tags": [
       "watering_can",

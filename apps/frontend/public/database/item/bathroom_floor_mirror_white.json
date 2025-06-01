@@ -1,8 +1,8 @@
 {
   "id": "bathroom_floor_mirror_white",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_floor_mirror_white/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_floor_mirror_white/name",
+    "description": "A white bathroom floor mirror.",
+    "name": "Bathroom Floor Mirror",
     "icon_sprite": "spr_ui_item_furniture_bathroom_floor_mirror_white",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "sword_worn",
   "item": {
-    "description": "items/other/blacksmithing/sword_worn/description",
-    "name": "items/other/blacksmithing/sword_worn/name",
+    "description": "A worn but still serviceable sword. Used to cut grass and to fight, if necessary.",
+    "name": "Worn Sword",
     "icon_sprite": "spr_ui_item_tool_rusty_sword",
     "tags": [
       "sword",

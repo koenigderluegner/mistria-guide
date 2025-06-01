@@ -1,8 +1,8 @@
 {
   "id": "roasted_chestnuts",
   "item": {
-    "description": "items/other/cooked_dishes/roasted_chestnuts/description",
-    "name": "items/other/cooked_dishes/roasted_chestnuts/name",
+    "description": "These chestnuts are soft and sweet.",
+    "name": "Roasted Chestnuts",
     "icon_sprite": "spr_ui_item_roasted_chestnuts",
     "tags": [
       "food",

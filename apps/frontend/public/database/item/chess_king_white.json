@@ -1,8 +1,8 @@
 {
   "id": "chess_king_white",
   "item": {
-    "description": "items/furniture/chess_set/chess_king_white/description",
-    "name": "items/furniture/chess_set/chess_king_white/name",
+    "description": "An oversized white king chess piece.",
+    "name": "Chess King Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_king_white",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "seed_viola",
   "item": {
-    "description": "items/other/crops_and_forage/seed_viola/description",
-    "name": "items/other/crops_and_forage/seed_viola/name",
+    "description": "Viola seed. This fall flower can be harvested once.",
+    "name": "Viola Seed",
     "icon_sprite": "spr_ui_item_bagseed_viola_icon",
     "tags": [
       "seed"

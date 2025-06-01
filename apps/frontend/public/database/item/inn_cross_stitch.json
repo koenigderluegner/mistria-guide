@@ -1,8 +1,8 @@
 {
   "id": "inn_cross_stitch",
   "item": {
-    "description": "items/furniture/inn_set/inn_cross_stitch/description",
-    "name": "items/furniture/inn_set/inn_cross_stitch/name",
+    "description": "Framed cross stitch wall art, matching the design used at the Inn.",
+    "name": "Inn Cross Stitch",
     "icon_sprite": "spr_ui_item_furniture_inn_cross_stitch",
     "tags": [
       "furniture"

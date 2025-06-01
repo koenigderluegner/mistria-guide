@@ -1,8 +1,8 @@
 {
   "id": "stamina_syrup",
   "item": {
-    "description": "items/other/misc/stamina_syrup/description",
-    "name": "items/other/misc/stamina_syrup/name",
+    "description": "This medicinal syrup restores 100 stamina when consumed. Tastes like peppermint.",
+    "name": "Stamina Syrup",
     "icon_sprite": "spr_ui_item_syrup_stamina",
     "tags": [
       "drink_sound"

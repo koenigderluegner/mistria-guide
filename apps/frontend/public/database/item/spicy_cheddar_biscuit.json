@@ -1,8 +1,8 @@
 {
   "id": "spicy_cheddar_biscuit",
   "item": {
-    "description": "items/other/cooked_dishes/spicy_cheddar_biscuit/description",
-    "name": "items/other/cooked_dishes/spicy_cheddar_biscuit/name",
+    "description": "A fluffy biscuit with a cheesy, spicy kick.",
+    "name": "Spicy Cheddar Biscuit",
     "icon_sprite": "spr_ui_item_spicy_cheddar_biscuit",
     "tags": [
       "food",

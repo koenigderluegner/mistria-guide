@@ -1,8 +1,8 @@
 {
   "id": "saury",
   "item": {
-    "description": "items/fish/ocean/saury/description",
-    "name": "items/fish/ocean/saury/name",
+    "description": "A common large ocean fish found in fall.",
+    "name": "Saury",
     "icon_sprite": "spr_ui_item_fish_small_saury",
     "tags": [
       "fishable",

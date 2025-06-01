@@ -1,8 +1,8 @@
 {
   "id": "essence_stone_tiny",
   "item": {
-    "description": "items/other/materials/essence_stone_tiny/description",
-    "name": "items/other/materials/essence_stone_tiny/name",
+    "description": "An Essence Stone. Used to charge a magic tool for 1 day. Consume for 5 Essence.",
+    "name": "Tiny Essence Stone",
     "icon_sprite": "spr_ui_item_essence_stone_tiny",
     "tags": [
       "essence_stone",

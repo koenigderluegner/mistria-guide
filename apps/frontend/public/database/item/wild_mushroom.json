@@ -1,8 +1,8 @@
 {
   "id": "wild_mushroom",
   "item": {
-    "description": "items/other/monster_drops/wild_mushroom/description",
-    "name": "items/other/monster_drops/wild_mushroom/name",
+    "description": "A tasty green mushroom sometimes dropped by Mushroom monsters.",
+    "name": "Cave Mushroom",
     "icon_sprite": "spr_ui_item_wildmushroom",
     "tags": [
       "material",

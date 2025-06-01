@@ -1,8 +1,8 @@
 {
   "id": "spring_rug_pink",
   "item": {
-    "description": "items/furniture/spring_set/spring_rug_pink/description",
-    "name": "items/furniture/spring_set/spring_rug_pink/name",
+    "description": "A light pink rug in the shape of a flower.",
+    "name": "Spring Flower Rug",
     "icon_sprite": "spr_ui_item_furniture_spring_rug_pink",
     "tags": [
       "furniture",

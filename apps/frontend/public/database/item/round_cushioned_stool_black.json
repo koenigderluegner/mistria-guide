@@ -1,8 +1,8 @@
 {
   "id": "round_cushioned_stool_black",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/round_cushioned_stool_black/description",
-    "name": "items/furniture/bathroom_furniture_set/round_cushioned_stool_black/name",
+    "description": "A black round cushioned stool.",
+    "name": "Round Cushioned Stool",
     "icon_sprite": "spr_ui_item_furniture_round_cushion_stool_black",
     "tags": [
       "furniture",

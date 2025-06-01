@@ -1,8 +1,8 @@
 {
   "id": "chum",
   "item": {
-    "description": "items/fish/river/chum/description",
-    "name": "items/fish/river/chum/name",
+    "description": "An uncommon large river fish found in summer and winter.",
+    "name": "Chum",
     "icon_sprite": "spr_ui_item_fish_large_chum",
     "tags": [
       "fishable",

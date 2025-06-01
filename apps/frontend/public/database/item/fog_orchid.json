@@ -1,8 +1,8 @@
 {
   "id": "fog_orchid",
   "item": {
-    "description": "items/other/crops_and_forage/fog_orchid/description",
-    "name": "items/other/crops_and_forage/fog_orchid/name",
+    "description": "A haunting white flower foraged in fall. Can be given as a gift or used in crafting recipes.",
+    "name": "Fog Orchid",
     "icon_sprite": "spr_ui_item_fogorchid",
     "tags": [
       "forageable",

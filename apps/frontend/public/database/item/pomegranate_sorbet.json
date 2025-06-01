@@ -1,8 +1,8 @@
 {
   "id": "pomegranate_sorbet",
   "item": {
-    "description": "items/other/cooked_dishes/pomegranate_sorbet/description",
-    "name": "items/other/cooked_dishes/pomegranate_sorbet/name",
+    "description": "A creamy sorbet topped with sweet and crunchy pomegranate seeds.",
+    "name": "Pomegranate Sorbet",
     "icon_sprite": "spr_ui_item_pomegranate_sorbet",
     "tags": [
       "food",

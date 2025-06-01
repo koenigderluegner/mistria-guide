@@ -1,5 +1,6 @@
 import { Skill } from '@mistria-guide/data-types';
 import { TypesGenerator } from '../types-generator/types-generator';
+import { TranslationReferenceResolver } from '../localization/tranlation-reference-resolver';
 
 // TODO proper typing
 export function skillsParser(
@@ -31,12 +32,19 @@ export function skillsParser(
       tier.forEach((perk) => {
         iconSprites.push(perk.icon);
         perkIds.push(perk.perk);
-        Object.assign(perk, perks[perk.perk]);
+        console.log();
+        Object.assign(perk, perks[perk.perk], {
+          name: TranslationReferenceResolver.resolve(perks[perk.perk].name),
+          description: TranslationReferenceResolver.resolve(
+            perks[perk.perk].description
+          ),
+        });
       });
     });
     delete skill.default_lut_index;
     delete skill.hovered_lut_index;
     delete skill.disabled_lut_index;
+    skill.name = TranslationReferenceResolver.resolve(skill.name);
     res[skillId] = skill satisfies Skill;
   });
 

@@ -1,8 +1,8 @@
 {
   "id": "cabin_chair_cherry",
   "item": {
-    "description": "items/furniture/rustic_cabin_set/cabin_chair_cherry/description",
-    "name": "items/furniture/rustic_cabin_set/cabin_chair_cherry/name",
+    "description": "A rustic cherry chair.",
+    "name": "Rustic Cabin Chair",
     "icon_sprite": "spr_ui_item_furniture_cabin_chair_v1",
     "tags": [
       "furniture",

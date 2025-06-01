@@ -1,8 +1,8 @@
 {
   "id": "explorer_chair_beige",
   "item": {
-    "description": "items/furniture/explorer_set/explorer_chair_beige/description",
-    "name": "items/furniture/explorer_set/explorer_chair_beige/name",
+    "description": "A comfy brown explorer's chair.",
+    "name": "Explorer Chair",
     "icon_sprite": "spr_ui_item_furniture_explorer_chair_beige",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "cavern_mushroom_stool_pink",
   "item": {
-    "description": "items/furniture/cavern_set/cavern_mushroom_stool_pink/description",
-    "name": "items/furniture/cavern_set/cavern_mushroom_stool_pink/name",
+    "description": "A pink mushroom stool.",
+    "name": "Mushroom Stool",
     "icon_sprite": "spr_ui_item_furniture_mushroom_stool_pink",
     "tags": [
       "furniture",

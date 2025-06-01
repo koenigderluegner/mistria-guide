@@ -1,8 +1,8 @@
 {
   "id": "feather",
   "item": {
-    "description": "items/other/ranching/feather/description",
-    "name": "items/other/ranching/feather/name",
+    "description": "A feather dropped by a rooster. Used in a variety of crafting recipes.",
+    "name": "Rooster Feather",
     "icon_sprite": "spr_ui_item_chicken_feather_regular",
     "tags": [
       "ranching",

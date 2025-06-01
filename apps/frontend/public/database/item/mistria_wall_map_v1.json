@@ -1,8 +1,8 @@
 {
   "id": "mistria_wall_map_v1",
   "item": {
-    "description": "items/furniture/mistrian_history_set/mistria_wall_map_v1/description",
-    "name": "items/furniture/mistrian_history_set/mistria_wall_map_v1/name",
+    "description": "A map that depicts Mistria. You can see your house from here!",
+    "name": "Mistria Wall Map",
     "icon_sprite": "spr_ui_item_decor_mistria_wall_map",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "basil",
   "item": {
-    "description": "items/other/crops_and_forage/basil/description",
-    "name": "items/other/crops_and_forage/basil/name",
+    "description": "A popular herb grown in summer. Commonly used as a cooking ingredient.",
+    "name": "Basil",
     "icon_sprite": "spr_ui_item_basil",
     "tags": [
       "forageable"

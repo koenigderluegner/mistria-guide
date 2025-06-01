@@ -1,8 +1,8 @@
 {
   "id": "purple_mushroom",
   "item": {
-    "description": "items/other/monster_drops/purple_mushroom/description",
-    "name": "items/other/monster_drops/purple_mushroom/name",
+    "description": "A spotted purple mushroom sometimes dropped by Mushroom monsters. Used in certain crafting recipes.",
+    "name": "Purple Mushroom",
     "icon_sprite": "spr_ui_item_purple_mushroom",
     "tags": [
       "material",

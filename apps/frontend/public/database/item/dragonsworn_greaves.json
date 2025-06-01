@@ -1,7 +1,7 @@
 {
   "id": "dragonsworn_greaves",
   "item": {
-    "name": "items/other/misc/dragonsworn_greaves/name",
+    "name": "Dragonsworn Greaves",
     "icon_sprite": "spr_ui_item_dragonsworn_greaves"
   }
 }

@@ -1,8 +1,8 @@
 {
   "id": "dragon_pact_tablet",
   "item": {
-    "description": "items/other/artifacts/dragon_pact_tablet/description",
-    "name": "items/other/artifacts/dragon_pact_tablet/name",
+    "description": "A legendary artifact. Written in untranslatable Draconian.",
+    "name": "Dragon Pact Tablet",
     "icon_sprite": "spr_ui_item_dragon_pact_tablet",
     "tags": [
       "archaeology"

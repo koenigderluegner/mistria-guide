@@ -1,8 +1,8 @@
 {
   "id": "tarnished_gold_helmet",
   "item": {
-    "description": "items/other/armor/tarnished_gold_helmet/description",
-    "name": "items/other/armor/tarnished_gold_helmet/name",
+    "description": "A helmet constructed out of tarnished gold. Equip to increase defense.",
+    "name": "Tarnished Gold Helmet",
     "icon_sprite": "spr_ui_item_equipment_tarnished_gold_helmet",
     "tags": [
       "head",

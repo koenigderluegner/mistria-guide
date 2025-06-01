@@ -1,8 +1,8 @@
 {
   "id": "spring_galette",
   "item": {
-    "description": "items/other/cooked_dishes/spring_galette/description",
-    "name": "items/other/cooked_dishes/spring_galette/name",
+    "description": "A rich pastry crust highlights all the wild flavors of Spring.",
+    "name": "Spring Galette",
     "icon_sprite": "spr_ui_item_spring_galette",
     "tags": [
       "chef",

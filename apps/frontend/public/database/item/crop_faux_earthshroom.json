@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_earthshroom",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_earthshroom/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_earthshroom/name",
+    "description": "A decorative faux earthshroom.",
+    "name": "Faux Earthshroom",
     "icon_sprite": "spr_ui_item_decor_crop_faux_earthshroom",
     "tags": [
       "furniture",

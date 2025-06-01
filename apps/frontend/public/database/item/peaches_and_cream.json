@@ -1,8 +1,8 @@
 {
   "id": "peaches_and_cream",
   "item": {
-    "description": "items/other/cooked_dishes/peaches_and_cream/description",
-    "name": "items/other/cooked_dishes/peaches_and_cream/name",
+    "description": "These sweet peach slices are topped with whipped cream.",
+    "name": "Peaches and Cream",
     "icon_sprite": "spr_ui_item_peaches_and_cream",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "summer_crop_sign_scroll_bundle",
   "item": {
-    "description": "items/furniture/crop_signs_set/summer_crop_sign_scroll_bundle/description",
-    "name": "items/furniture/crop_signs_set/summer_crop_sign_scroll_bundle/name",
+    "description": "Use this scroll to unlock the crafting recipes for the Summer Crop Sign furniture set!",
+    "name": "Summer Crop Sign Scroll Bundle",
     "icon_sprite": "spr_ui_item_setscroll_summercropsigns",
     "tags": [
       "scroll",

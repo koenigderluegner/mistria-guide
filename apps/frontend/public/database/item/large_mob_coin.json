@@ -1,8 +1,8 @@
 {
   "id": "large_mob_coin",
   "item": {
-    "description": "items/other/misc/large_mob_coin/description",
-    "name": "items/other/misc/large_mob_coin/name",
+    "description": "You shouldn't have this!",
+    "name": "coin",
     "icon_sprite": "spr_mob_coin_large_spring",
     "tags": [
       "mob_coin"

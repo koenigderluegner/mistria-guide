@@ -1,8 +1,8 @@
 {
   "id": "basic_area_rug_green",
   "item": {
-    "description": "items/furniture/basic_set/basic_area_rug_green/description",
-    "name": "items/furniture/basic_set/basic_area_rug_green/name",
+    "description": "A green area rug.",
+    "name": "Basic Area Rug",
     "icon_sprite": "spr_ui_item_furniture_basic_area_rug_v2",
     "tags": [
       "furniture",

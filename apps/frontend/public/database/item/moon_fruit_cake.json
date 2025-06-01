@@ -1,8 +1,8 @@
 {
   "id": "moon_fruit_cake",
   "item": {
-    "description": "items/other/cooked_dishes/moon_fruit_cake/description",
-    "name": "items/other/cooked_dishes/moon_fruit_cake/name",
+    "description": "Juicy moon fruit is the star of this sweet, satisfying cake.",
+    "name": "Moon Fruit Cake",
     "icon_sprite": "spr_ui_item_moon_fruit_cake",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "blueberry",
   "item": {
-    "description": "items/other/crops_and_forage/blueberry/description",
-    "name": "items/other/crops_and_forage/blueberry/name",
+    "description": "These round blue berries are foraged in spring. Used in a variety of cooking recipes.",
+    "name": "Blueberry",
     "icon_sprite": "spr_ui_item_bush_blueberry",
     "tags": [
       "forageable",

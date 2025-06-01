@@ -1,8 +1,8 @@
 {
   "id": "bread",
   "item": {
-    "description": "items/other/cooked_dishes/bread/description",
-    "name": "items/other/cooked_dishes/bread/name",
+    "description": "A soft and fluffy loaf of fresh bread.",
+    "name": "Bread",
     "icon_sprite": "spr_ui_item_bread",
     "tags": [
       "food",

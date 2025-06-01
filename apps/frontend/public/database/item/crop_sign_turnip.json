@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_turnip",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_turnip/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_turnip/name",
+    "description": "A wooden sign featuring a painted turnip.",
+    "name": "Turnip Sign",
     "icon_sprite": "spr_ui_item_crop_sign_turnip",
     "tags": [
       "furniture",

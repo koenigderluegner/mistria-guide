@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_oregano",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_oregano/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_oregano/name",
+    "description": "A decorative faux oregano plant.",
+    "name": "Faux Oregano",
     "icon_sprite": "spr_ui_item_decor_crop_faux_oregano",
     "tags": [
       "furniture",

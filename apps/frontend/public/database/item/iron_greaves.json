@@ -1,8 +1,8 @@
 {
   "id": "iron_greaves",
   "item": {
-    "description": "items/other/armor/iron_greaves/description",
-    "name": "items/other/armor/iron_greaves/name",
+    "description": "Greaves constructed out of iron. Equip to increase defense.",
+    "name": "Iron Greaves",
     "icon_sprite": "spr_ui_item_equipment_iron_boots",
     "tags": [
       "boots",

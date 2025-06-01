@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_horseradish",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_horseradish/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_horseradish/name",
+    "description": "A decorative faux horseradish plant.",
+    "name": "Faux Horseradish",
     "icon_sprite": "spr_ui_item_decor_crop_faux_horseradish",
     "tags": [
       "furniture",

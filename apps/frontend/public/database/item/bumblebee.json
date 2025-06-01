@@ -1,8 +1,8 @@
 {
   "id": "bumblebee",
   "item": {
-    "description": "items/other/bugs/bumblebee/description",
-    "name": "items/other/bugs/bumblebee/name",
+    "description": "A common insect found during the daytime in all seasons but winter.",
+    "name": "Bumblebee",
     "icon_sprite": "spr_ui_item_insect_bumblebee",
     "tags": [
       "bugs"

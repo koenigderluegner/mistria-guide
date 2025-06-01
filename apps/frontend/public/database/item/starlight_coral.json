@@ -1,8 +1,8 @@
 {
   "id": "starlight_coral",
   "item": {
-    "description": "items/mines/tide_caverns/starlight_coral/description",
-    "name": "items/mines/tide_caverns/starlight_coral/name",
+    "description": "A common artifact. This piece of coral glimmers as if reflecting starlight.",
+    "name": "Starlight Coral",
     "icon_sprite": "spr_ui_item_starlight_coral",
     "tags": [
       "archaeology"

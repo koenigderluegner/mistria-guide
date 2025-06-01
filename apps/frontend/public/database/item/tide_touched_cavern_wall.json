@@ -1,8 +1,8 @@
 {
   "id": "tide_touched_cavern_wall",
   "item": {
-    "description": "items/furniture/tide_set/tide_touched_cavern_wall/description",
-    "name": "items/furniture/tide_set/tide_touched_cavern_wall/name",
+    "description": "A wallpaper that mimics the look of the Tide Caverns.",
+    "name": "Tide-Touched Cavern Wall",
     "icon_sprite": "spr_ui_item_furniture_tide_wallpaper",
     "tags": [
       "furniture",

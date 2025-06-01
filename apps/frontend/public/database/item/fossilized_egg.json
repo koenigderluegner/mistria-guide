@@ -1,8 +1,8 @@
 {
   "id": "fossilized_egg",
   "item": {
-    "description": "items/other/artifacts/fossilized_egg/description",
-    "name": "items/other/artifacts/fossilized_egg/name",
+    "description": "A rare artifact. What could be inside?",
+    "name": "Fossilized Egg",
     "icon_sprite": "spr_ui_item_fossilized_egg",
     "tags": [
       "archaeology",

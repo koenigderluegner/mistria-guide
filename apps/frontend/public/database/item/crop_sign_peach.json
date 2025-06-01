@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_peach",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_peach/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_peach/name",
+    "description": "A wooden sign featuring a painted peach.",
+    "name": "Peach Sign",
     "icon_sprite": "spr_ui_item_crop_sign_peach",
     "tags": [
       "furniture",

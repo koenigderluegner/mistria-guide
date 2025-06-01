@@ -1,8 +1,8 @@
 {
   "id": "cabin_bed_oak",
   "item": {
-    "description": "items/furniture/rustic_cabin_set/cabin_bed_oak/description",
-    "name": "items/furniture/rustic_cabin_set/cabin_bed_oak/name",
+    "description": "A rustic single bed with yellow plaid sheets.",
+    "name": "Rustic Cabin Bed",
     "icon_sprite": "spr_ui_item_furniture_cabin_bed_v3",
     "tags": [
       "furniture",

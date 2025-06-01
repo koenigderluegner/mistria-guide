@@ -1,8 +1,8 @@
 {
   "id": "crayfish",
   "item": {
-    "description": "items/fish/river/crayfish/description",
-    "name": "items/fish/river/crayfish/name",
+    "description": "A common river crustacean found in all seasons.",
+    "name": "Crayfish",
     "icon_sprite": "spr_ui_item_dive_crayfish",
     "tags": [
       "dive",

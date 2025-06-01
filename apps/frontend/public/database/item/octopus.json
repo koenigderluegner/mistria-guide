@@ -1,8 +1,8 @@
 {
   "id": "octopus",
   "item": {
-    "description": "items/fish/ocean/octopus/description",
-    "name": "items/fish/ocean/octopus/name",
+    "description": "An uncommon large ocean cephalopod found in summer and winter.",
+    "name": "Octopus",
     "icon_sprite": "spr_ui_item_fish_large_octopus",
     "tags": [
       "fishable",

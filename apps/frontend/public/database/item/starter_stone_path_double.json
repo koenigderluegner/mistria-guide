@@ -1,8 +1,8 @@
 {
   "id": "starter_stone_path_double",
   "item": {
-    "description": "items/furniture/starter_farm_set/starter_stone_path_double/description",
-    "name": "items/furniture/starter_farm_set/starter_stone_path_double/name",
+    "description": "Paved stones for making paths.",
+    "name": "Stone Path",
     "icon_sprite": "spr_ui_item_decor_starter_stone_path",
     "tags": [
       "furniture",

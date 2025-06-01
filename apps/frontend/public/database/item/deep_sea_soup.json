@@ -1,8 +1,8 @@
 {
   "id": "deep_sea_soup",
   "item": {
-    "description": "items/other/cooked_dishes/deep_sea_soup/description",
-    "name": "items/other/cooked_dishes/deep_sea_soup/name",
+    "description": "This nutritious soup uses fresh ingredients to form a deep & complex flavor.",
+    "name": "Deep Sea Soup",
     "icon_sprite": "spr_ui_item_deep_sea_soup",
     "tags": [
       "food",

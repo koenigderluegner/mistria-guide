@@ -1,8 +1,8 @@
 {
   "id": "silver_cow_trophy",
   "item": {
-    "description": "items/other/festivals/silver_cow_trophy/description",
-    "name": "items/other/festivals/silver_cow_trophy/name",
+    "description": "A silver display trophy commemorating your cow's second place win at the Animal Festival.",
+    "name": "Silver Cow Trophy",
     "icon_sprite": "spr_ui_item_decor_silver_cow_trophy",
     "tags": [
       "furniture"

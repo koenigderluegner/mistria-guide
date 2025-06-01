@@ -1,8 +1,8 @@
 {
   "id": "roasted_rice_tea",
   "item": {
-    "description": "items/other/cooked_dishes/roasted_rice_tea/description",
-    "name": "items/other/cooked_dishes/roasted_rice_tea/name",
+    "description": "This tea features the mild toasted flavor of roasted rice.",
+    "name": "Roasted Rice Tea",
     "icon_sprite": "spr_ui_item_roasted_rice_tea",
     "tags": [
       "drink",

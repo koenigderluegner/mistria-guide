@@ -1,8 +1,8 @@
 {
   "id": "tide_lettuce",
   "item": {
-    "description": "items/mines/tide_caverns/tide_lettuce/description",
-    "name": "items/mines/tide_caverns/tide_lettuce/name",
+    "description": "This wild lettuce has a rich flavor and a satisfying crunch. Used in a variety of cooking recipes.",
+    "name": "Tide Lettuce",
     "icon_sprite": "spr_ui_item_tide_lettuce",
     "tags": [
       "forageable",

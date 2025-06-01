@@ -1,8 +1,8 @@
 {
   "id": "haunted_attic_candle_single",
   "item": {
-    "description": "items/furniture/haunted_attic_set/haunted_attic_candle_single/description",
-    "name": "items/furniture/haunted_attic_set/haunted_attic_candle_single/name",
+    "description": "A single off-white candle that looks partially melted.",
+    "name": "Melted Candle",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_candle_1",
     "tags": [
       "furniture",

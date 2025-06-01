@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_pomegranate",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_pomegranate/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_pomegranate/name",
+    "description": "A wooden sign featuring a painted pomegranate.",
+    "name": "Pomegranate Sign",
     "icon_sprite": "spr_ui_item_crop_sign_pomegranate",
     "tags": [
       "furniture",

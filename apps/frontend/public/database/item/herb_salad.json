@@ -1,8 +1,8 @@
 {
   "id": "herb_salad",
   "item": {
-    "description": "items/other/cooked_dishes/herb_salad/description",
-    "name": "items/other/cooked_dishes/herb_salad/name",
+    "description": "This flavor-packed salad of aromatic herbs tastes distinctly refreshing.",
+    "name": "Herb Salad",
     "icon_sprite": "spr_ui_item_herb_salad",
     "tags": [
       "food",

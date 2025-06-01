@@ -1,8 +1,8 @@
 {
   "id": "bathroom_curtain_stand_brown",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_curtain_stand_brown/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_curtain_stand_brown/name",
+    "description": "A brown bathroom curtain stand.",
+    "name": "Bathroom Curtain Stand",
     "icon_sprite": "spr_ui_item_furniture_bathroom_curtain_stand_brown",
     "tags": [
       "furniture",

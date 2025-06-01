@@ -1,8 +1,8 @@
 {
   "id": "rice_stalk",
   "item": {
-    "description": "items/other/crops_and_forage/rice_stalk/description",
-    "name": "items/other/crops_and_forage/rice_stalk/name",
+    "description": "A fall crop that regrows. Can be refined into rice, which is used in many recipes.",
+    "name": "Rice Stalk",
     "icon_sprite": "spr_ui_item_rice_stalk",
     "tags": [
       "crop"

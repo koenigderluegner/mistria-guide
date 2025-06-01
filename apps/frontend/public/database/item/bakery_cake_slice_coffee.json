@@ -1,8 +1,8 @@
 {
   "id": "bakery_cake_slice_coffee",
   "item": {
-    "description": "items/furniture/decor_bakery_set/bakery_cake_slice_coffee/description",
-    "name": "items/furniture/decor_bakery_set/bakery_cake_slice_coffee/name",
+    "description": "A decorative slice of chocolate cake. Looks delicious!",
+    "name": "Bakery Display Cake Slice",
     "icon_sprite": "spr_ui_item_decor_bakery_cake_slice_v2",
     "tags": [
       "furniture",

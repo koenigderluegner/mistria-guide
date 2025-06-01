@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_orange",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_orange/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_orange/name",
+    "description": "A wooden sign featuring a painted orange.",
+    "name": "Orange Sign",
     "icon_sprite": "spr_ui_item_crop_sign_orange",
     "tags": [
       "furniture",

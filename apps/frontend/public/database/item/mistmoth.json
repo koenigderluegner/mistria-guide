@@ -1,8 +1,8 @@
 {
   "id": "mistmoth",
   "item": {
-    "description": "items/other/bugs/mistmoth/description",
-    "name": "items/other/bugs/mistmoth/name",
+    "description": "A rare insect found at night in fall.",
+    "name": "Mistmoth",
     "icon_sprite": "spr_ui_item_insect_mistmoth",
     "tags": [
       "bugs"

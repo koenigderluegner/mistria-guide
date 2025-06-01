@@ -1,8 +1,8 @@
 {
   "id": "jar_medium",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/jar_medium/description",
-    "name": "items/furniture/tabletop_clutter_set/jar_medium/name",
+    "description": "A medium sized decorative glass jar.",
+    "name": "Medium Jar",
     "icon_sprite": "spr_ui_item_decor_clutter_jar_medium",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "miners_pickaxe",
   "item": {
-    "description": "items/mines/upper_mines/miners_pickaxe/description",
-    "name": "items/mines/upper_mines/miners_pickaxe/name",
+    "description": "A common artifact. It's in pretty good condition despite its age.",
+    "name": "Miner's Pickaxe",
     "icon_sprite": "spr_ui_item_miners_pickaxe",
     "tags": [
       "archaeology"

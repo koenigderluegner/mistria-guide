@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_rice",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_rice/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_rice/name",
+    "description": "A wooden sign featuring painted rice.",
+    "name": "Rice Sign",
     "icon_sprite": "spr_ui_item_crop_sign_rice",
     "tags": [
       "furniture",

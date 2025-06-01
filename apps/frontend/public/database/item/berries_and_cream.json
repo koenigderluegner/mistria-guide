@@ -1,8 +1,8 @@
 {
   "id": "berries_and_cream",
   "item": {
-    "description": "items/other/cooked_dishes/berries_and_cream/description",
-    "name": "items/other/cooked_dishes/berries_and_cream/name",
+    "description": "A popular and subtly sweet combination of fresh fruit and cream.",
+    "name": "Berries and Cream",
     "icon_sprite": "spr_ui_item_berriesandcream",
     "tags": [
       "food",

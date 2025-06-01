@@ -1,8 +1,8 @@
 {
   "id": "ice_cream_sundae",
   "item": {
-    "description": "items/other/cooked_dishes/ice_cream_sundae/description",
-    "name": "items/other/cooked_dishes/ice_cream_sundae/name",
+    "description": "These scoops of ice cream are topped with a generous amount of chocolate sauce.",
+    "name": "Ice Cream Sundae",
     "icon_sprite": "spr_ui_item_ice_cream_sundae",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "witch_queen_double_bed",
   "item": {
-    "description": "items/furniture/witch_queen_set/witch_queen_double_bed/description",
-    "name": "items/furniture/witch_queen_set/witch_queen_double_bed/name",
+    "description": "An opulent sea green and gold-trimmed double bed fit for a Witch Queen.",
+    "name": "Witch Queen Double Bed",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_double_bed",
     "tags": [
       "furniture",

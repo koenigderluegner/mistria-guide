@@ -1,8 +1,8 @@
 {
   "id": "alda_clay_pot",
   "item": {
-    "description": "items/other/artifacts/alda_clay_pot/description",
-    "name": "items/other/artifacts/alda_clay_pot/name",
+    "description": "An uncommon artifact. Made from rich river clay, a faded pattern can still be seen. Once used by the Alda people to store food.",
+    "name": "Alda Clay Pot",
     "icon_sprite": "spr_ui_item_alda_clay_pot",
     "tags": [
       "archaeology"

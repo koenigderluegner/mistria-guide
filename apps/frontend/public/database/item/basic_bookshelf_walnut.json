@@ -1,8 +1,8 @@
 {
   "id": "basic_bookshelf_walnut",
   "item": {
-    "description": "items/furniture/basic_set/basic_bookshelf_walnut/description",
-    "name": "items/furniture/basic_set/basic_bookshelf_walnut/name",
+    "description": "A basic walnut bookshelf.",
+    "name": "Basic Bookshelf",
     "icon_sprite": "spr_ui_item_furniture_basic_bookshelf_v2",
     "tags": [
       "furniture",

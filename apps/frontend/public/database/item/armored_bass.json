@@ -1,8 +1,8 @@
 {
   "id": "armored_bass",
   "item": {
-    "description": "items/mines/lava_caves/armored_bass/description",
-    "name": "items/mines/lava_caves/armored_bass/name",
+    "description": "A common medium Lava Caves fish. This bass species has adapted to grow incredibly thick and metallic looking scales.",
+    "name": "Armored Bass",
     "icon_sprite": "spr_ui_item_fish_medium_armored_bass",
     "tags": [
       "fishable"

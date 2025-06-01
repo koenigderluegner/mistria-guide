@@ -1,8 +1,8 @@
 {
   "id": "spring_bed_pink",
   "item": {
-    "description": "items/furniture/spring_set/spring_bed_pink/description",
-    "name": "items/furniture/spring_set/spring_bed_pink/name",
+    "description": "A spring themed bed with pink petal patterned sheets.",
+    "name": "Spring Bed",
     "icon_sprite": "spr_ui_item_furniture_spring_bed_pink",
     "tags": [
       "furniture",

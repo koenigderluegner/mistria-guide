@@ -1,8 +1,8 @@
 {
   "id": "seed_onion",
   "item": {
-    "description": "items/other/crops_and_forage/seed_onion/description",
-    "name": "items/other/crops_and_forage/seed_onion/name",
+    "description": "Onion seed. This fall crop can be harvested every 3 days once it reaches maturity.",
+    "name": "Onion Seed",
     "icon_sprite": "spr_ui_item_bagseed_onion_icon",
     "tags": [
       "seed"

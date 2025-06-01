@@ -1,8 +1,8 @@
 {
   "id": "burdock_root",
   "item": {
-    "description": "items/other/crops_and_forage/burdock_root/description",
-    "name": "items/other/crops_and_forage/burdock_root/name",
+    "description": "A wild plant foraged in winter. Has a nutty, earthy flavor. Commonly used as a cooking ingredient.",
+    "name": "Burdock Root",
     "icon_sprite": "spr_ui_item_burdock_root",
     "tags": [
       "forageable"

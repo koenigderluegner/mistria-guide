@@ -1,8 +1,8 @@
 {
   "id": "chillipede",
   "item": {
-    "description": "items/other/bugs/chillipede/description",
-    "name": "items/other/bugs/chillipede/name",
+    "description": "An uncommon insect found in fall. Found when breaking rocks.",
+    "name": "Chillipede",
     "icon_sprite": "spr_ui_item_insect_chillipede",
     "tags": [
       "bugs"

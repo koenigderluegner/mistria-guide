@@ -1,8 +1,8 @@
 {
   "id": "fish_skewer",
   "item": {
-    "description": "items/other/cooked_dishes/fish_skewer/description",
-    "name": "items/other/cooked_dishes/fish_skewer/name",
+    "description": "Crisply fried to bring out the flavor of the fish.",
+    "name": "Fish Skewers",
     "icon_sprite": "spr_ui_item_fish_skewer",
     "tags": [
       "chef",

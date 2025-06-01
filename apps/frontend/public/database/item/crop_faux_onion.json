@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_onion",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_onion/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_onion/name",
+    "description": "A decorative faux onion plant.",
+    "name": "Faux Onion",
     "icon_sprite": "spr_ui_item_decor_crop_faux_onion",
     "tags": [
       "furniture",

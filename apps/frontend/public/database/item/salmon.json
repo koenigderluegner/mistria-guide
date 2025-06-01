@@ -1,8 +1,8 @@
 {
   "id": "salmon",
   "item": {
-    "description": "items/fish/river/salmon/description",
-    "name": "items/fish/river/salmon/name",
+    "description": "A common large river fish found in spring and fall.",
+    "name": "Salmon",
     "icon_sprite": "spr_ui_item_fish_large_salmon",
     "tags": [
       "fishable",

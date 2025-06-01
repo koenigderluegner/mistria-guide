@@ -1,8 +1,8 @@
 {
   "id": "pear",
   "item": {
-    "description": "items/other/crops_and_forage/pear/description",
-    "name": "items/other/crops_and_forage/pear/name",
+    "description": "The sweet and juicy fruit of the pear tree, which fruits in summer. Used in a variety of cooking recipes.",
+    "name": "Pear",
     "icon_sprite": "spr_ui_item_pear",
     "tags": [
       "crop"

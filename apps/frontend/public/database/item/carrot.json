@@ -1,8 +1,8 @@
 {
   "id": "carrot",
   "item": {
-    "description": "items/other/crops_and_forage/carrot/description",
-    "name": "items/other/crops_and_forage/carrot/name",
+    "description": "A spring crop. Crunchy when raw, they become soft and sweet when cooked.",
+    "name": "Carrot",
     "icon_sprite": "spr_ui_item_carrot",
     "tags": [
       "crop"

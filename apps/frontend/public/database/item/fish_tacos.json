@@ -1,8 +1,8 @@
 {
   "id": "fish_tacos",
   "item": {
-    "description": "items/other/cooked_dishes/fish_tacos/description",
-    "name": "items/other/cooked_dishes/fish_tacos/name",
+    "description": "These delicious tacos are loaded with crispy cod and veggies.",
+    "name": "Fish Tacos",
     "icon_sprite": "spr_ui_item_fish_tacos",
     "tags": [
       "food",

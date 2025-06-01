@@ -1,8 +1,8 @@
 {
   "id": "spring_wallpaper_purple",
   "item": {
-    "description": "items/furniture/spring_set/spring_wallpaper_purple/description",
-    "name": "items/furniture/spring_set/spring_wallpaper_purple/name",
+    "description": "A light purple petal patterned wallpaper.",
+    "name": "Spring Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_spring_wallpaper_purple",
     "tags": [
       "furniture",

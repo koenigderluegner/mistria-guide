@@ -1,8 +1,8 @@
 {
   "id": "starry_flooring_v2",
   "item": {
-    "description": "items/furniture/no_set/starry_flooring_v2/description",
-    "name": "items/furniture/no_set/starry_flooring_v2/name",
+    "description": "Starry patterned flooring with pink and purple stars.",
+    "name": "Starry Flooring",
     "icon_sprite": "spr_ui_item_furniture_starry_flooring_v2",
     "tags": [
       "furniture",

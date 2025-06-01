@@ -1,8 +1,8 @@
 {
   "id": "dungeon_fountain_stamina",
   "item": {
-    "description": "items/other/misc/dungeon_fountain_stamina/description",
-    "name": "items/other/misc/dungeon_fountain_stamina/name",
+    "description": "This shouldn't be visible to you in game!",
+    "name": "Fountain Stamina 33",
     "icon_sprite": "spr_ui_item_stone_cup",
     "tags": [
       "drink_sound"

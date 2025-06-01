@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_thorn_vine",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_thorn_vine/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_thorn_vine/name",
+    "description": "A decorative faux thorn vine.",
+    "name": "Faux Thorn Vine",
     "icon_sprite": "spr_ui_item_decor_crop_faux_thorn_vine",
     "tags": [
       "furniture",

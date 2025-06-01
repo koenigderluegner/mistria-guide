@@ -1,8 +1,8 @@
 {
   "id": "broccoli_salad",
   "item": {
-    "description": "items/other/cooked_dishes/broccoli_salad/description",
-    "name": "items/other/cooked_dishes/broccoli_salad/name",
+    "description": "A crunchy broccoli salad with plenty of tart cranberries.",
+    "name": "Broccoli Salad",
     "icon_sprite": "spr_ui_item_broccoli_salad",
     "tags": [
       "food",

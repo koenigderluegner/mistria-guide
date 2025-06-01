@@ -1,8 +1,8 @@
 {
   "id": "ornate_rug_large_square_blue",
   "item": {
-    "description": "items/furniture/decor_ornate_rug_set/ornate_rug_large_square_blue/description",
-    "name": "items/furniture/decor_ornate_rug_set/ornate_rug_large_square_blue/name",
+    "description": "A large sized blue ornate rug with a square shape.",
+    "name": "Ornate Large Square Rug",
     "icon_sprite": "spr_ui_item_decor_ornate_rug_large_square_blue",
     "tags": [
       "furniture",

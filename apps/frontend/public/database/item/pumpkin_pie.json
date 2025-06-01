@@ -1,8 +1,8 @@
 {
   "id": "pumpkin_pie",
   "item": {
-    "description": "items/other/cooked_dishes/pumpkin_pie/description",
-    "name": "items/other/cooked_dishes/pumpkin_pie/name",
+    "description": "This yummy pie uses pumpkin and spices for its custard-like filling.",
+    "name": "Pumpkin Pie",
     "icon_sprite": "spr_ui_item_pumpkin_pie",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "seed_cosmos",
   "item": {
-    "description": "items/other/crops_and_forage/seed_cosmos/description",
-    "name": "items/other/crops_and_forage/seed_cosmos/name",
+    "description": "Cosmos seed. This summer flower can be harvested once.",
+    "name": "Cosmos Seed",
     "icon_sprite": "spr_ui_item_bagseed_cosmos_icon",
     "tags": [
       "seed"

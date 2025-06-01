@@ -1,8 +1,8 @@
 {
   "id": "explorer_trunk_table_beige",
   "item": {
-    "description": "items/furniture/explorer_set/explorer_trunk_table_beige/description",
-    "name": "items/furniture/explorer_set/explorer_trunk_table_beige/name",
+    "description": "A sturdy explorer's beige trunk table.",
+    "name": "Explorer Trunk Table",
     "icon_sprite": "spr_ui_item_furniture_explorer_trunk_table_beige",
     "tags": [
       "furniture",

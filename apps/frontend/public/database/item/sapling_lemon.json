@@ -1,8 +1,8 @@
 {
   "id": "sapling_lemon",
   "item": {
-    "description": "items/other/crops_and_forage/sapling_lemon/description",
-    "name": "items/other/crops_and_forage/sapling_lemon/name",
+    "description": "A lemon tree sapling. This tree can be planted any time of year, but will only fruit in the spring.",
+    "name": "Lemon Sapling",
     "icon_sprite": "spr_ui_item_lemon_sapling",
     "tags": [
       "seed"

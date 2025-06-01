@@ -1,8 +1,8 @@
 {
   "id": "butterfly_bed_v3",
   "item": {
-    "description": "items/furniture/insect_set/butterfly_bed_v3/description",
-    "name": "items/furniture/insect_set/butterfly_bed_v3/name",
+    "description": "A burgundy butterfly bed with tonal striped sheets.",
+    "name": "Butterfly Bed",
     "icon_sprite": "spr_ui_item_furniture_butterfly_bed_v3",
     "tags": [
       "furniture",

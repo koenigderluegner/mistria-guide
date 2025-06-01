@@ -1,8 +1,8 @@
 {
   "id": "large_barn_red_blueprint",
   "item": {
-    "description": "items/other/misc/large_barn_red_blueprint/description",
-    "name": "items/other/misc/large_barn_red_blueprint/name",
+    "description": "Use this item to place a large red barn construction site on your farm! Requirements to build: 150 wood, 125 stone.",
+    "name": "Large Red Barn Blueprint",
     "icon_sprite": "spr_ui_item_large_barn_red",
     "value": {
       "store": 8000

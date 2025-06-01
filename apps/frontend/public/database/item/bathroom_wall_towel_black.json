@@ -1,8 +1,8 @@
 {
   "id": "bathroom_wall_towel_black",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_wall_towel_black/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_wall_towel_black/name",
+    "description": "A black bathroom wall towel.",
+    "name": "Bathroom Wall Towel",
     "icon_sprite": "spr_ui_item_furniture_bathroom_wall_towel_black",
     "tags": [
       "furniture",

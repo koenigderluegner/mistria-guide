@@ -1,8 +1,8 @@
 {
   "id": "ore_sapphire",
   "item": {
-    "description": "items/other/materials/ore_sapphire/description",
-    "name": "items/other/materials/ore_sapphire/name",
+    "description": "A lustrous blue gem. Can be sold, gifted, or used in certain crafting recipes.",
+    "name": "Sapphire",
     "icon_sprite": "spr_ui_item_sapphire",
     "tags": [
       "refined_material",

@@ -1,8 +1,8 @@
 {
   "id": "axe_mistril",
   "item": {
-    "description": "items/other/blacksmithing/axe_mistril/description",
-    "name": "items/other/blacksmithing/axe_mistril/name",
+    "description": "An axe made from mistril. Can be charged to chop a 6x9 area.",
+    "name": "Mistril Axe",
     "icon_sprite": "spr_ui_item_tool_mistril_axe",
     "value": {
       "bin": 1450,

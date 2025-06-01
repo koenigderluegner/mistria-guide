@@ -1,8 +1,8 @@
 {
   "id": "fall_double_bed_orange",
   "item": {
-    "description": "items/furniture/fall_set/fall_double_bed_orange/description",
-    "name": "items/furniture/fall_set/fall_double_bed_orange/name",
+    "description": "A cozy double bed with orange gingham blankets and a built-in shelf.",
+    "name": "Fall Double Bed",
     "icon_sprite": "spr_ui_item_furniture_fall_double_bed_orange",
     "tags": [
       "furniture",

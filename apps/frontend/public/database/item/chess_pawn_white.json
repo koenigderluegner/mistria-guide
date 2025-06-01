@@ -1,8 +1,8 @@
 {
   "id": "chess_pawn_white",
   "item": {
-    "description": "items/furniture/chess_set/chess_pawn_white/description",
-    "name": "items/furniture/chess_set/chess_pawn_white/name",
+    "description": "An oversized white pawn chess piece.",
+    "name": "Chess Pawn Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_pawn_white",
     "tags": [
       "furniture",

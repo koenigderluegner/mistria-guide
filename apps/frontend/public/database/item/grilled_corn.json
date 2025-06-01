@@ -1,8 +1,8 @@
 {
   "id": "grilled_corn",
   "item": {
-    "description": "items/other/cooked_dishes/grilled_corn/description",
-    "name": "items/other/cooked_dishes/grilled_corn/name",
+    "description": "A smoky, juicy ear of grilled corn.",
+    "name": "Grilled Corn",
     "icon_sprite": "spr_ui_item_grilled_corn",
     "tags": [
       "food",

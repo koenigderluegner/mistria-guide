@@ -1,8 +1,8 @@
 {
   "id": "chess_table_light_wood",
   "item": {
-    "description": "items/furniture/chess_set/chess_table_light_wood/description",
-    "name": "items/furniture/chess_set/chess_table_light_wood/name",
+    "description": "A wood-toned chess table.",
+    "name": "Chess Table",
     "icon_sprite": "spr_ui_item_furniture_chess_table_light_wood",
     "tags": [
       "furniture",

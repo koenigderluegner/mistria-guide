@@ -1,8 +1,8 @@
 {
   "id": "rose",
   "item": {
-    "description": "items/other/crops_and_forage/rose/description",
-    "name": "items/other/crops_and_forage/rose/name",
+    "description": "A beautiful red flower grown in summer. Can be given as a gift or used in various crafting recipes.",
+    "name": "Rose",
     "icon_sprite": "spr_ui_item_rose",
     "tags": [
       "forageable",

@@ -1,8 +1,8 @@
 {
   "id": "grape_juice",
   "item": {
-    "description": "items/other/cooked_dishes/grape_juice/description",
-    "name": "items/other/cooked_dishes/grape_juice/name",
+    "description": "A sweet and fresh juice made from grapes.",
+    "name": "Grape Juice",
     "icon_sprite": "spr_ui_item_grape_juice",
     "tags": [
       "drink",

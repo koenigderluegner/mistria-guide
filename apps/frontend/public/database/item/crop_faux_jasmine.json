@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_jasmine",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_jasmine/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_jasmine/name",
+    "description": "A decorative faux jasmine plant.",
+    "name": "Faux Jasmine",
     "icon_sprite": "spr_ui_item_decor_crop_faux_jasmine",
     "tags": [
       "furniture",

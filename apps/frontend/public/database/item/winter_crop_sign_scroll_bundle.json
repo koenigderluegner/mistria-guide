@@ -1,8 +1,8 @@
 {
   "id": "winter_crop_sign_scroll_bundle",
   "item": {
-    "description": "items/furniture/crop_signs_set/winter_crop_sign_scroll_bundle/description",
-    "name": "items/furniture/crop_signs_set/winter_crop_sign_scroll_bundle/name",
+    "description": "Use this scroll to unlock the crafting recipes for the Winter Crop Sign furniture set!",
+    "name": "Winter Crop Sign Scroll Bundle",
     "icon_sprite": "spr_ui_item_setscroll_wintercropsigns",
     "tags": [
       "scroll",

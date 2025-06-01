@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_tea",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_tea/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_tea/name",
+    "description": "A decorative faux tea plant.",
+    "name": "Faux Tea",
     "icon_sprite": "spr_ui_item_decor_crop_faux_tea",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "peas",
   "item": {
-    "description": "items/other/crops_and_forage/peas/description",
-    "name": "items/other/crops_and_forage/peas/name",
+    "description": "A spring crop that regrows. They have an earthy flavor.",
+    "name": "Peas",
     "icon_sprite": "spr_ui_item_peas",
     "tags": [
       "crop"

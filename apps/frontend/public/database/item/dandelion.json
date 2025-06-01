@@ -1,8 +1,8 @@
 {
   "id": "dandelion",
   "item": {
-    "description": "items/other/crops_and_forage/dandelion/description",
-    "name": "items/other/crops_and_forage/dandelion/name",
+    "description": "A wild flower that grows in the spring. Sometimes used in cooking recipes.",
+    "name": "Dandelion",
     "icon_sprite": "spr_ui_item_dandelionflower",
     "tags": [
       "forageable",

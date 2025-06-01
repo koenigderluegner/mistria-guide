@@ -1,8 +1,8 @@
 {
   "id": "sweetroot",
   "item": {
-    "description": "items/mines/upper_mines/sweetroot/description",
-    "name": "items/mines/upper_mines/sweetroot/name",
+    "description": "A root that grows in caves underground. Makes a great snack, even when eaten raw!",
+    "name": "Sweetroot",
     "icon_sprite": "spr_ui_item_sweetroot",
     "tags": [
       "forageable",

@@ -1,8 +1,8 @@
 {
   "id": "iron_armor",
   "item": {
-    "description": "items/other/armor/iron_armor/description",
-    "name": "items/other/armor/iron_armor/name",
+    "description": "A chestpiece constructed out of iron. Equip to increase defense.",
+    "name": "Iron Armor",
     "icon_sprite": "spr_ui_item_equipment_iron_chestpiece",
     "tags": [
       "chest",

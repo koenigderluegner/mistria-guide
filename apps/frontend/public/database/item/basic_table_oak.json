@@ -1,8 +1,8 @@
 {
   "id": "basic_table_oak",
   "item": {
-    "description": "items/furniture/basic_set/basic_table_oak/description",
-    "name": "items/furniture/basic_set/basic_table_oak/name",
+    "description": "A basic oak table.",
+    "name": "Basic Table",
     "icon_sprite": "spr_ui_item_furniture_basic_table_v1",
     "tags": [
       "furniture",

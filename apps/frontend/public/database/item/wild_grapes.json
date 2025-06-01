@@ -1,8 +1,8 @@
 {
   "id": "wild_grapes",
   "item": {
-    "description": "items/other/crops_and_forage/wild_grapes/description",
-    "name": "items/other/crops_and_forage/wild_grapes/name",
+    "description": "A wild fruit grown in the summer. Tart and delicious, they are commonly used as a cooking ingredient.",
+    "name": "Wild Grapes",
     "icon_sprite": "spr_ui_item_bush_grape",
     "tags": [
       "forageable"

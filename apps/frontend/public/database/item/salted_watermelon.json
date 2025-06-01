@@ -1,8 +1,8 @@
 {
   "id": "salted_watermelon",
   "item": {
-    "description": "items/other/cooked_dishes/salted_watermelon/description",
-    "name": "items/other/cooked_dishes/salted_watermelon/name",
+    "description": "This slice of watermelon is extra sweet because of the salt sprinkled on it.",
+    "name": "Salted Watermelon",
     "icon_sprite": "spr_ui_item_salted_watermelon",
     "tags": [
       "food",

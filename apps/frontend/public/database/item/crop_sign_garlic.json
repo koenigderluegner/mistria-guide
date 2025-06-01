@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_garlic",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_garlic/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_garlic/name",
+    "description": "A wooden sign featuring painted garlic.",
+    "name": "Garlic Sign",
     "icon_sprite": "spr_ui_item_crop_sign_garlic",
     "tags": [
       "furniture",

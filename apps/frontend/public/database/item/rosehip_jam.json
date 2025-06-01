@@ -1,8 +1,8 @@
 {
   "id": "rosehip_jam",
   "item": {
-    "description": "items/other/cooked_dishes/rosehip_jam/description",
-    "name": "items/other/cooked_dishes/rosehip_jam/name",
+    "description": "A winter jam with a tangy flavor.",
+    "name": "Rose Hip Jam",
     "icon_sprite": "spr_ui_item_rosehip_jam",
     "tags": [
       "food",

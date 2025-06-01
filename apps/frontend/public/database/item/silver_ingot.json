@@ -1,8 +1,8 @@
 {
   "id": "silver_ingot",
   "item": {
-    "description": "items/other/blacksmithing/silver_ingot/description",
-    "name": "items/other/blacksmithing/silver_ingot/name",
+    "description": "An ingot of pure silver. Used in a variety of blacksmithing and crafting recipes.",
+    "name": "Silver Ingot",
     "icon_sprite": "spr_ui_item_silver_ingot",
     "tags": [
       "ingot",

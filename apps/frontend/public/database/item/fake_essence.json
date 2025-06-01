@@ -1,8 +1,8 @@
 {
   "id": "fake_essence",
   "item": {
-    "description": "items/other/misc/fake_essence/description",
-    "name": "items/other/misc/fake_essence/name",
+    "description": "Magical power collected from doing various tasks. Used to unlock skill perks and craft magical tools.",
+    "name": "Essence",
     "icon_sprite": "spr_ui_item_essence"
   }
 }

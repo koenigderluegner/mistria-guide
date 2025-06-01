@@ -1,8 +1,8 @@
 {
   "id": "rose_hip",
   "item": {
-    "description": "items/other/crops_and_forage/rose_hip/description",
-    "name": "items/other/crops_and_forage/rose_hip/name",
+    "description": "A wild plant foraged in winter. Has a sweet and sour flavor. Commonly used as a cooking ingredient.",
+    "name": "Rose Hip",
     "icon_sprite": "spr_ui_item_bush_rosehip",
     "tags": [
       "forageable"

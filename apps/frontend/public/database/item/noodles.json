@@ -1,8 +1,8 @@
 {
   "id": "noodles",
   "item": {
-    "description": "items/other/cooked_dishes/noodles/description",
-    "name": "items/other/cooked_dishes/noodles/name",
+    "description": "These fresh noodles are tasty by themselves but also a versatile ingredient.",
+    "name": "Noodles",
     "icon_sprite": "spr_ui_item_noodles",
     "tags": [
       "food",

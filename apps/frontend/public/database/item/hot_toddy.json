@@ -1,8 +1,8 @@
 {
   "id": "hot_toddy",
   "item": {
-    "description": "items/other/cooked_dishes/hot_toddy/description",
-    "name": "items/other/cooked_dishes/hot_toddy/name",
+    "description": "Whiskey, honey and a secret blend of spices make this drink a comforting favorite.",
+    "name": "Hot Toddy",
     "icon_sprite": "spr_ui_item_hot_toddy",
     "tags": [
       "drink",

@@ -1,8 +1,8 @@
 {
   "id": "fishing_wallpaper_blue",
   "item": {
-    "description": "items/furniture/fishing_set/fishing_wallpaper_blue/description",
-    "name": "items/furniture/fishing_set/fishing_wallpaper_blue/name",
+    "description": "A blue wood wallpaper with fishing nets.",
+    "name": "Fishing Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_fishing_wall_blue",
     "tags": [
       "furniture",

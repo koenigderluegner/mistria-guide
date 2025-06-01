@@ -1,8 +1,8 @@
 {
   "id": "bream",
   "item": {
-    "description": "items/fish/river/bream/description",
-    "name": "items/fish/river/bream/name",
+    "description": "A common large river fish found in summer.",
+    "name": "Bream",
     "icon_sprite": "spr_ui_item_fish_large_bream",
     "tags": [
       "fishable",

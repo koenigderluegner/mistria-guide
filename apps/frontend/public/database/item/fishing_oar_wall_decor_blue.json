@@ -1,8 +1,8 @@
 {
   "id": "fishing_oar_wall_decor_blue",
   "item": {
-    "description": "items/furniture/fishing_set/fishing_oar_wall_decor_blue/description",
-    "name": "items/furniture/fishing_set/fishing_oar_wall_decor_blue/name",
+    "description": "Decorative blue striped oars, perfect for hanging on your wall.",
+    "name": "Oar Wall Decor",
     "icon_sprite": "spr_ui_item_furniture_fishing_oars_blue",
     "tags": [
       "furniture",

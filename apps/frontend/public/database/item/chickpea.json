@@ -1,8 +1,8 @@
 {
   "id": "chickpea",
   "item": {
-    "description": "items/other/crops_and_forage/chickpea/description",
-    "name": "items/other/crops_and_forage/chickpea/name",
+    "description": "A wild vegetable grown in spring. Commonly used as an ingredient in cooking recipes.",
+    "name": "Chickpea",
     "icon_sprite": "spr_ui_item_chickpea",
     "tags": [
       "forageable"

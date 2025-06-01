@@ -1,8 +1,8 @@
 {
   "id": "haunted_attic_table_dusty",
   "item": {
-    "description": "items/furniture/haunted_attic_set/haunted_attic_table_dusty/description",
-    "name": "items/furniture/haunted_attic_set/haunted_attic_table_dusty/name",
+    "description": "An old fashioned table with a patched off-white tablecloth.",
+    "name": "Haunted Attic Table",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_table_dusty",
     "tags": [
       "furniture",

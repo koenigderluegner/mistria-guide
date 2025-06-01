@@ -1,8 +1,8 @@
 {
   "id": "basic_nightstand_walnut",
   "item": {
-    "description": "items/furniture/basic_set/basic_nightstand_walnut/description",
-    "name": "items/furniture/basic_set/basic_nightstand_walnut/name",
+    "description": "A basic walnut nightstand.",
+    "name": "Basic Nightstand",
     "icon_sprite": "spr_ui_item_furniture_basic_nightstand_v2",
     "tags": [
       "furniture",

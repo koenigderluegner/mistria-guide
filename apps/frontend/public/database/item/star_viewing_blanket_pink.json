@@ -1,8 +1,8 @@
 {
   "id": "star_viewing_blanket_pink",
   "item": {
-    "description": "items/furniture/shooting_star_set/star_viewing_blanket_pink/description",
-    "name": "items/furniture/shooting_star_set/star_viewing_blanket_pink/name",
+    "description": "A Shooting Star Festival blanket in pink.",
+    "name": "Star Viewing Blanket",
     "icon_sprite": "spr_ui_item_decor_star_viewing_blanket_pink",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "fishing_chair_blue",
   "item": {
-    "description": "items/furniture/fishing_set/fishing_chair_blue/description",
-    "name": "items/furniture/fishing_set/fishing_chair_blue/name",
+    "description": "A wooden chair with a blue cushion.",
+    "name": "Fishing Chair",
     "icon_sprite": "spr_ui_item_furniture_fishing_chair_blue",
     "tags": [
       "furniture",

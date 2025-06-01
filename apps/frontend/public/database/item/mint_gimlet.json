@@ -1,8 +1,8 @@
 {
   "id": "mint_gimlet",
   "item": {
-    "description": "items/other/cooked_dishes/mint_gimlet/description",
-    "name": "items/other/cooked_dishes/mint_gimlet/name",
+    "description": "A gin cocktail brightened up with the addition of mint.",
+    "name": "Mint Gimlet",
     "icon_sprite": "spr_ui_item_mint_gimlet",
     "tags": [
       "drink_sound",

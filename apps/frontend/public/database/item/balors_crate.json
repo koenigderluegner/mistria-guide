@@ -1,8 +1,8 @@
 {
   "id": "balors_crate",
   "item": {
-    "description": "items/other/misc/balors_crate/description",
-    "name": "items/other/misc/balors_crate/name",
+    "description": "This shouldn't be in your inventory...",
+    "name": "Balor's Crate",
     "icon_sprite": "spr_town_crate_cutscene_spring",
     "value": {
       "bin": 1

@@ -1,8 +1,8 @@
 {
   "id": "seriously_square_stone",
   "item": {
-    "description": "items/mines/deep_earth/seriously_square_stone/description",
-    "name": "items/mines/deep_earth/seriously_square_stone/name",
+    "description": "A common artifact. This naturally formed stone is a perfect square, a true delight for a rock connoisseur.",
+    "name": "Seriously Square Stone",
     "icon_sprite": "spr_ui_item_seriously_square_rock",
     "tags": [
       "archaeology"

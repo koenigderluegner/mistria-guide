@@ -1,8 +1,8 @@
 {
   "id": "chrysanthemum",
   "item": {
-    "description": "items/other/crops_and_forage/chrysanthemum/description",
-    "name": "items/other/crops_and_forage/chrysanthemum/name",
+    "description": "A popular dark red fall flower. Can be used in crafting recipes.",
+    "name": "Chrysanthemum",
     "icon_sprite": "spr_ui_item_chrysanthemum",
     "tags": [
       "crop",

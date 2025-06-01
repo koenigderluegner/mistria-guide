@@ -1,8 +1,8 @@
 {
   "id": "oarfish",
   "item": {
-    "description": "items/fish/ocean/oarfish/description",
-    "name": "items/fish/ocean/oarfish/name",
+    "description": "A rare giant ocean fish found in winter.",
+    "name": "Oarfish",
     "icon_sprite": "spr_ui_item_fish_giant_oarfish",
     "tags": [
       "fishable",

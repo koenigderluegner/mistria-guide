@@ -1,8 +1,8 @@
 {
   "id": "redhead_worm",
   "item": {
-    "description": "items/other/bugs/redhead_worm/description",
-    "name": "items/other/bugs/redhead_worm/name",
+    "description": "An uncommon worm found in all seasons but winter. Found when breaking rocks.",
+    "name": "Redhead Worm",
     "icon_sprite": "spr_ui_item_insect_redhead_worm",
     "tags": [
       "bugs"

@@ -1,8 +1,8 @@
 {
   "id": "beer_mug",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/beer_mug/description",
-    "name": "items/furniture/tabletop_clutter_set/beer_mug/name",
+    "description": "A decorative beer mug.",
+    "name": "Beer Mug",
     "icon_sprite": "spr_ui_item_decor_clutter_beer",
     "tags": [
       "furniture",

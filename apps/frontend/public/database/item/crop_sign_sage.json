@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_sage",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_sage/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_sage/name",
+    "description": "A wooden sign featuring a painted sage.",
+    "name": "Sage Sign",
     "icon_sprite": "spr_ui_item_crop_sign_sage",
     "tags": [
       "furniture",

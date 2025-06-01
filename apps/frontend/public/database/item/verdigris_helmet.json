@@ -1,8 +1,8 @@
 {
   "id": "verdigris_helmet",
   "item": {
-    "description": "items/other/armor/verdigris_helmet/description",
-    "name": "items/other/armor/verdigris_helmet/name",
+    "description": "A helmet constructed out of verdigris copper. Equip to increase defense.",
+    "name": "Verdigris Helmet",
     "icon_sprite": "spr_ui_item_equipment_verdigris_helmet",
     "tags": [
       "head",

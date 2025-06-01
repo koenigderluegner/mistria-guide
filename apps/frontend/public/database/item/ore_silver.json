@@ -1,8 +1,8 @@
 {
   "id": "ore_silver",
   "item": {
-    "description": "items/other/materials/ore_silver/description",
-    "name": "items/other/materials/ore_silver/name",
+    "description": "A chunk of silver ore. Can be refined into ingots for crafting.",
+    "name": "Silver Ore",
     "icon_sprite": "spr_ui_item_silver_ore",
     "tags": [
       "gem",

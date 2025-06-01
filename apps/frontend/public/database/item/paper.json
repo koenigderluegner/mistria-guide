@@ -1,8 +1,8 @@
 {
   "id": "paper",
   "item": {
-    "description": "items/other/materials/paper/description",
-    "name": "items/other/materials/paper/name",
+    "description": "Paper milled with plant fiber. Used in a variety of crafting recipes.",
+    "name": "Paper",
     "icon_sprite": "spr_ui_item_paper",
     "tags": [
       "material",

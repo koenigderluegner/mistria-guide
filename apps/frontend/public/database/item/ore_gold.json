@@ -1,8 +1,8 @@
 {
   "id": "ore_gold",
   "item": {
-    "description": "items/other/materials/ore_gold/description",
-    "name": "items/other/materials/ore_gold/name",
+    "description": "A chunk of gold ore. Can be refined into ingots for crafting.",
+    "name": "Gold Ore",
     "icon_sprite": "spr_ui_item_gold_ore",
     "tags": [
       "material",

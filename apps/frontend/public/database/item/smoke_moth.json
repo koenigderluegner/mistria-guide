@@ -1,8 +1,8 @@
 {
   "id": "smoke_moth",
   "item": {
-    "description": "items/mines/lava_caves/smoke_moth/description",
-    "name": "items/mines/lava_caves/smoke_moth/name",
+    "description": "An uncommon Lava Caves insect. This moth generates a small cloud of smoke around it to help protect it from predators.",
+    "name": "Smoke Moth",
     "icon_sprite": "spr_ui_item_insect_smoke_moth",
     "tags": [
       "bugs"

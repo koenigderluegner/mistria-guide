@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_cranberry",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_cranberry/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_cranberry/name",
+    "description": "A wooden sign featuring a painted cranberry.",
+    "name": "Cranberry Sign",
     "icon_sprite": "spr_ui_item_crop_sign_cranberry",
     "tags": [
       "furniture",

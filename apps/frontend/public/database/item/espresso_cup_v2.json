@@ -1,8 +1,8 @@
 {
   "id": "espresso_cup_v2",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/espresso_cup_v2/description",
-    "name": "items/furniture/tabletop_clutter_set/espresso_cup_v2/name",
+    "description": "A decorative white espresso cup.",
+    "name": "Espresso Cup",
     "icon_sprite": "spr_ui_item_decor_espresso_v2",
     "tags": [
       "furniture",

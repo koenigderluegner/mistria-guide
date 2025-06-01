@@ -1,8 +1,8 @@
 {
   "id": "coral_stone_archway",
   "item": {
-    "description": "items/furniture/tide_set/coral_stone_archway/description",
-    "name": "items/furniture/tide_set/coral_stone_archway/name",
+    "description": "A stone archway with coral at its base.",
+    "name": "Coral-Stone Arch",
     "icon_sprite": "spr_ui_item_furniture_coral_arch",
     "tags": [
       "furniture",

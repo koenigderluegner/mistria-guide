@@ -1,8 +1,8 @@
 {
   "id": "walnut",
   "item": {
-    "description": "items/other/crops_and_forage/walnut/description",
-    "name": "items/other/crops_and_forage/walnut/name",
+    "description": "A wild nut foraged in all seasons. Very nutritious, with an earthy flavor. Sometimes used in cooking recipes.",
+    "name": "Walnut",
     "icon_sprite": "spr_ui_item_walnut",
     "tags": [
       "forageable"

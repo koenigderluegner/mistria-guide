@@ -1,8 +1,8 @@
 {
   "id": "stone_bench_v1",
   "item": {
-    "description": "items/furniture/stone_set/stone_bench_v1/description",
-    "name": "items/furniture/stone_set/stone_bench_v1/name",
+    "description": "A stone bench.",
+    "name": "Stone Bench",
     "icon_sprite": "spr_ui_item_decor_stone_bench_v1",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "coral_mantis",
   "item": {
-    "description": "items/mines/tide_caverns/coral_mantis/description",
-    "name": "items/mines/tide_caverns/coral_mantis/name",
+    "description": "An uncommon Tide Caverns insect. Its camouflage has turned this mantis into a work of art.",
+    "name": "Coral Mantis",
     "icon_sprite": "spr_ui_item_insect_coral_mantis",
     "tags": [
       "bugs"

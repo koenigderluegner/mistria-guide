@@ -1,8 +1,8 @@
 {
   "id": "cave_shark",
   "item": {
-    "description": "items/mines/upper_mines/cave_shark/description",
-    "name": "items/mines/upper_mines/cave_shark/name",
+    "description": "A rare large Upper Mines fish. How did they end up in the Mines?!",
+    "name": "Cave Shark",
     "icon_sprite": "spr_ui_item_fish_large_cave_shark",
     "tags": [
       "fishable"

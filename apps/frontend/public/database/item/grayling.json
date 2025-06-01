@@ -1,8 +1,8 @@
 {
   "id": "grayling",
   "item": {
-    "description": "items/fish/river/grayling/description",
-    "name": "items/fish/river/grayling/name",
+    "description": "A common small river fish found on rainy days in fall.",
+    "name": "Grayling",
     "icon_sprite": "spr_ui_item_fish_small_grayling",
     "tags": [
       "fishable",

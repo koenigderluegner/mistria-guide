@@ -1,8 +1,8 @@
 {
   "id": "sea_grapes",
   "item": {
-    "description": "items/mines/tide_caverns/sea_grapes/description",
-    "name": "items/mines/tide_caverns/sea_grapes/name",
+    "description": "These grapes have a salty pop that adds a briny taste to any dish. Used in a variety of cooking recipes.",
+    "name": "Sea Grapes",
     "icon_sprite": "spr_ui_item_sea_grapes",
     "tags": [
       "forageable",

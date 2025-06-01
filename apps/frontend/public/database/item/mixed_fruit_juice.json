@@ -1,8 +1,8 @@
 {
   "id": "mixed_fruit_juice",
   "item": {
-    "description": "items/other/cooked_dishes/mixed_fruit_juice/description",
-    "name": "items/other/cooked_dishes/mixed_fruit_juice/name",
+    "description": "A tasty blended fruit juice.",
+    "name": "Mixed Fruit Juice",
     "icon_sprite": "spr_ui_item_mixed_fruit_juice",
     "tags": [
       "bubbly",

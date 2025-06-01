@@ -1,8 +1,8 @@
 {
   "id": "dace",
   "item": {
-    "description": "items/fish/river/dace/description",
-    "name": "items/fish/river/dace/name",
+    "description": "A common small river fish found on snowy days in winter.",
+    "name": "Dace",
     "icon_sprite": "spr_ui_item_fish_small_dace",
     "tags": [
       "fishable",

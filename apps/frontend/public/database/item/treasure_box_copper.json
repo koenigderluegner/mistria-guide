@@ -1,8 +1,8 @@
 {
   "id": "treasure_box_copper",
   "item": {
-    "description": "items/fish/misc/treasure_box_copper/description",
-    "name": "items/fish/misc/treasure_box_copper/name",
+    "description": "An uncommon copper treasure box. Open it to find out what's inside!",
+    "name": "Copper Treasure Box",
     "icon_sprite": "spr_ui_item_copper_chest"
   },
   "fish": {

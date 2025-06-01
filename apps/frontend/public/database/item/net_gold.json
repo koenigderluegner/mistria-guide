@@ -1,8 +1,8 @@
 {
   "id": "net_gold",
   "item": {
-    "description": "items/other/blacksmithing/net_gold/description",
-    "name": "items/other/blacksmithing/net_gold/name",
+    "description": "A splendid bug net with a golden handle. The only change is the aesthetic.",
+    "name": "Gold Net",
     "icon_sprite": "spr_ui_item_tool_gold_net",
     "tags": [
       "net",

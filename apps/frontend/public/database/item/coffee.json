@@ -1,8 +1,8 @@
 {
   "id": "coffee",
   "item": {
-    "description": "items/other/cooked_dishes/coffee/description",
-    "name": "items/other/cooked_dishes/coffee/name",
+    "description": "This hot and fragrant cup of coffee makes an ideal start to the day.",
+    "name": "Coffee",
     "icon_sprite": "spr_ui_item_coffee",
     "tags": [
       "drink",

@@ -1,8 +1,8 @@
 {
   "id": "miners_ruby_rock",
   "item": {
-    "description": "items/furniture/mineshaft_set/miners_ruby_rock/description",
-    "name": "items/furniture/mineshaft_set/miners_ruby_rock/name",
+    "description": "A decorative ruby rock.",
+    "name": "Ornamental Ruby Rock",
     "icon_sprite": "spr_ui_item_furniture_ruby_rock",
     "tags": [
       "furniture",

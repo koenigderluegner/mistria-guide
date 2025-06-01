@@ -1,8 +1,8 @@
 {
   "id": "lava_caves_stone_arch",
   "item": {
-    "description": "items/furniture/lava_cave_set/lava_caves_stone_arch/description",
-    "name": "items/furniture/lava_cave_set/lava_caves_stone_arch/name",
+    "description": "A stone arch from the Lava Caves.",
+    "name": "Lava Rock Arch",
     "icon_sprite": "spr_ui_item_furniture_lava_caves_stone_beam",
     "tags": [
       "furniture",

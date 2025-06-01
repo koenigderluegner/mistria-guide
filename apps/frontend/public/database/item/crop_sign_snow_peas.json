@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_snow_peas",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_snow_peas/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_snow_peas/name",
+    "description": "A wooden sign featuring painted snow peas.",
+    "name": "Snow Peas Sign",
     "icon_sprite": "spr_ui_item_crop_sign_snow_peas",
     "tags": [
       "furniture",

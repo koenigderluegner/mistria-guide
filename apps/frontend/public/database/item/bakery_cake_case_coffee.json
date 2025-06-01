@@ -1,8 +1,8 @@
 {
   "id": "bakery_cake_case_coffee",
   "item": {
-    "description": "items/furniture/decor_bakery_set/bakery_cake_case_coffee/description",
-    "name": "items/furniture/decor_bakery_set/bakery_cake_case_coffee/name",
+    "description": "A decorative brown display case of desserts.",
+    "name": "Bakery Dessert Case",
     "icon_sprite": "spr_ui_item_decor_bakery_cake_case_v2",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "incredibly_hot_pot",
   "item": {
-    "description": "items/other/cooked_dishes/incredibly_hot_pot/description",
-    "name": "items/other/cooked_dishes/incredibly_hot_pot/name",
+    "description": "This hot pot is literally the spiciest meal in the world.",
+    "name": "Incredibly Hot Pot",
     "icon_sprite": "spr_ui_item_incredibly_hot_pot",
     "tags": [
       "food",

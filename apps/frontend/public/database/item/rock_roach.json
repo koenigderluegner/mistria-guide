@@ -1,8 +1,8 @@
 {
   "id": "rock_roach",
   "item": {
-    "description": "items/mines/deep_earth/rock_roach/description",
-    "name": "items/mines/deep_earth/rock_roach/name",
+    "description": "An uncommon Deep Earth insect. It's cuter than you'd expect.",
+    "name": "Rock Roach",
     "icon_sprite": "spr_ui_item_insect_rock_roach",
     "tags": [
       "bugs"

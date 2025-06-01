@@ -1,8 +1,8 @@
 {
   "id": "basic_wood",
   "item": {
-    "description": "items/other/materials/basic_wood/description",
-    "name": "items/other/materials/basic_wood/name",
+    "description": "A piece of cut wood. Essential for many crafting recipes.",
+    "name": "Wood",
     "icon_sprite": "spr_ui_item_regularwood",
     "tags": [
       "refined_material",

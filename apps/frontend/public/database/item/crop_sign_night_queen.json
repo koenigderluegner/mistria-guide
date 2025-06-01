@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_night_queen",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_night_queen/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_night_queen/name",
+    "description": "A wooden sign featuring a painted night queen.",
+    "name": "Night queen Sign",
     "icon_sprite": "spr_ui_item_crop_sign_night_queen",
     "tags": [
       "furniture",

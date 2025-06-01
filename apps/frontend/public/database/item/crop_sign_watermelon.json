@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_watermelon",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_watermelon/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_watermelon/name",
+    "description": "A wooden sign featuring a painted watermelon.",
+    "name": "Watermelon Sign",
     "icon_sprite": "spr_ui_item_crop_sign_watermelon",
     "tags": [
       "furniture",

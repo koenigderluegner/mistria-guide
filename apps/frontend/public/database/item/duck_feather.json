@@ -1,8 +1,8 @@
 {
   "id": "duck_feather",
   "item": {
-    "description": "items/other/ranching/duck_feather/description",
-    "name": "items/other/ranching/duck_feather/name",
+    "description": "A soft feather dropped by a drake. Used in a variety of crafting recipes.",
+    "name": "Duck Feather",
     "icon_sprite": "spr_ui_item_duck_feather_regular",
     "tags": [
       "ranching",

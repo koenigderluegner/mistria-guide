@@ -1,8 +1,8 @@
 {
   "id": "unknown_item",
   "item": {
-    "description": "items/other/misc/unknown_item/description",
-    "name": "items/other/misc/unknown_item/name",
+    "description": "An unknown item was saved and failed to load. This can be thrown away.",
+    "name": "Unknown Item",
     "icon_sprite": "spr_illegal_16"
   }
 }

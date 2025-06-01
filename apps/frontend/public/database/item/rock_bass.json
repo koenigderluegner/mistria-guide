@@ -1,8 +1,8 @@
 {
   "id": "rock_bass",
   "item": {
-    "description": "items/fish/river/rock_bass/description",
-    "name": "items/fish/river/rock_bass/name",
+    "description": "A common medium river fish found in spring and fall.",
+    "name": "Rock Bass",
     "icon_sprite": "spr_ui_item_fish_medium_rock_bass",
     "tags": [
       "fishable",

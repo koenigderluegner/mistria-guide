@@ -1,8 +1,8 @@
 {
   "id": "gold_sheep_trophy",
   "item": {
-    "description": "items/other/festivals/gold_sheep_trophy/description",
-    "name": "items/other/festivals/gold_sheep_trophy/name",
+    "description": "A gold display trophy commemorating your sheep's first place win at the Animal Festival.",
+    "name": "Gold Sheep Trophy",
     "icon_sprite": "spr_ui_item_decor_gold_sheep_trophy",
     "tags": [
       "furniture"

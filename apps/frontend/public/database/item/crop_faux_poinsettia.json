@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_poinsettia",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_poinsettia/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_poinsettia/name",
+    "description": "A decorative faux poinsettia plant.",
+    "name": "Faux Poinsettia",
     "icon_sprite": "spr_ui_item_decor_crop_faux_poinsettia",
     "tags": [
       "furniture",

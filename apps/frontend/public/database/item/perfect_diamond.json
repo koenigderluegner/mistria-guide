@@ -1,8 +1,8 @@
 {
   "id": "perfect_diamond",
   "item": {
-    "description": "items/other/artifacts/perfect_diamond/description",
-    "name": "items/other/artifacts/perfect_diamond/name",
+    "description": "A rare artifact. This diamond is incredibly large and splendid.",
+    "name": "Perfect Diamond",
     "icon_sprite": "spr_ui_item_perfect_diamond",
     "tags": [
       "gem",

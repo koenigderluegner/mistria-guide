@@ -1,8 +1,8 @@
 {
   "id": "archerfish",
   "item": {
-    "description": "items/mines/tide_caverns/archerfish/description",
-    "name": "items/mines/tide_caverns/archerfish/name",
+    "description": "An uncommon small Tide Caverns fish. It squirts a stream of water to catch bugs.",
+    "name": "Archerfish",
     "icon_sprite": "spr_ui_item_fish_small_archerfish",
     "tags": [
       "fishable"

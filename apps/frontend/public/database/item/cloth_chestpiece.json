@@ -1,8 +1,8 @@
 {
   "id": "cloth_chestpiece",
   "item": {
-    "description": "items/other/armor/cloth_chestpiece/description",
-    "name": "items/other/armor/cloth_chestpiece/name",
+    "description": "A cloth chest piece. It's basically useless.",
+    "name": "Cloth Chestpiece",
     "icon_sprite": "spr_ui_item_equipment_cloth_chestpiece",
     "tags": [
       "chest",

@@ -1,8 +1,8 @@
 {
   "id": "witch_queen_throne",
   "item": {
-    "description": "items/furniture/witch_queen_set/witch_queen_throne/description",
-    "name": "items/furniture/witch_queen_set/witch_queen_throne/name",
+    "description": "A regal purple and gold trimmed throne fit for a Witch Queen.",
+    "name": "Witch Queen Throne",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_throne",
     "tags": [
       "furniture",

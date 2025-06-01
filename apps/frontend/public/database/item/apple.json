@@ -1,8 +1,8 @@
 {
   "id": "apple",
   "item": {
-    "description": "items/other/crops_and_forage/apple/description",
-    "name": "items/other/crops_and_forage/apple/name",
+    "description": "The delicious fruit of the apple tree, which fruits in fall. A popular ingredient in cooking recipes.",
+    "name": "Apple",
     "icon_sprite": "spr_ui_item_apple",
     "tags": [
       "crop"

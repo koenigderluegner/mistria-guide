@@ -1,8 +1,8 @@
 {
   "id": "tunnel_millipede",
   "item": {
-    "description": "items/mines/upper_mines/tunnel_millipede/description",
-    "name": "items/mines/upper_mines/tunnel_millipede/name",
+    "description": "An uncommon Upper Mines insect. Their many legs make quick work of tunneling.",
+    "name": "Tunnel Millipede",
     "icon_sprite": "spr_ui_item_insect_tunnel_millipede",
     "tags": [
       "bugs"

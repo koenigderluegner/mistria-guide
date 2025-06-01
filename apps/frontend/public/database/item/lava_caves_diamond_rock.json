@@ -1,8 +1,8 @@
 {
   "id": "lava_caves_diamond_rock",
   "item": {
-    "description": "items/furniture/lava_cave_set/lava_caves_diamond_rock/description",
-    "name": "items/furniture/lava_cave_set/lava_caves_diamond_rock/name",
+    "description": "A decorative diamond rock.",
+    "name": "Ornamental Diamond Rock",
     "icon_sprite": "spr_ui_item_furniture_diamond_rock",
     "tags": [
       "furniture",

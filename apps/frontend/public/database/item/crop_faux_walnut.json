@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_walnut",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_walnut/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_walnut/name",
+    "description": "A decorative faux walnut.",
+    "name": "Faux Walnut",
     "icon_sprite": "spr_ui_item_decor_crop_faux_walnut",
     "tags": [
       "furniture",

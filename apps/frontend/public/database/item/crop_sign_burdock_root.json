@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_burdock_root",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_burdock_root/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_burdock_root/name",
+    "description": "A wooden sign featuring a painted burdock root.",
+    "name": "Burdock Root Sign",
     "icon_sprite": "spr_ui_item_crop_sign_burdock_root",
     "tags": [
       "furniture",

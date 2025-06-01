@@ -1,8 +1,8 @@
 {
   "id": "bathtub_black",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathtub_black/description",
-    "name": "items/furniture/bathroom_furniture_set/bathtub_black/name",
+    "description": " A black bathtub.",
+    "name": "Bathtub",
     "icon_sprite": "spr_ui_item_furniture_bathtub_black",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "medium_barn_black_blueprint",
   "item": {
-    "description": "items/other/misc/medium_barn_black_blueprint/description",
-    "name": "items/other/misc/medium_barn_black_blueprint/name",
+    "description": "Use this item to place a medium white barn construction site on your farm! Requirements to build: 125 wood, 100 stone.",
+    "name": "Medium White Barn Blueprint",
     "icon_sprite": "spr_ui_item_medium_barn_black",
     "value": {
       "store": 4000

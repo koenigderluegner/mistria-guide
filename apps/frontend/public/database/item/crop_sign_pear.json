@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_pear",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_pear/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_pear/name",
+    "description": "A wooden sign featuring a painted pear.",
+    "name": "Pear Sign",
     "icon_sprite": "spr_ui_item_crop_sign_pear",
     "tags": [
       "furniture",

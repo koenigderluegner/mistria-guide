@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_oregano",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_oregano/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_oregano/name",
+    "description": "A wooden sign featuring a painted oregano.",
+    "name": "Oregano Sign",
     "icon_sprite": "spr_ui_item_crop_sign_oregano",
     "tags": [
       "furniture",

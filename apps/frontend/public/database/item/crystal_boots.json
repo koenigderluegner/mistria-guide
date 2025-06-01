@@ -1,8 +1,8 @@
 {
   "id": "crystal_boots",
   "item": {
-    "description": "items/other/armor/crystal_boots/description",
-    "name": "items/other/armor/crystal_boots/name",
+    "description": "Boots constructed out of crystal. Equip to increase defense.",
+    "name": "Crystal Greaves",
     "icon_sprite": "spr_ui_item_equipment_crystal_boots",
     "tags": [
       "boots",

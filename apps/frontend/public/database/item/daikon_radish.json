@@ -1,8 +1,8 @@
 {
   "id": "daikon_radish",
   "item": {
-    "description": "items/other/crops_and_forage/daikon_radish/description",
-    "name": "items/other/crops_and_forage/daikon_radish/name",
+    "description": "A slow growing winter crop. Has a subtly sweet, peppery flavor. Commonly used as a cooking ingredient.",
+    "name": "Daikon Radish",
     "icon_sprite": "spr_ui_item_daikon_radish",
     "tags": [
       "crop"

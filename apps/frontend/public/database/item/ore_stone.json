@@ -1,8 +1,8 @@
 {
   "id": "ore_stone",
   "item": {
-    "description": "items/other/materials/ore_stone/description",
-    "name": "items/other/materials/ore_stone/name",
+    "description": "A piece of stone. Essential for many crafting recipes.",
+    "name": "Stone",
     "icon_sprite": "spr_ui_item_rock",
     "tags": [
       "material",

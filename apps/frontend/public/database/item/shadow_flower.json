@@ -1,8 +1,8 @@
 {
   "id": "shadow_flower",
   "item": {
-    "description": "items/mines/upper_mines/shadow_flower/description",
-    "name": "items/mines/upper_mines/shadow_flower/name",
+    "description": "A rare flower that only grows in darkness. It makes a unique gift.",
+    "name": "Shadow Flower",
     "icon_sprite": "spr_ui_item_shadow_flower",
     "tags": [
       "forageable",

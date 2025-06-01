@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_breath_of_fire",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_breath_of_fire/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_breath_of_fire/name",
+    "description": "A decorative faux breath of flame.",
+    "name": "Faux Breath of Flame",
     "icon_sprite": "spr_ui_item_decor_crop_faux_breath_of_flame",
     "tags": [
       "furniture",

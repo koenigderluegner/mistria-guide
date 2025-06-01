@@ -1,8 +1,8 @@
 {
   "id": "miners_rucksack",
   "item": {
-    "description": "items/mines/upper_mines/miners_rucksack/description",
-    "name": "items/mines/upper_mines/miners_rucksack/name",
+    "description": "An uncommon artifact. It seems to have been down in the Mines a long time.",
+    "name": "Miner's Rucksack",
     "icon_sprite": "spr_ui_item_miners_rucksack",
     "tags": [
       "archaeology"

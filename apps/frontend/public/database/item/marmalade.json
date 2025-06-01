@@ -1,8 +1,8 @@
 {
   "id": "marmalade",
   "item": {
-    "description": "items/other/cooked_dishes/marmalade/description",
-    "name": "items/other/cooked_dishes/marmalade/name",
+    "description": "A sweet, zesty jam made with orange rind.",
+    "name": "Marmalade",
     "icon_sprite": "spr_ui_item_marmalade",
     "tags": [
       "food",

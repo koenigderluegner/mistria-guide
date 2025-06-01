@@ -1,8 +1,8 @@
 {
   "id": "caldosian_chocolate_cake",
   "item": {
-    "description": "items/other/cooked_dishes/caldosian_chocolate_cake/description",
-    "name": "items/other/cooked_dishes/caldosian_chocolate_cake/name",
+    "description": "A decadent cake, incredibly moist and almost too chocolatey.",
+    "name": "Chocolate Cake",
     "icon_sprite": "spr_ui_item_caldosian_chocolate_cake",
     "tags": [
       "food",

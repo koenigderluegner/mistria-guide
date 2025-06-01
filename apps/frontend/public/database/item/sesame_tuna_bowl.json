@@ -1,8 +1,8 @@
 {
   "id": "sesame_tuna_bowl",
   "item": {
-    "description": "items/other/cooked_dishes/sesame_tuna_bowl/description",
-    "name": "items/other/cooked_dishes/sesame_tuna_bowl/name",
+    "description": "A succulent bowl of sliced tuna over a bed of sesame seasoned rice.",
+    "name": "Sesame Tuna Bowl",
     "icon_sprite": "spr_ui_item_sesame_tuna_bowl",
     "tags": [
       "chef",

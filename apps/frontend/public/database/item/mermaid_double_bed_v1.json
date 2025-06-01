@@ -1,8 +1,8 @@
 {
   "id": "mermaid_double_bed_v1",
   "item": {
-    "description": "items/furniture/mermaid_set/mermaid_double_bed_v1/description",
-    "name": "items/furniture/mermaid_set/mermaid_double_bed_v1/name",
+    "description": "A purple & mint mermaid double bed with a shell headboard and gold trim.",
+    "name": "Mermaid Double Bed",
     "icon_sprite": "spr_ui_item_furniture_mermaid_double_bed_v1",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "seed_sunflower",
   "item": {
-    "description": "items/other/crops_and_forage/seed_sunflower/description",
-    "name": "items/other/crops_and_forage/seed_sunflower/name",
+    "description": "Sunflower seed. This summer flower can be harvested once.",
+    "name": "Sunflower Seed",
     "icon_sprite": "spr_ui_item_bagseed_sunflower_icon",
     "tags": [
       "seed"

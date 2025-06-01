@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_chickpea",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_chickpea/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_chickpea/name",
+    "description": "A wooden sign featuring painted chickpeas.",
+    "name": "Chickpea Sign",
     "icon_sprite": "spr_ui_item_crop_sign_chickpea",
     "tags": [
       "furniture",

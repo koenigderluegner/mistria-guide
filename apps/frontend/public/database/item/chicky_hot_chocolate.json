@@ -1,8 +1,8 @@
 {
   "id": "chicky_hot_chocolate",
   "item": {
-    "description": "items/other/festivals/chicky_hot_chocolate/description",
-    "name": "items/other/festivals/chicky_hot_chocolate/name",
+    "description": "A rich hot chocolate in a chicky shaped mug. This Animal Festival treat is liked by everyone.",
+    "name": "Chicky Hot Chocolate",
     "icon_sprite": "spr_ui_item_chicky_hot_chocolate",
     "tags": [
       "drink_sound",

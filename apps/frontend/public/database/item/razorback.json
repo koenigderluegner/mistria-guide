@@ -1,8 +1,8 @@
 {
   "id": "razorback",
   "item": {
-    "description": "items/fish/river/razorback/description",
-    "name": "items/fish/river/razorback/name",
+    "description": "A rare medium river fish found in fall.",
+    "name": "Razorback",
     "icon_sprite": "spr_ui_item_fish_medium_razorback",
     "tags": [
       "fishable",

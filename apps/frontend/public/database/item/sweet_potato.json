@@ -1,8 +1,8 @@
 {
   "id": "sweet_potato",
   "item": {
-    "description": "items/other/crops_and_forage/sweet_potato/description",
-    "name": "items/other/crops_and_forage/sweet_potato/name",
+    "description": "A fast growing fall crop. True to its name, it has a sweet flavor when cooked.",
+    "name": "Sweet Potato",
     "icon_sprite": "spr_ui_item_sweet_potato",
     "tags": [
       "crop"

@@ -1,8 +1,8 @@
 {
   "id": "fishing_trophy_shelf_red",
   "item": {
-    "description": "items/furniture/fishing_set/fishing_trophy_shelf_red/description",
-    "name": "items/furniture/fishing_set/fishing_trophy_shelf_red/name",
+    "description": "A fishing trophy wall shelf with red ribbons.",
+    "name": "Fishing Trophy Wall Shelf",
     "icon_sprite": "spr_ui_item_furniture_fishing_trophy_shelf_gold",
     "tags": [
       "furniture",

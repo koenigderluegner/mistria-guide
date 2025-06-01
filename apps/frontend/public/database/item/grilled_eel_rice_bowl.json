@@ -1,8 +1,8 @@
 {
   "id": "grilled_eel_rice_bowl",
   "item": {
-    "description": "items/other/cooked_dishes/grilled_eel_rice_bowl/description",
-    "name": "items/other/cooked_dishes/grilled_eel_rice_bowl/name",
+    "description": "A delectable grilled filet of eel served over a bed of rice.",
+    "name": "Grilled Eel Rice Bowl",
     "icon_sprite": "spr_ui_item_grilled_eel_rice_bowl",
     "tags": [
       "chef",

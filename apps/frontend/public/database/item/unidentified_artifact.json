@@ -1,8 +1,8 @@
 {
   "id": "unidentified_artifact",
   "item": {
-    "description": "items/other/misc/unidentified_artifact/description",
-    "name": "items/other/misc/unidentified_artifact/name",
+    "description": "A new artifact you do not recognize. Use it to identify what it is!",
+    "name": "Unidentified Artifact",
     "icon_sprite": "spr_ui_item_unidentified_artifact",
     "tags": [
       "identify_item"

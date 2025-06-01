@@ -1,8 +1,8 @@
 {
   "id": "counter_cake_double_chocolate",
   "item": {
-    "description": "items/furniture/counter_set/counter_cake_double_chocolate/description",
-    "name": "items/furniture/counter_set/counter_cake_double_chocolate/name",
+    "description": "A chocolate cake counter piece. Place two or more together to connect them!",
+    "name": "Cake Counter",
     "icon_sprite": "spr_ui_item_decor_counter_cake_double_chocolate",
     "tags": [
       "furniture",

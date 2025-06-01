@@ -1,8 +1,8 @@
 {
   "id": "cabin_firewood_cherry",
   "item": {
-    "description": "items/furniture/rustic_cabin_set/cabin_firewood_cherry/description",
-    "name": "items/furniture/rustic_cabin_set/cabin_firewood_cherry/name",
+    "description": "A neat stack of cherry firewood.",
+    "name": "Rustic Cabin Firewood",
     "icon_sprite": "spr_ui_item_furniture_cabin_firewood_v1",
     "tags": [
       "furniture",

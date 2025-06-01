@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_frost_lily",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_frost_lily/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_frost_lily/name",
+    "description": "A decorative faux frost lily.",
+    "name": "Faux Frost Lily",
     "icon_sprite": "spr_ui_item_decor_crop_faux_frost_lily",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "tuna",
   "item": {
-    "description": "items/fish/ocean/tuna/description",
-    "name": "items/fish/ocean/tuna/name",
+    "description": "A common large ocean fish found in all seasons.",
+    "name": "Tuna",
     "icon_sprite": "spr_ui_item_fish_large_tuna",
     "tags": [
       "fishable",

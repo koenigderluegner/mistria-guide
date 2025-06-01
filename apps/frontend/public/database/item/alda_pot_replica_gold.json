@@ -1,8 +1,8 @@
 {
   "id": "alda_pot_replica_gold",
   "item": {
-    "description": "items/furniture/mistrian_history_set/alda_pot_replica_gold/description",
-    "name": "items/furniture/mistrian_history_set/alda_pot_replica_gold/name",
+    "description": "A gold colored replica of an Alda Pot artifact.",
+    "name": "Alda Pot Replica",
     "icon_sprite": "spr_ui_item_alda_pot_replica_gold",
     "tags": [
       "furniture",

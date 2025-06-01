@@ -1,8 +1,8 @@
 {
   "id": "starter_scarecrow",
   "item": {
-    "description": "items/furniture/starter_farm_set/starter_scarecrow/description",
-    "name": "items/furniture/starter_farm_set/starter_scarecrow/name",
+    "description": "A friendly scarecrow.",
+    "name": "Scarecrow",
     "icon_sprite": "spr_ui_item_decor_starter_scarecrow",
     "tags": [
       "furniture",

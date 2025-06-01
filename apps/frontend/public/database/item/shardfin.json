@@ -1,8 +1,8 @@
 {
   "id": "shardfin",
   "item": {
-    "description": "items/mines/deep_earth/shardfin/description",
-    "name": "items/mines/deep_earth/shardfin/name",
+    "description": "An uncommon small Deep Earth fish. This fish's sleek fin has an iridescent shimmer.",
+    "name": "Shardfin",
     "icon_sprite": "spr_ui_item_fish_small_shardfin",
     "tags": [
       "fishable"

@@ -1,8 +1,8 @@
 {
   "id": "sapling_oak",
   "item": {
-    "description": "items/other/mill/sapling_oak/description",
-    "name": "items/other/mill/sapling_oak/name",
+    "description": "An oak tree sapling. This tree can be planted any time of year.",
+    "name": "Oak Sapling",
     "icon_sprite": "spr_ui_item_oak_sapling",
     "tags": [
       "seed",

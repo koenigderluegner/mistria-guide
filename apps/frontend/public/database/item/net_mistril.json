@@ -1,8 +1,8 @@
 {
   "id": "net_mistril",
   "item": {
-    "description": "items/other/blacksmithing/net_mistril/description",
-    "name": "items/other/blacksmithing/net_mistril/name",
+    "description": "A bug catching net made from mistril. The only change is the aesthetic.",
+    "name": "Mistril Net",
     "icon_sprite": "spr_ui_item_tool_mistril_net",
     "value": {
       "bin": 1450,

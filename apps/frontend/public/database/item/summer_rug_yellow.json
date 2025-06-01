@@ -1,8 +1,8 @@
 {
   "id": "summer_rug_yellow",
   "item": {
-    "description": "items/furniture/summer_set/summer_rug_yellow/description",
-    "name": "items/furniture/summer_set/summer_rug_yellow/name",
+    "description": "A yellow rug in the shape of a sunflower.",
+    "name": "Summer Flower Rug",
     "icon_sprite": "spr_ui_item_furniture_summer_rug_yellow",
     "tags": [
       "furniture",

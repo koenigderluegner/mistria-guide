@@ -1,8 +1,8 @@
 {
   "id": "salmon_sashimi",
   "item": {
-    "description": "items/other/cooked_dishes/salmon_sashimi/description",
-    "name": "items/other/cooked_dishes/salmon_sashimi/name",
+    "description": "An expertly cut slice of premium salmon.",
+    "name": "Salmon Sashimi",
     "icon_sprite": "spr_ui_item_salmon_sashimi",
     "tags": [
       "food",

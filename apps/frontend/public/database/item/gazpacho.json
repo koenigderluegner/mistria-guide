@@ -1,8 +1,8 @@
 {
   "id": "gazpacho",
   "item": {
-    "description": "items/other/cooked_dishes/gazpacho/description",
-    "name": "items/other/cooked_dishes/gazpacho/name",
+    "description": "A fresh tasting soup served cold on hot summer days.",
+    "name": "Gazpacho",
     "icon_sprite": "spr_ui_item_gazpacho",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "crystal_helmet",
   "item": {
-    "description": "items/other/armor/crystal_helmet/description",
-    "name": "items/other/armor/crystal_helmet/name",
+    "description": "A helmet constructed out of crystal. Equip to increase defense.",
+    "name": "Crystal Helmet",
     "icon_sprite": "spr_ui_item_equipment_crystal_helmet",
     "tags": [
       "head",

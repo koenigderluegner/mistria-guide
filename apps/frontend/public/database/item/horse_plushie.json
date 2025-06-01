@@ -1,8 +1,8 @@
 {
   "id": "horse_plushie",
   "item": {
-    "description": "items/other/festivals/horse_plushie/description",
-    "name": "items/other/festivals/horse_plushie/name",
+    "description": "A cute horse plushie. Awarded at the Animal Festival.",
+    "name": "Horse Plushie",
     "icon_sprite": "spr_ui_item_decor_horse_plushie",
     "tags": [
       "furniture"

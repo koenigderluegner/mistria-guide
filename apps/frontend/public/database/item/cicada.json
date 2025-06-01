@@ -1,8 +1,8 @@
 {
   "id": "cicada",
   "item": {
-    "description": "items/other/bugs/cicada/description",
-    "name": "items/other/bugs/cicada/name",
+    "description": "A common insect found in summer. Sometimes found when shaking trees.",
+    "name": "Cicada",
     "icon_sprite": "spr_ui_item_insect_cicada",
     "tags": [
       "bugs"

@@ -1,8 +1,8 @@
 {
   "id": "spell_fruit",
   "item": {
-    "description": "items/mines/ruins/spell_fruit/description",
-    "name": "items/mines/ruins/spell_fruit/name",
+    "description": "A fruit with a mouthwatering aroma that's quite mesmerizing.",
+    "name": "Spell Fruit",
     "icon_sprite": "spr_ui_item_spell_fruit",
     "tags": [
       "forageable",

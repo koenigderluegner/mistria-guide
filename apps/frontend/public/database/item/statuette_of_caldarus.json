@@ -1,8 +1,8 @@
 {
   "id": "statuette_of_caldarus",
   "item": {
-    "description": "items/other/artifacts/statuette_of_caldarus/description",
-    "name": "items/other/artifacts/statuette_of_caldarus/name",
+    "description": "A legendary artifact. There seems to have been a subset of the empire that once worshiped Caldarus...",
+    "name": "Statuette of Caldarus",
     "icon_sprite": "spr_ui_item_statuette_of_caldarus",
     "tags": [
       "archaeology"

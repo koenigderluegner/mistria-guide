@@ -1,8 +1,8 @@
 {
   "id": "seed_temple_flower",
   "item": {
-    "description": "items/other/crops_and_forage/seed_temple_flower/description",
-    "name": "items/other/crops_and_forage/seed_temple_flower/name",
+    "description": "Temple flower seed. This any-season flower can be harvested every 3 days once it reaches maturity.",
+    "name": "Temple Flower Seed",
     "icon_sprite": "spr_ui_item_bagseed_temple_flower_icon",
     "tags": [
       "seed"

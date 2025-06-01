@@ -1,8 +1,8 @@
 {
   "id": "fuzzy_moth",
   "item": {
-    "description": "items/other/bugs/fuzzy_moth/description",
-    "name": "items/other/bugs/fuzzy_moth/name",
+    "description": "An uncommon insect found at night in all seasons.",
+    "name": "Fuzzy Moth",
     "icon_sprite": "spr_ui_item_insect_fuzzymoth",
     "tags": [
       "bugs"

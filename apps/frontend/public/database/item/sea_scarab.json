@@ -1,8 +1,8 @@
 {
   "id": "sea_scarab",
   "item": {
-    "description": "items/mines/tide_caverns/sea_scarab/description",
-    "name": "items/mines/tide_caverns/sea_scarab/name",
+    "description": "An uncommon Tide Caverns insect. Its pretty carapace looks like the sea on a sunny day.",
+    "name": "Sea Scarab",
     "icon_sprite": "spr_ui_item_insect_sea_scarab",
     "tags": [
       "bugs"

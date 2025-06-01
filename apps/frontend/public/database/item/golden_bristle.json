@@ -1,8 +1,8 @@
 {
   "id": "golden_bristle",
   "item": {
-    "description": "items/other/ranching/golden_bristle/description",
-    "name": "items/other/ranching/golden_bristle/name",
+    "description": "Gold quality hairs dropped from the coat of a capybara. Used in a variety of crafting recipes.",
+    "name": "Golden Bristle",
     "icon_sprite": "spr_ui_item_capybara_bristle_gold",
     "tags": [
       "ranching",

@@ -1,8 +1,8 @@
 {
   "id": "worn_chair",
   "item": {
-    "description": "items/furniture/default_worn_set/worn_chair/description",
-    "name": "items/furniture/default_worn_set/worn_chair/name",
+    "description": "A worn wooden chair.",
+    "name": "Worn Chair",
     "icon_sprite": "spr_ui_item_furniture_default_chair_v1",
     "tags": [
       "furniture",

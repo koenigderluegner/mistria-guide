@@ -1,8 +1,8 @@
 {
   "id": "sapling_apple",
   "item": {
-    "description": "items/other/crops_and_forage/sapling_apple/description",
-    "name": "items/other/crops_and_forage/sapling_apple/name",
+    "description": "An apple tree sapling. This tree can be planted any time of year, but will only fruit in the fall.",
+    "name": "Apple Sapling",
     "icon_sprite": "spr_ui_item_apple_sapling",
     "tags": [
       "seed"

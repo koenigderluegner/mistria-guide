@@ -1,8 +1,8 @@
 {
   "id": "round_cushioned_stool_beige",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/round_cushioned_stool_beige/description",
-    "name": "items/furniture/bathroom_furniture_set/round_cushioned_stool_beige/name",
+    "description": "A cream round cushioned stool.",
+    "name": "Round Cushioned Stool",
     "icon_sprite": "spr_ui_item_furniture_round_cushion_stool_beige",
     "tags": [
       "furniture",

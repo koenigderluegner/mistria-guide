@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_thyme",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_thyme/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_thyme/name",
+    "description": "A wooden sign featuring a painted thyme.",
+    "name": "Thyme Sign",
     "icon_sprite": "spr_ui_item_crop_sign_thyme",
     "tags": [
       "furniture",

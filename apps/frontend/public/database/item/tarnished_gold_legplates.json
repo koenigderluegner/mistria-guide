@@ -1,8 +1,8 @@
 {
   "id": "tarnished_gold_legplates",
   "item": {
-    "description": "items/other/armor/tarnished_gold_legplates/description",
-    "name": "items/other/armor/tarnished_gold_legplates/name",
+    "description": "Legplates constructed out of tarnished gold. Equip to increase defense.",
+    "name": "Tarnished Gold Legplates",
     "icon_sprite": "spr_ui_item_equipment_tarnished_gold_pants",
     "tags": [
       "legs",

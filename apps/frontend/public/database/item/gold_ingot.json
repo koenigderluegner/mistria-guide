@@ -1,8 +1,8 @@
 {
   "id": "gold_ingot",
   "item": {
-    "description": "items/other/blacksmithing/gold_ingot/description",
-    "name": "items/other/blacksmithing/gold_ingot/name",
+    "description": "An ingot of pure gold. Used in a variety of blacksmithing and crafting recipes.",
+    "name": "Gold Ingot",
     "icon_sprite": "spr_ui_item_gold_ingot",
     "tags": [
       "ingot",

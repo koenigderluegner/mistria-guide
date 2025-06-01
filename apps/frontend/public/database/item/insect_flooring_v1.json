@@ -1,8 +1,8 @@
 {
   "id": "insect_flooring_v1",
   "item": {
-    "description": "items/furniture/insect_set/insect_flooring_v1/description",
-    "name": "items/furniture/insect_set/insect_flooring_v1/name",
+    "description": "Green tile flooring with a butterfly pattern.",
+    "name": "Insect Flooring",
     "icon_sprite": "spr_ui_item_furniture_insect_flooring_v1",
     "tags": [
       "furniture",

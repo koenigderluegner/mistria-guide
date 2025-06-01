@@ -1,8 +1,8 @@
 {
   "id": "tea",
   "item": {
-    "description": "items/other/crops_and_forage/tea/description",
-    "name": "items/other/crops_and_forage/tea/name",
+    "description": "A summer crop that regrows. Can be steeped to make refreshing beverages.",
+    "name": "Tea",
     "icon_sprite": "spr_ui_item_tea",
     "tags": [
       "crop"

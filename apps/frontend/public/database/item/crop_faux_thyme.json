@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_thyme",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_thyme/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_thyme/name",
+    "description": "A decorative faux thyme plant.",
+    "name": "Faux Thyme",
     "icon_sprite": "spr_ui_item_decor_crop_faux_thyme",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "chess_pawn_light_wood",
   "item": {
-    "description": "items/furniture/chess_set/chess_pawn_light_wood/description",
-    "name": "items/furniture/chess_set/chess_pawn_light_wood/name",
+    "description": "An oversized wood-toned pawn chess piece.",
+    "name": "Chess Pawn Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_pawn_light_wood",
     "tags": [
       "furniture",

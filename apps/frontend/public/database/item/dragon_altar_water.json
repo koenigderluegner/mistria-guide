@@ -1,8 +1,8 @@
 {
   "id": "dragon_altar_water",
   "item": {
-    "description": "items/furniture/dragon_altar_set/dragon_altar_water/description",
-    "name": "items/furniture/dragon_altar_set/dragon_altar_water/name",
+    "description": "A replica dragon claw altar, matching the water seal room.",
+    "name": "Dragon Claw Altar",
     "icon_sprite": "spr_ui_item_decor_water_seal_altar",
     "tags": [
       "furniture",

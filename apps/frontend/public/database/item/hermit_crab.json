@@ -1,8 +1,8 @@
 {
   "id": "hermit_crab",
   "item": {
-    "description": "items/other/bugs/hermit_crab/description",
-    "name": "items/other/bugs/hermit_crab/name",
+    "description": "A common crustacean found at the beach in all seasons.",
+    "name": "Hermit Crab",
     "icon_sprite": "spr_ui_item_insect_hermitcrab",
     "tags": [
       "bugs"

@@ -1,8 +1,8 @@
 {
   "id": "ore_ruby",
   "item": {
-    "description": "items/other/materials/ore_ruby/description",
-    "name": "items/other/materials/ore_ruby/name",
+    "description": "A sparkling red gem. Can be sold, gifted, or used in certain crafting recipes.",
+    "name": "Ruby",
     "icon_sprite": "spr_ui_item_ruby",
     "tags": [
       "refined_material",

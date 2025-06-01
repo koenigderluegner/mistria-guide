@@ -1,8 +1,8 @@
 {
   "id": "dough_lad_doll",
   "item": {
-    "description": "items/other/misc/dough_lad_doll/description",
-    "name": "items/other/misc/dough_lad_doll/name",
+    "description": "You're not quite sure what this is...",
+    "name": "Doughlad Doll",
     "icon_sprite": "spr_ui_item_doughlad",
     "tags": [
       "junk"

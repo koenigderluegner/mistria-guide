@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_moon_fruit",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_moon_fruit/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_moon_fruit/name",
+    "description": "A wooden sign featuring a painted moon fruit.",
+    "name": "Moon Fruit Sign",
     "icon_sprite": "spr_ui_item_crop_sign_moon_fruit",
     "tags": [
       "furniture",

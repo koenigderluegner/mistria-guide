@@ -1,8 +1,8 @@
 {
   "id": "sapling_pomegranate",
   "item": {
-    "description": "items/other/crops_and_forage/sapling_pomegranate/description",
-    "name": "items/other/crops_and_forage/sapling_pomegranate/name",
+    "description": "A pomegranate tree sapling. This tree can be planted any time of year, but will only fruit in the winter.",
+    "name": "Pomegranate Sapling",
     "icon_sprite": "spr_ui_item_pomegranate_sapling",
     "tags": [
       "seed"

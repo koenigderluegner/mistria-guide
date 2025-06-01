@@ -1,8 +1,8 @@
 {
   "id": "tea_black",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/tea_black/description",
-    "name": "items/furniture/tabletop_clutter_set/tea_black/name",
+    "description": "A decorative cup of black tea.",
+    "name": "Black Tea Cup",
     "icon_sprite": "spr_ui_item_decor_clutter_tea_black",
     "tags": [
       "furniture",

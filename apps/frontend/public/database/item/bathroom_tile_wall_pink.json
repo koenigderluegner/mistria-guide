@@ -1,8 +1,8 @@
 {
   "id": "bathroom_tile_wall_pink",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_tile_wall_pink/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_tile_wall_pink/name",
+    "description": "A wallpaper that resembles pink and white bathroom tile.",
+    "name": "Bathroom Tile Wall",
     "icon_sprite": "spr_ui_item_furniture_bathroom_tile_wall_pink",
     "tags": [
       "furniture",

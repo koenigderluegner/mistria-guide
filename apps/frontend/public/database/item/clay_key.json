@@ -1,8 +1,8 @@
 {
   "id": "clay_key",
   "item": {
-    "description": "items/other/misc/clay_key/description",
-    "name": "items/other/misc/clay_key/name",
+    "description": "An old clay key which can be used to open clay chests.",
+    "name": "Clay Key",
     "icon_sprite": "spr_ui_item_clay_key",
     "value": {
       "bin": 25

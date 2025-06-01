@@ -1,8 +1,8 @@
 {
   "id": "bronze_sheep_trophy",
   "item": {
-    "description": "items/other/festivals/bronze_sheep_trophy/description",
-    "name": "items/other/festivals/bronze_sheep_trophy/name",
+    "description": "A bronze display trophy commemorating your sheep's third place win at the Animal Festival.",
+    "name": "Bronze Sheep Trophy",
     "icon_sprite": "spr_ui_item_decor_bronze_sheep_trophy",
     "tags": [
       "furniture"

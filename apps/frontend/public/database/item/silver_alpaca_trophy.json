@@ -1,8 +1,8 @@
 {
   "id": "silver_alpaca_trophy",
   "item": {
-    "description": "items/other/festivals/silver_alpaca_trophy/description",
-    "name": "items/other/festivals/silver_alpaca_trophy/name",
+    "description": "A silver display trophy commemorating your alpaca's second place win at the Animal Festival.",
+    "name": "Silver Alpaca Trophy",
     "icon_sprite": "spr_ui_item_decor_silver_alpaca_trophy",
     "tags": [
       "furniture"

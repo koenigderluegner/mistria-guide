@@ -1,8 +1,8 @@
 {
   "id": "celosia",
   "item": {
-    "description": "items/other/crops_and_forage/celosia/description",
-    "name": "items/other/crops_and_forage/celosia/name",
+    "description": "A fast growing pink fall flower. Can be used in crafting recipes.",
+    "name": "Celosia",
     "icon_sprite": "spr_ui_item_celosia",
     "tags": [
       "crop",

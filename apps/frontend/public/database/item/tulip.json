@@ -1,8 +1,8 @@
 {
   "id": "tulip",
   "item": {
-    "description": "items/other/crops_and_forage/tulip/description",
-    "name": "items/other/crops_and_forage/tulip/name",
+    "description": "A pretty pink flower grown in the spring. Can be given as a gift or used in various crafting recipes.",
+    "name": "Tulip",
     "icon_sprite": "spr_ui_item_tulip",
     "tags": [
       "forageable",

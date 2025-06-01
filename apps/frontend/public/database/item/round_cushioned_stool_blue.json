@@ -1,8 +1,8 @@
 {
   "id": "round_cushioned_stool_blue",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/round_cushioned_stool_blue/description",
-    "name": "items/furniture/bathroom_furniture_set/round_cushioned_stool_blue/name",
+    "description": "A blue round cushioned stool.",
+    "name": "Round Cushioned Stool",
     "icon_sprite": "spr_ui_item_furniture_round_cushion_stool_blue",
     "tags": [
       "furniture",

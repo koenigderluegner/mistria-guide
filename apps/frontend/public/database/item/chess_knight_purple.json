@@ -1,8 +1,8 @@
 {
   "id": "chess_knight_purple",
   "item": {
-    "description": "items/furniture/chess_set/chess_knight_purple/description",
-    "name": "items/furniture/chess_set/chess_knight_purple/name",
+    "description": "An oversized purple knight chess piece.",
+    "name": "Chess Knight Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_knight_purple",
     "tags": [
       "furniture",

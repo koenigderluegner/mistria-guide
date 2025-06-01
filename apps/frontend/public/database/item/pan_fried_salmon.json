@@ -1,8 +1,8 @@
 {
   "id": "pan_fried_salmon",
   "item": {
-    "description": "items/other/cooked_dishes/pan_fried_salmon/description",
-    "name": "items/other/cooked_dishes/pan_fried_salmon/name",
+    "description": "This pan fried salmon is perfectly tender and flaky.",
+    "name": "Pan-fried Salmon",
     "icon_sprite": "spr_ui_item_panfriedsalmon",
     "tags": [
       "food",

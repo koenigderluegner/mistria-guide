@@ -1,8 +1,8 @@
 {
   "id": "alda_mural_tablet",
   "item": {
-    "description": "items/other/artifacts/alda_mural_tablet/description",
-    "name": "items/other/artifacts/alda_mural_tablet/name",
+    "description": "A rare artifact. Depicts a scene of the Mistrian coast, as seen hundreds of years ago.",
+    "name": "Alda Mural Tablet",
     "icon_sprite": "spr_ui_item_alda_mural_tablet",
     "tags": [
       "archaeology"

@@ -1,8 +1,8 @@
 {
   "id": "cranberry_orange_scone",
   "item": {
-    "description": "items/other/cooked_dishes/cranberry_orange_scone/description",
-    "name": "items/other/cooked_dishes/cranberry_orange_scone/name",
+    "description": "This inviting scone has whole cranberries baked in.",
+    "name": "Cranberry Orange Scone",
     "icon_sprite": "spr_ui_item_cranberry_orange_scone",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "haunted_attic_candle_cluster_dark",
   "item": {
-    "description": "items/furniture/haunted_attic_set/haunted_attic_candle_cluster_dark/description",
-    "name": "items/furniture/haunted_attic_set/haunted_attic_candle_cluster_dark/name",
+    "description": "A group of purple candles that look partially melted.",
+    "name": "Melted Candle Cluster",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_candle_3_dark",
     "tags": [
       "furniture",

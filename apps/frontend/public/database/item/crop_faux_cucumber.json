@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_cucumber",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_cucumber/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_cucumber/name",
+    "description": "A decorative faux cucumber plant.",
+    "name": "Faux Cucumber",
     "icon_sprite": "spr_ui_item_decor_crop_faux_cucumber",
     "tags": [
       "furniture",

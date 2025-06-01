@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_ash_mushroom",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_ash_mushroom/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_ash_mushroom/name",
+    "description": "A decorative faux ash mushroom.",
+    "name": "Faux Ash Mushroom",
     "icon_sprite": "spr_ui_item_decor_crop_faux_ash_mushroom",
     "tags": [
       "furniture",

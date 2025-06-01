@@ -1,8 +1,8 @@
 {
   "id": "firesail_fish",
   "item": {
-    "description": "items/mines/lava_caves/firesail_fish/description",
-    "name": "items/mines/lava_caves/firesail_fish/name",
+    "description": "A rare large Lava Caves fish found in lava. Its physiology is a complete mystery.",
+    "name": "Firesail Fish",
     "icon_sprite": "spr_ui_item_fish_large_firesail_fish",
     "tags": [
       "fishable"

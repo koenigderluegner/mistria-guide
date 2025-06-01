@@ -1,8 +1,8 @@
 {
   "id": "earth_tablet_rubbing",
   "item": {
-    "description": "items/other/misc/earth_tablet_rubbing/description",
-    "name": "items/other/misc/earth_tablet_rubbing/name",
+    "description": "A rubbing of the tablet found on the 40th floor of the Mines.",
+    "name": "Earth Tablet Rubbing",
     "icon_sprite": "spr_ui_item_earth_tablet_rubbing"
   }
 }

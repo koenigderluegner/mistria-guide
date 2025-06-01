@@ -1,8 +1,8 @@
 {
   "id": "latte",
   "item": {
-    "description": "items/other/cooked_dishes/latte/description",
-    "name": "items/other/cooked_dishes/latte/name",
+    "description": "A frothy steamed blend of milk and coffee.",
+    "name": "Latte",
     "icon_sprite": "spr_ui_item_latte",
     "tags": [
       "food",

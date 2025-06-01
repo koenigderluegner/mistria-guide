@@ -1,8 +1,8 @@
 {
   "id": "basic_wallpaper_oak",
   "item": {
-    "description": "items/furniture/basic_set/basic_wallpaper_oak/description",
-    "name": "items/furniture/basic_set/basic_wallpaper_oak/name",
+    "description": "Basic oak wallpaper for your home.",
+    "name": "Basic Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_basic_wallpaper_v1",
     "tags": [
       "furniture",

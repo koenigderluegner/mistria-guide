@@ -1,8 +1,8 @@
 {
   "id": "cottage_wall_window_ash",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_wall_window_ash/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_wall_window_ash/name",
+    "description": "A lovely ash wood window dressed in pink curtains with a white trim.",
+    "name": "Lovely Cottage Window",
     "icon_sprite": "spr_ui_item_furniture_cottage_wall_window_v2",
     "tags": [
       "furniture",

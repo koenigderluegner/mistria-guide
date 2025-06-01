@@ -1,8 +1,8 @@
 {
   "id": "ore_iron",
   "item": {
-    "description": "items/other/materials/ore_iron/description",
-    "name": "items/other/materials/ore_iron/name",
+    "description": "A chunk of iron ore. Can be refined into ingots for crafting.",
+    "name": "Iron Ore",
     "icon_sprite": "spr_ui_item_iron_ore",
     "tags": [
       "material",

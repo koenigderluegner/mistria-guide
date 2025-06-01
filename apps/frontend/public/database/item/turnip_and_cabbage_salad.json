@@ -1,8 +1,8 @@
 {
   "id": "turnip_and_cabbage_salad",
   "item": {
-    "description": "items/other/cooked_dishes/turnip_and_cabbage_salad/description",
-    "name": "items/other/cooked_dishes/turnip_and_cabbage_salad/name",
+    "description": "A fresh salad with a wonderful crunch.",
+    "name": "Turnip & Cabbage Salad",
     "icon_sprite": "spr_ui_item_turnip_and_cabbage_salad",
     "tags": [
       "food",

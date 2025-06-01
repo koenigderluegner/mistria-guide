@@ -1,8 +1,8 @@
 {
   "id": "journal",
   "item": {
-    "description": "items/furniture/default_worn_set/journal/description",
-    "name": "items/furniture/default_worn_set/journal/name",
+    "description": "A simple diary used for recording your journey.",
+    "name": "Diary",
     "icon_sprite": "spr_ui_item_object_journal",
     "tags": [
       "furniture",

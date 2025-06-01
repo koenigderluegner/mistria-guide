@@ -1,8 +1,8 @@
 {
   "id": "spring_potted_tree_pink",
   "item": {
-    "description": "items/furniture/spring_set/spring_potted_tree_pink/description",
-    "name": "items/furniture/spring_set/spring_potted_tree_pink/name",
+    "description": "A flowering tree in a pink pot.",
+    "name": "Spring Potted Tree",
     "icon_sprite": "spr_ui_item_furniture_spring_potted_tree_pink",
     "tags": [
       "furniture",

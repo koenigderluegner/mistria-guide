@@ -1,8 +1,8 @@
 {
   "id": "sheep_wool",
   "item": {
-    "description": "items/other/ranching/sheep_wool/description",
-    "name": "items/other/ranching/sheep_wool/name",
+    "description": "Thick and cozy wool from a sheep. Used in a variety of crafting recipes.",
+    "name": "Sheep Wool",
     "icon_sprite": "spr_ui_item_sheep_wool_regular",
     "tags": [
       "ranching",

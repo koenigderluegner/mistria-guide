@@ -1,8 +1,8 @@
 {
   "id": "net_copper",
   "item": {
-    "description": "items/other/blacksmithing/net_copper/description",
-    "name": "items/other/blacksmithing/net_copper/name",
+    "description": "A bug catching net with a copper handle. The only change is the aesthetic.",
+    "name": "Copper Net",
     "icon_sprite": "spr_ui_item_tool_copper_net",
     "tags": [
       "net",

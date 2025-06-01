@@ -1,8 +1,8 @@
 {
   "id": "sapphire_betta",
   "item": {
-    "description": "items/mines/tide_caverns/sapphire_betta/description",
-    "name": "items/mines/tide_caverns/sapphire_betta/name",
+    "description": "A common small Tide Caverns fish. It has a lovely color.",
+    "name": "Sapphire Betta",
     "icon_sprite": "spr_ui_item_fish_small_sapphire_betta",
     "tags": [
       "fishable"

@@ -1,8 +1,8 @@
 {
   "id": "crystal_wing_moth",
   "item": {
-    "description": "items/mines/deep_earth/crystal_wing_moth/description",
-    "name": "items/mines/deep_earth/crystal_wing_moth/name",
+    "description": "A rare Deep Earth insect. Their delicate wings reflect the light and make them sparkle.",
+    "name": "Crystal Wing Moth",
     "icon_sprite": "spr_ui_item_insect_crystal_wing_moth",
     "tags": [
       "bugs"

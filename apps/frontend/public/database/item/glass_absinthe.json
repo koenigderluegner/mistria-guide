@@ -1,8 +1,8 @@
 {
   "id": "glass_absinthe",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/glass_absinthe/description",
-    "name": "items/furniture/tabletop_clutter_set/glass_absinthe/name",
+    "description": "A decorative absinthe glass.",
+    "name": "Absinthe Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_absinthe",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "glass_cocktail",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/glass_cocktail/description",
-    "name": "items/furniture/tabletop_clutter_set/glass_cocktail/name",
+    "description": "A decorative cocktail glass.",
+    "name": "Cocktail Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_cocktail",
     "tags": [
       "furniture",

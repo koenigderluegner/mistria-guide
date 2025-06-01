@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_broccoli",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_broccoli/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_broccoli/name",
+    "description": "A decorative faux broccoli plant.",
+    "name": "Faux Broccoli",
     "icon_sprite": "spr_ui_item_decor_crop_faux_broccoli",
     "tags": [
       "furniture",

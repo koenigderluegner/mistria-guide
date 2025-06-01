@@ -1,8 +1,8 @@
 {
   "id": "lemonade",
   "item": {
-    "description": "items/other/cooked_dishes/lemonade/description",
-    "name": "items/other/cooked_dishes/lemonade/name",
+    "description": "This cold and refreshing drink is pleasantly sour.",
+    "name": "Lemonade",
     "icon_sprite": "spr_ui_item_lemonade",
     "tags": [
       "food",

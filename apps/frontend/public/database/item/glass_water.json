@@ -1,8 +1,8 @@
 {
   "id": "glass_water",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/glass_water/description",
-    "name": "items/furniture/tabletop_clutter_set/glass_water/name",
+    "description": "A decorative water glass.",
+    "name": "Water Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_water",
     "tags": [
       "furniture",

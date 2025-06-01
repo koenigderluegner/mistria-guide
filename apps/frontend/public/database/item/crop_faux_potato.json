@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_potato",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_potato/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_potato/name",
+    "description": "A decorative faux potato plant.",
+    "name": "Faux Potato",
     "icon_sprite": "spr_ui_item_decor_crop_faux_potato",
     "tags": [
       "furniture",

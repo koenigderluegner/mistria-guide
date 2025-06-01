@@ -1,8 +1,8 @@
 {
   "id": "golden_cookies",
   "item": {
-    "description": "items/other/cooked_dishes/golden_cookies/description",
-    "name": "items/other/cooked_dishes/golden_cookies/name",
+    "description": "Incredibly tasty cookies made with only the finest ingredients.",
+    "name": "Golden Cookies",
     "icon_sprite": "spr_ui_item_golden_cookies",
     "tags": [
       "food",

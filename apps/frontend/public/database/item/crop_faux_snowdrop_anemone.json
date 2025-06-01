@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_snowdrop_anemone",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_snowdrop_anemone/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_snowdrop_anemone/name",
+    "description": "A decorative faux snowdrop anemone plant.",
+    "name": "Faux Snowdrop Anemone",
     "icon_sprite": "spr_ui_item_decor_crop_faux_snowdrop_anemone",
     "tags": [
       "furniture",

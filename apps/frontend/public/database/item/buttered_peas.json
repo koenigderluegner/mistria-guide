@@ -1,8 +1,8 @@
 {
   "id": "buttered_peas",
   "item": {
-    "description": "items/other/cooked_dishes/buttered_peas/description",
-    "name": "items/other/cooked_dishes/buttered_peas/name",
+    "description": "A generous amount of butter is the secret to these delicious peas.",
+    "name": "Buttered Peas",
     "icon_sprite": "spr_ui_item_buttered_peas",
     "tags": [
       "food",

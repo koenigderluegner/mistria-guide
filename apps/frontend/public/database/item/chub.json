@@ -1,8 +1,8 @@
 {
   "id": "chub",
   "item": {
-    "description": "items/fish/river/chub/description",
-    "name": "items/fish/river/chub/name",
+    "description": "A common small river fish found in spring.",
+    "name": "Chub",
     "icon_sprite": "spr_ui_item_fish_small_chub",
     "tags": [
       "fishable",

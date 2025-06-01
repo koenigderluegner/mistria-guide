@@ -1,8 +1,8 @@
 {
   "id": "clam",
   "item": {
-    "description": "items/fish/misc/clam/description",
-    "name": "items/fish/misc/clam/name",
+    "description": "A common find found in all seasons.",
+    "name": "Clam",
     "icon_sprite": "spr_ui_item_dive_clam",
     "tags": [
       "dive",

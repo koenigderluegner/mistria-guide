@@ -1,8 +1,8 @@
 {
   "id": "bronze_horse_trophy",
   "item": {
-    "description": "items/other/festivals/bronze_horse_trophy/description",
-    "name": "items/other/festivals/bronze_horse_trophy/name",
+    "description": "A bronze display trophy commemorating your horse's third place win at the Animal Festival.",
+    "name": "Bronze Horse Trophy",
     "icon_sprite": "spr_ui_item_decor_bronze_horse_trophy",
     "tags": [
       "furniture"

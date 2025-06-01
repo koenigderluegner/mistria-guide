@@ -1,8 +1,8 @@
 {
   "id": "white_wine",
   "item": {
-    "description": "items/other/cooked_dishes/white_wine/description",
-    "name": "items/other/cooked_dishes/white_wine/name",
+    "description": "A sweet wine that compliments many dishes.",
+    "name": "White Wine",
     "icon_sprite": "spr_ui_item_white_wine",
     "tags": [
       "drink_sound",

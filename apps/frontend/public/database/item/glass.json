@@ -1,8 +1,8 @@
 {
   "id": "glass",
   "item": {
-    "description": "items/other/materials/glass/description",
-    "name": "items/other/materials/glass/name",
+    "description": "A slab of naturally formed glass. Used in a variety of crafting recipes.",
+    "name": "Glass",
     "icon_sprite": "spr_ui_item_glass",
     "tags": [
       "refined_material",

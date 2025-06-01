@@ -1,8 +1,8 @@
 {
   "id": "copper_ingot",
   "item": {
-    "description": "items/other/blacksmithing/copper_ingot/description",
-    "name": "items/other/blacksmithing/copper_ingot/name",
+    "description": "An ingot of solid copper. Used in a variety of blacksmithing and crafting recipes.",
+    "name": "Copper Ingot",
     "icon_sprite": "spr_ui_item_copper_ingot",
     "tags": [
       "ingot",

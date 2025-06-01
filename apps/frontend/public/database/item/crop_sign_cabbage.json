@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_cabbage",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_cabbage/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_cabbage/name",
+    "description": "A wooden sign featuring a painted cabbage.",
+    "name": "Cabbage Sign",
     "icon_sprite": "spr_ui_item_crop_sign_cabbage",
     "tags": [
       "furniture",

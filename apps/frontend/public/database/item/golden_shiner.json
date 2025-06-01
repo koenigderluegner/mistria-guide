@@ -1,8 +1,8 @@
 {
   "id": "golden_shiner",
   "item": {
-    "description": "items/fish/pond/golden_shiner/description",
-    "name": "items/fish/pond/golden_shiner/name",
+    "description": "A common small pond fish found in summer.",
+    "name": "Golden Shiner",
     "icon_sprite": "spr_ui_item_fish_small_golden_shiner",
     "tags": [
       "fishable",

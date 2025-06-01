@@ -1,8 +1,8 @@
 {
   "id": "explorer_globe_beige",
   "item": {
-    "description": "items/furniture/explorer_set/explorer_globe_beige/description",
-    "name": "items/furniture/explorer_set/explorer_globe_beige/name",
+    "description": "A golden explorer's globe.",
+    "name": "Explorer Globe",
     "icon_sprite": "spr_ui_item_furniture_explorer_globe_beige",
     "tags": [
       "furniture",

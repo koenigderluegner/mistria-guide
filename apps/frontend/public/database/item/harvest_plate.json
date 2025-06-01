@@ -1,8 +1,8 @@
 {
   "id": "harvest_plate",
   "item": {
-    "description": "items/other/cooked_dishes/harvest_plate/description",
-    "name": "items/other/cooked_dishes/harvest_plate/name",
+    "description": "A meal that celebrates the bounty of the Autumn harvest.",
+    "name": "Harvest Plate",
     "icon_sprite": "spr_ui_item_harvest_plate",
     "tags": [
       "chef",

@@ -1,8 +1,8 @@
 {
   "id": "spring_festival_wreath",
   "item": {
-    "description": "items/furniture/spring_festival_set/spring_festival_wreath/description",
-    "name": "items/furniture/spring_festival_set/spring_festival_wreath/name",
+    "description": "A lovely wreath featuring breath of spring flowers and a large pink bow.",
+    "name": "Breath of Spring Wreath",
     "icon_sprite": "spr_ui_item_decor_spring_festival_wreath",
     "tags": [
       "furniture"

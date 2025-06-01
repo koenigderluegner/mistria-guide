@@ -1,8 +1,8 @@
 {
   "id": "berry_bowl",
   "item": {
-    "description": "items/other/cooked_dishes/berry_bowl/description",
-    "name": "items/other/cooked_dishes/berry_bowl/name",
+    "description": "A variety of juicy, fresh-picked berries with a drizzle of honey.",
+    "name": "Berry Bowl",
     "icon_sprite": "spr_ui_item_berry_bowl",
     "tags": [
       "food",

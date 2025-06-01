@@ -1,7 +1,7 @@
 {
   "id": "lurid_colored_drink",
   "item": {
-    "description": "items/other/misc/lurid_colored_drink/description",
+    "description": "This shouldn't be in your inventory...",
     "icon_sprite": "spr_ui_item_lurid_colored_drink",
     "tags": [
       "drink_sound"

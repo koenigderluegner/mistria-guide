@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_snapdragon",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_snapdragon/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_snapdragon/name",
+    "description": "A wooden sign featuring a painted snapdragon.",
+    "name": "Snapdragon Sign",
     "icon_sprite": "spr_ui_item_crop_sign_snapdragon",
     "tags": [
       "furniture",

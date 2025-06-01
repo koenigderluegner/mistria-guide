@@ -1,8 +1,8 @@
 {
   "id": "sugar_cane",
   "item": {
-    "description": "items/other/crops_and_forage/sugar_cane/description",
-    "name": "items/other/crops_and_forage/sugar_cane/name",
+    "description": "A popular summer crop. Can be refined into sugar, which is used in many recipes.",
+    "name": "Sugar Cane",
     "icon_sprite": "spr_ui_item_sugar_cane",
     "tags": [
       "crop"

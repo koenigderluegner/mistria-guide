@@ -1,8 +1,8 @@
 {
   "id": "sword_scrap_metal",
   "item": {
-    "description": "items/other/blacksmithing/sword_scrap_metal/description",
-    "name": "items/other/blacksmithing/sword_scrap_metal/name",
+    "description": "A sword constructed out of scrap metal.",
+    "name": "Scrap Metal Sword",
     "icon_sprite": "spr_ui_item_tool_scrap_metal_sword",
     "tags": [
       "sword",

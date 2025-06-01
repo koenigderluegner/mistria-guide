@@ -1,8 +1,8 @@
 {
   "id": "iced_coffee",
   "item": {
-    "description": "items/other/cooked_dishes/iced_coffee/description",
-    "name": "items/other/cooked_dishes/iced_coffee/name",
+    "description": "This refreshing drink uses fresh milk to cut the bitterness of the coffee.",
+    "name": "Iced Coffee",
     "icon_sprite": "spr_ui_item_iced_coffee",
     "tags": [
       "drink",

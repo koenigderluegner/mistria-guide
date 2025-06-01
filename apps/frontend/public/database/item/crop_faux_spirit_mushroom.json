@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_spirit_mushroom",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_spirit_mushroom/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_spirit_mushroom/name",
+    "description": "A decorative faux spirit mushroom.",
+    "name": "Faux Spirit Mushroom",
     "icon_sprite": "spr_ui_item_decor_crop_faux_spirit_mushroom",
     "tags": [
       "furniture",

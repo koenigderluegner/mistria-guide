@@ -1,8 +1,8 @@
 {
   "id": "sweetfish",
   "item": {
-    "description": "items/fish/river/sweetfish/description",
-    "name": "items/fish/river/sweetfish/name",
+    "description": "A common medium river fish found in summer.",
+    "name": "Sweetfish",
     "icon_sprite": "spr_ui_item_fish_medium_sweetfish",
     "tags": [
       "fishable",

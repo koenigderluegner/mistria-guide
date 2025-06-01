@@ -1,8 +1,8 @@
 {
   "id": "rabbit_wool",
   "item": {
-    "description": "items/other/ranching/rabbit_wool/description",
-    "name": "items/other/ranching/rabbit_wool/name",
+    "description": "Fluffy, soft wool from a rabbit. Used in a variety of crafting recipes.",
+    "name": "Rabbit Wool",
     "icon_sprite": "spr_ui_item_rabbit_hair_regular",
     "tags": [
       "ranching",

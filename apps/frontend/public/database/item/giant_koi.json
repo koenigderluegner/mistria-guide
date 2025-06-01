@@ -1,8 +1,8 @@
 {
   "id": "giant_koi",
   "item": {
-    "description": "items/fish/pond/giant_koi/description",
-    "name": "items/fish/pond/giant_koi/name",
+    "description": "A rare giant pond fish found in summer.",
+    "name": "Giant Koi",
     "icon_sprite": "spr_ui_item_fish_giant_giant_koi",
     "tags": [
       "fishable",

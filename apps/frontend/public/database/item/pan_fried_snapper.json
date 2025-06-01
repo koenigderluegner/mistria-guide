@@ -1,8 +1,8 @@
 {
   "id": "pan_fried_snapper",
   "item": {
-    "description": "items/other/cooked_dishes/pan_fried_snapper/description",
-    "name": "items/other/cooked_dishes/pan_fried_snapper/name",
+    "description": "This pan fried snapper is mild and a little sweet.",
+    "name": "Pan-fried Snapper",
     "icon_sprite": "spr_ui_item_panfriedsnapper",
     "tags": [
       "food",

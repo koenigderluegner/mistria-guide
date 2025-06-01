@@ -1,8 +1,8 @@
 {
   "id": "miners_flooring",
   "item": {
-    "description": "items/furniture/mineshaft_set/miners_flooring/description",
-    "name": "items/furniture/mineshaft_set/miners_flooring/name",
+    "description": "Dirt flooring for your home.",
+    "name": "Mines Flooring",
     "icon_sprite": "spr_ui_item_furniture_mines_dirt_flooring",
     "tags": [
       "furniture",

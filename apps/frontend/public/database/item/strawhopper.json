@@ -1,8 +1,8 @@
 {
   "id": "strawhopper",
   "item": {
-    "description": "items/other/bugs/strawhopper/description",
-    "name": "items/other/bugs/strawhopper/name",
+    "description": "A common insect found in summer. Sometimes found when cutting grass.",
+    "name": "Strawhopper",
     "icon_sprite": "spr_ui_item_insect_strawhopper",
     "tags": [
       "bugs"

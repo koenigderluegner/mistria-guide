@@ -1,8 +1,8 @@
 {
   "id": "haunted_attic_wall_cobweb_left_dark",
   "item": {
-    "description": "items/furniture/haunted_attic_set/haunted_attic_wall_cobweb_left_dark/description",
-    "name": "items/furniture/haunted_attic_set/haunted_attic_wall_cobweb_left_dark/name",
+    "description": "A decorative purple cobweb, left version.",
+    "name": "Cobweb Left",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_cobweb_left_dark",
     "tags": [
       "furniture",

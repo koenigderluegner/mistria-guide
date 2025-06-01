@@ -1,8 +1,8 @@
 {
   "id": "silver_sheep_trophy",
   "item": {
-    "description": "items/other/festivals/silver_sheep_trophy/description",
-    "name": "items/other/festivals/silver_sheep_trophy/name",
+    "description": "A silver display trophy commemorating your sheep's second place win at the Animal Festival.",
+    "name": "Silver Sheep Trophy",
     "icon_sprite": "spr_ui_item_decor_silver_sheep_trophy",
     "tags": [
       "furniture"

@@ -1,8 +1,8 @@
 {
   "id": "chess_table_white",
   "item": {
-    "description": "items/furniture/chess_set/chess_table_white/description",
-    "name": "items/furniture/chess_set/chess_table_white/name",
+    "description": "A white chess table.",
+    "name": "Chess Table",
     "icon_sprite": "spr_ui_item_furniture_chess_table_white",
     "tags": [
       "furniture",

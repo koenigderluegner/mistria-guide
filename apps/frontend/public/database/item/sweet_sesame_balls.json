@@ -1,8 +1,8 @@
 {
   "id": "sweet_sesame_balls",
   "item": {
-    "description": "items/other/cooked_dishes/sweet_sesame_balls/description",
-    "name": "items/other/cooked_dishes/sweet_sesame_balls/name",
+    "description": "A delicious fried dessert coated in a layer of sesame seeds.",
+    "name": "Sweet Sesame Balls",
     "icon_sprite": "spr_ui_item_sweet_sesame_balls",
     "tags": [
       "food",

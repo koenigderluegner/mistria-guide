@@ -1,8 +1,8 @@
 {
   "id": "golden_duck_feather",
   "item": {
-    "description": "items/other/ranching/golden_duck_feather/description",
-    "name": "items/other/ranching/golden_duck_feather/name",
+    "description": "A gold quality feather dropped by a drake. Used in high level crafting recipes.",
+    "name": "Golden Duck Feather",
     "icon_sprite": "spr_ui_item_duck_feather_gold",
     "tags": [
       "ranching",

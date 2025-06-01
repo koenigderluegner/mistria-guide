@@ -1,8 +1,8 @@
 {
   "id": "frost_lily",
   "item": {
-    "description": "items/other/crops_and_forage/frost_lily/description",
-    "name": "items/other/crops_and_forage/frost_lily/name",
+    "description": "An enchanting fast growing winter flower. Can be used in crafting recipes.",
+    "name": "Frost Lily",
     "icon_sprite": "spr_ui_item_frost_lily",
     "tags": [
       "flower",

@@ -1,8 +1,8 @@
 {
   "id": "cave_shrimp",
   "item": {
-    "description": "items/mines/upper_mines/cave_shrimp/description",
-    "name": "items/mines/upper_mines/cave_shrimp/name",
+    "description": "A common small Upper Mines crustacean. Its translucent body gives it a distinct appearance.",
+    "name": "Cave Shrimp",
     "icon_sprite": "spr_ui_item_fish_small_cave_shrimp",
     "tags": [
       "fishable"

@@ -1,8 +1,8 @@
 {
   "id": "small_vase_v4",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/small_vase_v4/description",
-    "name": "items/furniture/tabletop_clutter_set/small_vase_v4/name",
+    "description": "A small black vase with decorative grass.",
+    "name": "Small Vase",
     "icon_sprite": "spr_ui_item_decor_clutter_small_vase_v4",
     "tags": [
       "furniture",

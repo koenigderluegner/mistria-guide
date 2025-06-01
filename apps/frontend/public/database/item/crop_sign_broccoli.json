@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_broccoli",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_broccoli/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_broccoli/name",
+    "description": "A wooden sign featuring a painted broccoli.",
+    "name": "Broccoli Sign",
     "icon_sprite": "spr_ui_item_crop_sign_broccoli",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "puffer_fish",
   "item": {
-    "description": "items/fish/ocean/puffer_fish/description",
-    "name": "items/fish/ocean/puffer_fish/name",
+    "description": "An uncommon medium ocean fish found in summer and winter.",
+    "name": "Puffer Fish",
     "icon_sprite": "spr_ui_item_fish_medium_puffer_fish",
     "tags": [
       "fishable",

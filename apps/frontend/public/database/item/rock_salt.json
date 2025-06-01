@@ -1,8 +1,8 @@
 {
   "id": "rock_salt",
   "item": {
-    "description": "items/other/materials/rock_salt/description",
-    "name": "items/other/materials/rock_salt/name",
+    "description": "Salt from a natural deposit. Used in a variety of cooking recipes.",
+    "name": "Rock Salt",
     "icon_sprite": "spr_ui_item_rocksalt",
     "tags": [
       "pantry",

@@ -1,8 +1,8 @@
 {
   "id": "acorn",
   "item": {
-    "description": "items/other/crops_and_forage/acorn/description",
-    "name": "items/other/crops_and_forage/acorn/name",
+    "description": "The nut of an oak tree. Used in cooking and crafting recipes.",
+    "name": "Acorn",
     "icon_sprite": "spr_ui_item_acorn",
     "tags": [
       "forageable",

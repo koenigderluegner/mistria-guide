@@ -1,8 +1,8 @@
 {
   "id": "unusual_seed",
   "item": {
-    "description": "items/other/misc/unusual_seed/description",
-    "name": "items/other/misc/unusual_seed/name",
+    "description": "Unusual! This shouldn't be in your inventory...",
+    "name": "Unusual Seed",
     "icon_sprite": "spr_ui_item_unusual_seed",
     "value": {
       "bin": 5

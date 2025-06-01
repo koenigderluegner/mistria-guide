@@ -1,8 +1,8 @@
 {
   "id": "candied_strawberries",
   "item": {
-    "description": "items/other/cooked_dishes/candied_strawberries/description",
-    "name": "items/other/cooked_dishes/candied_strawberries/name",
+    "description": "A crunchy sugar shell coats these juicy skewered strawberries.",
+    "name": "Candied Strawberries",
     "icon_sprite": "spr_ui_item_candied_strawberries",
     "tags": [
       "food",

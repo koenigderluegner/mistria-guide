@@ -1,8 +1,8 @@
 {
   "id": "silver_armor",
   "item": {
-    "description": "items/other/armor/silver_armor/description",
-    "name": "items/other/armor/silver_armor/name",
+    "description": "A chestpiece constructed out of silver. Equip to increase defense.",
+    "name": "Silver Armor",
     "icon_sprite": "spr_ui_item_equipment_silver_chestpiece",
     "tags": [
       "chest",

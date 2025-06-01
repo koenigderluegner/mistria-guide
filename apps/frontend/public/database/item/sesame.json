@@ -1,8 +1,8 @@
 {
   "id": "sesame",
   "item": {
-    "description": "items/other/crops_and_forage/sesame/description",
-    "name": "items/other/crops_and_forage/sesame/name",
+    "description": "A wild plant foraged in summer with a mild, nutty flavor. Commonly used as a cooking ingredient.",
+    "name": "Sesame",
     "icon_sprite": "spr_ui_item_sesame",
     "tags": [
       "forageable"

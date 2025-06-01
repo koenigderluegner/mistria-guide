@@ -1,8 +1,8 @@
 {
   "id": "hydrangea",
   "item": {
-    "description": "items/other/crops_and_forage/hydrangea/description",
-    "name": "items/other/crops_and_forage/hydrangea/name",
+    "description": "A wild blue flower grown in the summer. Makes a nice gift.",
+    "name": "Hydrangea",
     "icon_sprite": "spr_ui_item_bush_hydrangea",
     "tags": [
       "forageable",

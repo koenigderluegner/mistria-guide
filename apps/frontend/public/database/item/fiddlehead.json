@@ -1,8 +1,8 @@
 {
   "id": "fiddlehead",
   "item": {
-    "description": "items/other/crops_and_forage/fiddlehead/description",
-    "name": "items/other/crops_and_forage/fiddlehead/name",
+    "description": "A wild plant foraged in spring with a sweet grassy flavor. Commonly used as a cooking ingredient.",
+    "name": "Fiddlehead",
     "icon_sprite": "spr_ui_item_fiddlehead",
     "tags": [
       "forageable"

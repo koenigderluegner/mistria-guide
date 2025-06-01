@@ -1,8 +1,8 @@
 {
   "id": "sword_copper",
   "item": {
-    "description": "items/other/blacksmithing/sword_copper/description",
-    "name": "items/other/blacksmithing/sword_copper/name",
+    "description": "A copper sword.",
+    "name": "Copper Sword",
     "icon_sprite": "spr_ui_item_tool_copper_sword",
     "tags": [
       "sword",

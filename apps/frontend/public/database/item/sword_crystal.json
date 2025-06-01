@@ -1,8 +1,8 @@
 {
   "id": "sword_crystal",
   "item": {
-    "description": "items/other/blacksmithing/sword_crystal/description",
-    "name": "items/other/blacksmithing/sword_crystal/name",
+    "description": "A crystal sword.",
+    "name": "Crystal Sword",
     "icon_sprite": "spr_ui_item_tool_crystal_sword",
     "tags": [
       "sword",

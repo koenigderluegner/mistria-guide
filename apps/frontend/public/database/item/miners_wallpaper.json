@@ -1,8 +1,8 @@
 {
   "id": "miners_wallpaper",
   "item": {
-    "description": "items/furniture/mineshaft_set/miners_wallpaper/description",
-    "name": "items/furniture/mineshaft_set/miners_wallpaper/name",
+    "description": "Cave wall wallpaper for your home.",
+    "name": "Mines Wall",
     "icon_sprite": "spr_ui_item_furniture_mines_wallpaper",
     "tags": [
       "furniture",

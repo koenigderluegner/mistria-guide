@@ -1,8 +1,8 @@
 {
   "id": "pond_skater",
   "item": {
-    "description": "items/other/bugs/pond_skater/description",
-    "name": "items/other/bugs/pond_skater/name",
+    "description": "An uncommon insect found in all seasons.",
+    "name": "Pond Skater",
     "icon_sprite": "spr_ui_item_insect_pondskater",
     "tags": [
       "bugs"

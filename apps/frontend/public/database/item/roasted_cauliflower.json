@@ -1,8 +1,8 @@
 {
   "id": "roasted_cauliflower",
   "item": {
-    "description": "items/other/cooked_dishes/roasted_cauliflower/description",
-    "name": "items/other/cooked_dishes/roasted_cauliflower/name",
+    "description": "This cauliflower has a tender texture and a mild, nutty taste.",
+    "name": "Roasted Cauliflower",
     "icon_sprite": "spr_ui_item_roasted_cauliflower",
     "tags": [
       "food",

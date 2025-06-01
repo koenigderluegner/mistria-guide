@@ -1,8 +1,8 @@
 {
   "id": "cottage_potted_flowers_oak",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_potted_flowers_oak/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_potted_flowers_oak/name",
+    "description": "A lovely pot of white flowers.",
+    "name": "Lovely Cottage Potted Flowers",
     "icon_sprite": "spr_ui_item_furniture_cottage_potted_flowers_v1",
     "tags": [
       "furniture",

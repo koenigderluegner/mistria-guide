@@ -1,8 +1,8 @@
 {
   "id": "fishing_tank_gold",
   "item": {
-    "description": "items/furniture/fishing_set/fishing_tank_gold/description",
-    "name": "items/furniture/fishing_set/fishing_tank_gold/name",
+    "description": "A beautiful fish tank with a wooden finish.",
+    "name": "Fish Tank",
     "icon_sprite": "spr_ui_item_furniture_fishing_tank_gold",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "lemon",
   "item": {
-    "description": "items/other/crops_and_forage/lemon/description",
-    "name": "items/other/crops_and_forage/lemon/name",
+    "description": "The tart and citrusy fruit of the lemon tree, which fruits in spring. Used in a variety of cooking recipes.",
+    "name": "Lemon",
     "icon_sprite": "spr_ui_item_lemon",
     "tags": [
       "crop"

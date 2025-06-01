@@ -1,8 +1,8 @@
 {
   "id": "crystal_rose",
   "item": {
-    "description": "items/mines/deep_earth/crystal_rose/description",
-    "name": "items/mines/deep_earth/crystal_rose/name",
+    "description": "This delicate, shimmering rose appears to be made of crystal.",
+    "name": "Crystal Rose",
     "icon_sprite": "spr_ui_item_crystal_rose",
     "tags": [
       "forageable",

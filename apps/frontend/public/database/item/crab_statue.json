@@ -1,8 +1,8 @@
 {
   "id": "crab_statue",
   "item": {
-    "description": "items/mines/tide_caverns/crab_statue/description",
-    "name": "items/mines/tide_caverns/crab_statue/name",
+    "description": "A rare artifact. This delicately crafted statue almost seems alive.",
+    "name": "Crab Statue",
     "icon_sprite": "spr_ui_item_crab_statue",
     "tags": [
       "archaeology"

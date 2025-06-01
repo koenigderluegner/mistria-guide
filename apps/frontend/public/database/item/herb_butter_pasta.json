@@ -1,8 +1,8 @@
 {
   "id": "herb_butter_pasta",
   "item": {
-    "description": "items/other/cooked_dishes/herb_butter_pasta/description",
-    "name": "items/other/cooked_dishes/herb_butter_pasta/name",
+    "description": "A buttery, mouthwatering pasta made with fresh herbs.",
+    "name": "Herb Butter Pasta",
     "icon_sprite": "spr_ui_item_herb_butter_pasta",
     "tags": [
       "food",

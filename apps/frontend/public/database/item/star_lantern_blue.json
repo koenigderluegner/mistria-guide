@@ -1,8 +1,8 @@
 {
   "id": "star_lantern_blue",
   "item": {
-    "description": "items/furniture/shooting_star_set/star_lantern_blue/description",
-    "name": "items/furniture/shooting_star_set/star_lantern_blue/name",
+    "description": "A Shooting Star Festival lantern with a blue star detail.",
+    "name": "Star Lantern",
     "icon_sprite": "spr_ui_item_decor_star_lantern_blue",
     "tags": [
       "furniture",

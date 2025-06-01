@@ -1,8 +1,8 @@
 {
   "id": "scrap_metal_chestpiece",
   "item": {
-    "description": "items/other/armor/scrap_metal_chestpiece/description",
-    "name": "items/other/armor/scrap_metal_chestpiece/name",
+    "description": "A chestpiece constructed out of scrap metal. Equip to increase defense.",
+    "name": "Scrap Metal Chestpiece",
     "icon_sprite": "spr_ui_item_equipment_scrap_metal_chestpiece",
     "tags": [
       "chest",

@@ -1,8 +1,8 @@
 {
   "id": "seaweed",
   "item": {
-    "description": "items/fish/misc/seaweed/description",
-    "name": "items/fish/misc/seaweed/name",
+    "description": "A common plant, grows in all seasons.",
+    "name": "Seaweed",
     "icon_sprite": "spr_ui_item_dive_seaweed",
     "tags": [
       "dive",

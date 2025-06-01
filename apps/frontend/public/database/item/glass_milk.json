@@ -1,8 +1,8 @@
 {
   "id": "glass_milk",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/glass_milk/description",
-    "name": "items/furniture/tabletop_clutter_set/glass_milk/name",
+    "description": "A decorative milk glass.",
+    "name": "Milk Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_milk",
     "tags": [
       "furniture",

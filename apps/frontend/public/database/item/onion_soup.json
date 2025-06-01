@@ -1,8 +1,8 @@
 {
   "id": "onion_soup",
   "item": {
-    "description": "items/other/cooked_dishes/onion_soup/description",
-    "name": "items/other/cooked_dishes/onion_soup/name",
+    "description": "A rich onion soup that smells as good as it tastes.",
+    "name": "Onion Soup",
     "icon_sprite": "spr_ui_item_onion_soup",
     "tags": [
       "food",

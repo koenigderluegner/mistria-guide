@@ -1,8 +1,8 @@
 {
   "id": "ritual_scepter",
   "item": {
-    "description": "items/other/artifacts/ritual_scepter/description",
-    "name": "items/other/artifacts/ritual_scepter/name",
+    "description": "A rare artifact. This ritual scepter was likely used by Dragon Priestesses during rituals.",
+    "name": "Ritual Scepter",
     "icon_sprite": "spr_ui_item_ritual_scepter",
     "tags": [
       "archaeology"

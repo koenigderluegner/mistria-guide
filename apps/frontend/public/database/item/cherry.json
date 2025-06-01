@@ -1,8 +1,8 @@
 {
   "id": "cherry",
   "item": {
-    "description": "items/other/crops_and_forage/cherry/description",
-    "name": "items/other/crops_and_forage/cherry/name",
+    "description": "The small red fruit of the cherry tree, which fruits in spring. Used in a variety of cooking recipes.",
+    "name": "Cherry",
     "icon_sprite": "spr_ui_item_cherry",
     "tags": [
       "crop"

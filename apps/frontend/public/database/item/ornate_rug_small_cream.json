@@ -1,8 +1,8 @@
 {
   "id": "ornate_rug_small_cream",
   "item": {
-    "description": "items/furniture/decor_ornate_rug_set/ornate_rug_small_cream/description",
-    "name": "items/furniture/decor_ornate_rug_set/ornate_rug_small_cream/name",
+    "description": "A small cream colored ornate rug with a rectangular shape.",
+    "name": "Ornate Small Rug",
     "icon_sprite": "spr_ui_item_decor_ornate_rug_small_cream",
     "tags": [
       "furniture",

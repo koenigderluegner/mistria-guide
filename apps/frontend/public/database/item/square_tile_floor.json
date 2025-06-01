@@ -1,8 +1,8 @@
 {
   "id": "square_tile_floor",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/square_tile_floor/description",
-    "name": "items/furniture/bathroom_furniture_set/square_tile_floor/name",
+    "description": "White square tile flooring.",
+    "name": "Square Tile Floor",
     "icon_sprite": "spr_ui_item_furniture_square_tile_flooring_white",
     "tags": [
       "furniture",

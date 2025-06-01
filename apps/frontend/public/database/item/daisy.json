@@ -1,8 +1,8 @@
 {
   "id": "daisy",
   "item": {
-    "description": "items/other/crops_and_forage/daisy/description",
-    "name": "items/other/crops_and_forage/daisy/name",
+    "description": "A pretty white flower grown in the summer. Can be given as a gift or used in various crafting recipes.",
+    "name": "Daisy",
     "icon_sprite": "spr_ui_item_daisy",
     "tags": [
       "forageable",

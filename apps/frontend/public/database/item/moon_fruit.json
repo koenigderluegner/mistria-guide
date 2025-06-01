@@ -1,8 +1,8 @@
 {
   "id": "moon_fruit",
   "item": {
-    "description": "items/other/crops_and_forage/moon_fruit/description",
-    "name": "items/other/crops_and_forage/moon_fruit/name",
+    "description": "A rare fruit foraged in fall. It has a sweet, floral flavor and is commonly used as a cooking ingredient.",
+    "name": "Moon Fruit",
     "icon_sprite": "spr_ui_item_moon_fruit",
     "tags": [
       "forageable"

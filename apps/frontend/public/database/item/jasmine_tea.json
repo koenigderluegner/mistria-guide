@@ -1,8 +1,8 @@
 {
   "id": "jasmine_tea",
   "item": {
-    "description": "items/other/cooked_dishes/jasmine_tea/description",
-    "name": "items/other/cooked_dishes/jasmine_tea/name",
+    "description": "A hot cup of jasmine tea.",
+    "name": "Jasmine Tea",
     "icon_sprite": "spr_ui_item_jasmine_tea",
     "tags": [
       "drink",

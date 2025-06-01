@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_pineshroom",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_pineshroom/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_pineshroom/name",
+    "description": "A decorative faux pineshroom.",
+    "name": "Faux Pineshroom",
     "icon_sprite": "spr_ui_item_decor_crop_faux_pineshroom",
     "tags": [
       "furniture",

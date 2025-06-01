@@ -1,8 +1,8 @@
 {
   "id": "oil",
   "item": {
-    "description": "items/other/materials/oil/description",
-    "name": "items/other/materials/oil/name",
+    "description": "Oil made from vegetables. Used in cooking and crafting recipes.",
+    "name": "Oil",
     "icon_sprite": "spr_ui_item_oil",
     "tags": [
       "material",

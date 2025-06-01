@@ -1,8 +1,8 @@
 {
   "id": "blue_duck_wall_ribbon",
   "item": {
-    "description": "items/other/festivals/blue_duck_wall_ribbon/description",
-    "name": "items/other/festivals/blue_duck_wall_ribbon/name",
+    "description": "A blue display ribbon commemorating your duck's first place win at the Animal Festival.",
+    "name": "Blue Duck Wall Ribbon",
     "icon_sprite": "spr_ui_item_decor_blue_duck_ribbon",
     "tags": [
       "furniture"

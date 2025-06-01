@@ -1,8 +1,8 @@
 {
   "id": "miners_copper_node",
   "item": {
-    "description": "items/furniture/mineshaft_set/miners_copper_node/description",
-    "name": "items/furniture/mineshaft_set/miners_copper_node/name",
+    "description": "A decorative copper node.",
+    "name": "Ornamental Copper Node",
     "icon_sprite": "spr_ui_item_furniture_copper_node",
     "tags": [
       "furniture",

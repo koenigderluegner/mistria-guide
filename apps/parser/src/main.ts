@@ -8,9 +8,11 @@ import { fishParser } from './parsers/fish-parser';
 import { dbItemParser } from './parsers/db-item-parser';
 import { skillsParser } from './parsers/skills-parser';
 import { museumWingsParser } from './parsers/museum-wings-parser';
+import { TranslationReferenceResolver } from './localization/tranlation-reference-resolver';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
+TranslationReferenceResolver.readTranslationFile('localization.json');
 const blacklistedKeys = ['sha', 'footsteps', 'birds', 'fonts'];
 
 // this is just for easier work with the database

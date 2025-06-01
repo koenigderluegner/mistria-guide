@@ -1,8 +1,8 @@
 {
   "id": "tidestone",
   "item": {
-    "description": "items/mines/tide_caverns/tidestone/description",
-    "name": "items/mines/tide_caverns/tidestone/name",
+    "description": "An uncommon artifact. This chunk of stone appears to grow and shrink slightly along with the tides.",
+    "name": "Tidestone",
     "icon_sprite": "spr_ui_item_tidestone",
     "tags": [
       "archaeology"

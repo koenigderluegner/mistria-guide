@@ -1,8 +1,8 @@
 {
   "id": "toilet_black",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/toilet_black/description",
-    "name": "items/furniture/bathroom_furniture_set/toilet_black/name",
+    "description": " A black toilet.",
+    "name": "Toilet",
     "icon_sprite": "spr_ui_item_furniture_toilet_black",
     "tags": [
       "furniture",

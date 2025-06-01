@@ -1,8 +1,8 @@
 {
   "id": "cabin_stove_walnut",
   "item": {
-    "description": "items/furniture/rustic_cabin_set/cabin_stove_walnut/description",
-    "name": "items/furniture/rustic_cabin_set/cabin_stove_walnut/name",
+    "description": "A short rustic wood burning stove.",
+    "name": "Rustic Cabin Stove",
     "icon_sprite": "spr_ui_item_furniture_cabin_stove_v2",
     "tags": [
       "furniture",

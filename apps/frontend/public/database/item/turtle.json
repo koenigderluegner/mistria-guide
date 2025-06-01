@@ -1,8 +1,8 @@
 {
   "id": "turtle",
   "item": {
-    "description": "items/fish/pond/turtle/description",
-    "name": "items/fish/pond/turtle/name",
+    "description": "A common large pond reptile found in all seasons.",
+    "name": "Turtle",
     "icon_sprite": "spr_ui_item_fish_large_turtle",
     "tags": [
       "fishable",

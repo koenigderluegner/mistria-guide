@@ -1,8 +1,8 @@
 {
   "id": "picnic_place_setting_yellow",
   "item": {
-    "description": "items/furniture/decor_picnic_set/picnic_place_setting_yellow/description",
-    "name": "items/furniture/decor_picnic_set/picnic_place_setting_yellow/name",
+    "description": "A picnic place setting with yellow accents.",
+    "name": "Picnic Place Setting",
     "icon_sprite": "spr_ui_item_picnic_place_setting_yellow",
     "tags": [
       "furniture",

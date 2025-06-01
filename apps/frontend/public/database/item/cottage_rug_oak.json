@@ -1,8 +1,8 @@
 {
   "id": "cottage_rug_oak",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_rug_oak/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_rug_oak/name",
+    "description": "A lovely antique white rug with green and pink accents.",
+    "name": "Lovely Cottage Rug",
     "icon_sprite": "spr_ui_item_furniture_cottage_rug_v1",
     "tags": [
       "furniture",

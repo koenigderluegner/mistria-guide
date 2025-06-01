@@ -1,8 +1,8 @@
 {
   "id": "training_dummy_mushroom",
   "item": {
-    "description": "items/furniture/training_dummy_set/training_dummy_mushroom/description",
-    "name": "items/furniture/training_dummy_set/training_dummy_mushroom/name",
+    "description": "A training dummy that looks like a Mushroom Monster.",
+    "name": "Training Dummy",
     "icon_sprite": "spr_ui_item_decor_training_dummy_mushroom",
     "tags": [
       "furniture",

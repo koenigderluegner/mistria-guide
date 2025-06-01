@@ -1,8 +1,8 @@
 {
   "id": "blue_chicken_wall_ribbon",
   "item": {
-    "description": "items/other/festivals/blue_chicken_wall_ribbon/description",
-    "name": "items/other/festivals/blue_chicken_wall_ribbon/name",
+    "description": "A blue display ribbon commemorating your chicken's first place win at the Animal Festival.",
+    "name": "Blue Chicken Wall Ribbon",
     "icon_sprite": "spr_ui_item_decor_blue_chicken_ribbon",
     "tags": [
       "furniture"

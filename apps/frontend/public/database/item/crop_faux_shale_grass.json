@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_shale_grass",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_shale_grass/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_shale_grass/name",
+    "description": "A decorative faux shale grass plant.",
+    "name": "Faux Shale Grass",
     "icon_sprite": "spr_ui_item_decor_crop_faux_shale_grass",
     "tags": [
       "furniture",

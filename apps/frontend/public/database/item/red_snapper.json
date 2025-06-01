@@ -1,8 +1,8 @@
 {
   "id": "red_snapper",
   "item": {
-    "description": "items/fish/ocean/red_snapper/description",
-    "name": "items/fish/ocean/red_snapper/name",
+    "description": "A common large ocean fish found in spring and fall.",
+    "name": "Red Snapper",
     "icon_sprite": "spr_ui_item_fish_large_red_snapper",
     "tags": [
       "fishable",

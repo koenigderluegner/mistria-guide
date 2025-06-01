@@ -1,8 +1,8 @@
 {
   "id": "bathroom_curtain_stand_green",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_curtain_stand_green/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_curtain_stand_green/name",
+    "description": "A green bathroom curtain stand.",
+    "name": "Bathroom Curtain Stand",
     "icon_sprite": "spr_ui_item_furniture_bathroom_curtain_stand_green",
     "tags": [
       "furniture",

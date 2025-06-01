@@ -1,8 +1,8 @@
 {
   "id": "gathering_basket",
   "item": {
-    "description": "items/other/artifacts/gathering_basket/description",
-    "name": "items/other/artifacts/gathering_basket/name",
+    "description": "An uncommon artifact. Still smells faintly of Bell Berries.",
+    "name": "Gathering Basket",
     "icon_sprite": "spr_ui_item_gathering_basket",
     "tags": [
       "archaeology"

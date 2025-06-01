@@ -1,8 +1,8 @@
 {
   "id": "starter_shipping_box",
   "item": {
-    "description": "items/furniture/starter_farm_set/starter_shipping_box/description",
-    "name": "items/furniture/starter_farm_set/starter_shipping_box/name",
+    "description": "A placeable shipping bin. Put items inside to sell them overnight.",
+    "name": "Shipping Bin",
     "icon_sprite": "spr_ui_item_basic_misc_shipping_bin",
     "tags": [
       "furniture",

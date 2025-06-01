@@ -1,8 +1,8 @@
 {
   "id": "daffodil",
   "item": {
-    "description": "items/other/crops_and_forage/daffodil/description",
-    "name": "items/other/crops_and_forage/daffodil/name",
+    "description": "A lovely yellow flower that grows in the spring. Can be given as a gift or used in various crafting recipes.",
+    "name": "Daffodil",
     "icon_sprite": "spr_ui_item_daffodil",
     "tags": [
       "forageable",

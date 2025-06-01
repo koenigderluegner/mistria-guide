@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_dill",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_dill/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_dill/name",
+    "description": "A wooden sign featuring a painted dill.",
+    "name": "Dill Sign",
     "icon_sprite": "spr_ui_item_crop_sign_dill",
     "tags": [
       "furniture",

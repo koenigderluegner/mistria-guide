@@ -1,8 +1,8 @@
 {
   "id": "dense_water",
   "item": {
-    "description": "items/mines/tide_caverns/dense_water/description",
-    "name": "items/mines/tide_caverns/dense_water/name",
+    "description": "An uncommon artifact. This water is so dense that it holds its shape even in air.",
+    "name": "Dense Water",
     "icon_sprite": "spr_ui_item_dense_water",
     "tags": [
       "archaeology"

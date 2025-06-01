@@ -1,8 +1,8 @@
 {
   "id": "deluxe_curry",
   "item": {
-    "description": "items/other/cooked_dishes/deluxe_curry/description",
-    "name": "items/other/cooked_dishes/deluxe_curry/name",
+    "description": "This deluxe curry features tender vegetables and crispy fried shrimp.",
+    "name": "Deluxe Curry",
     "icon_sprite": "spr_ui_item_deluxe_curry",
     "tags": [
       "food",

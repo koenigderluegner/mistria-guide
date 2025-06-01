@@ -1,8 +1,8 @@
 {
   "id": "ritual_tablet",
   "item": {
-    "description": "items/other/artifacts/ritual_tablet/description",
-    "name": "items/other/artifacts/ritual_tablet/name",
+    "description": "A rare artifact. This tablet has a series of pictographs that show how to perform a ritual. It appears that one of the figures is a dragon.",
+    "name": "Ritual Tablet",
     "icon_sprite": "spr_ui_item_ritual_tablet",
     "tags": [
       "archaeology"

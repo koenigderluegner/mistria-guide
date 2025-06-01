@@ -1,8 +1,8 @@
 {
   "id": "omelet",
   "item": {
-    "description": "items/other/cooked_dishes/omelet/description",
-    "name": "items/other/cooked_dishes/omelet/name",
+    "description": "This fluffy omelet is loaded with melted cheese.",
+    "name": "Omelet",
     "icon_sprite": "spr_ui_item_omelet",
     "tags": [
       "food",

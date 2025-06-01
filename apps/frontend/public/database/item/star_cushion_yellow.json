@@ -1,8 +1,8 @@
 {
   "id": "star_cushion_yellow",
   "item": {
-    "description": "items/furniture/shooting_star_set/star_cushion_yellow/description",
-    "name": "items/furniture/shooting_star_set/star_cushion_yellow/name",
+    "description": "A Shooting Star Festival cushion in yellow.",
+    "name": "Star Cushion",
     "icon_sprite": "spr_ui_item_decor_star_cushion_yellow",
     "tags": [
       "furniture",

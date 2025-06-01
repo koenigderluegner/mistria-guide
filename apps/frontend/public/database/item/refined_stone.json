@@ -1,8 +1,8 @@
 {
   "id": "refined_stone",
   "item": {
-    "description": "items/other/materials/refined_stone/description",
-    "name": "items/other/materials/refined_stone/name",
+    "description": "Refined Stone. Used in a variety of high-level crafting recipes.",
+    "name": "Refined Stone",
     "icon_sprite": "spr_ui_item_refined_stone",
     "tags": [
       "refined_material",

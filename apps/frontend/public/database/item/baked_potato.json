@@ -1,8 +1,8 @@
 {
   "id": "baked_potato",
   "item": {
-    "description": "items/other/cooked_dishes/baked_potato/description",
-    "name": "items/other/cooked_dishes/baked_potato/name",
+    "description": "This hot and fluffy baked potato is simple but filling.",
+    "name": "Baked Potato",
     "icon_sprite": "spr_ui_item_bakedpotato",
     "tags": [
       "food",

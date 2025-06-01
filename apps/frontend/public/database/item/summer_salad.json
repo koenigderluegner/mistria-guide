@@ -1,8 +1,8 @@
 {
   "id": "summer_salad",
   "item": {
-    "description": "items/other/cooked_dishes/summer_salad/description",
-    "name": "items/other/cooked_dishes/summer_salad/name",
+    "description": "This healthy salad celebrates the flavors of Summer.",
+    "name": "Summer Salad",
     "icon_sprite": "spr_ui_item_summer_salad",
     "tags": [
       "food",

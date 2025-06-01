@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_crocus",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_crocus/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_crocus/name",
+    "description": "A decorative faux crocus.",
+    "name": "Faux Crocus",
     "icon_sprite": "spr_ui_item_decor_crop_faux_crocus",
     "tags": [
       "furniture",

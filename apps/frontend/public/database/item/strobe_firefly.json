@@ -1,8 +1,8 @@
 {
   "id": "strobe_firefly",
   "item": {
-    "description": "items/other/bugs/strobe_firefly/description",
-    "name": "items/other/bugs/strobe_firefly/name",
+    "description": "A legendary insect found at night in summer. It's mesmerizing!",
+    "name": "Strobe Firefly",
     "icon_sprite": "spr_ui_item_insect_strobefirefly",
     "tags": [
       "bugs"

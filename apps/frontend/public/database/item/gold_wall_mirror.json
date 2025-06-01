@@ -1,8 +1,8 @@
 {
   "id": "gold_wall_mirror",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/gold_wall_mirror/description",
-    "name": "items/furniture/bathroom_furniture_set/gold_wall_mirror/name",
+    "description": "A gold bathroom mirror.",
+    "name": "Gold Wall Mirror",
     "icon_sprite": "spr_ui_item_furniture_bathroom_wall_mirror_gold",
     "tags": [
       "furniture",

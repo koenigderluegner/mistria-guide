@@ -1,8 +1,8 @@
 {
   "id": "perfect_copper_ore",
   "item": {
-    "description": "items/other/artifacts/perfect_copper_ore/description",
-    "name": "items/other/artifacts/perfect_copper_ore/name",
+    "description": "An uncommon artifact. This large chunk of pure copper ore is worthy of display.",
+    "name": "Perfect Copper Ore",
     "icon_sprite": "spr_ui_item_perfect_copper_ore",
     "tags": [
       "material",

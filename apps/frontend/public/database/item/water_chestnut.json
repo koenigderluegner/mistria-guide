@@ -1,8 +1,8 @@
 {
   "id": "water_chestnut",
   "item": {
-    "description": "items/other/crops_and_forage/water_chestnut/description",
-    "name": "items/other/crops_and_forage/water_chestnut/name",
+    "description": "An invasive species brought to Mistria from wider Aldaria. Used as an ingredient in cooking recipes.",
+    "name": "Water Chestnut",
     "icon_sprite": "spr_ui_item_water_chestnut",
     "tags": [
       "forageable"

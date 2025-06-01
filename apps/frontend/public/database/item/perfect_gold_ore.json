@@ -1,8 +1,8 @@
 {
   "id": "perfect_gold_ore",
   "item": {
-    "description": "items/other/artifacts/perfect_gold_ore/description",
-    "name": "items/other/artifacts/perfect_gold_ore/name",
+    "description": "A rare artifact. This gold ore is incredibly large and splendid.",
+    "name": "Perfect Gold Ore",
     "icon_sprite": "spr_ui_item_perfect_gold_ore",
     "tags": [
       "material",

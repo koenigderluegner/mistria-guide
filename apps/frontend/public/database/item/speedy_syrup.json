@@ -1,8 +1,8 @@
 {
   "id": "speedy_syrup",
   "item": {
-    "description": "items/other/misc/speedy_syrup/description",
-    "name": "items/other/misc/speedy_syrup/name",
+    "description": "This medicinal syrup grants a buff that gives you a 2 hour boost to your speed when consumed. Tastes like orange.",
+    "name": "Speedy Syrup",
     "icon_sprite": "spr_ui_item_syrup_speedy",
     "tags": [
       "drink_sound"

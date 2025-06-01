@@ -1,8 +1,8 @@
 {
   "id": "hard_boiled_egg",
   "item": {
-    "description": "items/other/cooked_dishes/hard_boiled_egg/description",
-    "name": "items/other/cooked_dishes/hard_boiled_egg/name",
+    "description": "A perfectly cooked hard boiled egg.",
+    "name": "Hard Boiled Egg",
     "icon_sprite": "spr_ui_item_hard_boiled_egg",
     "tags": [
       "food",

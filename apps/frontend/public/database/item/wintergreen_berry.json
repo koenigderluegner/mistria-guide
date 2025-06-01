@@ -1,8 +1,8 @@
 {
   "id": "wintergreen_berry",
   "item": {
-    "description": "items/other/crops_and_forage/wintergreen_berry/description",
-    "name": "items/other/crops_and_forage/wintergreen_berry/name",
+    "description": "A wonderful winter berry. Used in a variety of cooking recipes.",
+    "name": "Wintergreen Berry",
     "icon_sprite": "spr_ui_item_bush_wintergreen",
     "tags": [
       "forageable",

@@ -1,8 +1,8 @@
 {
   "id": "cattail",
   "item": {
-    "description": "items/other/crops_and_forage/cattail/description",
-    "name": "items/other/crops_and_forage/cattail/name",
+    "description": "Fluff extracted from the pod of a cattail plant. Used in crafting recipes.",
+    "name": "Cattail Fluff",
     "icon_sprite": "spr_ui_item_cattail",
     "tags": [
       "forageable",

@@ -1,8 +1,8 @@
 {
   "id": "oregano",
   "item": {
-    "description": "items/other/crops_and_forage/oregano/description",
-    "name": "items/other/crops_and_forage/oregano/name",
+    "description": "A popular herb grown in summer. Commonly used as a cooking ingredient.",
+    "name": "Oregano",
     "icon_sprite": "spr_ui_item_oregano",
     "tags": [
       "forageable"

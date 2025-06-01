@@ -5,6 +5,7 @@ import {
   transformItem,
 } from '@mistria-guide/data-types';
 import { TypesGenerator } from '../types-generator/types-generator';
+import { TranslationReferenceResolver } from '../localization/tranlation-reference-resolver';
 
 export function itemParser(
   items: Record<string, Record<string, Record<ItemId, RawItem>>>
@@ -38,7 +39,14 @@ export function itemParser(
         }
 
         allItemIds.push(itemId);
-        res[itemId] = transformItem(item);
+        const transformedItem = transformItem(item);
+        transformedItem.name = TranslationReferenceResolver.resolve(
+          transformedItem.name
+        );
+        transformedItem.description = TranslationReferenceResolver.resolve(
+          transformedItem.description
+        );
+        res[itemId] = transformedItem;
       });
     });
   });

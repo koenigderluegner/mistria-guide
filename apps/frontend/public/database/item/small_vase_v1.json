@@ -1,8 +1,8 @@
 {
   "id": "small_vase_v1",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/small_vase_v1/description",
-    "name": "items/furniture/tabletop_clutter_set/small_vase_v1/name",
+    "description": "A small white vase with a decorative sprout.",
+    "name": "Small Vase",
     "icon_sprite": "spr_ui_item_decor_clutter_small_vase_v1",
     "tags": [
       "furniture",

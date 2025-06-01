@@ -1,8 +1,8 @@
 {
   "id": "aldarian_gauntlet",
   "item": {
-    "description": "items/other/artifacts/aldarian_gauntlet/description",
-    "name": "items/other/artifacts/aldarian_gauntlet/name",
+    "description": "A rare artifact. This battle-worn gauntlet shows heavy use.",
+    "name": "Aldarian Gauntlet",
     "icon_sprite": "spr_ui_item_aldarian_gauntlet",
     "tags": [
       "archaeology"

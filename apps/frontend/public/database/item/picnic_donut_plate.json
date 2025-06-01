@@ -1,8 +1,8 @@
 {
   "id": "picnic_donut_plate",
   "item": {
-    "description": "items/furniture/decor_picnic_set/picnic_donut_plate/description",
-    "name": "items/furniture/decor_picnic_set/picnic_donut_plate/name",
+    "description": "A decorative donut plate.",
+    "name": "Picnic Display Donuts",
     "icon_sprite": "spr_ui_item_picnic_snack_plate_pink",
     "tags": [
       "furniture",

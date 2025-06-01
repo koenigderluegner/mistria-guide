@@ -1,8 +1,8 @@
 {
   "id": "watering_can_copper",
   "item": {
-    "description": "items/other/blacksmithing/watering_can_copper/description",
-    "name": "items/other/blacksmithing/watering_can_copper/name",
+    "description": "A copper watering can. Can be charged to water 3 tiles in a row.",
+    "name": "Copper Watering Can",
     "icon_sprite": "spr_ui_item_tool_copper_watering_can",
     "tags": [
       "watering_can",

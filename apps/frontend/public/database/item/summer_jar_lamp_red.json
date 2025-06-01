@@ -1,8 +1,8 @@
 {
   "id": "summer_jar_lamp_red",
   "item": {
-    "description": "items/furniture/summer_set/summer_jar_lamp_red/description",
-    "name": "items/furniture/summer_set/summer_jar_lamp_red/name",
+    "description": "A lamp that mimics a jar full of red fireflies.",
+    "name": "Summer Jar Lamp",
     "icon_sprite": "spr_ui_item_furniture_summer_jar_lamp_red",
     "tags": [
       "furniture",

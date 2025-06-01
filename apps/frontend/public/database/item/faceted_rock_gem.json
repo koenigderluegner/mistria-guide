@@ -1,8 +1,8 @@
 {
   "id": "faceted_rock_gem",
   "item": {
-    "description": "items/mines/deep_earth/faceted_rock_gem/description",
-    "name": "items/mines/deep_earth/faceted_rock_gem/name",
+    "description": "A uncommon artifact. Despite its mesmerizing, gem-like appearance, it's just a piece of rock.",
+    "name": "Faceted Rock Gem",
     "icon_sprite": "spr_ui_item_faceted_rock_gem",
     "tags": [
       "archaeology"

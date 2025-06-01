@@ -1,8 +1,8 @@
 {
   "id": "miners_mushroom_stew",
   "item": {
-    "description": "items/other/cooked_dishes/miners_mushroom_stew/description",
-    "name": "items/other/cooked_dishes/miners_mushroom_stew/name",
+    "description": "This rich and savory mushroom stew is a popular dish among miners.",
+    "name": "Miner's Mushroom Stew",
     "icon_sprite": "spr_ui_item_miner_mushroom_stew",
     "tags": [
       "food",

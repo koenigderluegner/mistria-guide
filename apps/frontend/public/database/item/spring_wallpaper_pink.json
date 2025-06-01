@@ -1,8 +1,8 @@
 {
   "id": "spring_wallpaper_pink",
   "item": {
-    "description": "items/furniture/spring_set/spring_wallpaper_pink/description",
-    "name": "items/furniture/spring_set/spring_wallpaper_pink/name",
+    "description": "A pink petal patterned wallpaper.",
+    "name": "Spring Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_spring_wallpaper_pink",
     "tags": [
       "furniture",

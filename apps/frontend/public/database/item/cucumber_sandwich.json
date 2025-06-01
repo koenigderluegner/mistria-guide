@@ -1,8 +1,8 @@
 {
   "id": "cucumber_sandwich",
   "item": {
-    "description": "items/other/cooked_dishes/cucumber_sandwich/description",
-    "name": "items/other/cooked_dishes/cucumber_sandwich/name",
+    "description": "This delectable sandwich thinly layers sliced cucumber and cheese.",
+    "name": "Cucumber Sandwich",
     "icon_sprite": "spr_ui_item_cucumber_sandwich",
     "tags": [
       "food",

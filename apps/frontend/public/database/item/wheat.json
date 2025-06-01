@@ -1,8 +1,8 @@
 {
   "id": "wheat",
   "item": {
-    "description": "items/other/crops_and_forage/wheat/description",
-    "name": "items/other/crops_and_forage/wheat/name",
+    "description": "A popular fall crop that regrows. Can be refined into flour, which is used in many recipes.",
+    "name": "Wheat",
     "icon_sprite": "spr_ui_item_wheat",
     "tags": [
       "crop"

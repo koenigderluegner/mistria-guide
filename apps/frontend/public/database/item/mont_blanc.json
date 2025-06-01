@@ -1,8 +1,8 @@
 {
   "id": "mont_blanc",
   "item": {
-    "description": "items/other/cooked_dishes/mont_blanc/description",
-    "name": "items/other/cooked_dishes/mont_blanc/name",
+    "description": "The rich chestnut flavor of this dessert is complemented by its unique texture.",
+    "name": "Mont Blanc",
     "icon_sprite": "spr_ui_item_mont_blanc",
     "tags": [
       "food",

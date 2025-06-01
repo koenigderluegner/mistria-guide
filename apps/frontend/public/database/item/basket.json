@@ -1,8 +1,8 @@
 {
   "id": "basket",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/basket/description",
-    "name": "items/furniture/tabletop_clutter_set/basket/name",
+    "description": "A decorative woven basket.",
+    "name": "Basket",
     "icon_sprite": "spr_ui_item_decor_clutter_basket",
     "tags": [
       "furniture",

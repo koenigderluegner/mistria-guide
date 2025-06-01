@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_beet",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_beet/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_beet/name",
+    "description": "A decorative faux beet plant.",
+    "name": "Faux Beet",
     "icon_sprite": "spr_ui_item_decor_crop_faux_beet",
     "tags": [
       "furniture",

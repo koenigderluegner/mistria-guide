@@ -1,8 +1,8 @@
 {
   "id": "jar_small",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/jar_small/description",
-    "name": "items/furniture/tabletop_clutter_set/jar_small/name",
+    "description": "A small decorative glass jar.",
+    "name": "Small Jar",
     "icon_sprite": "spr_ui_item_decor_clutter_jar_small",
     "tags": [
       "furniture",

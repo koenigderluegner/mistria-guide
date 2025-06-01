@@ -1,8 +1,8 @@
 {
   "id": "orchid_mantis",
   "item": {
-    "description": "items/other/bugs/orchid_mantis/description",
-    "name": "items/other/bugs/orchid_mantis/name",
+    "description": "A rare insect found during the daytime in spring.",
+    "name": "Orchid Mantis",
     "icon_sprite": "spr_ui_item_insect_orchidmantis",
     "tags": [
       "bugs"

@@ -1,8 +1,8 @@
 {
   "id": "large_paving_stone_v2",
   "item": {
-    "description": "items/furniture/stone_set/large_paving_stone_v2/description",
-    "name": "items/furniture/stone_set/large_paving_stone_v2/name",
+    "description": "A large paving stone.",
+    "name": "Large Paving Stone",
     "icon_sprite": "spr_ui_item_decor_large_paving_stone_v2",
     "tags": [
       "furniture",

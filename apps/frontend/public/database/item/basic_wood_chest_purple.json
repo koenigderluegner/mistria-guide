@@ -1,8 +1,8 @@
 {
   "id": "basic_wood_chest_purple",
   "item": {
-    "description": "items/furniture/basic_chest_set/basic_wood_chest_purple/description",
-    "name": "items/furniture/basic_chest_set/basic_wood_chest_purple/name",
+    "description": "A placeable basic wooden chest.",
+    "name": "Basic Wood Chest",
     "icon_sprite": "spr_ui_item_furniture_basic_chest_v13",
     "tags": [
       "furniture",

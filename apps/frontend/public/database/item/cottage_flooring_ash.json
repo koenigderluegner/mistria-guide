@@ -1,8 +1,8 @@
 {
   "id": "cottage_flooring_ash",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_flooring_ash/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_flooring_ash/name",
+    "description": "Lovely ash wood flooring for your dream cottage.",
+    "name": "Lovely Cottage Flooring",
     "icon_sprite": "spr_ui_item_furniture_cottage_flooring_v2",
     "tags": [
       "furniture",

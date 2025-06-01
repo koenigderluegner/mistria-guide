@@ -1,8 +1,8 @@
 {
   "id": "blue_capybara_wall_ribbon",
   "item": {
-    "description": "items/other/festivals/blue_capybara_wall_ribbon/description",
-    "name": "items/other/festivals/blue_capybara_wall_ribbon/name",
+    "description": "A blue display ribbon commemorating your capybara's first place win at the Animal Festival.",
+    "name": "Blue Capybara Wall Ribbon",
     "icon_sprite": "spr_ui_item_decor_blue_capybara_ribbon",
     "tags": [
       "furniture"

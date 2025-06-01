@@ -1,8 +1,8 @@
 {
   "id": "hot_potato",
   "item": {
-    "description": "items/mines/lava_caves/hot_potato/description",
-    "name": "items/mines/lava_caves/hot_potato/name",
+    "description": "These pre-cooked wild potatoes have a tangy flavor that is surprisingly addictive.",
+    "name": "Hot Potato",
     "icon_sprite": "spr_ui_item_hot_potato",
     "tags": [
       "forageable",

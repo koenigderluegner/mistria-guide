@@ -1,8 +1,8 @@
 {
   "id": "crystalline_cricket",
   "item": {
-    "description": "items/mines/deep_earth/crystalline_cricket/description",
-    "name": "items/mines/deep_earth/crystalline_cricket/name",
+    "description": "A common Deep Earth insect. The stones around it vibrate in tune with its song.",
+    "name": "Crystalline Cricket",
     "icon_sprite": "spr_ui_item_insect_crystalline_cricket",
     "tags": [
       "bugs"

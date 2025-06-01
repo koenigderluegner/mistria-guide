@@ -1,8 +1,8 @@
 {
   "id": "perfect_sapphire",
   "item": {
-    "description": "items/other/artifacts/perfect_sapphire/description",
-    "name": "items/other/artifacts/perfect_sapphire/name",
+    "description": "A rare artifact. This unusually large sapphire seems to glow from within.",
+    "name": "Perfect Sapphire",
     "icon_sprite": "spr_ui_item_perfect_sapphire",
     "tags": [
       "gem",

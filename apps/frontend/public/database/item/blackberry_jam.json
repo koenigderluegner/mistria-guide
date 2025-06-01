@@ -1,8 +1,8 @@
 {
   "id": "blackberry_jam",
   "item": {
-    "description": "items/other/cooked_dishes/blackberry_jam/description",
-    "name": "items/other/cooked_dishes/blackberry_jam/name",
+    "description": "This autumnal jam is sweet and tangy.",
+    "name": "Blackberry Jam",
     "icon_sprite": "spr_ui_item_blackberry_jam",
     "tags": [
       "food",

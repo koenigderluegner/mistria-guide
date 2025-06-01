@@ -1,8 +1,8 @@
 {
   "id": "lobster_roll",
   "item": {
-    "description": "items/other/cooked_dishes/lobster_roll/description",
-    "name": "items/other/cooked_dishes/lobster_roll/name",
+    "description": "A popular seaside lunch with a rich and creamy flavor.",
+    "name": "Lobster Roll",
     "icon_sprite": "spr_ui_item_lobster_roll",
     "tags": [
       "food",

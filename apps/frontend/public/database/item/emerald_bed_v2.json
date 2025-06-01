@@ -1,8 +1,8 @@
 {
   "id": "emerald_bed_v2",
   "item": {
-    "description": "items/furniture/emerald_set/emerald_bed_v2/description",
-    "name": "items/furniture/emerald_set/emerald_bed_v2/name",
+    "description": "An ornate emerald bed with wood detailing.",
+    "name": "Emerald Single Bed",
     "icon_sprite": "spr_ui_item_furniture_emerald_bed_v2",
     "tags": [
       "furniture",

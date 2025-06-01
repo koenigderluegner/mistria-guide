@@ -1,8 +1,8 @@
 {
   "id": "polar_fly",
   "item": {
-    "description": "items/other/bugs/polar_fly/description",
-    "name": "items/other/bugs/polar_fly/name",
+    "description": "A common insect found in winter.",
+    "name": "Polar Fly",
     "icon_sprite": "spr_ui_item_insect_polar_fly",
     "tags": [
       "bugs"

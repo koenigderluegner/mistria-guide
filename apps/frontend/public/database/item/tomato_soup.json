@@ -1,8 +1,8 @@
 {
   "id": "tomato_soup",
   "item": {
-    "description": "items/other/cooked_dishes/tomato_soup/description",
-    "name": "items/other/cooked_dishes/tomato_soup/name",
+    "description": "The rich tomato flavor of this soup is complimented by a touch of basil.",
+    "name": "Tomato Soup",
     "icon_sprite": "spr_ui_item_tomato_soup",
     "tags": [
       "food",

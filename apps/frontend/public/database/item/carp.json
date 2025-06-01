@@ -1,8 +1,8 @@
 {
   "id": "carp",
   "item": {
-    "description": "items/fish/river/carp/description",
-    "name": "items/fish/river/carp/name",
+    "description": "A common medium river fish found in spring.",
+    "name": "Carp",
     "icon_sprite": "spr_ui_item_fish_medium_carp",
     "tags": [
       "fishable",

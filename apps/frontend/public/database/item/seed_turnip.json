@@ -1,8 +1,8 @@
 {
   "id": "seed_turnip",
   "item": {
-    "description": "items/other/crops_and_forage/seed_turnip/description",
-    "name": "items/other/crops_and_forage/seed_turnip/name",
+    "description": "Turnip seed. This fast growing spring crop can be harvested once.",
+    "name": "Turnip Seed",
     "icon_sprite": "spr_ui_item_bagseed_turnip_icon",
     "tags": [
       "seed"

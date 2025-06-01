@@ -1,8 +1,8 @@
 {
   "id": "ore_emerald",
   "item": {
-    "description": "items/other/materials/ore_emerald/description",
-    "name": "items/other/materials/ore_emerald/name",
+    "description": "A shining green gem. Can be sold, gifted, or used in certain crafting recipes.",
+    "name": "Emerald",
     "icon_sprite": "spr_ui_item_emerald",
     "tags": [
       "refined_material",

@@ -1,8 +1,8 @@
 {
   "id": "cottage_dresser_oak",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_dresser_oak/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_dresser_oak/name",
+    "description": "A lovely dresser painted antique white and sage green.",
+    "name": "Lovely Cottage Dresser",
     "icon_sprite": "spr_ui_item_furniture_cottage_dresser_v1",
     "tags": [
       "furniture",

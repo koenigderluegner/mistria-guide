@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_mines_mussels",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_mines_mussels/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_mines_mussels/name",
+    "description": "A decorative clump of faux mines mussels.",
+    "name": "Faux Mines Mussels",
     "icon_sprite": "spr_ui_item_decor_crop_faux_mines_mussels",
     "tags": [
       "furniture",

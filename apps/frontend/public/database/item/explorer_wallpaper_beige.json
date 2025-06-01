@@ -1,8 +1,8 @@
 {
   "id": "explorer_wallpaper_beige",
   "item": {
-    "description": "items/furniture/explorer_set/explorer_wallpaper_beige/description",
-    "name": "items/furniture/explorer_set/explorer_wallpaper_beige/name",
+    "description": "A wallpaper that resembles a scholarly beige bookshelf.",
+    "name": "Explorer Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_explorer_wallpaper_beige",
     "tags": [
       "furniture",

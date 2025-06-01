@@ -1,8 +1,8 @@
 {
   "id": "caldosian_breastplate",
   "item": {
-    "description": "items/other/artifacts/caldosian_breastplate/description",
-    "name": "items/other/artifacts/caldosian_breastplate/name",
+    "description": "A rare artifact. This magnificent breastplate is so ornate, it was likely used for ceremonial purposes.",
+    "name": "Caldosian Breastplate",
     "icon_sprite": "spr_ui_item_caldosian_breastplate",
     "tags": [
       "archaeology"

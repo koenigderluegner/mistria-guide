@@ -1,8 +1,8 @@
 {
   "id": "haunted_attic_dress_form_dark",
   "item": {
-    "description": "items/furniture/haunted_attic_set/haunted_attic_dress_form_dark/description",
-    "name": "items/furniture/haunted_attic_set/haunted_attic_dress_form_dark/name",
+    "description": "An old fashioned purple dress form.",
+    "name": "Haunted Attic Dress Form",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_dress_form_dark",
     "tags": [
       "furniture",

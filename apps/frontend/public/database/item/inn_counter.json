@@ -1,8 +1,8 @@
 {
   "id": "inn_counter",
   "item": {
-    "description": "items/furniture/inn_set/inn_counter/description",
-    "name": "items/furniture/inn_set/inn_counter/name",
+    "description": "A kitchen counter, matching the design used at the Inn.",
+    "name": "Inn Counter",
     "icon_sprite": "spr_ui_item_furniture_inn_counter",
     "tags": [
       "furniture"

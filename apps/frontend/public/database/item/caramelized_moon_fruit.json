@@ -1,8 +1,8 @@
 {
   "id": "caramelized_moon_fruit",
   "item": {
-    "description": "items/other/cooked_dishes/caramelized_moon_fruit/description",
-    "name": "items/other/cooked_dishes/caramelized_moon_fruit/name",
+    "description": "This sweet caramelized moon fruit has a melt-in-your-mouth texture.",
+    "name": "Caramelized Moon Fruit",
     "icon_sprite": "spr_ui_item_caramelized_moon_fruit",
     "tags": [
       "food",

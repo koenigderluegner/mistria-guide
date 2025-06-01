@@ -1,8 +1,8 @@
 {
   "id": "watermelon",
   "item": {
-    "description": "items/other/crops_and_forage/watermelon/description",
-    "name": "items/other/crops_and_forage/watermelon/name",
+    "description": "A classic summer crop. Super refreshing on a hot summer day.",
+    "name": "Watermelon",
     "icon_sprite": "spr_ui_item_watermelon",
     "tags": [
       "crop"

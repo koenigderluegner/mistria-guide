@@ -1,8 +1,8 @@
 {
   "id": "bathroom_wall_mirror_black",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_wall_mirror_black/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_wall_mirror_black/name",
+    "description": "A black bathroom mirror.",
+    "name": "Bathroom Wall Mirror",
     "icon_sprite": "spr_ui_item_furniture_bathroom_wall_mirror_black",
     "tags": [
       "furniture",

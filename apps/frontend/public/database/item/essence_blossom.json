@@ -1,8 +1,8 @@
 {
   "id": "essence_blossom",
   "item": {
-    "description": "items/mines/ruins/essence_blossom/description",
-    "name": "items/mines/ruins/essence_blossom/name",
+    "description": "A flower infused with magic, beautiful and surprisingly resilient.",
+    "name": "Essence Blossom",
     "icon_sprite": "spr_ui_item_essence_blossom",
     "tags": [
       "forageable",

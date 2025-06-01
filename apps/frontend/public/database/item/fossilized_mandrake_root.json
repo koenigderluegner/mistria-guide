@@ -1,8 +1,8 @@
 {
   "id": "fossilized_mandrake_root",
   "item": {
-    "description": "items/other/artifacts/fossilized_mandrake_root/description",
-    "name": "items/other/artifacts/fossilized_mandrake_root/name",
+    "description": "A legendary artifact. Thankfully, it's fossilized.",
+    "name": "Fossilized Mandrake Root",
     "icon_sprite": "spr_ui_item_fossilized_mandrake_root",
     "tags": [
       "archaeology"

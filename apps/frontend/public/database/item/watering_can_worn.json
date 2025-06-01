@@ -1,8 +1,8 @@
 {
   "id": "watering_can_worn",
   "item": {
-    "description": "items/other/blacksmithing/watering_can_worn/description",
-    "name": "items/other/blacksmithing/watering_can_worn/name",
+    "description": "A worn but still serviceable watering can. Used to water plants.",
+    "name": "Worn Watering Can",
     "icon_sprite": "spr_ui_item_tool_rusty_watering_can",
     "tags": [
       "watering_can",

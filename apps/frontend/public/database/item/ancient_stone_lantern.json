@@ -1,8 +1,8 @@
 {
   "id": "ancient_stone_lantern",
   "item": {
-    "description": "items/other/artifacts/ancient_stone_lantern/description",
-    "name": "items/other/artifacts/ancient_stone_lantern/name",
+    "description": "An uncommon artifact. An impossibly delicate stone lantern from the age of the Witch Queens. It still retains an ethereal glow from within.",
+    "name": "Ancient Stone Lantern",
     "icon_sprite": "spr_ui_item_ancient_stone_lantern",
     "tags": [
       "archaeology"

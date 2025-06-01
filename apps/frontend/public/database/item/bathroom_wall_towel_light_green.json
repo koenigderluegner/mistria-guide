@@ -1,8 +1,8 @@
 {
   "id": "bathroom_wall_towel_light_green",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_wall_towel_light_green/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_wall_towel_light_green/name",
+    "description": "A light green bathroom wall towel.",
+    "name": "Bathroom Wall Towel",
     "icon_sprite": "spr_ui_item_furniture_bathroom_wall_towel_light_green",
     "tags": [
       "furniture",

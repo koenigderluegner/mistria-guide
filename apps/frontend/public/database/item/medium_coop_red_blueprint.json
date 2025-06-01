@@ -1,8 +1,8 @@
 {
   "id": "medium_coop_red_blueprint",
   "item": {
-    "description": "items/other/misc/medium_coop_red_blueprint/description",
-    "name": "items/other/misc/medium_coop_red_blueprint/name",
+    "description": "Use this item to place a medium red coop construction site on your farm! Requirements to build: 100 wood, 75 stone.",
+    "name": "Medium Red Coop Blueprint",
     "icon_sprite": "spr_ui_item_medium_coop_red",
     "value": {
       "store": 3000

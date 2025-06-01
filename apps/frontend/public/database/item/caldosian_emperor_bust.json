@@ -1,8 +1,8 @@
 {
   "id": "caldosian_emperor_bust",
   "item": {
-    "description": "items/other/artifacts/caldosian_emperor_bust/description",
-    "name": "items/other/artifacts/caldosian_emperor_bust/name",
+    "description": "An uncommon artifact. The bust of a Caldosian Emperor. It's not clear which one.",
+    "name": "Caldosian Emperor Bust",
     "icon_sprite": "spr_ui_item_caldosian_emperor_bust",
     "tags": [
       "archaeology"

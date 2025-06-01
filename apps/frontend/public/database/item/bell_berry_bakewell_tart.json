@@ -1,8 +1,8 @@
 {
   "id": "bell_berry_bakewell_tart",
   "item": {
-    "description": "items/other/cooked_dishes/bell_berry_bakewell_tart/description",
-    "name": "items/other/cooked_dishes/bell_berry_bakewell_tart/name",
+    "description": "A shortcrust pastry with a generous layer of Bell Berry Jam inside.",
+    "name": "Bell Berry Bakewell Tart",
     "icon_sprite": "spr_ui_item_bell_berry_bakewell_tart",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "small_coop_red_blueprint",
   "item": {
-    "description": "items/other/misc/small_coop_red_blueprint/description",
-    "name": "items/other/misc/small_coop_red_blueprint/name",
+    "description": "Use this item to place a small red coop construction site on your farm! Requirements to build: 75 wood, 50 stone.",
+    "name": "Small Red Coop Blueprint",
     "icon_sprite": "spr_ui_item_small_coop_red",
     "value": {
       "store": 1500

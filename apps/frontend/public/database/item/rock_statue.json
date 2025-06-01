@@ -1,8 +1,8 @@
 {
   "id": "rock_statue",
   "item": {
-    "description": "items/mines/deep_earth/rock_statue/description",
-    "name": "items/mines/deep_earth/rock_statue/name",
+    "description": "A rare artifact. This naturally formed stone appears to be in the shape of a human, but... surely it's just a coincidence.",
+    "name": "Rock Statue",
     "icon_sprite": "spr_ui_item_rock_statue",
     "tags": [
       "archaeology"

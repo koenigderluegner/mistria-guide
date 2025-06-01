@@ -1,8 +1,8 @@
 {
   "id": "bathroom_curtain_stand_black",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_curtain_stand_black/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_curtain_stand_black/name",
+    "description": "A black bathroom curtain stand.",
+    "name": "Bathroom Curtain Stand",
     "icon_sprite": "spr_ui_item_furniture_bathroom_curtain_stand_black",
     "tags": [
       "furniture",

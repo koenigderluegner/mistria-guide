@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_crystal_rose",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_crystal_rose/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_crystal_rose/name",
+    "description": "A decorative faux crystal rose.",
+    "name": "Faux Crystal Rose",
     "icon_sprite": "spr_ui_item_decor_crop_faux_crystal_rose",
     "tags": [
       "furniture",

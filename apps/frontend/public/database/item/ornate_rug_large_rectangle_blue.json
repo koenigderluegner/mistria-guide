@@ -1,8 +1,8 @@
 {
   "id": "ornate_rug_large_rectangle_blue",
   "item": {
-    "description": "items/furniture/decor_ornate_rug_set/ornate_rug_large_rectangle_blue/description",
-    "name": "items/furniture/decor_ornate_rug_set/ornate_rug_large_rectangle_blue/name",
+    "description": "A large sized blue ornate rug with a rectangular shape.",
+    "name": "Ornate Large Rectangle Rug",
     "icon_sprite": "spr_ui_item_decor_ornate_rug_large_rectangle_blue",
     "tags": [
       "furniture",

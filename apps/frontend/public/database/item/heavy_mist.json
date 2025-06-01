@@ -1,8 +1,8 @@
 {
   "id": "heavy_mist",
   "item": {
-    "description": "items/other/cooked_dishes/heavy_mist/description",
-    "name": "items/other/cooked_dishes/heavy_mist/name",
+    "description": "An alcoholic drink that blends coffee liqueur and sweetened cream.",
+    "name": "Heavy Mist",
     "icon_sprite": "spr_ui_item_heavy_mist",
     "tags": [
       "drink_sound",

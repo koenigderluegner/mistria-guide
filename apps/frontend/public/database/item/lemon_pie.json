@@ -1,8 +1,8 @@
 {
   "id": "lemon_pie",
   "item": {
-    "description": "items/other/cooked_dishes/lemon_pie/description",
-    "name": "items/other/cooked_dishes/lemon_pie/name",
+    "description": "This lemon pie is a perfect balance of sweet and tart.",
+    "name": "Lemon Pie",
     "icon_sprite": "spr_ui_item_lemonpie",
     "tags": [
       "food",

@@ -1,7 +1,7 @@
 {
   "id": "animal_cosmetic",
   "item": {
-    "description": "items/other/misc/animal_cosmetic/description",
+    "description": "Use this item to unlock the cosmetic for your animals to wear!",
     "icon_sprite": "spr_illegal_16",
     "tags": [
       "blacklist_popup"

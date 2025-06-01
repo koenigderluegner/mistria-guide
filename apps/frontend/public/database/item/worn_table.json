@@ -1,8 +1,8 @@
 {
   "id": "worn_table",
   "item": {
-    "description": "items/furniture/default_worn_set/worn_table/description",
-    "name": "items/furniture/default_worn_set/worn_table/name",
+    "description": "A worn wooden table.",
+    "name": "Worn Table",
     "icon_sprite": "spr_ui_item_furniture_default_table_v1",
     "tags": [
       "furniture",

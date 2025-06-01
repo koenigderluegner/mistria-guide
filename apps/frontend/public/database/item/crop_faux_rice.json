@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_rice",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_rice/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_rice/name",
+    "description": "A decorative faux rice plant.",
+    "name": "Faux Rice",
     "icon_sprite": "spr_ui_item_decor_crop_faux_rice",
     "tags": [
       "furniture",

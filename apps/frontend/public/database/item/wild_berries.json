@@ -1,8 +1,8 @@
 {
   "id": "wild_berries",
   "item": {
-    "description": "items/other/crops_and_forage/wild_berries/description",
-    "name": "items/other/crops_and_forage/wild_berries/name",
+    "description": "These small red berries are foraged in spring. Used in a variety of cooking recipes.",
+    "name": "Wild Berries",
     "icon_sprite": "spr_ui_item_bush_wildberry",
     "tags": [
       "forageable",

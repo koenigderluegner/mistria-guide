@@ -1,8 +1,8 @@
 {
   "id": "fall_double_bed_yellow",
   "item": {
-    "description": "items/furniture/fall_set/fall_double_bed_yellow/description",
-    "name": "items/furniture/fall_set/fall_double_bed_yellow/name",
+    "description": "A cozy double bed with yellow gingham blankets and a built-in shelf.",
+    "name": "Fall Double Bed",
     "icon_sprite": "spr_ui_item_furniture_fall_double_bed_yellow",
     "tags": [
       "furniture",

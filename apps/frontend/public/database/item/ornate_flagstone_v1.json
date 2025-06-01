@@ -1,8 +1,8 @@
 {
   "id": "ornate_flagstone_v1",
   "item": {
-    "description": "items/furniture/mistrian_history_set/ornate_flagstone_v1/description",
-    "name": "items/furniture/mistrian_history_set/ornate_flagstone_v1/name",
+    "description": "An ornate flagstone.",
+    "name": "Ornate Flagstone",
     "icon_sprite": "spr_ui_item_ornate_flagstone_v1",
     "tags": [
       "furniture",

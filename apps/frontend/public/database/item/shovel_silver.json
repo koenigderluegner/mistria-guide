@@ -1,8 +1,8 @@
 {
   "id": "shovel_silver",
   "item": {
-    "description": "items/other/blacksmithing/shovel_silver/description",
-    "name": "items/other/blacksmithing/shovel_silver/name",
+    "description": "A silver shovel. Can be charged to dig a 3x6 area.",
+    "name": "Silver Shovel",
     "icon_sprite": "spr_ui_item_tool_silver_shovel",
     "tags": [
       "shovel",

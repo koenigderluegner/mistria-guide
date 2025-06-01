@@ -1,8 +1,8 @@
 {
   "id": "perfect_emerald",
   "item": {
-    "description": "items/other/artifacts/perfect_emerald/description",
-    "name": "items/other/artifacts/perfect_emerald/name",
+    "description": "An uncommon artifact. An emerald of this clarity would gain nothing from being worked further.",
+    "name": "Perfect Emerald",
     "icon_sprite": "spr_ui_item_perfect_emerald",
     "tags": [
       "gem",

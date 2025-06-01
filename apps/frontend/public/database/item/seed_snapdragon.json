@@ -1,8 +1,8 @@
 {
   "id": "seed_snapdragon",
   "item": {
-    "description": "items/other/crops_and_forage/seed_snapdragon/description",
-    "name": "items/other/crops_and_forage/seed_snapdragon/name",
+    "description": "Snapdragon seed. This winter flower can be harvested once.",
+    "name": "Snapdragon Seed",
     "icon_sprite": "spr_ui_item_bagseed_snapdragon_icon",
     "tags": [
       "seed"

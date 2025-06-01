@@ -1,8 +1,8 @@
 {
   "id": "sliced_turnip",
   "item": {
-    "description": "items/other/cooked_dishes/sliced_turnip/description",
-    "name": "items/other/cooked_dishes/sliced_turnip/name",
+    "description": "These crisp slices of turnip are mildly sweet. Tasty & refreshing.",
+    "name": "Sliced Turnip",
     "icon_sprite": "spr_ui_item_sliced_turnip",
     "tags": [
       "food",

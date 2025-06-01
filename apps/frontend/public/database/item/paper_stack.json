@@ -1,8 +1,8 @@
 {
   "id": "paper_stack",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/paper_stack/description",
-    "name": "items/furniture/tabletop_clutter_set/paper_stack/name",
+    "description": "A decorative stack of paper.",
+    "name": "Paper Stack",
     "icon_sprite": "spr_ui_item_decor_clutter_paper_stack",
     "tags": [
       "furniture",

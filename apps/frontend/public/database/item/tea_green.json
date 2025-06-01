@@ -1,8 +1,8 @@
 {
   "id": "tea_green",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/tea_green/description",
-    "name": "items/furniture/tabletop_clutter_set/tea_green/name",
+    "description": "A decorative cup of green tea.",
+    "name": "Green Tea Cup",
     "icon_sprite": "spr_ui_item_decor_clutter_tea_green",
     "tags": [
       "furniture",

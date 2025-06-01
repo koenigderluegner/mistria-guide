@@ -1,8 +1,8 @@
 {
   "id": "rice",
   "item": {
-    "description": "items/other/mill/rice/description",
-    "name": "items/other/mill/rice/name",
+    "description": "A bag of processed rice. Used as an ingredient in many kinds of dishes.",
+    "name": "Rice",
     "icon_sprite": "spr_ui_item_rice",
     "tags": [
       "milling",

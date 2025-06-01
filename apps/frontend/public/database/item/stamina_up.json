@@ -1,8 +1,8 @@
 {
   "id": "stamina_up",
   "item": {
-    "description": "items/other/misc/stamina_up/description",
-    "name": "items/other/misc/stamina_up/name",
+    "description": "This potion is famous for its energy restoration properties. Some even claim it increases your energy permanently!",
+    "name": "Stamina Up",
     "icon_sprite": "spr_ui_item_stamina_potion",
     "tags": [
       "drink_sound"

@@ -1,8 +1,8 @@
 {
   "id": "breaded_catfish",
   "item": {
-    "description": "items/other/cooked_dishes/breaded_catfish/description",
-    "name": "items/other/cooked_dishes/breaded_catfish/name",
+    "description": "This fried catfish is crispy on the outside and tender on the inside.",
+    "name": "Breaded Catfish",
     "icon_sprite": "spr_ui_item_breadedcatfish",
     "tags": [
       "food",

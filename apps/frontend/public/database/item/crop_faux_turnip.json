@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_turnip",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_turnip/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_turnip/name",
+    "description": "A decorative faux turnip.",
+    "name": "Faux Turnip",
     "icon_sprite": "spr_ui_item_decor_crop_faux_turnip",
     "tags": [
       "furniture",

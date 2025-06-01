@@ -1,8 +1,8 @@
 {
   "id": "ocean_sunfish",
   "item": {
-    "description": "items/fish/ocean/ocean_sunfish/description",
-    "name": "items/fish/ocean/ocean_sunfish/name",
+    "description": "A rare giant ocean fish found in spring.",
+    "name": "Ocean Sunfish",
     "icon_sprite": "spr_ui_item_fish_giant_ocean_sunfish",
     "tags": [
       "fishable",

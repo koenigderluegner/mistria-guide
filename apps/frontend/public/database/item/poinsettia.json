@@ -1,8 +1,8 @@
 {
   "id": "poinsettia",
   "item": {
-    "description": "items/other/crops_and_forage/poinsettia/description",
-    "name": "items/other/crops_and_forage/poinsettia/name",
+    "description": "A lovely red winter flower. Can be used in crafting recipes.",
+    "name": "Poinsettia",
     "icon_sprite": "spr_ui_item_poinsettia",
     "tags": [
       "flower",

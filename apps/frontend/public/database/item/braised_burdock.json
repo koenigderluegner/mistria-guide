@@ -1,8 +1,8 @@
 {
   "id": "braised_burdock",
   "item": {
-    "description": "items/other/cooked_dishes/braised_burdock/description",
-    "name": "items/other/cooked_dishes/braised_burdock/name",
+    "description": "This thinly sliced burdock has a sweet and savory flavor.",
+    "name": "Braised Burdock",
     "icon_sprite": "spr_ui_item_braised_burdock",
     "tags": [
       "food",

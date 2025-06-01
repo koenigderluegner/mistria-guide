@@ -1,8 +1,8 @@
 {
   "id": "obsidian_blade",
   "item": {
-    "description": "items/other/artifacts/obsidian_blade/description",
-    "name": "items/other/artifacts/obsidian_blade/name",
+    "description": "A rare artifact. The artifact is still dangerously sharp.",
+    "name": "Obsidian Blade",
     "icon_sprite": "spr_ui_item_obsidian_blade",
     "tags": [
       "archaeology"

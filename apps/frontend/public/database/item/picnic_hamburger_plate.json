@@ -1,8 +1,8 @@
 {
   "id": "picnic_hamburger_plate",
   "item": {
-    "description": "items/furniture/decor_picnic_set/picnic_hamburger_plate/description",
-    "name": "items/furniture/decor_picnic_set/picnic_hamburger_plate/name",
+    "description": "A decorative burger plate.",
+    "name": "Picnic Display Burgers",
     "icon_sprite": "spr_ui_item_picnic_snack_plate_yellow",
     "tags": [
       "furniture",

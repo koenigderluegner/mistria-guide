@@ -1,8 +1,8 @@
 {
   "id": "ornamental_iron_node",
   "item": {
-    "description": "items/furniture/tide_set/ornamental_iron_node/description",
-    "name": "items/furniture/tide_set/ornamental_iron_node/name",
+    "description": "A decorative iron node.",
+    "name": "Ornamental Iron Node",
     "icon_sprite": "spr_ui_item_furniture_iron_node",
     "tags": [
       "furniture",

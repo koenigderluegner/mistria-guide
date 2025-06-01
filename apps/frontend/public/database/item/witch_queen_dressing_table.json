@@ -1,8 +1,8 @@
 {
   "id": "witch_queen_dressing_table",
   "item": {
-    "description": "items/furniture/witch_queen_set/witch_queen_dressing_table/description",
-    "name": "items/furniture/witch_queen_set/witch_queen_dressing_table/name",
+    "description": "A sea green and purple dressing table.",
+    "name": "Witch Queen Dressing Table",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_dressing_table",
     "tags": [
       "furniture",

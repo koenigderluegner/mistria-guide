@@ -1,8 +1,8 @@
 {
   "id": "copper_beetle",
   "item": {
-    "description": "items/mines/upper_mines/copper_beetle/description",
-    "name": "items/mines/upper_mines/copper_beetle/name",
+    "description": "An uncommon Upper Mines insect. Their unique coloration is great camouflage.",
+    "name": "Copper Nugget Beetle",
     "icon_sprite": "spr_ui_item_insect_copper_beetle",
     "tags": [
       "bugs"

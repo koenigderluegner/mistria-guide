@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_wheat",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_wheat/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_wheat/name",
+    "description": "A wooden sign featuring painted wheat.",
+    "name": "Wheat Sign",
     "icon_sprite": "spr_ui_item_crop_sign_wheat",
     "tags": [
       "furniture",

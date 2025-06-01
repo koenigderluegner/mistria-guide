@@ -1,8 +1,8 @@
 {
   "id": "chess_table_purple",
   "item": {
-    "description": "items/furniture/chess_set/chess_table_purple/description",
-    "name": "items/furniture/chess_set/chess_table_purple/name",
+    "description": "A purple chess table.",
+    "name": "Chess Table",
     "icon_sprite": "spr_ui_item_furniture_chess_table_purple",
     "tags": [
       "furniture",

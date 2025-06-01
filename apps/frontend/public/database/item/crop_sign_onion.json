@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_onion",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_onion/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_onion/name",
+    "description": "A wooden sign featuring a painted onion.",
+    "name": "Onion Sign",
     "icon_sprite": "spr_ui_item_crop_sign_onion",
     "tags": [
       "furniture",

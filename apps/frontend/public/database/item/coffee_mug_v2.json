@@ -1,8 +1,8 @@
 {
   "id": "coffee_mug_v2",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/coffee_mug_v2/description",
-    "name": "items/furniture/tabletop_clutter_set/coffee_mug_v2/name",
+    "description": "A decorative white coffee mug.",
+    "name": "Coffee Mug",
     "icon_sprite": "spr_ui_item_decor_coffee_v2",
     "tags": [
       "furniture",

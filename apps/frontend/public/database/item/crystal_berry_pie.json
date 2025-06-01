@@ -1,8 +1,8 @@
 {
   "id": "crystal_berry_pie",
   "item": {
-    "description": "items/other/cooked_dishes/crystal_berry_pie/description",
-    "name": "items/other/cooked_dishes/crystal_berry_pie/name",
+    "description": "A pie that's as beautiful as it is tasty.",
+    "name": "Crystal Berry Pie",
     "icon_sprite": "spr_ui_item_crystal_berry_pie",
     "tags": [
       "food",

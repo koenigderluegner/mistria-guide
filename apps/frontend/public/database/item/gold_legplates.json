@@ -1,8 +1,8 @@
 {
   "id": "gold_legplates",
   "item": {
-    "description": "items/other/armor/gold_legplates/description",
-    "name": "items/other/armor/gold_legplates/name",
+    "description": "Legplates constructed out of gold. Equip to increase defense.",
+    "name": "Gold Legplates",
     "icon_sprite": "spr_ui_item_equipment_gold_pants",
     "tags": [
       "legs",

@@ -1,8 +1,8 @@
 {
   "id": "chess_rook_purple",
   "item": {
-    "description": "items/furniture/chess_set/chess_rook_purple/description",
-    "name": "items/furniture/chess_set/chess_rook_purple/name",
+    "description": "An oversized purple rook chess piece.",
+    "name": "Chess Rook Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_rook_purple",
     "tags": [
       "furniture",

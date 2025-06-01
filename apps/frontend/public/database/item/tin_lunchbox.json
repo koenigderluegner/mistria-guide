@@ -1,8 +1,8 @@
 {
   "id": "tin_lunchbox",
   "item": {
-    "description": "items/mines/upper_mines/tin_lunchbox/description",
-    "name": "items/mines/upper_mines/tin_lunchbox/name",
+    "description": "A common artifact. Sadly, it's empty.",
+    "name": "Tin Lunchbox",
     "icon_sprite": "spr_ui_item_tin_lunchbox",
     "tags": [
       "archaeology"

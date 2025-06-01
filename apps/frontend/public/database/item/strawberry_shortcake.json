@@ -1,8 +1,8 @@
 {
   "id": "strawberry_shortcake",
   "item": {
-    "description": "items/other/cooked_dishes/strawberry_shortcake/description",
-    "name": "items/other/cooked_dishes/strawberry_shortcake/name",
+    "description": "This dainty cake is layered with sweet strawberries and fresh cream.",
+    "name": "Strawberry Shortcake",
     "icon_sprite": "spr_ui_item_strawberryshortcake",
     "tags": [
       "food",

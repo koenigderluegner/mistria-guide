@@ -1,8 +1,8 @@
 {
   "id": "gold_horse_trophy",
   "item": {
-    "description": "items/other/festivals/gold_horse_trophy/description",
-    "name": "items/other/festivals/gold_horse_trophy/name",
+    "description": "A gold display trophy commemorating your horse's first place win at the Animal Festival.",
+    "name": "Gold Horse Trophy",
     "icon_sprite": "spr_ui_item_decor_gold_horse_trophy",
     "tags": [
       "furniture"

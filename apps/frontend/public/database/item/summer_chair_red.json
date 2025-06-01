@@ -1,8 +1,8 @@
 {
   "id": "summer_chair_red",
   "item": {
-    "description": "items/furniture/summer_set/summer_chair_red/description",
-    "name": "items/furniture/summer_set/summer_chair_red/name",
+    "description": "A white lawn chair with a pink cushion.",
+    "name": "Summer Chair",
     "icon_sprite": "spr_ui_item_furniture_summer_chair_red",
     "tags": [
       "furniture",

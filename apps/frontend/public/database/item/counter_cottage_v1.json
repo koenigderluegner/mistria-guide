@@ -1,8 +1,8 @@
 {
   "id": "counter_cottage_v1",
   "item": {
-    "description": "items/furniture/counter_set/counter_cottage_v1/description",
-    "name": "items/furniture/counter_set/counter_cottage_v1/name",
+    "description": "A sage lovely cottage counter piece. Place two or more together to connect them!",
+    "name": "Lovely Cottage Counter",
     "icon_sprite": "spr_ui_item_decor_counter_cottage_v1",
     "tags": [
       "furniture",

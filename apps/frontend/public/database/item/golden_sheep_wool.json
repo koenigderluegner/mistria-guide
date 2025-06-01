@@ -1,8 +1,8 @@
 {
   "id": "golden_sheep_wool",
   "item": {
-    "description": "items/other/ranching/golden_sheep_wool/description",
-    "name": "items/other/ranching/golden_sheep_wool/name",
+    "description": "Gold quality wool from a sheep. Used in a variety of crafting recipes.",
+    "name": "Golden Sheep Wool",
     "icon_sprite": "spr_ui_item_sheep_wool_gold",
     "tags": [
       "ranching",

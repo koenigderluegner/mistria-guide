@@ -1,8 +1,8 @@
 {
   "id": "perfect_ruby",
   "item": {
-    "description": "items/other/artifacts/perfect_ruby/description",
-    "name": "items/other/artifacts/perfect_ruby/name",
+    "description": "A rare artifact. This ruby is incredibly large and splendid.",
+    "name": "Perfect Ruby",
     "icon_sprite": "spr_ui_item_perfect_ruby",
     "tags": [
       "gem",

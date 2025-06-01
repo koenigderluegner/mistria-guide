@@ -1,8 +1,8 @@
 {
   "id": "sea_bream_rice",
   "item": {
-    "description": "items/other/cooked_dishes/sea_bream_rice/description",
-    "name": "items/other/cooked_dishes/sea_bream_rice/name",
+    "description": "This rich rice incorporates tempting chunks of sea bream.",
+    "name": "Sea Bream Rice",
     "icon_sprite": "spr_ui_item_sea_bream_rice",
     "tags": [
       "food",

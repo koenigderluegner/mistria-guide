@@ -1,8 +1,8 @@
 {
   "id": "weightless_stone",
   "item": {
-    "description": "items/other/artifacts/weightless_stone/description",
-    "name": "items/other/artifacts/weightless_stone/name",
+    "description": "An uncommon artifact. This black stone appears otherworldly in origin. It has no weight, and will roll around from the slightest breeze.",
+    "name": "Weightless Stone",
     "icon_sprite": "spr_ui_item_weightless_stone",
     "tags": [
       "archaeology"

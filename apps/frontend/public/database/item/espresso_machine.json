@@ -1,8 +1,8 @@
 {
   "id": "espresso_machine",
   "item": {
-    "description": "items/furniture/no_set/espresso_machine/description",
-    "name": "items/furniture/no_set/espresso_machine/name",
+    "description": "Prepares a hot cup of espresso for you each morning!",
+    "name": "Espresso Machine",
     "icon_sprite": "spr_ui_item_espresso_machine_gold",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_iris",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_iris/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_iris/name",
+    "description": "A wooden sign featuring a painted iris.",
+    "name": "Iris Sign",
     "icon_sprite": "spr_ui_item_crop_sign_iris",
     "tags": [
       "furniture",

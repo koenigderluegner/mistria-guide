@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_lemon",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_lemon/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_lemon/name",
+    "description": "A wooden sign featuring a painted lemon.",
+    "name": "Lemon Sign",
     "icon_sprite": "spr_ui_item_crop_sign_lemon",
     "tags": [
       "furniture",

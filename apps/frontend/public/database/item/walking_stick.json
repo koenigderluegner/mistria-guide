@@ -1,8 +1,8 @@
 {
   "id": "walking_stick",
   "item": {
-    "description": "items/other/bugs/walking_stick/description",
-    "name": "items/other/bugs/walking_stick/name",
+    "description": "An uncommon insect found in winter.",
+    "name": "Walking Stick",
     "icon_sprite": "spr_ui_item_insect_walkingstick",
     "tags": [
       "bugs"

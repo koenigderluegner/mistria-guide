@@ -1,8 +1,8 @@
 {
   "id": "herringbone_tile_floor_white",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/herringbone_tile_floor_white/description",
-    "name": "items/furniture/bathroom_furniture_set/herringbone_tile_floor_white/name",
+    "description": "White herringbone tile flooring.",
+    "name": "Herringbone Tile Floor",
     "icon_sprite": "spr_ui_item_furniture_herringbone_tile_flooring_white",
     "tags": [
       "furniture",

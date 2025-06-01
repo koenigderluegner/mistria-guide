@@ -1,8 +1,8 @@
 {
   "id": "cabin_table_cherry",
   "item": {
-    "description": "items/furniture/rustic_cabin_set/cabin_table_cherry/description",
-    "name": "items/furniture/rustic_cabin_set/cabin_table_cherry/name",
+    "description": "A rustic cherry wooden table.",
+    "name": "Rustic Cabin Table",
     "icon_sprite": "spr_ui_item_furniture_cabin_table_v1",
     "tags": [
       "furniture",

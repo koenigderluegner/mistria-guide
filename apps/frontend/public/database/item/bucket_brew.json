@@ -1,8 +1,8 @@
 {
   "id": "bucket_brew",
   "item": {
-    "description": "items/other/cooked_dishes/bucket_brew/description",
-    "name": "items/other/cooked_dishes/bucket_brew/name",
+    "description": "An ill-advised combination of many liquors. Tastes awful.",
+    "name": "Bucket Brew",
     "icon_sprite": "spr_ui_item_bucket_brew",
     "tags": [
       "drink_sound",

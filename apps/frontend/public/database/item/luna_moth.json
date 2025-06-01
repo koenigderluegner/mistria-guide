@@ -1,8 +1,8 @@
 {
   "id": "luna_moth",
   "item": {
-    "description": "items/other/bugs/luna_moth/description",
-    "name": "items/other/bugs/luna_moth/name",
+    "description": "A rare insect found at night in spring.",
+    "name": "Luna Moth",
     "icon_sprite": "spr_ui_item_insect_lunamoth",
     "tags": [
       "bugs"

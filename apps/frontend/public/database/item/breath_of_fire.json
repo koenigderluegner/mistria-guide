@@ -1,8 +1,8 @@
 {
   "id": "breath_of_fire",
   "item": {
-    "description": "items/mines/lava_caves/breath_of_fire/description",
-    "name": "items/mines/lava_caves/breath_of_fire/name",
+    "description": "These beautiful flowers continue to glow, even after they've been picked.",
+    "name": "Breath of Flame",
     "icon_sprite": "spr_ui_item_breath_of_flame",
     "tags": [
       "forageable",

@@ -1,8 +1,8 @@
 {
   "id": "lava_caves_obsidian_floor_lamp_purple",
   "item": {
-    "description": "items/furniture/lava_cave_set/lava_caves_obsidian_floor_lamp_purple/description",
-    "name": "items/furniture/lava_cave_set/lava_caves_obsidian_floor_lamp_purple/name",
+    "description": "A faceted purple-black obsidian floor lamp.",
+    "name": "Obsidian Floor Lamp",
     "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_floor_lamp_purple",
     "tags": [
       "furniture",

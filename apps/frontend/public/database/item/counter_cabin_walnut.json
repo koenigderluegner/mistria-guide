@@ -1,8 +1,8 @@
 {
   "id": "counter_cabin_walnut",
   "item": {
-    "description": "items/furniture/counter_set/counter_cabin_walnut/description",
-    "name": "items/furniture/counter_set/counter_cabin_walnut/name",
+    "description": "A walnut cabin counter piece. Place two or more together to connect them!",
+    "name": "Cabin Counter",
     "icon_sprite": "spr_ui_item_decor_counter_cabin_walnut",
     "tags": [
       "furniture",

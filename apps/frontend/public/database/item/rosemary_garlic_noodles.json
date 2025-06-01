@@ -1,8 +1,8 @@
 {
   "id": "rosemary_garlic_noodles",
   "item": {
-    "description": "items/other/cooked_dishes/rosemary_garlic_noodles/description",
-    "name": "items/other/cooked_dishes/rosemary_garlic_noodles/name",
+    "description": "These tender noodles are coated in a rich buttery rosemary-garlic sauce.",
+    "name": "Rosemary Garlic Noodles",
     "icon_sprite": "spr_ui_item_rosemary_garlic_noodles",
     "tags": [
       "food",

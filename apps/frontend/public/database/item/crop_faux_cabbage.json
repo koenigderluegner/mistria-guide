@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_cabbage",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_cabbage/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_cabbage/name",
+    "description": "A decorative faux cabbage plant.",
+    "name": "Faux Cabbage",
     "icon_sprite": "spr_ui_item_decor_crop_faux_cabbage",
     "tags": [
       "furniture",

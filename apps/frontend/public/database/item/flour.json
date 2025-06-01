@@ -1,8 +1,8 @@
 {
   "id": "flour",
   "item": {
-    "description": "items/other/mill/flour/description",
-    "name": "items/other/mill/flour/name",
+    "description": "A bag of processed wheat flour. Frequently used for baking.",
+    "name": "Flour",
     "icon_sprite": "spr_ui_item_flour",
     "tags": [
       "milling",

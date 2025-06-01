@@ -1,8 +1,8 @@
 {
   "id": "small_vase_v3",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/small_vase_v3/description",
-    "name": "items/furniture/tabletop_clutter_set/small_vase_v3/name",
+    "description": "A small purple vase with decorative grass.",
+    "name": "Small Vase",
     "icon_sprite": "spr_ui_item_decor_clutter_small_vase_v3",
     "tags": [
       "furniture",

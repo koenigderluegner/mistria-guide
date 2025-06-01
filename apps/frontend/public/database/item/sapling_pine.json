@@ -1,8 +1,8 @@
 {
   "id": "sapling_pine",
   "item": {
-    "description": "items/other/mill/sapling_pine/description",
-    "name": "items/other/mill/sapling_pine/name",
+    "description": "A pine tree sapling. This tree can be planted any time of year.",
+    "name": "Pine Sapling",
     "icon_sprite": "spr_ui_item_pine_sapling",
     "tags": [
       "seed",

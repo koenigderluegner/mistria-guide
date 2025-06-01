@@ -1,8 +1,8 @@
 {
   "id": "cottage_wall_flowers_ash",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_wall_flowers_ash/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_wall_flowers_ash/name",
+    "description": "A lovely bouquet of dried pink flowers to hang on your wall.",
+    "name": "Lovely Cottage Wall Flowers",
     "icon_sprite": "spr_ui_item_furniture_cottage_wall_flowers_v2",
     "tags": [
       "furniture",

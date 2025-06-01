@@ -1,8 +1,8 @@
 {
   "id": "goldfish",
   "item": {
-    "description": "items/fish/pond/goldfish/description",
-    "name": "items/fish/pond/goldfish/name",
+    "description": "A rare small pond fish found in spring.",
+    "name": "Goldfish",
     "icon_sprite": "spr_ui_item_fish_small_goldfish",
     "tags": [
       "fishable",

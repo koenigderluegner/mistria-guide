@@ -1,8 +1,8 @@
 {
   "id": "coral_table_purple",
   "item": {
-    "description": "items/furniture/tide_set/coral_table_purple/description",
-    "name": "items/furniture/tide_set/coral_table_purple/name",
+    "description": "A purple coral table.",
+    "name": "Coral Table",
     "icon_sprite": "spr_ui_item_furniture_coral_table_purple",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "peach",
   "item": {
-    "description": "items/other/crops_and_forage/peach/description",
-    "name": "items/other/crops_and_forage/peach/name",
+    "description": "The delicate and sweet fruit of the peach tree, which fruits in summer. Used in various cooking recipes.",
+    "name": "Peach",
     "icon_sprite": "spr_ui_item_peach",
     "tags": [
       "crop"

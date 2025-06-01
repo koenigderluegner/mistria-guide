@@ -1,8 +1,8 @@
 {
   "id": "bowfish",
   "item": {
-    "description": "items/fish/river/bowfish/description",
-    "name": "items/fish/river/bowfish/name",
+    "description": "A common large river fish found in winter.",
+    "name": "Bowfish",
     "icon_sprite": "spr_ui_item_fish_large_bowfish",
     "tags": [
       "fishable",

@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_snow_peas",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_snow_peas/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_snow_peas/name",
+    "description": "A decorative faux snow pea plant.",
+    "name": "Faux Snow Peas",
     "icon_sprite": "spr_ui_item_decor_crop_faux_snow_peas",
     "tags": [
       "furniture",

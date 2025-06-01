@@ -1,8 +1,8 @@
 {
   "id": "grilled_cheese",
   "item": {
-    "description": "items/other/cooked_dishes/grilled_cheese/description",
-    "name": "items/other/cooked_dishes/grilled_cheese/name",
+    "description": "A crisply griddled sandwich full of melted cheese.",
+    "name": "Grilled Cheese",
     "icon_sprite": "spr_ui_item_grilled_cheese",
     "tags": [
       "chef",

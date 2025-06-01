@@ -1,8 +1,8 @@
 {
   "id": "cavern_floor_brazier_blue",
   "item": {
-    "description": "items/furniture/cavern_set/cavern_floor_brazier_blue/description",
-    "name": "items/furniture/cavern_set/cavern_floor_brazier_blue/name",
+    "description": "A floor brazier filled with blue flames.",
+    "name": "Floor Brazier",
     "icon_sprite": "spr_ui_item_furniture_floor_brazier_blue",
     "tags": [
       "furniture",

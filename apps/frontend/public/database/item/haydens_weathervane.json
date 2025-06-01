@@ -1,8 +1,8 @@
 {
   "id": "haydens_weathervane",
   "item": {
-    "description": "items/other/misc/haydens_weathervane/description",
-    "name": "items/other/misc/haydens_weathervane/name",
+    "description": "The weathervane that blew off of Hayden's barn during the wind storm.",
+    "name": "Hayden's Weathervane",
     "icon_sprite": "spr_ui_item_weathervane"
   }
 }

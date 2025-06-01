@@ -1,8 +1,8 @@
 {
   "id": "cauliflower",
   "item": {
-    "description": "items/other/crops_and_forage/cauliflower/description",
-    "name": "items/other/crops_and_forage/cauliflower/name",
+    "description": "A winter crop. Has a subtle nutty flavor. Commonly used as a cooking ingredient.",
+    "name": "Cauliflower",
     "icon_sprite": "spr_ui_item_cauliflower",
     "tags": [
       "crop"

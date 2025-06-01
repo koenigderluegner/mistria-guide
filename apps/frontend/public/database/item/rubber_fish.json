@@ -1,8 +1,8 @@
 {
   "id": "rubber_fish",
   "item": {
-    "description": "items/other/artifacts/rubber_fish/description",
-    "name": "items/other/artifacts/rubber_fish/name",
+    "description": "An uncommon artifact. How did this get in the water in the first place?",
+    "name": "Rubber Fish",
     "icon_sprite": "spr_ui_item_rubber_fish",
     "tags": [
       "archaeology"

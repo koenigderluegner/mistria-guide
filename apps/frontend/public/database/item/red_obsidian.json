@@ -1,8 +1,8 @@
 {
   "id": "red_obsidian",
   "item": {
-    "description": "items/mines/lava_caves/red_obsidian/description",
-    "name": "items/mines/lava_caves/red_obsidian/name",
+    "description": "An uncommon Lava Caves artifact. This chunk of obsidian has a streak of red running through it.",
+    "name": "Red Obsidian",
     "icon_sprite": "spr_ui_item_red_obsidian",
     "tags": [
       "archaeology"

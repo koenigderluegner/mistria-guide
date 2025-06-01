@@ -1,8 +1,8 @@
 {
   "id": "worn_window",
   "item": {
-    "description": "items/furniture/default_worn_set/worn_window/description",
-    "name": "items/furniture/default_worn_set/worn_window/name",
+    "description": "A worn wooden window.",
+    "name": "Worn Window",
     "icon_sprite": "spr_ui_item_furniture_default_wall_window_v1",
     "tags": [
       "furniture",

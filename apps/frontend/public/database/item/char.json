@@ -1,8 +1,8 @@
 {
   "id": "char",
   "item": {
-    "description": "items/fish/ocean/char/description",
-    "name": "items/fish/ocean/char/name",
+    "description": "A common large ocean fish found in summer.",
+    "name": "Char",
     "icon_sprite": "spr_ui_item_fish_large_char",
     "tags": [
       "fishable",

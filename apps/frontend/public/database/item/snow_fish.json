@@ -1,8 +1,8 @@
 {
   "id": "snow_fish",
   "item": {
-    "description": "items/fish/ocean/snow_fish/description",
-    "name": "items/fish/ocean/snow_fish/name",
+    "description": "A legendary medium ocean fish found on blizzard days in winter.",
+    "name": "Snow Fish",
     "icon_sprite": "spr_ui_item_fish_medium_snow_fish",
     "tags": [
       "fishable",

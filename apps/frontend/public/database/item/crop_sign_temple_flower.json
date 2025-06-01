@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_temple_flower",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_temple_flower/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_temple_flower/name",
+    "description": "A wooden sign featuring a painted temple flower.",
+    "name": "Temple Flower Sign",
     "icon_sprite": "spr_ui_item_crop_sign_temple_flower",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "miners_crate_chest_v2",
   "item": {
-    "description": "items/furniture/mineshaft_set/miners_crate_chest_v2/description",
-    "name": "items/furniture/mineshaft_set/miners_crate_chest_v2/name",
+    "description": "A crate-like storage chest with a cool-tone hue.",
+    "name": "Mines Storage Chest",
     "icon_sprite": "spr_ui_item_furniture_miners_crate_chest_v2",
     "tags": [
       "furniture",

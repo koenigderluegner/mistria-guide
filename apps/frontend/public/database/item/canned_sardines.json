@@ -1,8 +1,8 @@
 {
   "id": "canned_sardines",
   "item": {
-    "description": "items/other/cooked_dishes/canned_sardines/description",
-    "name": "items/other/cooked_dishes/canned_sardines/name",
+    "description": "These canned sardines have a satisfying meaty and salty taste.",
+    "name": "Canned Sardines",
     "icon_sprite": "spr_ui_item_cannedsardines",
     "tags": [
       "food",

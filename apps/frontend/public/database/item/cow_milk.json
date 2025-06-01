@@ -1,8 +1,8 @@
 {
   "id": "cow_milk",
   "item": {
-    "description": "items/other/ranching/cow_milk/description",
-    "name": "items/other/ranching/cow_milk/name",
+    "description": "Fresh milk from a cow. Used in a variety of cooking recipes.",
+    "name": "Milk",
     "icon_sprite": "spr_ui_item_cow_milk_regular",
     "tags": [
       "ranching",

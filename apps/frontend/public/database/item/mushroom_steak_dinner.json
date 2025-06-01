@@ -1,8 +1,8 @@
 {
   "id": "mushroom_steak_dinner",
   "item": {
-    "description": "items/other/cooked_dishes/mushroom_steak_dinner/description",
-    "name": "items/other/cooked_dishes/mushroom_steak_dinner/name",
+    "description": "An oyster mushroom is the meaty, tender centerpiece of the meal.",
+    "name": "Mushroom Steak Dinner",
     "icon_sprite": "spr_ui_item_mushroom_steak_dinner",
     "tags": [
       "food",

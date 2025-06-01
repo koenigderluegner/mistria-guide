@@ -1,8 +1,8 @@
 {
   "id": "miners_wall_lamp_v2",
   "item": {
-    "description": "items/furniture/mineshaft_set/miners_wall_lamp_v2/description",
-    "name": "items/furniture/mineshaft_set/miners_wall_lamp_v2/name",
+    "description": "A mineshaft wall lamp with a worn look.",
+    "name": "Mines Wall Lamp",
     "icon_sprite": "spr_ui_item_furniture_miners_wall_lamp_v2",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "wildberry_pie",
   "item": {
-    "description": "items/other/cooked_dishes/wildberry_pie/description",
-    "name": "items/other/cooked_dishes/wildberry_pie/name",
+    "description": "This delicious fruit pie is made with local wild berries.",
+    "name": "Wild Berry Pie",
     "icon_sprite": "spr_ui_item_wildberry_pie",
     "tags": [
       "food",

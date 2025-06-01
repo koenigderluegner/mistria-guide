@@ -1,8 +1,8 @@
 {
   "id": "tulip_cake",
   "item": {
-    "description": "items/other/cooked_dishes/tulip_cake/description",
-    "name": "items/other/cooked_dishes/tulip_cake/name",
+    "description": "A cake made to look like a vase of tulips. This Spring Festival treat is liked by everyone.",
+    "name": "Tulip Cake",
     "icon_sprite": "spr_ui_item_tulipcake",
     "value": {
       "bin": 125,

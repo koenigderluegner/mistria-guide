@@ -1,8 +1,8 @@
 {
   "id": "coconut_cream_pie",
   "item": {
-    "description": "items/other/cooked_dishes/coconut_cream_pie/description",
-    "name": "items/other/cooked_dishes/coconut_cream_pie/name",
+    "description": "This luscious pie has a whipped cream top infused with coconut.",
+    "name": "Coconut Cream Pie",
     "icon_sprite": "spr_ui_item_coconut_cream_pie",
     "tags": [
       "food",

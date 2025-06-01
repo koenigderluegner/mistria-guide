@@ -1,8 +1,8 @@
 {
   "id": "color_paving_stone_v14",
   "item": {
-    "description": "items/furniture/color_paving_stone_set/color_paving_stone_v14/description",
-    "name": "items/furniture/color_paving_stone_set/color_paving_stone_v14/name",
+    "description": "A small turquoise paving stone.",
+    "name": "Color Paving Stone",
     "icon_sprite": "spr_ui_item_decor_floor_tile_small_14",
     "tags": [
       "furniture",

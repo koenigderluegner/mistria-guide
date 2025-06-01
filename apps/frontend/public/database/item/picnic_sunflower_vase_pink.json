@@ -1,8 +1,8 @@
 {
   "id": "picnic_sunflower_vase_pink",
   "item": {
-    "description": "items/furniture/decor_picnic_set/picnic_sunflower_vase_pink/description",
-    "name": "items/furniture/decor_picnic_set/picnic_sunflower_vase_pink/name",
+    "description": "A pretty vase of sunflowers with a pink accent.",
+    "name": "Picnic Sunflower Vase",
     "icon_sprite": "spr_ui_item_picnic_sunflower_vase_pink",
     "tags": [
       "furniture",

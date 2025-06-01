@@ -1,8 +1,8 @@
 {
   "id": "spirit_mushroom_tea",
   "item": {
-    "description": "items/other/cooked_dishes/spirit_mushroom_tea/description",
-    "name": "items/other/cooked_dishes/spirit_mushroom_tea/name",
+    "description": "This mushroom tea has a calming, earthy scent and a slightly bitter flavor.",
+    "name": "Spirit Mushroom Tea",
     "icon_sprite": "spr_ui_item_spirit_mushroom_tea",
     "tags": [
       "drink",

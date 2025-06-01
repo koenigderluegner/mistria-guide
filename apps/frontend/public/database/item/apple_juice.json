@@ -1,8 +1,8 @@
 {
   "id": "apple_juice",
   "item": {
-    "description": "items/other/cooked_dishes/apple_juice/description",
-    "name": "items/other/cooked_dishes/apple_juice/name",
+    "description": "A sweet and crisp juice made from apples.",
+    "name": "Apple Juice",
     "icon_sprite": "spr_ui_item_apple_juice",
     "tags": [
       "drink_sound",

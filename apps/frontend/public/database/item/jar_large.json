@@ -1,8 +1,8 @@
 {
   "id": "jar_large",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/jar_large/description",
-    "name": "items/furniture/tabletop_clutter_set/jar_large/name",
+    "description": "A large decorative glass jar.",
+    "name": "Large Jar",
     "icon_sprite": "spr_ui_item_decor_clutter_jar_large",
     "tags": [
       "furniture",

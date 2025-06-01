@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_pink_scallop_shell",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_pink_scallop_shell/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_pink_scallop_shell/name",
+    "description": "A decorative faux pink scallop shell.",
+    "name": "Faux Pink Scallop Shell",
     "icon_sprite": "spr_ui_item_decor_crop_faux_pink_scallop_shell",
     "tags": [
       "furniture",

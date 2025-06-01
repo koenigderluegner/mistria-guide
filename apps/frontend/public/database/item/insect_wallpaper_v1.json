@@ -1,8 +1,8 @@
 {
   "id": "insect_wallpaper_v1",
   "item": {
-    "description": "items/furniture/insect_set/insect_wallpaper_v1/description",
-    "name": "items/furniture/insect_set/insect_wallpaper_v1/name",
+    "description": "An elegant green wallpaper with a gold dragonfly print.",
+    "name": "Insect Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_insect_wallpaper_v1",
     "tags": [
       "furniture",

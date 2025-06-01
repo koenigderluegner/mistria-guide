@@ -1,8 +1,8 @@
 {
   "id": "snowball_beetle",
   "item": {
-    "description": "items/other/bugs/snowball_beetle/description",
-    "name": "items/other/bugs/snowball_beetle/name",
+    "description": "A legendary insect found during heavy snow in winter. It's adorable!",
+    "name": "Snowball Beetle",
     "icon_sprite": "spr_ui_item_insect_snowballbeetle",
     "tags": [
       "bugs"

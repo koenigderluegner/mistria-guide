@@ -1,8 +1,8 @@
 {
   "id": "jewel_beetle",
   "item": {
-    "description": "items/other/bugs/jewel_beetle/description",
-    "name": "items/other/bugs/jewel_beetle/name",
+    "description": "An uncommon insect found in summer. Found when breaking rocks.",
+    "name": "Jewel Beetle",
     "icon_sprite": "spr_ui_item_insect_jewelbeetle",
     "tags": [
       "bugs"

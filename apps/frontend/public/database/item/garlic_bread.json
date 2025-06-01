@@ -1,8 +1,8 @@
 {
   "id": "garlic_bread",
   "item": {
-    "description": "items/other/cooked_dishes/garlic_bread/description",
-    "name": "items/other/cooked_dishes/garlic_bread/name",
+    "description": "A toasted slice of bread, spread with savory garlic and butter.",
+    "name": "Garlic Bread",
     "icon_sprite": "spr_ui_item_garlic_bread",
     "tags": [
       "chef",

@@ -1,8 +1,8 @@
 {
   "id": "explorer_globe_green",
   "item": {
-    "description": "items/furniture/explorer_set/explorer_globe_green/description",
-    "name": "items/furniture/explorer_set/explorer_globe_green/name",
+    "description": "A green-gray explorer's globe.",
+    "name": "Explorer Globe",
     "icon_sprite": "spr_ui_item_furniture_explorer_globe_green",
     "tags": [
       "furniture",

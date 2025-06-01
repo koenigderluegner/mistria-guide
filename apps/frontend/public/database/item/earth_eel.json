@@ -1,8 +1,8 @@
 {
   "id": "earth_eel",
   "item": {
-    "description": "items/mines/deep_earth/earth_eel/description",
-    "name": "items/mines/deep_earth/earth_eel/name",
+    "description": "A common medium Deep Earth fish. Doesn't seem to have a mouth, so who knows what it eats.",
+    "name": "Earth Eel",
     "icon_sprite": "spr_ui_item_fish_medium_earth_eel",
     "tags": [
       "fishable"

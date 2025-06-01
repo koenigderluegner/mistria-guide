@@ -1,8 +1,8 @@
 {
   "id": "duck_plushie",
   "item": {
-    "description": "items/other/festivals/duck_plushie/description",
-    "name": "items/other/festivals/duck_plushie/name",
+    "description": "A cute duck plushie. Awarded at the Animal Festival.",
+    "name": "Duck Plushie",
     "icon_sprite": "spr_ui_item_decor_duck_plushie",
     "tags": [
       "furniture"

@@ -1,7 +1,7 @@
 {
   "id": "perfect_gift",
   "item": {
-    "description": "items/other/misc/perfect_gift/description",
+    "description": "What a thoughtful and perfect gift!",
     "icon_sprite": "spr_ui_item_spectralgift",
     "value": {
       "bin": 1

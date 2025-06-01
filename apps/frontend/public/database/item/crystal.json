@@ -1,8 +1,8 @@
 {
   "id": "crystal",
   "item": {
-    "description": "items/mines/deep_earth/crystal/description",
-    "name": "items/mines/deep_earth/crystal/name",
+    "description": "A shard of crystal. Used in crafting recipes.",
+    "name": "Crystal",
     "icon_sprite": "spr_ui_item_crystal",
     "tags": [
       "refined_material",

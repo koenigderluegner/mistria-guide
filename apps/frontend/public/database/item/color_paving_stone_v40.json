@@ -1,8 +1,8 @@
 {
   "id": "color_paving_stone_v40",
   "item": {
-    "description": "items/furniture/color_paving_stone_set/color_paving_stone_v40/description",
-    "name": "items/furniture/color_paving_stone_set/color_paving_stone_v40/name",
+    "description": "A small light brown paving stone.",
+    "name": "Color Paving Stone",
     "icon_sprite": "spr_ui_item_decor_floor_tile_small_40",
     "tags": [
       "furniture",

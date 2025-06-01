@@ -1,8 +1,8 @@
 {
   "id": "explorer_chair_green",
   "item": {
-    "description": "items/furniture/explorer_set/explorer_chair_green/description",
-    "name": "items/furniture/explorer_set/explorer_chair_green/name",
+    "description": "A comfy green explorer's chair.",
+    "name": "Explorer Chair",
     "icon_sprite": "spr_ui_item_furniture_explorer_chair_green",
     "tags": [
       "furniture",

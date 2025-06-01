@@ -1,8 +1,8 @@
 {
   "id": "scrap_metal_helmet",
   "item": {
-    "description": "items/other/armor/scrap_metal_helmet/description",
-    "name": "items/other/armor/scrap_metal_helmet/name",
+    "description": "A helmet constructed out of scrap metal. Equip to increase defense.",
+    "name": "Scrap Metal Helmet",
     "icon_sprite": "spr_ui_item_equipment_scrap_metal_helmet",
     "tags": [
       "head",

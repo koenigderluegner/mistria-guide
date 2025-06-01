@@ -1,8 +1,8 @@
 {
   "id": "spirula_shell",
   "item": {
-    "description": "items/fish/misc/spirula_shell/description",
-    "name": "items/fish/misc/spirula_shell/name",
+    "description": "A common shell found on the beach.",
+    "name": "Spirula Shell",
     "icon_sprite": "spr_ui_item_shell_common_spirula",
     "tags": [
       "dive",

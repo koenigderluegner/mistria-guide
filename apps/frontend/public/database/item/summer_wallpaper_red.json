@@ -1,8 +1,8 @@
 {
   "id": "summer_wallpaper_red",
   "item": {
-    "description": "items/furniture/summer_set/summer_wallpaper_red/description",
-    "name": "items/furniture/summer_set/summer_wallpaper_red/name",
+    "description": "A wallpaper that looks like a trellis with red flowers growing on it.",
+    "name": "Summer Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_summer_wallpaper_red",
     "tags": [
       "furniture",

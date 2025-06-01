@@ -1,8 +1,8 @@
 {
   "id": "ice_block",
   "item": {
-    "description": "items/other/crops_and_forage/ice_block/description",
-    "name": "items/other/crops_and_forage/ice_block/name",
+    "description": "A foraged block of pure ice. Commonly used as a cooking ingredient.",
+    "name": "Ice Block",
     "icon_sprite": "spr_ui_item_ice_block",
     "tags": [
       "material"

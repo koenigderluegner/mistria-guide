@@ -1,8 +1,8 @@
 {
   "id": "caterpillar",
   "item": {
-    "description": "items/other/bugs/caterpillar/description",
-    "name": "items/other/bugs/caterpillar/name",
+    "description": "A common insect found in spring. Sometimes found when shaking trees.",
+    "name": "Caterpillar",
     "icon_sprite": "spr_ui_item_insect_caterpillar",
     "tags": [
       "bugs"

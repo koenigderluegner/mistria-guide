@@ -1,8 +1,8 @@
 {
   "id": "rusted_shield",
   "item": {
-    "description": "items/other/artifacts/rusted_shield/description",
-    "name": "items/other/artifacts/rusted_shield/name",
+    "description": "An uncommon artifact. A very old shield with an unusual design.",
+    "name": "Rusted Shield",
     "icon_sprite": "spr_ui_item_rusted_shield",
     "tags": [
       "archaeology"

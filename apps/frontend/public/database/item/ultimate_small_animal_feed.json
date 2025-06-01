@@ -1,8 +1,8 @@
 {
   "id": "ultimate_small_animal_feed",
   "item": {
-    "description": "items/other/mill/ultimate_small_animal_feed/description",
-    "name": "items/other/mill/ultimate_small_animal_feed/name",
+    "description": "Ultimate feed for small animals. It can be placed in coop troughs or hand-fed.",
+    "name": "Ultimate Small Animal Feed",
     "icon_sprite": "spr_ui_item_animal_feed_seed_ultimate_bag",
     "tags": [
       "milling",

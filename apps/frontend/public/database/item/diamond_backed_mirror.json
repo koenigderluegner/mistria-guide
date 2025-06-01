@@ -1,8 +1,8 @@
 {
   "id": "diamond_backed_mirror",
   "item": {
-    "description": "items/other/artifacts/diamond_backed_mirror/description",
-    "name": "items/other/artifacts/diamond_backed_mirror/name",
+    "description": "A rare artifact. The use of diamond here feels impractical.",
+    "name": "Diamond-Backed Mirror",
     "icon_sprite": "spr_ui_item_diamond_backed_mirror",
     "tags": [
       "archaeology"

@@ -1,8 +1,8 @@
 {
   "id": "cauliflower_curry",
   "item": {
-    "description": "items/other/cooked_dishes/cauliflower_curry/description",
-    "name": "items/other/cooked_dishes/cauliflower_curry/name",
+    "description": "This spicy curry is mellowed by the cauliflower.",
+    "name": "Cauliflower Curry",
     "icon_sprite": "spr_ui_item_cauliflower_curry",
     "tags": [
       "food",

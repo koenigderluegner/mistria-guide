@@ -1,8 +1,8 @@
 {
   "id": "strawberries_and_cream",
   "item": {
-    "description": "items/other/cooked_dishes/strawberries_and_cream/description",
-    "name": "items/other/cooked_dishes/strawberries_and_cream/name",
+    "description": "A simple and sweet dessert.",
+    "name": "Strawberries and Cream",
     "icon_sprite": "spr_ui_item_strawberriesandcream",
     "tags": [
       "food",

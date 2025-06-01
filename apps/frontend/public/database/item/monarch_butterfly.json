@@ -1,8 +1,8 @@
 {
   "id": "monarch_butterfly",
   "item": {
-    "description": "items/other/bugs/monarch_butterfly/description",
-    "name": "items/other/bugs/monarch_butterfly/name",
+    "description": "A common insect found during the daytime in fall.",
+    "name": "Monarch Butterfly",
     "icon_sprite": "spr_ui_item_insect_monarchbutterfly",
     "tags": [
       "bugs"

@@ -1,8 +1,8 @@
 {
   "id": "ore_mistril",
   "item": {
-    "description": "items/other/materials/ore_mistril/description",
-    "name": "items/other/materials/ore_mistril/name",
+    "description": "A chunk of mistril ore. Can be refined into ingots for crafting.",
+    "name": "Mistril Ore",
     "icon_sprite": "spr_ui_item_mistril_ore",
     "tags": [
       "material",

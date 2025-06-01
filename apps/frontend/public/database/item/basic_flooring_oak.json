@@ -1,8 +1,8 @@
 {
   "id": "basic_flooring_oak",
   "item": {
-    "description": "items/furniture/basic_set/basic_flooring_oak/description",
-    "name": "items/furniture/basic_set/basic_flooring_oak/name",
+    "description": "Basic oak flooring for your home.",
+    "name": "Basic Flooring",
     "icon_sprite": "spr_ui_item_furniture_basic_flooring_v1",
     "tags": [
       "furniture",

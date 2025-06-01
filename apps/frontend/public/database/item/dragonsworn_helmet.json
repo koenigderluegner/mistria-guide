@@ -1,7 +1,7 @@
 {
   "id": "dragonsworn_helmet",
   "item": {
-    "name": "items/other/misc/dragonsworn_helmet/name",
+    "name": "Dragonsworn Helmet",
     "icon_sprite": "spr_ui_item_dragonsworn_helmet"
   }
 }

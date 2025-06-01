@@ -1,8 +1,8 @@
 {
   "id": "cottage_table_oak",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_table_oak/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_table_oak/name",
+    "description": "A lovely oak wood table with a scalloped edge.",
+    "name": "Lovely Cottage Table",
     "icon_sprite": "spr_ui_item_furniture_cottage_table_v1",
     "tags": [
       "furniture",

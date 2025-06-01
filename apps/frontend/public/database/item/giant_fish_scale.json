@@ -1,8 +1,8 @@
 {
   "id": "giant_fish_scale",
   "item": {
-    "description": "items/other/artifacts/giant_fish_scale/description",
-    "name": "items/other/artifacts/giant_fish_scale/name",
+    "description": "An uncommon artifact. Can't imagine what fish this came from.",
+    "name": "Giant Fish Scale",
     "icon_sprite": "spr_ui_item_giant_fish_scale",
     "tags": [
       "archaeology",

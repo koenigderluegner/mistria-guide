@@ -1,8 +1,8 @@
 {
   "id": "butterfish",
   "item": {
-    "description": "items/fish/ocean/butterfish/description",
-    "name": "items/fish/ocean/butterfish/name",
+    "description": "A common small ocean fish found in fall.",
+    "name": "Butterfish",
     "icon_sprite": "spr_ui_item_fish_small_butterfish",
     "tags": [
       "fishable",

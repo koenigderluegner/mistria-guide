@@ -1,8 +1,8 @@
 {
   "id": "horse_hair",
   "item": {
-    "description": "items/other/ranching/horse_hair/description",
-    "name": "items/other/ranching/horse_hair/name",
+    "description": "Hair fiber dropped by a horse. Used in a variety of crafting recipes.",
+    "name": "Horse Hair",
     "icon_sprite": "spr_ui_item_horse_hair_regular",
     "tags": [
       "ranching",

@@ -1,8 +1,8 @@
 {
   "id": "monster_shell",
   "item": {
-    "description": "items/other/monster_drops/monster_shell/description",
-    "name": "items/other/monster_drops/monster_shell/name",
+    "description": "A rocky shell sometimes dropped by Clods. Used in certain cooking and crafting recipes.",
+    "name": "Monster Shell",
     "icon_sprite": "spr_ui_item_monster_shell",
     "tags": [
       "monster_part",

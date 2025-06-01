@@ -1,8 +1,8 @@
 {
   "id": "earth_infused_stone",
   "item": {
-    "description": "items/mines/deep_earth/earth_infused_stone/description",
-    "name": "items/mines/deep_earth/earth_infused_stone/name",
+    "description": "An uncommon artifact. This chunk of rock has taken on elemental qualities of earth.",
+    "name": "Earth-Infused Stone",
     "icon_sprite": "spr_ui_item_earth_infused_stone",
     "tags": [
       "archaeology"

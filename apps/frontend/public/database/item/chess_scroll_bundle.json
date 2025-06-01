@@ -1,8 +1,8 @@
 {
   "id": "chess_scroll_bundle",
   "item": {
-    "description": "items/furniture/chess_set/chess_scroll_bundle/description",
-    "name": "items/furniture/chess_set/chess_scroll_bundle/name",
+    "description": "Use this scroll to unlock the crafting recipes for the Chess Piece Decor set!",
+    "name": "Chess Piece Scroll Bundle",
     "icon_sprite": "spr_ui_item_setscroll_chesspiece",
     "tags": [
       "scroll",

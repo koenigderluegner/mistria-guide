@@ -1,8 +1,8 @@
 {
   "id": "explorer_flooring_brown",
   "item": {
-    "description": "items/furniture/explorer_set/explorer_flooring_brown/description",
-    "name": "items/furniture/explorer_set/explorer_flooring_brown/name",
+    "description": "Cracked gray tile flooring.",
+    "name": "Explorer Flooring",
     "icon_sprite": "spr_ui_item_furniture_explorer_flooring_brown",
     "tags": [
       "furniture",

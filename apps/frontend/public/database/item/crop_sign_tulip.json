@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_tulip",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_tulip/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_tulip/name",
+    "description": "A wooden sign featuring a painted tulip.",
+    "name": "Tulip Sign",
     "icon_sprite": "spr_ui_item_crop_sign_tulip",
     "tags": [
       "furniture",

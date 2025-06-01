@@ -1,8 +1,8 @@
 {
   "id": "bathroom_sink_black",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_sink_black/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_sink_black/name",
+    "description": "A black bathroom sink.",
+    "name": "Bathroom Sink",
     "icon_sprite": "spr_ui_item_furniture_bathroom_sink_black",
     "tags": [
       "furniture",

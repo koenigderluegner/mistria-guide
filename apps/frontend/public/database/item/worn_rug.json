@@ -1,8 +1,8 @@
 {
   "id": "worn_rug",
   "item": {
-    "description": "items/furniture/default_worn_set/worn_rug/description",
-    "name": "items/furniture/default_worn_set/worn_rug/name",
+    "description": "A worn green rug.",
+    "name": "Worn Rug",
     "icon_sprite": "spr_ui_item_furniture_default_worn_rug",
     "tags": [
       "furniture",

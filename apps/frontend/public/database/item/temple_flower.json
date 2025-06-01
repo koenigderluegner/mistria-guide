@@ -1,8 +1,8 @@
 {
   "id": "temple_flower",
   "item": {
-    "description": "items/other/crops_and_forage/temple_flower/description",
-    "name": "items/other/crops_and_forage/temple_flower/name",
+    "description": "A wild flower foraged in all seasons. For some reason, it can only be found growing in the wild around Caldarus' Temple.",
+    "name": "Temple Flower",
     "icon_sprite": "spr_ui_item_temple_flower",
     "tags": [
       "forageable",

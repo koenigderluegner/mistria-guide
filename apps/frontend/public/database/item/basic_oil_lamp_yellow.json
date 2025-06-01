@@ -1,8 +1,8 @@
 {
   "id": "basic_oil_lamp_yellow",
   "item": {
-    "description": "items/furniture/basic_set/basic_oil_lamp_yellow/description",
-    "name": "items/furniture/basic_set/basic_oil_lamp_yellow/name",
+    "description": "A basic yellow oil lamp.",
+    "name": "Basic Oil Lamp",
     "icon_sprite": "spr_ui_item_furniture_basic_oil_lamp_v2",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "roach",
   "item": {
-    "description": "items/fish/pond/roach/description",
-    "name": "items/fish/pond/roach/name",
+    "description": "A common medium pond fish found in all seasons.",
+    "name": "Roach",
     "icon_sprite": "spr_ui_item_fish_medium_roach",
     "tags": [
       "fishable",

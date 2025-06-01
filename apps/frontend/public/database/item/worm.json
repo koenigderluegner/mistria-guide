@@ -1,8 +1,8 @@
 {
   "id": "worm",
   "item": {
-    "description": "items/mines/upper_mines/worm/description",
-    "name": "items/mines/upper_mines/worm/name",
+    "description": "An uncommon Upper Mines invertebrate. It's just a worm.",
+    "name": "Worm",
     "icon_sprite": "spr_ui_item_insect_worm",
     "tags": [
       "bugs"

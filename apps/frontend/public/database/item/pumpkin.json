@@ -1,8 +1,8 @@
 {
   "id": "pumpkin",
   "item": {
-    "description": "items/other/crops_and_forage/pumpkin/description",
-    "name": "items/other/crops_and_forage/pumpkin/name",
+    "description": "A slow growing fall crop. Has an earthy, slightly sweet taste. Commonly used as a cooking and crafting ingredient.",
+    "name": "Pumpkin",
     "icon_sprite": "spr_ui_item_pumpkin",
     "tags": [
       "crop"

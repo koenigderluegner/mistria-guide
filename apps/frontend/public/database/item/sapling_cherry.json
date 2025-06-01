@@ -1,8 +1,8 @@
 {
   "id": "sapling_cherry",
   "item": {
-    "description": "items/other/crops_and_forage/sapling_cherry/description",
-    "name": "items/other/crops_and_forage/sapling_cherry/name",
+    "description": "A cherry tree sapling. This tree can be planted any time of year, but will only fruit in the spring.",
+    "name": "Cherry Sapling",
     "icon_sprite": "spr_ui_item_cherry_sapling",
     "tags": [
       "seed"

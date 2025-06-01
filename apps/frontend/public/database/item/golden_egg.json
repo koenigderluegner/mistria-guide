@@ -1,8 +1,8 @@
 {
   "id": "golden_egg",
   "item": {
-    "description": "items/other/ranching/golden_egg/description",
-    "name": "items/other/ranching/golden_egg/name",
+    "description": "A gold quality egg laid by a hen. Used in high level cooking and crafting recipes.",
+    "name": "Golden Egg",
     "icon_sprite": "spr_ui_item_chicken_egg_gold",
     "tags": [
       "ranching",

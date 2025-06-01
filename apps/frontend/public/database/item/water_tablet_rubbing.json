@@ -1,8 +1,8 @@
 {
   "id": "water_tablet_rubbing",
   "item": {
-    "description": "items/other/misc/water_tablet_rubbing/description",
-    "name": "items/other/misc/water_tablet_rubbing/name",
+    "description": "A rubbing of the tablet found on the 20th floor of the Mines.",
+    "name": "Water Tablet Rubbing",
     "icon_sprite": "spr_ui_item_water_tablet_rubbing"
   }
 }

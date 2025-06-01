@@ -1,8 +1,8 @@
 {
   "id": "cavern_crystal_lamp_green",
   "item": {
-    "description": "items/furniture/cavern_set/cavern_crystal_lamp_green/description",
-    "name": "items/furniture/cavern_set/cavern_crystal_lamp_green/name",
+    "description": "A shard of glowing green crystal.",
+    "name": "Glowing Crystal Lamp",
     "icon_sprite": "spr_ui_item_furniture_crystal_lamp_green",
     "tags": [
       "furniture",

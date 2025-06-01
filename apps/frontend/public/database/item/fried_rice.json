@@ -1,8 +1,8 @@
 {
   "id": "fried_rice",
   "item": {
-    "description": "items/other/cooked_dishes/fried_rice/description",
-    "name": "items/other/cooked_dishes/fried_rice/name",
+    "description": "This popular dish is a perfect mix of rice and vegetables.",
+    "name": "Fried Rice",
     "icon_sprite": "spr_ui_item_fried_rice",
     "tags": [
       "food",

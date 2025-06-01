@@ -1,8 +1,8 @@
 {
   "id": "candle_chamberstick",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/candle_chamberstick/description",
-    "name": "items/furniture/tabletop_clutter_set/candle_chamberstick/name",
+    "description": "A decorative candle chamberstick.",
+    "name": "Candle Chamberstick",
     "icon_sprite": "spr_ui_item_decor_clutter_candle_chamberstick",
     "tags": [
       "furniture",

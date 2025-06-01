@@ -1,8 +1,8 @@
 {
   "id": "small_coop_black_blueprint",
   "item": {
-    "description": "items/other/misc/small_coop_black_blueprint/description",
-    "name": "items/other/misc/small_coop_black_blueprint/name",
+    "description": "Use this item to place a small white coop construction site on your farm! Requirements to build: 75 wood, 50 stone.",
+    "name": "Small White Coop Blueprint",
     "icon_sprite": "spr_ui_item_small_coop_black",
     "value": {
       "store": 1500

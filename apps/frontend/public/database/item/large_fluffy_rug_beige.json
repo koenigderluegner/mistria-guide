@@ -1,8 +1,8 @@
 {
   "id": "large_fluffy_rug_beige",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/large_fluffy_rug_beige/description",
-    "name": "items/furniture/bathroom_furniture_set/large_fluffy_rug_beige/name",
+    "description": "A large cream fluffy rug.",
+    "name": "Large Fluffy Rug",
     "icon_sprite": "spr_ui_item_furniture_large_fluffy_rug_beige",
     "tags": [
       "furniture",

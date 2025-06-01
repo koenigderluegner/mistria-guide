@@ -1,8 +1,8 @@
 {
   "id": "clay",
   "item": {
-    "description": "items/other/materials/clay/description",
-    "name": "items/other/materials/clay/name",
+    "description": "A small lump of clay. Used in a variety of crafting recipes.",
+    "name": "Clay",
     "icon_sprite": "spr_ui_item_clay",
     "tags": [
       "refined_material",

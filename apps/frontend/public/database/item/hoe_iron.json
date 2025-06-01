@@ -1,8 +1,8 @@
 {
   "id": "hoe_iron",
   "item": {
-    "description": "items/other/blacksmithing/hoe_iron/description",
-    "name": "items/other/blacksmithing/hoe_iron/name",
+    "description": "An iron hoe. Can be charged to till a 3x3 area.",
+    "name": "Iron Hoe",
     "icon_sprite": "spr_ui_item_tool_iron_hoe",
     "tags": [
       "hoe",

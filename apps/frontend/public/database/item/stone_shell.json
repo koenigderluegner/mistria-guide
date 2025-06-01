@@ -1,8 +1,8 @@
 {
   "id": "stone_shell",
   "item": {
-    "description": "items/mines/tide_caverns/stone_shell/description",
-    "name": "items/mines/tide_caverns/stone_shell/name",
+    "description": "A common artifact. When you hold it to your ear, you can hear the sound of water flowing through deep caves.",
+    "name": "Stone Shell",
     "icon_sprite": "spr_ui_item_stone_shell",
     "tags": [
       "archaeology"

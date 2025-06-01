@@ -1,8 +1,8 @@
 {
   "id": "bullfrog",
   "item": {
-    "description": "items/fish/pond/bullfrog/description",
-    "name": "items/fish/pond/bullfrog/name",
+    "description": "A common small pond catch found on rainy and snowy days in summer and winter.",
+    "name": "Bullfrog",
     "icon_sprite": "spr_ui_item_fish_small_bullfrog",
     "tags": [
       "fishable",

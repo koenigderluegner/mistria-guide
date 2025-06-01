@@ -1,8 +1,8 @@
 {
   "id": "candelabra_seadragon",
   "item": {
-    "description": "items/mines/lava_caves/candelabra_seadragon/description",
-    "name": "items/mines/lava_caves/candelabra_seadragon/name",
+    "description": "An uncommon small Lava Caves fish. This seadragon has a number of thin protrusions that make it look like its namesake.",
+    "name": "Candelabra Seadragon",
     "icon_sprite": "spr_ui_item_fish_small_candelabra_seadragon",
     "tags": [
       "fishable"

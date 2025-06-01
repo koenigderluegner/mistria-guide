@@ -1,8 +1,8 @@
 {
   "id": "question_mark_butterfly",
   "item": {
-    "description": "items/other/bugs/question_mark_butterfly/description",
-    "name": "items/other/bugs/question_mark_butterfly/name",
+    "description": "An uncommon insect found during the daytime in all seasons but winter.",
+    "name": "Question Mark Butterfly",
     "icon_sprite": "spr_ui_item_insect_questionmarkbutterfly",
     "tags": [
       "bugs"

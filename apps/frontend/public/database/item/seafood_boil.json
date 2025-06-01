@@ -1,8 +1,8 @@
 {
   "id": "seafood_boil",
   "item": {
-    "description": "items/other/cooked_dishes/seafood_boil/description",
-    "name": "items/other/cooked_dishes/seafood_boil/name",
+    "description": "This medley of fresh seafood and vegetables is doused generously in butter.",
+    "name": "Seafood Boil",
     "icon_sprite": "spr_ui_item_seafood_boil",
     "tags": [
       "chef",

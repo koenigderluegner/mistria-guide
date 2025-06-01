@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_coconut",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_coconut/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_coconut/name",
+    "description": "A wooden sign featuring a painted coconut.",
+    "name": "Coconut Sign",
     "icon_sprite": "spr_ui_item_crop_sign_coconut",
     "tags": [
       "furniture",

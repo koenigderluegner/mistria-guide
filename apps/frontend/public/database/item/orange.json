@@ -1,8 +1,8 @@
 {
   "id": "orange",
   "item": {
-    "description": "items/other/crops_and_forage/orange/description",
-    "name": "items/other/crops_and_forage/orange/name",
+    "description": "The citrusy fruit of the orange tree, which fruits in fall. A popular ingredient in cooking recipes.",
+    "name": "Orange",
     "icon_sprite": "spr_ui_item_orange",
     "tags": [
       "crop",

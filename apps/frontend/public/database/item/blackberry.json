@@ -1,8 +1,8 @@
 {
   "id": "blackberry",
   "item": {
-    "description": "items/other/crops_and_forage/blackberry/description",
-    "name": "items/other/crops_and_forage/blackberry/name",
+    "description": "A delicious berry that grows in fall. Used in a variety of cooking recipes.",
+    "name": "Blackberry",
     "icon_sprite": "spr_ui_item_bush_blackberry",
     "tags": [
       "forageable",

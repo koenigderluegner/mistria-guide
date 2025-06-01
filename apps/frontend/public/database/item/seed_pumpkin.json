@@ -1,8 +1,8 @@
 {
   "id": "seed_pumpkin",
   "item": {
-    "description": "items/other/crops_and_forage/seed_pumpkin/description",
-    "name": "items/other/crops_and_forage/seed_pumpkin/name",
+    "description": "Pumpkin seed. This slow growing fall crop can be harvested once.",
+    "name": "Pumpkin Seed",
     "icon_sprite": "spr_ui_item_bagseed_pumpkin_icon",
     "tags": [
       "seed"

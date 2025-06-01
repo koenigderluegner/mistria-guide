@@ -1,8 +1,8 @@
 {
   "id": "worn_well",
   "item": {
-    "description": "items/furniture/default_worn_set/worn_well/description",
-    "name": "items/furniture/default_worn_set/worn_well/name",
+    "description": "A worn-down well.",
+    "name": "Worn Well",
     "icon_sprite": "spr_ui_item_furniture_worn_well",
     "tags": [
       "furniture",

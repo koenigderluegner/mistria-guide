@@ -1,8 +1,8 @@
 {
   "id": "spring_lamp_purple",
   "item": {
-    "description": "items/furniture/spring_set/spring_lamp_purple/description",
-    "name": "items/furniture/spring_set/spring_lamp_purple/name",
+    "description": "A purple lamp in the shape of a vase of flowers.",
+    "name": "Spring Lamp",
     "icon_sprite": "spr_ui_item_furniture_spring_lamp_purple",
     "tags": [
       "furniture",

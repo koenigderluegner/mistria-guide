@@ -1,8 +1,8 @@
 {
   "id": "green_tea",
   "item": {
-    "description": "items/other/cooked_dishes/green_tea/description",
-    "name": "items/other/cooked_dishes/green_tea/name",
+    "description": "This tea has a mellow, slightly vegetal flavor.",
+    "name": "Green Tea",
     "icon_sprite": "spr_ui_item_green_tea",
     "tags": [
       "drink",

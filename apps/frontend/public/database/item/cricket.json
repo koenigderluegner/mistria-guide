@@ -1,8 +1,8 @@
 {
   "id": "cricket",
   "item": {
-    "description": "items/other/bugs/cricket/description",
-    "name": "items/other/bugs/cricket/name",
+    "description": "A common insect found at night in summer.",
+    "name": "Cricket",
     "icon_sprite": "spr_ui_item_insect_cricket",
     "tags": [
       "bugs"

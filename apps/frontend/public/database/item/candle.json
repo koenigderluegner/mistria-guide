@@ -1,8 +1,8 @@
 {
   "id": "candle",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/candle/description",
-    "name": "items/furniture/tabletop_clutter_set/candle/name",
+    "description": "A decorative candle.",
+    "name": "Candle",
     "icon_sprite": "spr_ui_item_decor_clutter_candle",
     "tags": [
       "furniture",

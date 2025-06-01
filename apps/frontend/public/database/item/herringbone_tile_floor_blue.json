@@ -1,8 +1,8 @@
 {
   "id": "herringbone_tile_floor_blue",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/herringbone_tile_floor_blue/description",
-    "name": "items/furniture/bathroom_furniture_set/herringbone_tile_floor_blue/name",
+    "description": "Navy herringbone tile flooring.",
+    "name": "Herringbone Tile Floor",
     "icon_sprite": "spr_ui_item_furniture_herringbone_tile_flooring_blue",
     "tags": [
       "furniture",

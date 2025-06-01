@@ -1,8 +1,8 @@
 {
   "id": "mines_mussels",
   "item": {
-    "description": "items/mines/tide_caverns/mines_mussels/description",
-    "name": "items/mines/tide_caverns/mines_mussels/name",
+    "description": "These mussels grow in bunches underground. Used in a variety of cooking recipes.",
+    "name": "Mines Mussels",
     "icon_sprite": "spr_ui_item_mines_mussels",
     "tags": [
       "forageable",

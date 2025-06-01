@@ -1,8 +1,8 @@
 {
   "id": "red_snapper_sushi",
   "item": {
-    "description": "items/other/cooked_dishes/red_snapper_sushi/description",
-    "name": "items/other/cooked_dishes/red_snapper_sushi/name",
+    "description": "A premium slice of Red Snapper over seasoned rice.",
+    "name": "Red Snapper Sushi",
     "icon_sprite": "spr_ui_item_red_snapper_sushi",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "starter_bird_house_red",
   "item": {
-    "description": "items/furniture/starter_farm_set/starter_bird_house_red/description",
-    "name": "items/furniture/starter_farm_set/starter_bird_house_red/name",
+    "description": "A simple birdhouse. Wild birds like to perch on it.",
+    "name": "Birdhouse",
     "icon_sprite": "spr_ui_item_decor_starter_bird_house_red",
     "tags": [
       "furniture",

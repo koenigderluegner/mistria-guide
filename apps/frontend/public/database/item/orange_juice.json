@@ -1,8 +1,8 @@
 {
   "id": "orange_juice",
   "item": {
-    "description": "items/other/cooked_dishes/orange_juice/description",
-    "name": "items/other/cooked_dishes/orange_juice/name",
+    "description": "A sweet and citrusy juice made from oranges.",
+    "name": "Orange Juice",
     "icon_sprite": "spr_ui_item_orange_juice",
     "tags": [
       "drink",

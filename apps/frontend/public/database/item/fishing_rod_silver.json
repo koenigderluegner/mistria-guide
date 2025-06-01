@@ -1,8 +1,8 @@
 {
   "id": "fishing_rod_silver",
   "item": {
-    "description": "items/other/blacksmithing/fishing_rod_silver/description",
-    "name": "items/other/blacksmithing/fishing_rod_silver/name",
+    "description": "A silver handled fishing rod. It has a cast range of 12.",
+    "name": "Silver Fishing Rod",
     "icon_sprite": "spr_ui_item_tool_silver_rod",
     "tags": [
       "fishing_rod",

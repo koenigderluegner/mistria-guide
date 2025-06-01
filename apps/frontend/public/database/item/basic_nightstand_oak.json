@@ -1,8 +1,8 @@
 {
   "id": "basic_nightstand_oak",
   "item": {
-    "description": "items/furniture/basic_set/basic_nightstand_oak/description",
-    "name": "items/furniture/basic_set/basic_nightstand_oak/name",
+    "description": "A basic oak nightstand.",
+    "name": "Basic Nightstand",
     "icon_sprite": "spr_ui_item_furniture_basic_nightstand_v1",
     "tags": [
       "furniture",

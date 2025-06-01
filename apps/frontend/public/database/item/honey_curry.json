@@ -1,8 +1,8 @@
 {
   "id": "honey_curry",
   "item": {
-    "description": "items/other/cooked_dishes/honey_curry/description",
-    "name": "items/other/cooked_dishes/honey_curry/name",
+    "description": "This curry combines sweetness with... more sweetness?",
+    "name": "Honey Curry",
     "icon_sprite": "spr_ui_item_honey_curry",
     "value": {
       "bin": 200

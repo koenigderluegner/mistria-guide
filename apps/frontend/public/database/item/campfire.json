@@ -1,8 +1,8 @@
 {
   "id": "campfire",
   "item": {
-    "description": "items/furniture/starter_farm_set/campfire/description",
-    "name": "items/furniture/starter_farm_set/campfire/name",
+    "description": "This crackling campfire is perfectly cozy.",
+    "name": "Campfire",
     "icon_sprite": "spr_ui_item_decor_beach_campfire",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "wild_leek",
   "item": {
-    "description": "items/other/crops_and_forage/wild_leek/description",
-    "name": "items/other/crops_and_forage/wild_leek/name",
+    "description": "A wild plant foraged in spring with a pleasant taste similar to garlic. Commonly used as a cooking ingredient.",
+    "name": "Wild Leek",
     "icon_sprite": "spr_ui_item_springonion",
     "tags": [
       "forageable"

@@ -1,8 +1,8 @@
 {
   "id": "unknown_dragon_statuette",
   "item": {
-    "description": "items/other/artifacts/unknown_dragon_statuette/description",
-    "name": "items/other/artifacts/unknown_dragon_statuette/name",
+    "description": "An uncommon artifact. This doesn't appear to be Caldarus.",
+    "name": "Unknown Dragon Statuette",
     "icon_sprite": "spr_ui_item_unknown_dragon_statuette",
     "tags": [
       "archaeology"

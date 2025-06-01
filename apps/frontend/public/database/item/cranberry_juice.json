@@ -1,8 +1,8 @@
 {
   "id": "cranberry_juice",
   "item": {
-    "description": "items/other/cooked_dishes/cranberry_juice/description",
-    "name": "items/other/cooked_dishes/cranberry_juice/name",
+    "description": "A sweet and sour juice made from cranberries.",
+    "name": "Cranberry Juice",
     "icon_sprite": "spr_ui_item_cranberry_juice",
     "tags": [
       "drink",

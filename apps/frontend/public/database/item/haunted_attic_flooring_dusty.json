@@ -1,8 +1,8 @@
 {
   "id": "haunted_attic_flooring_dusty",
   "item": {
-    "description": "items/furniture/haunted_attic_set/haunted_attic_flooring_dusty/description",
-    "name": "items/furniture/haunted_attic_set/haunted_attic_flooring_dusty/name",
+    "description": "Old fashioned herringbone flooring with a dusty warm-tone color.",
+    "name": "Haunted Attic Flooring",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_flooring_dusty",
     "tags": [
       "furniture",

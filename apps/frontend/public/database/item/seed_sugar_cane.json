@@ -1,8 +1,8 @@
 {
   "id": "seed_sugar_cane",
   "item": {
-    "description": "items/other/crops_and_forage/seed_sugar_cane/description",
-    "name": "items/other/crops_and_forage/seed_sugar_cane/name",
+    "description": "Sugar cane seed. This summer crop can be harvested once.",
+    "name": "Sugar Cane Seed",
     "icon_sprite": "spr_ui_item_bagseed_sugar_cane_icon",
     "tags": [
       "seed"

@@ -1,8 +1,8 @@
 {
   "id": "sod",
   "item": {
-    "description": "items/other/materials/sod/description",
-    "name": "items/other/materials/sod/name",
+    "description": "A square of cut earth. Used as a crafting material.",
+    "name": "Sod",
     "icon_sprite": "spr_ui_item_sod",
     "tags": [
       "refined_material",

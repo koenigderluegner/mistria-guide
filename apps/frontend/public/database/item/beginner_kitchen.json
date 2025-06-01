@@ -1,8 +1,8 @@
 {
   "id": "beginner_kitchen",
   "item": {
-    "description": "items/other/misc/beginner_kitchen/description",
-    "name": "items/other/misc/beginner_kitchen/name",
+    "description": "A simple kitchen used for making 1-2 star dishes. Suitable for cooking levels 0-19.",
+    "name": "Level 1 Kitchen",
     "icon_sprite": "spr_ui_item_kitchen_tier_1",
     "value": {
       "bin": 500

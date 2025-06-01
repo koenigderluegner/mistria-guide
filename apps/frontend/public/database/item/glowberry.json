@@ -1,8 +1,8 @@
 {
   "id": "glowberry",
   "item": {
-    "description": "items/other/crops_and_forage/glowberry/description",
-    "name": "items/other/crops_and_forage/glowberry/name",
+    "description": "A wild plant foraged in winter. Has a sweet flavor and naturally glows. Used as a crafting and cooking ingredient.",
+    "name": "Glowberry",
     "icon_sprite": "spr_ui_item_bush_glowberry",
     "tags": [
       "forageable",

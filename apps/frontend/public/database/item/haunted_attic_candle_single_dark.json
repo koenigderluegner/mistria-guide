@@ -1,8 +1,8 @@
 {
   "id": "haunted_attic_candle_single_dark",
   "item": {
-    "description": "items/furniture/haunted_attic_set/haunted_attic_candle_single_dark/description",
-    "name": "items/furniture/haunted_attic_set/haunted_attic_candle_single_dark/name",
+    "description": "A single purple candle that looks partially melted.",
+    "name": "Melted Candle",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_candle_1_dark",
     "tags": [
       "furniture",

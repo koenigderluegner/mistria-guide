@@ -1,8 +1,8 @@
 {
   "id": "axe_silver",
   "item": {
-    "description": "items/other/blacksmithing/axe_silver/description",
-    "name": "items/other/blacksmithing/axe_silver/name",
+    "description": "A silver axe. Can be charged to chop a 3x6 area.",
+    "name": "Silver Axe",
     "icon_sprite": "spr_ui_item_tool_silver_axe",
     "tags": [
       "axe",

@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_tea",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_tea/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_tea/name",
+    "description": "A wooden sign featuring painted tea.",
+    "name": "Tea Sign",
     "icon_sprite": "spr_ui_item_crop_sign_tea",
     "tags": [
       "furniture",

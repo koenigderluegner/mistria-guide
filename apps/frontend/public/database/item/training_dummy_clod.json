@@ -1,8 +1,8 @@
 {
   "id": "training_dummy_clod",
   "item": {
-    "description": "items/furniture/training_dummy_set/training_dummy_clod/description",
-    "name": "items/furniture/training_dummy_set/training_dummy_clod/name",
+    "description": "A training dummy that looks like a Rock Clod.",
+    "name": "Training Dummy",
     "icon_sprite": "spr_ui_item_decor_training_dummy_rockclod",
     "tags": [
       "furniture",

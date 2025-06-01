@@ -1,8 +1,8 @@
 {
   "id": "pomegranate",
   "item": {
-    "description": "items/other/crops_and_forage/pomegranate/description",
-    "name": "items/other/crops_and_forage/pomegranate/name",
+    "description": "The seed-filled fruit of the pomegranate tree, which fruits in winter. Used in a variety of cooking recipes.",
+    "name": "Pomegranate",
     "icon_sprite": "spr_ui_item_pomegranate",
     "tags": [
       "crop"

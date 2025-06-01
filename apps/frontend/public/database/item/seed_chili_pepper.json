@@ -1,8 +1,8 @@
 {
   "id": "seed_chili_pepper",
   "item": {
-    "description": "items/other/crops_and_forage/seed_chili_pepper/description",
-    "name": "items/other/crops_and_forage/seed_chili_pepper/name",
+    "description": "Chili pepper seed. This summer crop can be harvested once.",
+    "name": "Chili Pepper Seed",
     "icon_sprite": "spr_ui_item_bagseed_chili_pepper_icon",
     "tags": [
       "seed"

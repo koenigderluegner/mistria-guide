@@ -1,8 +1,8 @@
 {
   "id": "cave_kelp",
   "item": {
-    "description": "items/mines/tide_caverns/cave_kelp/description",
-    "name": "items/mines/tide_caverns/cave_kelp/name",
+    "description": "This seaweed makes a great thickener for soups. Used in a variety of cooking recipes.",
+    "name": "Jade Dulse",
     "icon_sprite": "spr_ui_item_cave_kelp",
     "tags": [
       "forageable",

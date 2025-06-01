@@ -1,8 +1,8 @@
 {
   "id": "golden_horse_hair",
   "item": {
-    "description": "items/other/ranching/golden_horse_hair/description",
-    "name": "items/other/ranching/golden_horse_hair/name",
+    "description": "Gold quality hair fiber dropped by a horse. Used in high level crafting recipes.",
+    "name": "Golden Horse Hair",
     "icon_sprite": "spr_ui_item_horse_hair_gold",
     "tags": [
       "ranching",

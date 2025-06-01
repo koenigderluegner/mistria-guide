@@ -1,7 +1,7 @@
 {
   "id": "stinky_stamina_potion",
   "item": {
-    "description": "items/other/misc/stinky_stamina_potion/description",
+    "description": "This shouldn't be in your inventory...",
     "icon_sprite": "spr_ui_item_stinkypotion",
     "tags": [
       "drink_sound"

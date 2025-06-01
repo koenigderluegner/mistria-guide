@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_lilac",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_lilac/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_lilac/name",
+    "description": "A wooden sign featuring a painted lilac.",
+    "name": "Lilac Sign",
     "icon_sprite": "spr_ui_item_crop_sign_lilac",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "aldarian_sword",
   "item": {
-    "description": "items/other/artifacts/aldarian_sword/description",
-    "name": "items/other/artifacts/aldarian_sword/name",
+    "description": "An uncommon artifact. A worn military sword, likely from the War of the Lilies.",
+    "name": "Aldarian Sword",
     "icon_sprite": "spr_ui_item_aldarian_sword",
     "tags": [
       "archaeology"

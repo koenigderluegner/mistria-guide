@@ -1,8 +1,8 @@
 {
   "id": "large_animal_ball_court",
   "item": {
-    "description": "items/other/ranching/large_animal_ball_court/description",
-    "name": "items/other/ranching/large_animal_ball_court/name",
+    "description": "A decorative toy for large animals to play on when outside. It's very cute!",
+    "name": "Large Animal Ball Court",
     "icon_sprite": "spr_ui_item_large_animal_toy_ball_court",
     "value": {
       "store": 750

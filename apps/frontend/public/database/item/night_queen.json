@@ -1,8 +1,8 @@
 {
   "id": "night_queen",
   "item": {
-    "description": "items/other/crops_and_forage/night_queen/description",
-    "name": "items/other/crops_and_forage/night_queen/name",
+    "description": "A beautiful flower that grows in summer. Makes a nice gift.",
+    "name": "Night Queen",
     "icon_sprite": "spr_ui_item_night_queen",
     "tags": [
       "forageable",

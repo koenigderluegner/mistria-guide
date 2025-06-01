@@ -1,8 +1,8 @@
 {
   "id": "net_silver",
   "item": {
-    "description": "items/other/blacksmithing/net_silver/description",
-    "name": "items/other/blacksmithing/net_silver/name",
+    "description": "A silver handled bug net. The only change is the aesthetic.",
+    "name": "Silver Net",
     "icon_sprite": "spr_ui_item_tool_silver_net",
     "tags": [
       "net",

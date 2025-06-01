@@ -1,8 +1,8 @@
 {
   "id": "cabin_wallpaper_oak",
   "item": {
-    "description": "items/furniture/rustic_cabin_set/cabin_wallpaper_oak/description",
-    "name": "items/furniture/rustic_cabin_set/cabin_wallpaper_oak/name",
+    "description": "Rustic oak wallpaper for your home.",
+    "name": "Rustic Cabin Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_cabin_wallpaper_v3",
     "tags": [
       "furniture",

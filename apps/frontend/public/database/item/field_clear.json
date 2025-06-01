@@ -1,8 +1,8 @@
 {
   "id": "field_clear",
   "item": {
-    "description": "items/furniture/starter_farm_set/field_clear/description",
-    "name": "items/furniture/starter_farm_set/field_clear/name",
+    "description": "Use this item to clear decorative details from a grass tile.",
+    "name": "Grass Tile Clear",
     "icon_sprite": "spr_ui_item_decor_starter_field_clear",
     "tags": [
       "furniture",

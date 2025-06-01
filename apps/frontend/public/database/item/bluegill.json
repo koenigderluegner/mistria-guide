@@ -1,8 +1,8 @@
 {
   "id": "bluegill",
   "item": {
-    "description": "items/fish/river/bluegill/description",
-    "name": "items/fish/river/bluegill/name",
+    "description": "A common small river fish found in spring.",
+    "name": "Blue Gill",
     "icon_sprite": "spr_ui_item_fish_small_blue_gill",
     "tags": [
       "fishable",

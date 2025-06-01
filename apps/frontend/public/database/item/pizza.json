@@ -1,8 +1,8 @@
 {
   "id": "pizza",
   "item": {
-    "description": "items/other/cooked_dishes/pizza/description",
-    "name": "items/other/cooked_dishes/pizza/name",
+    "description": "This delicious pizza has a thick layer of melted cheese with a tangy tomato sauce.",
+    "name": "Pizza",
     "icon_sprite": "spr_ui_item_pizza",
     "tags": [
       "chef",

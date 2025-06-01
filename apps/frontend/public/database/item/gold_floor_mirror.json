@@ -1,8 +1,8 @@
 {
   "id": "gold_floor_mirror",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/gold_floor_mirror/description",
-    "name": "items/furniture/bathroom_furniture_set/gold_floor_mirror/name",
+    "description": "A gold bathroom floor mirror.",
+    "name": "Gold Floor Mirror",
     "icon_sprite": "spr_ui_item_furniture_bathroom_floor_mirror_gold",
     "tags": [
       "furniture",

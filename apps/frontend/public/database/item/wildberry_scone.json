@@ -1,8 +1,8 @@
 {
   "id": "wildberry_scone",
   "item": {
-    "description": "items/other/cooked_dishes/wildberry_scone/description",
-    "name": "items/other/cooked_dishes/wildberry_scone/name",
+    "description": "This tender scone is filled with sweet wild berries.",
+    "name": "Wild Berry Scone",
     "icon_sprite": "spr_ui_item_wildberry_scone",
     "tags": [
       "food",

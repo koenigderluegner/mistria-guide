@@ -1,8 +1,8 @@
 {
   "id": "grasshopper",
   "item": {
-    "description": "items/other/bugs/grasshopper/description",
-    "name": "items/other/bugs/grasshopper/name",
+    "description": "A common insect found during the daytime in all seasons but winter. Sometimes found when cutting grass.",
+    "name": "Grasshopper",
     "icon_sprite": "spr_ui_item_insect_grasshopper",
     "tags": [
       "bugs"

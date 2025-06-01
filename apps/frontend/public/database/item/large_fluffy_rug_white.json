@@ -1,8 +1,8 @@
 {
   "id": "large_fluffy_rug_white",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/large_fluffy_rug_white/description",
-    "name": "items/furniture/bathroom_furniture_set/large_fluffy_rug_white/name",
+    "description": "A large white fluffy rug.",
+    "name": "Large Fluffy Rug",
     "icon_sprite": "spr_ui_item_furniture_large_fluffy_rug_white",
     "tags": [
       "furniture",

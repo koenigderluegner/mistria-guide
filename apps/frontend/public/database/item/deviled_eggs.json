@@ -1,8 +1,8 @@
 {
   "id": "deviled_eggs",
   "item": {
-    "description": "items/other/cooked_dishes/deviled_eggs/description",
-    "name": "items/other/cooked_dishes/deviled_eggs/name",
+    "description": "These hard boiled egg halves have a creamy, flavorful filling.",
+    "name": "Deviled Eggs",
     "icon_sprite": "spr_ui_item_deviled_eggs",
     "tags": [
       "food",

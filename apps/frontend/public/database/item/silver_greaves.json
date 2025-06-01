@@ -1,8 +1,8 @@
 {
   "id": "silver_greaves",
   "item": {
-    "description": "items/other/armor/silver_greaves/description",
-    "name": "items/other/armor/silver_greaves/name",
+    "description": "Greaves constructed out of silver. Equip to increase defense.",
+    "name": "Silver Greaves",
     "icon_sprite": "spr_ui_item_equipment_silver_boots",
     "tags": [
       "boots",

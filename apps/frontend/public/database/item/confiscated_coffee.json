@@ -1,8 +1,8 @@
 {
   "id": "confiscated_coffee",
   "item": {
-    "description": "items/other/cooked_dishes/confiscated_coffee/description",
-    "name": "items/other/cooked_dishes/confiscated_coffee/name",
+    "description": "Confiscated coffee.",
+    "name": "Confiscated Coffee",
     "icon_sprite": "spr_ui_item_confiscated_coffee",
     "tags": [
       "drink_sound",

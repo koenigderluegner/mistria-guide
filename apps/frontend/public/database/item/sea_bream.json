@@ -1,8 +1,8 @@
 {
   "id": "sea_bream",
   "item": {
-    "description": "items/fish/ocean/sea_bream/description",
-    "name": "items/fish/ocean/sea_bream/name",
+    "description": "A common medium ocean fish found in spring and fall.",
+    "name": "Sea Bream",
     "icon_sprite": "spr_ui_item_fish_medium_sea_bream",
     "tags": [
       "fishable",

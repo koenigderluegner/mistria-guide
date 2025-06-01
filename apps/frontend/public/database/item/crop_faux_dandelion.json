@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_dandelion",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_dandelion/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_dandelion/name",
+    "description": "A decorative faux dandelion.",
+    "name": "Faux Dandelion",
     "icon_sprite": "spr_ui_item_decor_crop_faux_dandelion",
     "tags": [
       "furniture",

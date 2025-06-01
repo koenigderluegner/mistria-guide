@@ -1,8 +1,8 @@
 {
   "id": "green_bottle",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/green_bottle/description",
-    "name": "items/furniture/tabletop_clutter_set/green_bottle/name",
+    "description": "A decorative green bottle.",
+    "name": "Green Bottle",
     "icon_sprite": "spr_ui_item_decor_clutter_green_bottle",
     "tags": [
       "furniture",

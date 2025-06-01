@@ -1,8 +1,8 @@
 {
   "id": "watering_can_iron",
   "item": {
-    "description": "items/other/blacksmithing/watering_can_iron/description",
-    "name": "items/other/blacksmithing/watering_can_iron/name",
+    "description": "An iron watering can. Can be charged to water a 3x3 area.",
+    "name": "Iron Watering Can",
     "icon_sprite": "spr_ui_item_tool_iron_watering_can",
     "tags": [
       "watering_can",

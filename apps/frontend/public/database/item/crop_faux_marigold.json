@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_marigold",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_marigold/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_marigold/name",
+    "description": "A decorative faux marigold.",
+    "name": "Faux Marigold",
     "icon_sprite": "spr_ui_item_decor_crop_faux_marigold",
     "tags": [
       "furniture",

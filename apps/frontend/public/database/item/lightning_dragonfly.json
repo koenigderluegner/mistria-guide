@@ -1,8 +1,8 @@
 {
   "id": "lightning_dragonfly",
   "item": {
-    "description": "items/other/bugs/lightning_dragonfly/description",
-    "name": "items/other/bugs/lightning_dragonfly/name",
+    "description": "A rare insect found during thunderstorms in all seasons but winter.",
+    "name": "Lightning Dragonfly",
     "icon_sprite": "spr_ui_item_insect_lightningdragonfly",
     "tags": [
       "bugs"

@@ -1,8 +1,8 @@
 {
   "id": "floral_tea",
   "item": {
-    "description": "items/other/cooked_dishes/floral_tea/description",
-    "name": "items/other/cooked_dishes/floral_tea/name",
+    "description": "An expertly blended floral tea. This Spring Festival drink is liked by everyone.",
+    "name": "Floral Tea",
     "icon_sprite": "spr_ui_item_floraltea",
     "tags": [
       "drink",

@@ -1,8 +1,8 @@
 {
   "id": "iron_ingot",
   "item": {
-    "description": "items/other/blacksmithing/iron_ingot/description",
-    "name": "items/other/blacksmithing/iron_ingot/name",
+    "description": "An ingot of pure iron. Used in a variety of blacksmithing and crafting recipes.",
+    "name": "Iron Ingot",
     "icon_sprite": "spr_ui_item_iron_ingot",
     "tags": [
       "ingot",

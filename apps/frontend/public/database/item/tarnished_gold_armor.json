@@ -1,8 +1,8 @@
 {
   "id": "tarnished_gold_armor",
   "item": {
-    "description": "items/other/armor/tarnished_gold_armor/description",
-    "name": "items/other/armor/tarnished_gold_armor/name",
+    "description": "A chestpiece constructed out of tarnished gold. Equip to increase defense.",
+    "name": "Tarnished Gold Chestpiece",
     "icon_sprite": "spr_ui_item_equipment_tarnished_gold_chestpiece",
     "tags": [
       "chest",

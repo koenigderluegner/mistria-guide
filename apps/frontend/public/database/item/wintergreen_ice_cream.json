@@ -1,8 +1,8 @@
 {
   "id": "wintergreen_ice_cream",
   "item": {
-    "description": "items/other/cooked_dishes/wintergreen_ice_cream/description",
-    "name": "items/other/cooked_dishes/wintergreen_ice_cream/name",
+    "description": "This ice cream is flavored with wintergreen, giving it an extra chill.",
+    "name": "Wintergreen Ice Cream",
     "icon_sprite": "spr_ui_item_wintergreen_ice_cream",
     "tags": [
       "food",

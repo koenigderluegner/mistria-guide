@@ -1,8 +1,8 @@
 {
   "id": "lake_chub",
   "item": {
-    "description": "items/fish/pond/lake_chub/description",
-    "name": "items/fish/pond/lake_chub/name",
+    "description": "A common small pond fish found in summer.",
+    "name": "Lake Chub",
     "icon_sprite": "spr_ui_item_fish_small_lake_chub",
     "tags": [
       "fishable",

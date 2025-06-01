@@ -1,8 +1,8 @@
 {
   "id": "box_small_v2",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/box_small_v2/description",
-    "name": "items/furniture/tabletop_clutter_set/box_small_v2/name",
+    "description": "A small decorative purple box.",
+    "name": "Small Box",
     "icon_sprite": "spr_ui_item_decor_clutter_box_small_v2",
     "tags": [
       "furniture",

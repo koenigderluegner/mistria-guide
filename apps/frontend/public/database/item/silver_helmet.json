@@ -1,8 +1,8 @@
 {
   "id": "silver_helmet",
   "item": {
-    "description": "items/other/armor/silver_helmet/description",
-    "name": "items/other/armor/silver_helmet/name",
+    "description": "A helmet constructed out of silver. Equip to increase defense.",
+    "name": "Silver Helmet",
     "icon_sprite": "spr_ui_item_equipment_silver_helmet",
     "tags": [
       "head",

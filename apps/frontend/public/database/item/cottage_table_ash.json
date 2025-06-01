@@ -1,8 +1,8 @@
 {
   "id": "cottage_table_ash",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_table_ash/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_table_ash/name",
+    "description": "A lovely table with an antique white & sage green tablecloth.",
+    "name": "Lovely Cottage Table",
     "icon_sprite": "spr_ui_item_furniture_cottage_table_v2",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_sweet_potato",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_sweet_potato/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_sweet_potato/name",
+    "description": "A wooden sign featuring a painted sweet potato.",
+    "name": "Sweet Potato Sign",
     "icon_sprite": "spr_ui_item_crop_sign_sweet_potato",
     "tags": [
       "furniture",

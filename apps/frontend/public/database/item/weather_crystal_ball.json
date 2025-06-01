@@ -1,8 +1,8 @@
 {
   "id": "weather_crystal_ball",
   "item": {
-    "description": "items/furniture/no_set/weather_crystal_ball/description",
-    "name": "items/furniture/no_set/weather_crystal_ball/name",
+    "description": "Peer beyond the curtain, into...the weather.",
+    "name": "Weather Crystal Ball",
     "icon_sprite": "spr_ui_item_weather_crystal_ball",
     "value": {
       "bin": 20,

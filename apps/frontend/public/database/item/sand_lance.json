@@ -1,8 +1,8 @@
 {
   "id": "sand_lance",
   "item": {
-    "description": "items/fish/ocean/sand_lance/description",
-    "name": "items/fish/ocean/sand_lance/name",
+    "description": "A common small ocean fish found in winter.",
+    "name": "Sand Lance",
     "icon_sprite": "spr_ui_item_fish_small_sand_lance",
     "tags": [
       "fishable",

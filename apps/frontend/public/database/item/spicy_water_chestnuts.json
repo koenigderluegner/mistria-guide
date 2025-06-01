@@ -1,8 +1,8 @@
 {
   "id": "spicy_water_chestnuts",
   "item": {
-    "description": "items/other/cooked_dishes/spicy_water_chestnuts/description",
-    "name": "items/other/cooked_dishes/spicy_water_chestnuts/name",
+    "description": "These crunchy water chestnuts are tossed in an irresistible spicy sauce.",
+    "name": "Spicy Water Chestnuts",
     "icon_sprite": "spr_ui_item_spicy_water_chestnuts",
     "tags": [
       "food",

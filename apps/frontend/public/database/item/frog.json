@@ -1,8 +1,8 @@
 {
   "id": "frog",
   "item": {
-    "description": "items/fish/pond/frog/description",
-    "name": "items/fish/pond/frog/name",
+    "description": "A common small pond amphibian found in spring and fall.",
+    "name": "Frog",
     "icon_sprite": "spr_ui_item_fish_small_frog",
     "tags": [
       "fishable",

@@ -1,8 +1,8 @@
 {
   "id": "hard_wood",
   "item": {
-    "description": "items/other/materials/hard_wood/description",
-    "name": "items/other/materials/hard_wood/name",
+    "description": "A piece of high quality hard wood. Used in a variety of crafting recipes.",
+    "name": "Hard Wood",
     "icon_sprite": "spr_ui_item_hardwood",
     "tags": [
       "refined_material",

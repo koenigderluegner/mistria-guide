@@ -1,8 +1,8 @@
 {
   "id": "riceball",
   "item": {
-    "description": "items/other/cooked_dishes/riceball/description",
-    "name": "items/other/cooked_dishes/riceball/name",
+    "description": "A simple yet satisfying meal that travels well.",
+    "name": "Rice Ball",
     "icon_sprite": "spr_ui_item_riceball",
     "tags": [
       "food",

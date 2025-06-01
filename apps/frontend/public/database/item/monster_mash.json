@@ -1,8 +1,8 @@
 {
   "id": "monster_mash",
   "item": {
-    "description": "items/other/cooked_dishes/monster_mash/description",
-    "name": "items/other/cooked_dishes/monster_mash/name",
+    "description": "This mash has a truly indescribable flavor.",
+    "name": "Monster Mash",
     "icon_sprite": "spr_ui_item_monster_mash",
     "tags": [
       "food",

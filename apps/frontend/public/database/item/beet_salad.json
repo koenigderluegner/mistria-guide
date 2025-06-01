@@ -1,8 +1,8 @@
 {
   "id": "beet_salad",
   "item": {
-    "description": "items/other/cooked_dishes/beet_salad/description",
-    "name": "items/other/cooked_dishes/beet_salad/name",
+    "description": "This salad is made of fresh, tender slices of beet.",
+    "name": "Beet Salad",
     "icon_sprite": "spr_ui_item_beet_salad",
     "tags": [
       "food",

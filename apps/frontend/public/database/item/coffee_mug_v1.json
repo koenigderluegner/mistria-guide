@@ -1,8 +1,8 @@
 {
   "id": "coffee_mug_v1",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/coffee_mug_v1/description",
-    "name": "items/furniture/tabletop_clutter_set/coffee_mug_v1/name",
+    "description": "A decorative green coffee mug.",
+    "name": "Coffee Mug",
     "icon_sprite": "spr_ui_item_decor_coffee_v1",
     "tags": [
       "furniture",

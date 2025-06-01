@@ -1,8 +1,8 @@
 {
   "id": "rosemary",
   "item": {
-    "description": "items/other/crops_and_forage/rosemary/description",
-    "name": "items/other/crops_and_forage/rosemary/name",
+    "description": "A fragrant herb grown in fall. Commonly used as a cooking ingredient.",
+    "name": "Rosemary",
     "icon_sprite": "spr_ui_item_rosemary",
     "tags": [
       "forageable"

@@ -1,8 +1,8 @@
 {
   "id": "mushroom_brew",
   "item": {
-    "description": "items/other/cooked_dishes/mushroom_brew/description",
-    "name": "items/other/cooked_dishes/mushroom_brew/name",
+    "description": "A drink made from mushrooms with a satisfying, earthy flavor.",
+    "name": "Mushroom Brew",
     "icon_sprite": "spr_ui_item_mushroom_brew",
     "tags": [
       "drink",

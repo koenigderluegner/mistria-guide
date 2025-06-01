@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_chestnut",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_chestnut/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_chestnut/name",
+    "description": "A decorative faux chestnut.",
+    "name": "Faux Chestnut",
     "icon_sprite": "spr_ui_item_decor_crop_faux_chestnut",
     "tags": [
       "furniture",

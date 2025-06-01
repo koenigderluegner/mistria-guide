@@ -1,8 +1,8 @@
 {
   "id": "rockbiter",
   "item": {
-    "description": "items/mines/deep_earth/rockbiter/description",
-    "name": "items/mines/deep_earth/rockbiter/name",
+    "description": "An uncommon medium Deep Earth fish. This fish has an over-developed jaw to help it grind down stone.",
+    "name": "Rockbiter",
     "icon_sprite": "spr_ui_item_fish_medium_rockbiter",
     "tags": [
       "fishable"

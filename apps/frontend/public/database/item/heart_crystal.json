@@ -1,8 +1,8 @@
 {
   "id": "heart_crystal",
   "item": {
-    "description": "items/other/misc/heart_crystal/description",
-    "name": "items/other/misc/heart_crystal/name",
+    "description": "This glowing crystal emanates a feeling of power. You feel a yearning to... eat it?",
+    "name": "Heart Crystal",
     "icon_sprite": "spr_ui_item_heart_crystal"
   }
 }

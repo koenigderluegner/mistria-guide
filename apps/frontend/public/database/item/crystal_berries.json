@@ -1,8 +1,8 @@
 {
   "id": "crystal_berries",
   "item": {
-    "description": "items/mines/deep_earth/crystal_berries/description",
-    "name": "items/mines/deep_earth/crystal_berries/name",
+    "description": "These berries have a glasslike appearance and are very sweet.",
+    "name": "Crystal Berries",
     "icon_sprite": "spr_ui_item_crystal_berries",
     "tags": [
       "forageable",

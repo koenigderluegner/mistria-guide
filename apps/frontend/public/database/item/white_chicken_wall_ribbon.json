@@ -1,8 +1,8 @@
 {
   "id": "white_chicken_wall_ribbon",
   "item": {
-    "description": "items/other/festivals/white_chicken_wall_ribbon/description",
-    "name": "items/other/festivals/white_chicken_wall_ribbon/name",
+    "description": "A white display ribbon commemorating your chicken's third place win at the Animal Festival.",
+    "name": "White Chicken Wall Ribbon",
     "icon_sprite": "spr_ui_item_decor_white_chicken_ribbon",
     "tags": [
       "furniture"

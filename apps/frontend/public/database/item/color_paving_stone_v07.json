@@ -1,8 +1,8 @@
 {
   "id": "color_paving_stone_v07",
   "item": {
-    "description": "items/furniture/color_paving_stone_set/color_paving_stone_v07/description",
-    "name": "items/furniture/color_paving_stone_set/color_paving_stone_v07/name",
+    "description": "A small light yellow paving stone.",
+    "name": "Color Paving Stone",
     "icon_sprite": "spr_ui_item_decor_floor_tile_small_07",
     "tags": [
       "furniture",

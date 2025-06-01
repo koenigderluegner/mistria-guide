@@ -1,8 +1,8 @@
 {
   "id": "tarpon",
   "item": {
-    "description": "items/fish/river/tarpon/description",
-    "name": "items/fish/river/tarpon/name",
+    "description": "A rare giant river fish found in summer.",
+    "name": "Tarpon",
     "icon_sprite": "spr_ui_item_fish_giant_tarpon",
     "tags": [
       "fishable",

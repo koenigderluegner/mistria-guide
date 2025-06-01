@@ -1,8 +1,8 @@
 {
   "id": "baked_sweetroot",
   "item": {
-    "description": "items/other/cooked_dishes/baked_sweetroot/description",
-    "name": "items/other/cooked_dishes/baked_sweetroot/name",
+    "description": "After baking, its natural sweetness increases, making it a tasty treat.",
+    "name": "Baked Sweetroot",
     "icon_sprite": "spr_ui_item_baked_sweetroot",
     "tags": [
       "food",

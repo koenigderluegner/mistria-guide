@@ -1,8 +1,8 @@
 {
   "id": "seed_beet",
   "item": {
-    "description": "items/other/crops_and_forage/seed_beet/description",
-    "name": "items/other/crops_and_forage/seed_beet/name",
+    "description": "Beet seed. This fast growing winter crop can be harvested once.",
+    "name": "Beet Seed",
     "icon_sprite": "spr_ui_item_bagseed_beet_icon",
     "tags": [
       "seed"

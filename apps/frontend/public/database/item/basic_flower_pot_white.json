@@ -1,8 +1,8 @@
 {
   "id": "basic_flower_pot_white",
   "item": {
-    "description": "items/furniture/basic_set/basic_flower_pot_white/description",
-    "name": "items/furniture/basic_set/basic_flower_pot_white/name",
+    "description": "A basic white flower pot for decoration.",
+    "name": "Basic Flower Pot",
     "icon_sprite": "spr_ui_item_furniture_basic_flower_pot_v2",
     "tags": [
       "furniture",

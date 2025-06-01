@@ -1,8 +1,8 @@
 {
   "id": "golden_rabbit_wool",
   "item": {
-    "description": "items/other/ranching/golden_rabbit_wool/description",
-    "name": "items/other/ranching/golden_rabbit_wool/name",
+    "description": "Gold quality wool from a rabbit. Used in a variety of crafting recipes.",
+    "name": "Golden Rabbit Wool",
     "icon_sprite": "spr_ui_item_rabbit_hair_gold",
     "tags": [
       "ranching",

@@ -1,8 +1,8 @@
 {
   "id": "crystal_tassets",
   "item": {
-    "description": "items/other/armor/crystal_tassets/description",
-    "name": "items/other/armor/crystal_tassets/name",
+    "description": "Tassets constructed out of crystal. Equip to increase defense.",
+    "name": "Crystal Tassets",
     "icon_sprite": "spr_ui_item_equipment_crystal_tassets",
     "tags": [
       "legs",

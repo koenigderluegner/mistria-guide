@@ -1,8 +1,8 @@
 {
   "id": "fishing_lamp_blue",
   "item": {
-    "description": "items/furniture/fishing_set/fishing_lamp_blue/description",
-    "name": "items/furniture/fishing_set/fishing_lamp_blue/name",
+    "description": "A cute lamp that looks like a blue lighthouse.",
+    "name": "Lighthouse Lamp",
     "icon_sprite": "spr_ui_item_furniture_fishing_lamp_blue",
     "tags": [
       "furniture",

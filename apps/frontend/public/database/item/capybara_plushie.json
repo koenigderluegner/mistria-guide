@@ -1,8 +1,8 @@
 {
   "id": "capybara_plushie",
   "item": {
-    "description": "items/other/festivals/capybara_plushie/description",
-    "name": "items/other/festivals/capybara_plushie/name",
+    "description": "A cute capybara plushie. Awarded at the Animal Festival.",
+    "name": "Capybara Plushie",
     "icon_sprite": "spr_ui_item_decor_capybara_plushie",
     "tags": [
       "furniture"

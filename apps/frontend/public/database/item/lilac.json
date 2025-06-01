@@ -1,8 +1,8 @@
 {
   "id": "lilac",
   "item": {
-    "description": "items/other/crops_and_forage/lilac/description",
-    "name": "items/other/crops_and_forage/lilac/name",
+    "description": "A wild purple flower that grows in the spring. Can be sold, gifted, or used in certain crafting recipes.",
+    "name": "Lilac",
     "icon_sprite": "spr_ui_item_lilac",
     "tags": [
       "forageable",

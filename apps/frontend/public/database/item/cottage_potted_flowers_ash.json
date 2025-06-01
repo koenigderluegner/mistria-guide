@@ -1,8 +1,8 @@
 {
   "id": "cottage_potted_flowers_ash",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_potted_flowers_ash/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_potted_flowers_ash/name",
+    "description": "A lovely pot of soft pink flowers.",
+    "name": "Lovely Cottage Potted Flowers",
     "icon_sprite": "spr_ui_item_furniture_cottage_potted_flowers_v2",
     "tags": [
       "furniture",

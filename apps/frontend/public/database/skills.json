@@ -1,36 +1,36 @@
 {
   "archaeology": {
-    "name": "ui/skill_menu/archaeology/name",
+    "name": "Archaeology",
     "icon_sprite_key": "spr_ui_skills_domain_icon_archaeology_enabled",
     "tier_1": [
       {
         "perk": "museum_quality_one",
         "essence": 20,
         "icon": "spr_ui_skills_archaeology_icon_museum_quality_i",
-        "name": "perks/museum_quality_one/name",
-        "description": "perks/museum_quality_one/description"
+        "name": "Museum Quality I",
+        "description": "Digging up Uncommon Artifacts will become more likely."
       },
       {
         "perk": "unpeatable",
         "essence": 10,
         "icon": "spr_ui_skills_archaeology_icon_unpeatable",
-        "name": "perks/unpeatable/name",
-        "description": "perks/unpeatable/description",
+        "name": "Unpeatable",
+        "description": "Digging up Peat, Sod, and Clay will sometimes drop double the usual amount.",
         "value": 20
       },
       {
         "perk": "sunken_secrets",
         "essence": 15,
         "icon": "spr_ui_skills_archaeology_icon_sunken_secrets",
-        "name": "perks/sunken_secrets/name",
-        "description": "perks/sunken_secrets/description"
+        "name": "Sunken Secrets",
+        "description": "Dive spots can now contain Sunken Artifacts."
       },
       {
         "perk": "western_ruins_scholar",
         "essence": 15,
         "icon": "spr_ui_skills_archaeology_icon_western_ruins_scholar",
-        "name": "perks/western_ruins_scholar/name",
-        "description": "perks/western_ruins_scholar/description",
+        "name": "Western Ruins Scholar",
+        "description": "An additional Dig Site will appear daily at the Western Ruins.",
         "value": 1
       }
     ],
@@ -40,31 +40,31 @@
         "essence": 35,
         "icon": "spr_ui_skills_archaeology_icon_sunken_treasure",
         "value": 75,
-        "name": "perks/sunken_treasure/name",
-        "description": "perks/sunken_treasure/description"
+        "name": "Sunken Treasure",
+        "description": "Treasure chests are more likely to appear when diving."
       },
       {
         "perk": "stoneturner",
         "essence": 40,
         "icon": "spr_ui_skills_archaeology_icon_stoneturner",
-        "name": "perks/stoneturner/name",
-        "description": "perks/stoneturner/description",
+        "name": "Stoneturner",
+        "description": "Artifacts will sometimes drop from breaking Rocks in the Mines.",
         "value": 1
       },
       {
         "perk": "eastern_road_scholar",
         "essence": 50,
         "icon": "spr_ui_skills_archaeology_icon_eastern_road_scholar",
-        "name": "perks/eastern_road_scholar/name",
-        "description": "perks/eastern_road_scholar/description",
+        "name": "Eastern Road Scholar",
+        "description": "An additional Dig Site will appear daily on the Eastern Road.",
         "value": 1
       },
       {
         "perk": "pursuit",
         "essence": 45,
         "icon": "spr_ui_skills_archaeology_icon_pursuit",
-        "name": "perks/pursuit/name",
-        "description": "perks/pursuit/description"
+        "name": "Pursuit",
+        "description": "Digging up Peat, Sod, or Clay increases your chances of finding an Uncommon or Rare Artifact the next time."
       }
     ],
     "tier_3": [
@@ -72,31 +72,31 @@
         "perk": "back_in_vogue",
         "essence": 80,
         "icon": "spr_ui_skills_archaeology_icon_back_in_vogue",
-        "name": "perks/back_in_vogue/name",
-        "description": "perks/back_in_vogue/description",
+        "name": "Back in Vogue",
+        "description": "Artifacts will now sell for 25% more tesserae.",
         "value": 0.25
       },
       {
         "perk": "natural_beauty",
         "essence": 85,
         "icon": "spr_ui_skills_archaeology_icon_natural_beauty",
-        "name": "perks/natural_beauty/name",
-        "description": "perks/natural_beauty/description",
+        "name": "Natural Beauty",
+        "description": "Biome Furniture Recipes will sometimes drop from Dig Sites in the Mines.",
         "value": 10
       },
       {
         "perk": "well_placed",
         "essence": 70,
         "icon": "spr_ui_skills_archaeology_icon_well_placed",
-        "name": "perks/well_placed/name",
-        "description": "perks/well_placed/description"
+        "name": "Well Placed",
+        "description": "Out of Place Artifacts will sometimes drop from Dig Sites in the overworld. "
       },
       {
         "perk": "museum_quality_two",
         "essence": 75,
         "icon": "spr_ui_skills_archaeology_icon_museum_quality_ii",
-        "name": "perks/museum_quality_two/name",
-        "description": "perks/museum_quality_two/description"
+        "name": "Museum Quality Two",
+        "description": "Digging up Rare Artifacts will become more likely."
       }
     ],
     "tier_4": [
@@ -104,59 +104,59 @@
         "perk": "former_farmers",
         "essence": 155,
         "icon": "spr_ui_skills_archaeology_icon_former_farmers",
-        "name": "perks/former_farmers/name",
-        "description": "perks/former_farmers/description",
+        "name": "Former Farmers",
+        "description": "A dig site will now appear daily on your farm, with a new artifact set to collect.",
         "value": 1
       },
       {
         "perk": "museum_quality_three",
         "essence": 140,
         "icon": "spr_ui_skills_archaeology_icon_museum_quality_iii",
-        "name": "perks/museum_quality_three/name",
-        "description": "perks/museum_quality_three/description"
+        "name": "Museum Quality III",
+        "description": "Digging up Legendary Artifacts will become more likely."
       },
       {
         "perk": "back_in_vogue_two",
         "essence": 145,
         "icon": "spr_ui_skills_archaeology_icon_back_in_vogue_ii",
-        "name": "perks/back_in_vogue_two/name",
-        "description": "perks/back_in_vogue_two/description",
+        "name": "Back In Vogue II",
+        "description": "Artifacts now sell for an additional 25% more tesserae.",
         "value": 0.25
       }
     ],
     "sprite": "spr_ui_skill_icon_archaeology"
   },
   "blacksmithing": {
-    "name": "ui/skill_menu/blacksmithing/name",
+    "name": "Blacksmithing",
     "icon_sprite_key": "spr_ui_skills_domain_icon_blacksmithing_enabled",
     "tier_1": [
       {
         "perk": "copper_expert",
         "essence": 15,
         "icon": "spr_ui_skills_blacksmithing_icon_copper_expert",
-        "name": "perks/copper_expert/name",
-        "description": "perks/copper_expert/description"
+        "name": "Copper Expert",
+        "description": "The amount of Copper Ore required to craft Copper Ingots will be reduced by 1."
       },
       {
         "perk": "time_sensitive",
         "essence": 10,
         "icon": "spr_ui_skills_blacksmithing_icon_time_sensitive_i",
-        "name": "perks/time_sensitive/name",
-        "description": "perks/time_sensitive/description"
+        "name": "Time Sensitive",
+        "description": "The Craft Time for all blacksmithing recipes will be reduced by 10 minutes."
       },
       {
         "perk": "sharp_blacksmithing",
         "essence": 20,
         "icon": "spr_ui_skills_blacksmithing_icon_sharp_blacksmithing",
-        "name": "perks/sharp_blacksmithing/name",
-        "description": "perks/sharp_blacksmithing/description"
+        "name": "Sharp Blacksmithing",
+        "description": "Crafting a Weapon will occasionally result in a bonus Sharp Infusion, which grants it an additional +1 Attack Power."
       },
       {
         "perk": "fortified_blacksmithing",
         "essence": 20,
         "icon": "spr_ui_skills_blacksmithing_icon_fortified_blacksmithing",
-        "name": "perks/fortified_blacksmithing/name",
-        "description": "perks/fortified_blacksmithing/description"
+        "name": "Fortified Blacksmithing",
+        "description": "Crafting Armor will occasionally result in a bonus Fortified Infusion, which grants you an additional +4 HP when worn."
       }
     ],
     "tier_2": [
@@ -164,30 +164,30 @@
         "perk": "iron_expert",
         "essence": 50,
         "icon": "spr_ui_skills_blacksmithing_icon_iron_expert",
-        "name": "perks/iron_expert/name",
-        "description": "perks/iron_expert/description"
+        "name": "Iron Expert",
+        "description": "The amount of Iron Ore required to craft Iron Ingots will be reduced by 1."
       },
       {
         "perk": "time_sensitive_two",
         "essence": 50,
         "icon": "spr_ui_skills_blacksmithing_icon_time_sensitive_ii",
-        "name": "perks/time_sensitive_two/name",
-        "description": "perks/time_sensitive_two/description"
+        "name": "Time Sensitive II",
+        "description": "The Craft Time for all blacksmithing recipes will reduce by an additional 10 minutes, bringing the total reduction to 20 minutes."
       },
       {
         "perk": "leech_blacksmithing",
         "essence": 45,
         "icon": "spr_ui_skills_blacksmithing_icon_leech_blacksmithing",
-        "name": "perks/leech_blacksmithing/name",
-        "description": "perks/leech_blacksmithing/description",
+        "name": "Leech Blacksmithing",
+        "description": "Crafting a Weapon will occasionally result in a bonus Leech Infusion, which restores 1 HP each time it's used to attack a Monster.",
         "value": 45
       },
       {
         "perk": "lightweight_blacksmithing",
         "essence": 45,
         "icon": "spr_ui_skills_blacksmithing_icon_lightweight_blacksmithing",
-        "name": "perks/lightweight_blacksmithing/name",
-        "description": "perks/lightweight_blacksmithing/description",
+        "name": "Lightweight Blacksmithing",
+        "description": "Crafting a Tool will occasionally result in a bonus Lightweight Infusion, occasionally dropping Stamina orbs on use.",
         "value": 10
       }
     ],
@@ -196,29 +196,29 @@
         "perk": "silver_expert",
         "essence": 75,
         "icon": "spr_ui_skills_blacksmithing_icon_silver_expert",
-        "name": "perks/silver_expert/name",
-        "description": "perks/silver_expert/description"
+        "name": "Silver Expert",
+        "description": "The amount of Silver Ore required to craft Silver Ingots will be reduced by 1."
       },
       {
         "perk": "hasty_blacksmithing",
         "essence": 75,
         "icon": "spr_ui_skills_blacksmithing_icon_hasty_blacksmithing",
-        "name": "perks/hasty_blacksmithing/name",
-        "description": "perks/hasty_blacksmithing/description"
+        "name": "Hasty Blacksmithing",
+        "description": "Crafting Armor will occasionally result in a bonus Hasty Infusion, which grants you an additional 4% Speed Boost when worn."
       },
       {
         "perk": "time_sensitive_three",
         "essence": 50,
         "icon": "spr_ui_skills_blacksmithing_icon_time_sensitive_iii",
-        "name": "perks/time_sensitive_three/name",
-        "description": "perks/time_sensitive_three/description"
+        "name": "Time Sensitive III",
+        "description": "The Craft Time for all blacksmithing recipes will reduce by another 10 minutes, bringing the total reduction to 30 minutes."
       },
       {
         "perk": "empowered",
         "essence": 65,
         "icon": "spr_ui_skills_blacksmithing_icon_empowered_i",
-        "name": "perks/empowered/name",
-        "description": "perks/empowered/description"
+        "name": "Empowered",
+        "description": "Crafting a Tool, Weapon, or Armor will be more likely to result in an available Infused version."
       }
     ],
     "tier_4": [
@@ -226,65 +226,65 @@
         "perk": "empowered_two",
         "essence": 155,
         "icon": "spr_ui_skills_blacksmithing_icon_empowered_ii",
-        "name": "perks/empowered_two/name",
-        "description": "perks/empowered_two/description"
+        "name": "Empowered II",
+        "description": "Crafting a Tool, Weapon, or Armor will be a bit more likely to result in an available Infused version than before."
       },
       {
         "perk": "gold_expert",
         "essence": 150,
         "icon": "spr_ui_skills_blacksmithing_icon_gold_expert",
-        "name": "perks/gold_expert/name",
-        "description": "perks/gold_expert/description"
+        "name": "Gold Expert",
+        "description": "The amount of Gold Ore required to craft Gold Ingots will be reduced by 1."
       },
       {
         "perk": "tireless_blacksmithing",
         "essence": 155,
         "icon": "spr_ui_skills_blacksmithing_icon_tireless_blacksmithing",
-        "name": "perks/tireless_blacksmithing/name",
-        "description": "perks/tireless_blacksmithing/description"
+        "name": "Tireless Blacksmithing",
+        "description": "Crafting Armor will occasionally result in a bonus Tireless Infusion, which grants you an additional +4 Stamina when worn."
       },
       {
         "perk": "time_sensitive_four",
         "essence": 150,
         "icon": "spr_ui_skills_blacksmithing_icon_time_sensitive_iv",
-        "name": "perks/time_sensitive_four/name",
-        "description": "perks/time_sensitive_four/description"
+        "name": "Time Sensitive IV",
+        "description": "The Craft Time for all blacksmithing recipes will reduce by yet another 10 minutes, bringing the total reduction to 40 minutes."
       }
     ],
     "sprite": "spr_ui_skill_icon_blacksmithing"
   },
   "cooking": {
-    "name": "ui/skill_menu/cooking/name",
+    "name": "Cooking",
     "icon_sprite_key": "spr_ui_skills_domain_icon_cooking_enabled",
     "tier_1": [
       {
         "perk": "waste_not_want_not",
         "essence": 15,
         "icon": "spr_ui_skills_cooking_icon_waste_not",
-        "name": "perks/waste_not_want_not/name",
-        "description": "perks/waste_not_want_not/description",
+        "name": "Waste Not Want Not",
+        "description": "Cooking a dish will occasionally return one of its ingredients afterward.",
         "value": 10
       },
       {
         "perk": "time_to_eat",
         "essence": 10,
         "icon": "spr_ui_skills_cooking_icon_time_to_eat_i",
-        "name": "perks/time_to_eat/name",
-        "description": "perks/time_to_eat/description"
+        "name": "Time To Eat",
+        "description": "The Cook Time for all cooking recipes will be reduced by 10 minutes."
       },
       {
         "perk": "restorative_cooking",
         "essence": 20,
         "icon": "spr_ui_skills_cooking_icon_restorative_cooking",
-        "name": "perks/restorative_cooking/name",
-        "description": "perks/restorative_cooking/description"
+        "name": "Restorative Cooking",
+        "description": "Cooking a dish will occasionally result in a bonus Restorative Infusion, which grants an HP & Stamina Regen buff when consumed."
       },
       {
         "perk": "taste_maker",
         "essence": 15,
         "icon": "spr_ui_skills_cooking_icon_taste_maker",
-        "name": "perks/taste_maker/name",
-        "description": "perks/taste_maker/description"
+        "name": "Taste Maker",
+        "description": "Cooking Recipes will sometimes drop from Treasure Chests in the Mines."
       }
     ],
     "tier_2": [
@@ -292,31 +292,31 @@
         "perk": "seasoned",
         "essence": 45,
         "icon": "spr_ui_skills_cooking_icon_seasoned",
-        "name": "perks/seasoned/name",
-        "description": "perks/seasoned/description",
+        "name": "Seasoned",
+        "description": "Finding Uncommon or rarer Forageables will become more likely.",
         "value": 0.25
       },
       {
         "perk": "time_to_eat_two",
         "essence": 50,
         "icon": "spr_ui_skills_cooking_icon_time_to_eat_ii",
-        "name": "perks/time_to_eat_two/name",
-        "description": "perks/time_to_eat_two/description"
+        "name": "Time To Eat II",
+        "description": "The Cook Time for all cooking recipes will be reduced by an additional 10 minutes, bringing the total reduction to 20 minutes."
       },
       {
         "perk": "award_winning",
         "essence": 45,
         "icon": "spr_ui_skills_cooking_icon_award_winning",
-        "name": "perks/award_winning/name",
-        "description": "perks/award_winning/description",
+        "name": "Award Winning",
+        "description": "Cooked Dishes given as Liked Gifts will reward more Heart Points than before.",
         "value": 0.1
       },
       {
         "perk": "likable_cooking",
         "essence": 50,
         "icon": "spr_ui_skills_cooking_icon_likable_cooking",
-        "name": "perks/likable_cooking/name",
-        "description": "perks/likable_cooking/description"
+        "name": "Likable Cooking",
+        "description": "Cooking a dish will occasionally result in a bonus Likable Infusion, turning the item into a Universally Liked gift."
       }
     ],
     "tier_3": [
@@ -324,31 +324,31 @@
         "perk": "speedy_cooking",
         "essence": 70,
         "icon": "spr_ui_skills_cooking_icon_speedy_cooking",
-        "name": "perks/speedy_cooking/name",
-        "description": "perks/speedy_cooking/description"
+        "name": "Speedy Cooking",
+        "description": "Cooking a dish will occasionally result in a bonus Speedy Infusion, which grants a Speed Boost buff when consumed."
       },
       {
         "perk": "dinner_for_two",
         "essence": 80,
         "icon": "spr_ui_skills_cooking_icon_dinner_for_two",
-        "name": "perks/dinner_for_two/name",
-        "description": "perks/dinner_for_two/description",
+        "name": "Dinner for Two",
+        "description": "Cooking a dish will sometimes create a bonus extra dish.",
         "value": 5
       },
       {
         "perk": "a_way_to_the_heart",
         "essence": 75,
         "icon": "spr_ui_skills_cooking_icon_a_way_to_the_heart",
-        "name": "perks/a_way_to_the_heart/name",
-        "description": "perks/a_way_to_the_heart/description",
+        "name": "A Way to the Heart",
+        "description": "Cooked Dishes given as Loved Gifts will reward more Heart Points than before.",
         "value": 0.1
       },
       {
         "perk": "time_to_eat_three",
         "essence": 70,
         "icon": "spr_ui_skills_cooking_icon_time_to_eat_iii",
-        "name": "perks/time_to_eat_three/name",
-        "description": "perks/time_to_eat_three/description"
+        "name": "Time to Eat III",
+        "description": "The Cook Time for all cooking recipes will be reduced by another 10 minutes, bringing the total reduction to 30 minutes."
       }
     ],
     "tier_4": [
@@ -356,52 +356,52 @@
         "perk": "loveable_cooking",
         "essence": 155,
         "icon": "spr_ui_skills_cooking_icon_lovable_cooking",
-        "name": "perks/loveable_cooking/name",
-        "description": "perks/loveable_cooking/description",
+        "name": "Lovable Cooking",
+        "description": "Cooking a dish will occasionally result in a bonus Lovable Infusion, turning the item into a Universally Loved gift.",
         "value": 5
       },
       {
         "perk": "snacktime",
         "essence": 145,
         "icon": "spr_ui_skills_cooking_icon_snacktime",
-        "name": "perks/snacktime/name",
-        "description": "perks/snacktime/description"
+        "name": "Snacktime",
+        "description": "The time it takes to eat has been reduced by half."
       },
       {
         "perk": "caffeine_crimes",
         "essence": 155,
         "icon": "spr_ui_skills_cooking_icon_caffeine_crimes",
-        "name": "perks/caffeine_crimes/name",
-        "description": "perks/caffeine_crimes/description"
+        "name": "Caffeine Crimes",
+        "description": "Consuming an item with the Speedy infusion will now double both its speed boost and the buff's duration."
       },
       {
         "perk": "magical_meals",
         "essence": 155,
         "icon": "spr_ui_skills_cooking_icon_magical_meals",
-        "name": "perks/magical_meals/name",
-        "description": "perks/magical_meals/description"
+        "name": "Magical Meals",
+        "description": "Cooking a Four star dish and above will occasionally result in a bonus Mana Infusion, which restores a mana orb when consumed. "
       }
     ],
     "sprite": "spr_ui_skill_icon_cooking"
   },
   "farming": {
-    "name": "ui/skill_menu/farming/name",
+    "name": "Farming",
     "icon_sprite_key": "spr_ui_skills_domain_icon_farming_enabled",
     "tier_1": [
       {
         "perk": "prepared_picker",
         "essence": 10,
         "icon": "spr_ui_skills_farming_icon_prepared_picker",
-        "name": "perks/prepared_picker/name",
-        "description": "perks/prepared_picker/description",
+        "name": "Prepared Picker",
+        "description": "Harvesting a Forageable will occasionally drop a Seed version, if it can be grown.",
         "value": 5
       },
       {
         "perk": "a_day_well_spent",
         "essence": 20,
         "icon": "spr_ui_skills_farming_icon_day_well_spent",
-        "name": "perks/a_day_well_spent/name",
-        "description": "perks/a_day_well_spent/description",
+        "name": "A Day Well Spent",
+        "description": "Going to bed with zero stamina gives a stamina boost the next day.",
         "value": 10
       },
       {
@@ -409,16 +409,16 @@
         "essence": 15,
         "icon": "spr_ui_skills_farming_icon_green_thumb",
         "value": 20,
-        "name": "perks/green_thumb/name",
-        "description": "perks/green_thumb/description"
+        "name": "Green Thumb",
+        "description": "Planting a Seed will sometimes also Water the soil of the targeted tile."
       },
       {
         "perk": "refreshing",
         "essence": 10,
         "icon": "spr_ui_skills_farming_icon_refreshing",
         "value": 15,
-        "name": "perks/refreshing/name",
-        "description": "perks/refreshing/description"
+        "name": "Refreshing",
+        "description": "Watering a crop will sometimes refund the Stamina used."
       }
     ],
     "tier_2": [
@@ -426,24 +426,24 @@
         "perk": "bountiful",
         "essence": 60,
         "icon": "spr_ui_skills_farming_icon_bountiful",
-        "name": "perks/bountiful/name",
-        "description": "perks/bountiful/description",
+        "name": "Bountiful",
+        "description": "Watering a crop will occasionally drop a Seed version of it.",
         "value": 3
       },
       {
         "perk": "heavy_duty",
         "essence": 30,
         "icon": "spr_ui_skills_farming_icon_heavy_duty",
-        "name": "perks/heavy_duty/name",
-        "description": "perks/heavy_duty/description",
+        "name": "Heavy Duty",
+        "description": "Tilling soil will sometimes drop a piece of Stone or Wood.",
         "value": 5
       },
       {
         "perk": "well_watered",
         "essence": 50,
         "icon": "spr_ui_skills_farming_icon_well_watered",
-        "name": "perks/well_watered/name",
-        "description": "perks/well_watered/description",
+        "name": "Well Watered",
+        "description": "Watered crops will occasionally retain their water through the next day.",
         "value": 5
       },
       {
@@ -451,8 +451,8 @@
         "essence": 50,
         "icon": "spr_ui_skills_farming_icon_nice_swing",
         "value": 15,
-        "name": "perks/nice_swing/name",
-        "description": "perks/nice_swing/description"
+        "name": "Nice Swing",
+        "description": "Grants a chance that tilling refunds the stamina it uses."
       }
     ],
     "tier_3": [
@@ -460,30 +460,30 @@
         "perk": "living_off_the_land",
         "essence": 95,
         "icon": "spr_ui_skills_farming_icon_living_off_the_land",
-        "name": "perks/living_off_the_land/name",
-        "description": "perks/living_off_the_land/description",
+        "name": "Living off the Land",
+        "description": "Harvesting a crop will occasionally drop a cooked dish that uses the crop.",
         "value": 3
       },
       {
         "perk": "superb_sower",
         "essence": 100,
         "icon": "spr_ui_skills_farming_icon_superb_sower",
-        "name": "perks/superb_sower/name",
-        "description": "perks/superb_sower/description"
+        "name": "Superb Sower",
+        "description": "You can now charge your seeds to spread them across a wider area."
       },
       {
         "perk": "harvest_time",
         "essence": 90,
         "icon": "spr_ui_skills_farming_icon_harvest_time",
-        "name": "perks/harvest_time/name",
-        "description": "perks/harvest_time/description"
+        "name": "Harvest Time",
+        "description": "Slow-Growing crops now reach their first-time harvest a day earlier."
       },
       {
         "perk": "prize_winning",
         "essence": 90,
         "icon": "spr_ui_skills_farming_icon_prize_winning",
-        "name": "perks/prize_winning/name",
-        "description": "perks/prize_winning/description",
+        "name": "Prize Winning",
+        "description": "Harvesting crops will occasionally drop coins based on 5% of their selling price.",
         "value": 5
       }
     ],
@@ -492,15 +492,15 @@
         "perk": "sickle_sword",
         "essence": 150,
         "icon": "spr_ui_skills_farming_icon_sickle_sword",
-        "name": "perks/sickle_sword/name",
-        "description": "perks/sickle_sword/description"
+        "name": "Sickle Sword",
+        "description": "You can now use your sword to harvest crops quickly."
       },
       {
         "perk": "ornamental",
         "essence": 145,
         "icon": "spr_ui_skills_farming_icon_ornamental",
-        "name": "perks/ornamental/name",
-        "description": "perks/ornamental/description",
+        "name": "Ornamental",
+        "description": "Harvesting a crop or forageable will sometimes drop a recipe teaching you how to make an ornamental furniture version of the plant.",
         "value": 5,
         "forageable_chance": 25
       },
@@ -508,44 +508,44 @@
         "perk": "perfect_pollinators",
         "essence": 155,
         "icon": "spr_ui_skills_farming_icon_perfect_pollinators",
-        "name": "perks/perfect_pollinators/name",
-        "description": "perks/perfect_pollinators/description"
+        "name": "Perfect Pollinators",
+        "description": "Legendary bugs will now appear more often."
       }
     ],
     "sprite": "spr_ui_skill_icon_farming"
   },
   "fishing": {
-    "name": "ui/skill_menu/fishing/name",
+    "name": "Fishing",
     "icon_sprite_key": "spr_ui_skills_domain_icon_fishing_enabled",
     "tier_1": [
       {
         "perk": "weedline_watcher",
         "essence": 15,
         "icon": "spr_ui_skills_fishing_icon_weedline_watcher",
-        "name": "perks/weedline_watcher/name",
-        "description": "perks/weedline_watcher/description",
+        "name": "Weedline Watcher",
+        "description": "Fishing up Junk will become less likely.",
         "value": -15
       },
       {
         "perk": "aquatic_antiquities",
         "essence": 20,
         "icon": "spr_ui_skills_fishing_icon_aquatic_antiquities",
-        "name": "perks/aquatic_antiquities/name",
-        "description": "perks/aquatic_antiquities/description"
+        "name": "Aquatic Antiquities",
+        "description": "Aquatic Artifacts can sometimes be fished up."
       },
       {
         "perk": "appealing_reeling",
         "essence": 10,
         "icon": "spr_ui_skills_fishing_icon_appealing_reeling",
-        "name": "perks/appealing_reeling/name",
-        "description": "perks/appealing_reeling/description"
+        "name": "Appealing Reeling",
+        "description": "Fish will become attracted to your Bobber from a greater range."
       },
       {
         "perk": "catch_of_the_day",
         "essence": 15,
         "icon": "spr_ui_skills_fishing_icon_catch_of_the_day",
-        "name": "perks/catch_of_the_day/name",
-        "description": "perks/catch_of_the_day/description",
+        "name": "Catch of the Day",
+        "description": "Catching a Fish will sometimes refund the Stamina used.",
         "value": 5
       }
     ],
@@ -554,23 +554,23 @@
         "perk": "school_crasher",
         "essence": 50,
         "icon": "spr_ui_skills_fishing_icon_school_crasher",
-        "name": "perks/school_crasher/name",
-        "description": "perks/school_crasher/description"
+        "name": "School Crasher",
+        "description": "Swimming into a Fish School will drop half its contained items without spending Stamina."
       },
       {
         "perk": "lucky_haul",
         "essence": 40,
         "icon": "spr_ui_skills_fishing_icon_lucky_haul_i",
-        "name": "perks/lucky_haul/name",
-        "description": "perks/lucky_haul/description",
+        "name": "Lucky Haul",
+        "description": "Catching a fish will sometimes drop double the amount.",
         "value": 7
       },
       {
         "perk": "perfect_catch",
         "essence": 50,
         "icon": "spr_ui_skills_fishing_icon_perfect_catch",
-        "name": "perks/perfect_catch/name",
-        "description": "perks/perfect_catch/description",
+        "name": "Perfect Catch",
+        "description": "Uncommon and rare fish will become more common.",
         "uncommon": 10,
         "rare": 15,
         "very_rare": 10
@@ -579,8 +579,8 @@
         "perk": "unexpected_haul",
         "essence": 40,
         "icon": "spr_ui_skills_fishing_icon_unexpected_haul",
-        "name": "perks/unexpected_haul/name",
-        "description": "perks/unexpected_haul/description",
+        "name": "Unexpected Haul",
+        "description": "Treasure Boxes will become more likely to appear when Fishing.",
         "wood_chest_multiplier": 0.3,
         "copper_chest_multiplier": 0.5,
         "silver_chest_multiplier": 0.5,
@@ -592,29 +592,29 @@
         "perk": "full_class",
         "essence": 75,
         "icon": "spr_ui_skills_fishing_icon_full_class_i",
-        "name": "perks/full_class/name",
-        "description": "perks/full_class/description"
+        "name": "Full Class I",
+        "description": "Fish schools will all contain an additional Fish."
       },
       {
         "perk": "legendary",
         "essence": 80,
         "icon": "spr_ui_skills_fishing_icon_legendary",
-        "name": "perks/legendary/name",
-        "description": "perks/legendary/description"
+        "name": "Legendary",
+        "description": "Legendary fish can now appear when the season and weather conditions are right."
       },
       {
         "perk": "treasure_trove",
         "essence": 70,
         "icon": "spr_ui_skills_fishing_icon_treasure_trove",
-        "name": "perks/treasure_trove/name",
-        "description": "perks/treasure_trove/description"
+        "name": "Treasure Trove",
+        "description": "You can no longer catch Wooden Treasure Boxes, and you are now more likely to catch a higher tier of Treasure Box."
       },
       {
         "perk": "weedline_watcher_two",
         "essence": 75,
         "icon": "spr_ui_skills_fishing_icon_weedline_watcher_ii",
-        "name": "perks/weedline_watcher_two/name",
-        "description": "perks/weedline_watcher_two/description",
+        "name": "Weedline Watcher II",
+        "description": "Fishing up Junk will become even less likely.",
         "value": -10
       }
     ],
@@ -623,23 +623,23 @@
         "perk": "appealing_reeling_two",
         "essence": 155,
         "icon": "spr_ui_skills_fishing_icon_appealing_reeling_ii",
-        "name": "perks/appealing_reeling_two/name",
-        "description": "perks/appealing_reeling_two/description"
+        "name": "Appealing Reeling II",
+        "description": "Fish will become attracted to your Bobber from an even greater range."
       },
       {
         "perk": "frenzy",
         "essence": 150,
         "icon": "spr_ui_skills_fishing_icon_frenzy",
-        "name": "perks/frenzy/name",
-        "description": "perks/frenzy/description",
+        "name": "Frenzy",
+        "description": "Catching a fish will occasionally cause a fish school to spawn nearby.",
         "value": 3
       },
       {
         "perk": "what_a_catch",
         "essence": 145,
         "icon": "spr_ui_skills_fishing_icon_what_a_catch",
-        "name": "perks/what_a_catch/name",
-        "description": "perks/what_a_catch/description",
+        "name": "What a Catch",
+        "description": "Fish have a chance of dropping coins worth 10% of their value when caught.",
         "value": 5,
         "gold_percent": 0.1
       },
@@ -647,23 +647,23 @@
         "perk": "lucky_haul_two",
         "essence": 155,
         "icon": "spr_ui_skills_fishing_icon_lucky_haul_ii",
-        "name": "perks/lucky_haul_two/name",
-        "description": "perks/lucky_haul_two/description",
+        "name": "Lucky Haul II",
+        "description": "Catching a fish is even more likely to drop double the amount of the fish.",
         "value": 7
       }
     ],
     "sprite": "spr_ui_skill_icon_fishing"
   },
   "ranching": {
-    "name": "ui/skill_menu/ranching/name",
+    "name": "Ranching",
     "icon_sprite_key": "spr_ui_skills_domain_icon_ranching_enabled",
     "tier_1": [
       {
         "perk": "feeding_frenzy",
         "essence": 15,
         "icon": "spr_ui_skills_ranching_icon_feeding_frenzy",
-        "name": "perks/feeding_frenzy/name",
-        "description": "perks/feeding_frenzy/description",
+        "name": "Feeding Frenzy",
+        "description": "Hay and Grass Seed drop at double the usual amount from Cutting Grass.",
         "value": 1
       },
       {
@@ -671,23 +671,23 @@
         "essence": 25,
         "icon": "spr_ui_skills_ranching_icon_close_bond",
         "value": 2,
-        "name": "perks/close_bond/name",
-        "description": "perks/close_bond/description"
+        "name": "Close Bond",
+        "description": "Animals that have been Pet and Fed for the day will receive an extra Heart Point increase."
       },
       {
         "perk": "barnyard_bounty",
         "essence": 30,
         "icon": "spr_ui_skills_ranching_icon_barnyard_bounty_i",
-        "name": "perks/barnyard_bounty/name",
-        "description": "perks/barnyard_bounty/description",
+        "name": "Barnyard Bounty",
+        "description": "Chickens and Cows will sometimes drop extra Produce.",
         "value": 0.2
       },
       {
         "perk": "currency_of_care",
         "essence": 25,
         "icon": "spr_ui_skills_ranching_icon_currency_of_care",
-        "name": "perks/currency_of_care/name",
-        "description": "perks/currency_of_care/description"
+        "name": "Currency Of Care",
+        "description": "When animals eat crops, either by hand feeding or by grazing, they will drop the currency Shiny Beads."
       }
     ],
     "tier_2": [
@@ -695,31 +695,31 @@
         "perk": "currency_of_care_two",
         "essence": 50,
         "icon": "spr_ui_skills_ranching_icon_currency_of_care_ii",
-        "name": "perks/currency_of_care_two/name",
-        "description": "perks/currency_of_care_two/description",
+        "name": "Currency of Care II",
+        "description": "Animals that have been Pet and Fed for the day will sometimes drop Shiny Bead the next day in addition to their regular Produce.",
         "value": 15
       },
       {
         "perk": "feed_prepper",
         "essence": 40,
         "icon": "spr_ui_skills_ranching_icon_feed_prepper",
-        "name": "perks/feed_prepper/name",
-        "description": "perks/feed_prepper/description"
+        "name": "Feed Prepper",
+        "description": "The Craft Time for all animal feed is reduced by 10 minutes."
       },
       {
         "perk": "welcome_home",
         "essence": 45,
         "icon": "spr_ui_skills_ranching_icon_welcome_home_i",
         "value": 1,
-        "name": "perks/welcome_home/name",
-        "description": "perks/welcome_home/description"
+        "name": "Welcome Home",
+        "description": "Newly bought or born animals will start at 1 Heart Level. "
       },
       {
         "perk": "discount_treats",
         "essence": 40,
         "icon": "spr_ui_skills_ranching_icon_discount_treats",
-        "name": "perks/discount_treats/name",
-        "description": "perks/discount_treats/description",
+        "name": "Discount Treats",
+        "description": "Heart shaped treats sold by Hayden will have a 10% price reduction.",
         "value": 0.1
       }
     ],
@@ -728,31 +728,31 @@
         "perk": "currency_of_care_three",
         "essence": 75,
         "icon": "spr_ui_skills_ranching_icon_currency_of_care_iii",
-        "name": "perks/currency_of_care_three/name",
-        "description": "perks/currency_of_care_three/description"
+        "name": "Currency of Care III",
+        "description": "Animals can now be fed cooked dishes and will reward more Shiny Beads based on the dish's star level."
       },
       {
         "perk": "welcome_home_two",
         "essence": 70,
         "icon": "spr_ui_skills_ranching_icon_welcome_home_ii",
         "value": 2,
-        "name": "perks/welcome_home_two/name",
-        "description": "perks/welcome_home_two/description"
+        "name": "Welcome Home II",
+        "description": "Newly bought or born animals will start at 2 Heart Level. "
       },
       {
         "perk": "barnyard_bounty_two",
         "essence": 80,
         "icon": "spr_ui_skills_ranching_icon_barnyard_bounty_ii",
-        "name": "perks/barnyard_bounty_two/name",
-        "description": "perks/barnyard_bounty_two/description",
+        "name": "Barnyard Bounty II",
+        "description": "Ducks and Horses will sometimes drop extra Produce.",
         "value": 0.2
       },
       {
         "perk": "wind_down",
         "essence": 145,
         "icon": "spr_ui_skills_ranching_icon_wind_down",
-        "name": "perks/wind_down/name",
-        "description": "perks/wind_down/description"
+        "name": "Wind Down",
+        "description": "The Mill Time for all mill recipes will be reduced by 10 minutes."
       }
     ],
     "tier_4": [
@@ -760,61 +760,61 @@
         "perk": "the_bell_tolls",
         "essence": 155,
         "icon": "spr_ui_skills_ranching_icon_the_bell_tolls",
-        "name": "perks/the_bell_tolls/name",
-        "description": "perks/the_bell_tolls/description"
+        "name": "The Bell Tolls",
+        "description": "You will receive the Big Bell crafting recipe. When rung, the Big Bell calls out or sends in all animals into their buildings."
       },
       {
         "perk": "maximum_milling",
         "essence": 150,
         "icon": "spr_ui_skills_ranching_icon_maximum_milling",
-        "name": "perks/maximum_milling/name",
-        "description": "perks/maximum_milling/description",
+        "name": "Maximum Milling",
+        "description": "Crafting Animal Feeds at the mill will sometimes drop an additional item of the same kind.",
         "value": 10
       },
       {
         "perk": "barnyard_bounty_three",
         "essence": 145,
         "icon": "spr_ui_skills_ranching_icon_barnyard_bounty_iii",
-        "name": "perks/barnyard_bounty_three/name",
-        "description": "perks/barnyard_bounty_three/description",
+        "name": "Barnyard Bounty III",
+        "description": "Sheep and Rabbits will sometimes drop extra Produce.",
         "value": 0.2
       }
     ],
     "sprite": "spr_ui_skill_icon_ranching"
   },
   "woodcrafting": {
-    "name": "ui/skill_menu/woodcrafting/name",
+    "name": "Woodcrafting",
     "icon_sprite_key": "spr_ui_skills_domain_icon_crafting_enabled",
     "tier_1": [
       {
         "perk": "hammer_timing",
         "essence": 10,
         "icon": "spr_ui_skills_crafting_icon_hammer_timing_i",
-        "name": "perks/hammer_timing/name",
-        "description": "perks/hammer_timing/description"
+        "name": "Hammer Timing",
+        "description": "The Craft Time for all crafting recipes will be reduced by 10 minutes."
       },
       {
         "perk": "lumberjack",
         "essence": 15,
         "icon": "spr_ui_skills_crafting_icon_lumberjack_i",
-        "name": "perks/lumberjack/name",
-        "description": "perks/lumberjack/description",
+        "name": "Lumberjack",
+        "description": "Breaking a Branch will sometimes drop an extra piece of Wood.",
         "value": 10
       },
       {
         "perk": "masonry",
         "essence": 15,
         "icon": "spr_ui_skills_crafting_icon_masonry_i",
-        "name": "perks/masonry/name",
-        "description": "perks/masonry/description",
+        "name": "Masonry",
+        "description": "Breaking a Rock will sometimes drop an extra piece of Stone.",
         "value": 10
       },
       {
         "perk": "forager",
         "essence": 20,
         "icon": "spr_ui_skills_crafting_icon_forager",
-        "name": "perks/forager/name",
-        "description": "perks/forager/description",
+        "name": "Forager",
+        "description": "Chopping down a Tree will occasionally drop a seasonally appropriate Forageable.",
         "value": 10
       }
     ],
@@ -823,31 +823,31 @@
         "perk": "working_with_the_grain",
         "essence": 60,
         "icon": "spr_ui_skills_crafting_icon_working_with_the_grain",
-        "name": "perks/working_with_the_grain/name",
-        "description": "perks/working_with_the_grain/description",
+        "name": "Working with the Grain",
+        "description": "Crafting an item will occasionally return one of its ingredients afterward.",
         "value": 10
       },
       {
         "perk": "quality_crafting",
         "essence": 95,
         "icon": "spr_ui_skills_crafting_icon_quality_crafting",
-        "name": "perks/quality_crafting/name",
-        "description": "perks/quality_crafting/description"
+        "name": "Quality Crafting",
+        "description": "Crafting an Item will occasionally result in a bonus Quality Infusion, which grants it a 10% higher selling price."
       },
       {
         "perk": "natural",
         "essence": 20,
         "icon": "spr_ui_skills_crafting_icon_natural",
-        "name": "perks/natural/name",
-        "description": "perks/natural/description",
+        "name": "Natural",
+        "description": "Chopping down any tree will occasionally drop Hardwood.",
         "value": 10
       },
       {
         "perk": "hammer_timing_two",
         "essence": 50,
         "icon": "spr_ui_skills_crafting_icon_hammer_timing_ii",
-        "name": "perks/hammer_timing_two/name",
-        "description": "perks/hammer_timing_two/description"
+        "name": "Hammer Timing II",
+        "description": "The Craft Time for all crafting recipes will reduce by an additional 10 minutes, bringing the total reduction to 20 minutes."
       }
     ],
     "tier_3": [
@@ -855,30 +855,30 @@
         "perk": "material_world",
         "essence": 75,
         "icon": "spr_ui_skills_crafting_icon_material_world",
-        "name": "perks/material_world/name",
-        "description": "perks/material_world/description"
+        "name": "Material World",
+        "description": "Material drops from breakables in the Mines now drop twice as much."
       },
       {
         "perk": "steady_supplies",
         "essence": 70,
         "icon": "spr_ui_skills_crafting_icon_steady_supplies",
-        "name": "perks/steady_supplies/name",
-        "description": "perks/steady_supplies/description"
+        "name": "Steady Supplies",
+        "description": "Sod, Peat, and Cattails can now be purchased at the Carpenter's Shop."
       },
       {
         "perk": "set_pieces",
         "essence": 80,
         "icon": "spr_ui_skills_crafting_icon_set_pieces",
-        "name": "perks/set_pieces/name",
-        "description": "perks/set_pieces/description",
+        "name": "Set Pieces",
+        "description": "Crafting an item can occasionally give you two of it.",
         "value": 10
       },
       {
         "perk": "hammer_timing_three",
         "essence": 50,
         "icon": "spr_ui_skills_crafting_icon_hammer_timing_iii",
-        "name": "perks/hammer_timing_three/name",
-        "description": "perks/hammer_timing_three/description"
+        "name": "Hammer Timing III",
+        "description": "The Craft Time for all crafting recipes will reduce by an additional 10 minutes, bringing the total reduction to 30 minutes."
       }
     ],
     "tier_4": [
@@ -886,59 +886,59 @@
         "perk": "lumberjack_two",
         "icon": "spr_ui_skills_crafting_icon_lumberjack_ii",
         "essence": 155,
-        "name": "perks/lumberjack_two/name",
-        "description": "perks/lumberjack_two/description"
+        "name": "Lumberjack II",
+        "description": "Breaking a Branch, felling a tree, or chopping down a stump will always drop an extra piece of Wood."
       },
       {
         "perk": "underground_inspiration",
         "icon": "spr_ui_skills_crafting_icon_underground_inspiration",
         "essence": 145,
-        "name": "perks/underground_inspiration/name",
-        "description": "perks/underground_inspiration/description"
+        "name": "Underground Inspiration",
+        "description": "Coral and Crystals now drop materials twice as often."
       },
       {
         "perk": "deliberate_debris",
         "icon": "spr_ui_skills_crafting_icon_deliberate_debris",
         "essence": 150,
-        "name": "perks/deliberate_debris/name",
-        "description": "perks/deliberate_debris/description"
+        "name": "Deliberate Debris",
+        "description": "Farm debris will spawn 50% less often. This perk can be toggled on and off."
       }
     ],
     "sprite": "spr_ui_skill_icon_woodcrafting"
   },
   "combat": {
-    "name": "ui/skill_menu/combat/name",
+    "name": "Combat",
     "icon_sprite_key": "spr_ui_skills_domain_icon_combat_enabled",
     "tier_1": [
       {
         "perk": "guardians_shield",
         "essence": 10,
         "icon": "spr_ui_skills_combat_icon_guardians_shield",
-        "name": "perks/guardians_shield/name",
-        "description": "perks/guardians_shield/description",
+        "name": "Guardian's Shield",
+        "description": "Once per day, the first hit you take is nullified.",
         "value": 1
       },
       {
         "perk": "true_strike",
         "essence": 20,
         "icon": "spr_ui_skills_combat_icon_true_strike",
-        "name": "perks/true_strike/name",
-        "description": "perks/true_strike/description",
+        "name": "True Strike",
+        "description": "Your Attacks will occasionally become Critical, doing double damage in the Mines.",
         "value": 5
       },
       {
         "perk": "jump_attack",
         "essence": 15,
         "icon": "spr_ui_skills_combat_icon_jump_attack",
-        "name": "perks/jump_attack/name",
-        "description": "perks/jump_attack/description"
+        "name": "Jump Attack",
+        "description": "Jumping and then Attacking mid-air will damage enemies in a small radius."
       },
       {
         "perk": "well_armed",
         "essence": 15,
         "icon": "spr_ui_skills_combat_icon_well_armed",
-        "name": "perks/well_armed/name",
-        "description": "perks/well_armed/description"
+        "name": "Well-Armed",
+        "description": "Biome-unique Armor and Weapons will sometimes drop from Treasure Chests in the Mines."
       }
     ],
     "tier_2": [
@@ -946,8 +946,8 @@
         "perk": "quick_footed",
         "essence": 50,
         "icon": "spr_ui_skills_combat_icon_quick_footed",
-        "name": "perks/quick_footed/name",
-        "description": "perks/quick_footed/description",
+        "name": "Quick Footed",
+        "description": "Blue Sapling pools will grant a short Speed Boost rather than slow you down.",
         "value": 1.3,
         "duration_minutes": 2
       },
@@ -955,24 +955,24 @@
         "perk": "shrine_savant",
         "essence": 45,
         "icon": "spr_ui_skills_combat_icon_shrine_savant",
-        "name": "perks/shrine_savant/name",
-        "description": "perks/shrine_savant/description",
+        "name": "What an Offer",
+        "description": "Using an Offering Shrine will bestow a short HP & Stamina Regen buff in addition to their usual effect.",
         "duration_minutes": 45
       },
       {
         "perk": "generous_in_defeat",
         "essence": 50,
         "icon": "spr_ui_skills_combat_icon_generous_in_defeat",
-        "name": "perks/generous_in_defeat/name",
-        "description": "perks/generous_in_defeat/description",
+        "name": "Generous In Defeat",
+        "description": "Monsters will occasionally drop twice as many items when defeated.",
         "value": 10
       },
       {
         "perk": "dungeon_delicacies",
         "essence": 45,
         "icon": "spr_ui_skills_combat_icon_dungeon_delicacies",
-        "name": "perks/dungeon_delicacies/name",
-        "description": "perks/dungeon_delicacies/description",
+        "name": "Dungeon Delicacies",
+        "description": "Certain Cooked Dishes will occasionally drop from Treasure Chests in the Mines.",
         "value": 100
       }
     ],
@@ -981,23 +981,23 @@
         "perk": "perfect_prefix",
         "essence": 80,
         "icon": "spr_ui_skills_combat_icon_perfect_prefix",
-        "name": "perks/perfect_prefix/name",
-        "description": "perks/perfect_prefix/description"
+        "name": "Perfect Prefix",
+        "description": "The infusion power of Infused Weapons will double."
       },
       {
         "perk": "rocking",
         "essence": 70,
         "icon": "spr_ui_skills_combat_icon_rocking",
-        "name": "perks/rocking/name",
-        "description": "perks/rocking/description",
+        "name": "Rocking",
+        "description": "Clod Projectiles that are reflected back are now much more likely to critically strike.",
         "value": 25
       },
       {
         "perk": "in_motion",
         "essence": 75,
         "icon": "spr_ui_skills_combat_icon_in_motion",
-        "name": "perks/in_motion/name",
-        "description": "perks/in_motion/description",
+        "name": "In Motion",
+        "description": "Defeating a Monster will sometimes grant a brief Speed Boost.",
         "value": 10,
         "modifier": 1.4,
         "duration_minutes": 3
@@ -1006,8 +1006,8 @@
         "perk": "out_of_juice",
         "essence": 70,
         "icon": "spr_ui_skills_combat_icon_out_of_juice",
-        "name": "perks/out_of_juice/name",
-        "description": "perks/out_of_juice/description",
+        "name": "Out of Juice",
+        "description": "Enchanterns now briefly freeze in place after discharging.",
         "duration_in_frames": [
           60,
           120
@@ -1019,52 +1019,52 @@
         "perk": "sonic_boom",
         "essence": 160,
         "icon": "spr_ui_skills_combat_icon_sonic_boom",
-        "name": "perks/sonic_boom/name",
-        "description": "perks/sonic_boom/description"
+        "name": "Sonic Boom",
+        "description": "If you attack the Essence Bat's sonic attack, unleash a Sonic Boom, damaging all enemies around you."
       },
       {
         "perk": "gift_exchange",
         "essence": 155,
         "icon": "spr_ui_skills_combat_icon_gift_exchange",
-        "name": "perks/gift_exchange/name",
-        "description": "perks/gift_exchange/description"
+        "name": "Gift Exchange",
+        "description": "When you throw an item into a resting Mimic Chest, it will drop two items instead of one."
       }
     ],
     "sprite": "spr_ui_skill_icon_combat"
   },
   "mining": {
-    "name": "ui/skill_menu/mining/name",
+    "name": "Mining",
     "icon_sprite_key": "spr_ui_skills_domain_icon_mining_enabled",
     "tier_1": [
       {
         "perk": "earth_breaker",
         "essence": 20,
         "icon": "spr_ui_skills_mining_icon_earthbreaker",
-        "name": "perks/earth_breaker/name",
-        "description": "perks/earth_breaker/description",
+        "name": "Earth Breaker",
+        "description": "Breaking a Rock in the Mines will occasionally destroy all other Rocks in a 1x3 area around it.",
         "value": 10
       },
       {
         "perk": "ore_riginal",
         "essence": 25,
         "icon": "spr_ui_skills_mining_icon_ore_ginal",
-        "name": "perks/ore_riginal/name",
-        "description": "perks/ore_riginal/description",
+        "name": "Ore-riginal",
+        "description": "Biome-Specific Ore will sometimes drop from Breaking Rocks in the Mines.",
         "value": 5
       },
       {
         "perk": "reclaimer",
         "essence": 15,
         "icon": "spr_ui_skills_mining_icon_reclaimer",
-        "name": "perks/reclaimer/name",
-        "description": "perks/reclaimer/description"
+        "name": "Reclaimer",
+        "description": "Biome-Specific Furniture will sometimes drop from Treasure Chests in the Mines."
       },
       {
         "perk": "treasure_hunter",
         "essence": 20,
         "icon": "spr_ui_skills_mining_icon_treasure_hunter",
-        "name": "perks/treasure_hunter/name",
-        "description": "perks/treasure_hunter/description"
+        "name": "Treasure Hunter",
+        "description": "Treasure Floors will sometimes appear in the Mines."
       }
     ],
     "tier_2": [
@@ -1072,32 +1072,32 @@
         "perk": "iron_hound",
         "essence": 50,
         "icon": "spr_ui_skills_mining_icon_iron_hound",
-        "name": "perks/iron_hound/name",
-        "description": "perks/iron_hound/description",
+        "name": "Iron Hound",
+        "description": "Breaking an Iron Node will occasionally drop an extra piece of Iron.",
         "value": 10
       },
       {
         "perk": "true_blue",
         "essence": 45,
         "icon": "spr_ui_skills_mining_icon_true_blue",
-        "name": "perks/true_blue/name",
-        "description": "perks/true_blue/description",
+        "name": "True Blue",
+        "description": "Breaking a Sapphire Node will occasionally drop an extra Sapphire.",
         "value": 10
       },
       {
         "perk": "treasured",
         "essence": 45,
         "icon": "spr_ui_skills_mining_icon_treasured",
-        "name": "perks/treasured/name",
-        "description": "perks/treasured/description",
+        "name": "Treasured",
+        "description": "Treasure Chests will become more likely to appear in the Mines.",
         "value": 10
       },
       {
         "perk": "mine_time",
         "essence": 50,
         "icon": "spr_ui_skills_mining_icon_mine_time",
-        "name": "perks/mine_time/name",
-        "description": "perks/mine_time/description",
+        "name": "Mine Time",
+        "description": "Movement Speed will increase for 10 seconds when you first enter a new Floor.",
         "value": 1.3,
         "duration_minutes": 15
       }
@@ -1107,8 +1107,8 @@
         "perk": "resonance",
         "essence": 75,
         "icon": "spr_ui_skills_mining_icon_resonance",
-        "name": "perks/resonance/name",
-        "description": "perks/resonance/description",
+        "name": "Resonance",
+        "description": "Defeating an enemy can break a nearby rock.",
         "value": 25,
         "distance": 75
       },
@@ -1116,24 +1116,24 @@
         "perk": "earth_breaker_two",
         "essence": 80,
         "icon": "spr_ui_skills_mining_icon_earthbreaker_ii",
-        "name": "perks/earth_breaker_two/name",
-        "description": "perks/earth_breaker_two/description",
+        "name": "Earth Breaker II",
+        "description": "Breaking a Rock in the Mines will occasionally destroy all other Rocks in a 1x3 area around it and is now more likely to occur.",
         "value": 15
       },
       {
         "perk": "silver_seeker",
         "essence": 85,
         "icon": "spr_ui_skills_mining_icon_silver_seeker",
-        "name": "perks/silver_seeker/name",
-        "description": "perks/silver_seeker/description",
+        "name": "Silver Seeker",
+        "description": "Breaking a Silver Node will occasionally drop an extra piece of Silver.",
         "value": 10
       },
       {
         "perk": "fantastic_finds",
         "essence": 80,
         "icon": "spr_ui_skills_mining_icon_fantastic_finds",
-        "name": "perks/fantastic_finds/name",
-        "description": "perks/fantastic_finds/description"
+        "name": "Fantastic Finds",
+        "description": "You can no longer find Wooden Treasure Chests, and you are now more likely to find a higher tier of Treasure Chests."
       }
     ],
     "tier_4": [
@@ -1141,30 +1141,30 @@
         "perk": "lost_to_history",
         "essence": 155,
         "icon": "spr_ui_skills_mining_icon_lost_to_history",
-        "name": "perks/lost_to_history/name",
-        "description": "perks/lost_to_history/description"
+        "name": "Lost to History",
+        "description": "Ritual Chamber Floors will sometimes appear in the Mines."
       },
       {
         "perk": "good_as_gold",
         "essence": 150,
         "icon": "spr_ui_skills_mining_icon_good_as_gold",
-        "name": "perks/good_as_gold/name",
-        "description": "perks/good_as_gold/description",
+        "name": "Good as Gold",
+        "description": "Breaking a Gold Node will occasionally drop an extra piece of Gold.",
         "value": 10
       },
       {
         "perk": "refined_rockery",
         "essence": 150,
         "icon": "spr_ui_skills_mining_icon_refined_rockery",
-        "name": "perks/refined_rockery/name",
-        "description": "perks/refined_rockery/description"
+        "name": "Refined Rockery",
+        "description": "The Craft Time for all Stone Refinery recipes will be reduced by 10 minutes."
       },
       {
         "perk": "break_one_get_two",
         "essence": 155,
         "icon": "spr_ui_skills_mining_icon_break_one_get_two",
-        "name": "perks/break_one_get_two/name",
-        "description": "perks/break_one_get_two/description",
+        "name": "Break One, Get Two",
+        "description": "Crafting a recipe at the Stone Refinery will sometimes create a bonus crafted item.",
         "value": 5
       }
     ],

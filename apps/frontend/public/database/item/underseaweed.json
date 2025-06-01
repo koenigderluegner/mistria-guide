@@ -1,8 +1,8 @@
 {
   "id": "underseaweed",
   "item": {
-    "description": "items/mines/tide_caverns/underseaweed/description",
-    "name": "items/mines/tide_caverns/underseaweed/name",
+    "description": "This seaweed has a mild flavor and bouncy texture. Used in a variety of cooking recipes.",
+    "name": "Underseaweed",
     "icon_sprite": "spr_ui_item_underseaweed",
     "tags": [
       "forageable",

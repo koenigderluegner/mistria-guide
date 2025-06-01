@@ -1,8 +1,8 @@
 {
   "id": "golden_cheesecake",
   "item": {
-    "description": "items/other/cooked_dishes/golden_cheesecake/description",
-    "name": "items/other/cooked_dishes/golden_cheesecake/name",
+    "description": "An extravagant cheesecake, decadently rich and moist.",
+    "name": "Golden Cheesecake",
     "icon_sprite": "spr_ui_item_golden_cheesecake",
     "tags": [
       "food",

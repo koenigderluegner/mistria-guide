@@ -1,8 +1,8 @@
 {
   "id": "dragonfly",
   "item": {
-    "description": "items/other/bugs/dragonfly/description",
-    "name": "items/other/bugs/dragonfly/name",
+    "description": "An uncommon insect found during the daytime in summer.",
+    "name": "Dragonfly",
     "icon_sprite": "spr_ui_item_insect_dragonfly",
     "tags": [
       "bugs"

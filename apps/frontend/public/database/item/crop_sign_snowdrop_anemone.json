@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_snowdrop_anemone",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_snowdrop_anemone/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_snowdrop_anemone/name",
+    "description": "A wooden sign featuring a painted snowdrop anemone.",
+    "name": "Snowdrop Anemone Sign",
     "icon_sprite": "spr_ui_item_crop_sign_snowdrop_anemone",
     "tags": [
       "furniture",

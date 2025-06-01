@@ -1,8 +1,8 @@
 {
   "id": "espresso",
   "item": {
-    "description": "items/other/cooked_dishes/espresso/description",
-    "name": "items/other/cooked_dishes/espresso/name",
+    "description": "A tiny, hot drink that packs a punch.",
+    "name": "Espresso",
     "icon_sprite": "spr_ui_item_espresso",
     "tags": [
       "drink_sound",

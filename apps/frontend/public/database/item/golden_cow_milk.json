@@ -1,8 +1,8 @@
 {
   "id": "golden_cow_milk",
   "item": {
-    "description": "items/other/ranching/golden_cow_milk/description",
-    "name": "items/other/ranching/golden_cow_milk/name",
+    "description": "Gold quality milk from a cow. Used in high level cooking recipes.",
+    "name": "Golden Milk",
     "icon_sprite": "spr_ui_item_cow_milk_gold",
     "tags": [
       "ranching",

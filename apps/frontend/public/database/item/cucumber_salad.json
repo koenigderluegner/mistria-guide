@@ -1,8 +1,8 @@
 {
   "id": "cucumber_salad",
   "item": {
-    "description": "items/other/cooked_dishes/cucumber_salad/description",
-    "name": "items/other/cooked_dishes/cucumber_salad/name",
+    "description": "A crisp, refreshing salad of cucumber with dill and sesame.",
+    "name": "Cucumber Salad",
     "icon_sprite": "spr_ui_item_cucumber_salad",
     "tags": [
       "food",

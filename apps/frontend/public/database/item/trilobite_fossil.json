@@ -1,8 +1,8 @@
 {
   "id": "trilobite_fossil",
   "item": {
-    "description": "items/other/artifacts/trilobite_fossil/description",
-    "name": "items/other/artifacts/trilobite_fossil/name",
+    "description": "An uncommon artifact. Too many legs, but still kinda cute.",
+    "name": "Trilobite Fossil",
     "icon_sprite": "spr_ui_item_trilobite_fossil",
     "tags": [
       "archaeology"

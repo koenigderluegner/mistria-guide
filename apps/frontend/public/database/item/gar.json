@@ -1,8 +1,8 @@
 {
   "id": "gar",
   "item": {
-    "description": "items/fish/river/gar/description",
-    "name": "items/fish/river/gar/name",
+    "description": "A common large river fish found in summer and winter.",
+    "name": "Gar",
     "icon_sprite": "spr_ui_item_fish_large_gar",
     "tags": [
       "fishable",

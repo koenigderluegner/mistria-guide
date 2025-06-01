@@ -1,8 +1,8 @@
 {
   "id": "blue_pet_dish",
   "item": {
-    "description": "items/furniture/pet_set/blue_pet_dish/description",
-    "name": "items/furniture/pet_set/blue_pet_dish/name",
+    "description": "A decorative blue pet dish. It's very cute!",
+    "name": "Blue Pet Dish",
     "icon_sprite": "spr_ui_item_decor_blue_pet_dish",
     "value": {
       "bin": 250,

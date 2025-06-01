@@ -1,8 +1,8 @@
 {
   "id": "chess_rook_light_wood",
   "item": {
-    "description": "items/furniture/chess_set/chess_rook_light_wood/description",
-    "name": "items/furniture/chess_set/chess_rook_light_wood/name",
+    "description": "An oversized wood-toned rook chess piece.",
+    "name": "Chess Rook Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_rook_light_wood",
     "tags": [
       "furniture",

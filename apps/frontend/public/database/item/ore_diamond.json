@@ -1,8 +1,8 @@
 {
   "id": "ore_diamond",
   "item": {
-    "description": "items/other/materials/ore_diamond/description",
-    "name": "items/other/materials/ore_diamond/name",
+    "description": "A rare and beautiful gem. Can be sold, gifted, or used in high level crafting recipes.",
+    "name": "Diamond",
     "icon_sprite": "spr_ui_item_diamond",
     "tags": [
       "refined_material",

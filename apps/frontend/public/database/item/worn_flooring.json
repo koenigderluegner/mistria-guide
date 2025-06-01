@@ -1,8 +1,8 @@
 {
   "id": "worn_flooring",
   "item": {
-    "description": "items/furniture/default_worn_set/worn_flooring/description",
-    "name": "items/furniture/default_worn_set/worn_flooring/name",
+    "description": "Worn wood flooring.",
+    "name": "Worn Flooring",
     "icon_sprite": "spr_ui_item_furniture_default_flooring_v1",
     "tags": [
       "furniture",

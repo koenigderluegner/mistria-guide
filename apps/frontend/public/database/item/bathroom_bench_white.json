@@ -1,8 +1,8 @@
 {
   "id": "bathroom_bench_white",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_bench_white/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_bench_white/name",
+    "description": "A white bathroom bench.",
+    "name": "Bathroom Bench",
     "icon_sprite": "spr_ui_item_furniture_bathroom_bench_white",
     "tags": [
       "furniture",

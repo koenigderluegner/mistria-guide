@@ -1,8 +1,8 @@
 {
   "id": "chess_knight_white",
   "item": {
-    "description": "items/furniture/chess_set/chess_knight_white/description",
-    "name": "items/furniture/chess_set/chess_knight_white/name",
+    "description": "An oversized white knight chess piece.",
+    "name": "Chess Knight Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_knight_white",
     "tags": [
       "furniture",

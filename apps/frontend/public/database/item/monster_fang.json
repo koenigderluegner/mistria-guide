@@ -1,8 +1,8 @@
 {
   "id": "monster_fang",
   "item": {
-    "description": "items/other/monster_drops/monster_fang/description",
-    "name": "items/other/monster_drops/monster_fang/name",
+    "description": "A pointed fang sometimes dropped by Saplings. Used in certain cooking and crafting recipes.",
+    "name": "Monster Fang",
     "icon_sprite": "spr_ui_item_monster_fang",
     "tags": [
       "monster_part",

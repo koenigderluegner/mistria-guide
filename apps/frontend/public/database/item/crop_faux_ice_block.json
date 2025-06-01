@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_ice_block",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_ice_block/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_ice_block/name",
+    "description": "A decorative faux ice block.",
+    "name": "Faux Ice Block",
     "icon_sprite": "spr_ui_item_decor_crop_faux_ice_block",
     "tags": [
       "furniture",

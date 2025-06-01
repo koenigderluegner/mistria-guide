@@ -1,8 +1,8 @@
 {
   "id": "shortcut_scroll",
   "item": {
-    "description": "items/other/artifacts/shortcut_scroll/description",
-    "name": "items/other/artifacts/shortcut_scroll/name",
+    "description": "A legendary artifact. The scroll appears to show a quick and easy route to the bottom of the Mines, but you don't recognize any of the paths.",
+    "name": "Shortcut Scroll",
     "icon_sprite": "spr_ui_item_shortcut_scroll",
     "tags": [
       "archaeology"

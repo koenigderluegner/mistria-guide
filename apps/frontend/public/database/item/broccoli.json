@@ -1,8 +1,8 @@
 {
   "id": "broccoli",
   "item": {
-    "description": "items/other/crops_and_forage/broccoli/description",
-    "name": "items/other/crops_and_forage/broccoli/name",
+    "description": "A fall crop. Crunchy with a mild, grassy flavor. Commonly used as a cooking ingredient.",
+    "name": "Broccoli",
     "icon_sprite": "spr_ui_item_broccoli",
     "tags": [
       "crop"

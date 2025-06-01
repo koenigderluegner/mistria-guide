@@ -1,8 +1,8 @@
 {
   "id": "vintage_hammer",
   "item": {
-    "description": "items/other/artifacts/vintage_hammer/description",
-    "name": "items/other/artifacts/vintage_hammer/name",
+    "description": "An uncommon artifact. This vintage wooden hammer was used to break rocks before pickaxes were commonplace.",
+    "name": "Vintage Hammer",
     "icon_sprite": "spr_ui_item_vintage_hammer",
     "tags": [
       "archaeology"

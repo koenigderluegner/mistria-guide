@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_chrysanthemum",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_chrysanthemum/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_chrysanthemum/name",
+    "description": "A wooden sign featuring a painted chrysanthemum.",
+    "name": "Chrysanthemum Sign",
     "icon_sprite": "spr_ui_item_crop_sign_chrysanthemum",
     "tags": [
       "furniture",

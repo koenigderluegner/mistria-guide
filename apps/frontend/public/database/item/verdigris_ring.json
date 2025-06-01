@@ -1,8 +1,8 @@
 {
   "id": "verdigris_ring",
   "item": {
-    "description": "items/other/armor/verdigris_ring/description",
-    "name": "items/other/armor/verdigris_ring/name",
+    "description": "A ring constructed out of verdigris copper. Equip to increase defense.",
+    "name": "Verdigris Ring",
     "icon_sprite": "spr_ui_item_equipment_verdigris_ring",
     "tags": [
       "accessory",

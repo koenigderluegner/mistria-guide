@@ -1,8 +1,8 @@
 {
   "id": "golden_duck_mayonnaise",
   "item": {
-    "description": "items/other/mill/golden_duck_mayonnaise/description",
-    "name": "items/other/mill/golden_duck_mayonnaise/name",
+    "description": "A high quality condiment made from duck eggs. Used in high level cooking recipes.",
+    "name": "Golden Duck Mayonnaise",
     "icon_sprite": "spr_ui_item_golden_duck_mayonnaise",
     "tags": [
       "milling",

@@ -1,8 +1,8 @@
 {
   "id": "sweet_potato_pie",
   "item": {
-    "description": "items/other/cooked_dishes/sweet_potato_pie/description",
-    "name": "items/other/cooked_dishes/sweet_potato_pie/name",
+    "description": "This pie has a creamy sweet potato filling.",
+    "name": "Sweet Potato Pie",
     "icon_sprite": "spr_ui_item_sweet_potato_pie",
     "tags": [
       "food",

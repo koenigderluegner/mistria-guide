@@ -1,8 +1,8 @@
 {
   "id": "pomegranate_juice",
   "item": {
-    "description": "items/other/cooked_dishes/pomegranate_juice/description",
-    "name": "items/other/cooked_dishes/pomegranate_juice/name",
+    "description": "A sweet juice made from pomegranates.",
+    "name": "Pomegranate Juice",
     "icon_sprite": "spr_ui_item_pomegranate_juice",
     "tags": [
       "drink",

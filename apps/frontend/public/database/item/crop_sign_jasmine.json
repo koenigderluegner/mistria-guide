@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_jasmine",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_jasmine/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_jasmine/name",
+    "description": "A wooden sign featuring painted jasmine.",
+    "name": "Jasmine Sign",
     "icon_sprite": "spr_ui_item_crop_sign_jasmine",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "net_iron",
   "item": {
-    "description": "items/other/blacksmithing/net_iron/description",
-    "name": "items/other/blacksmithing/net_iron/name",
+    "description": "A bug catching net with an iron pole. The only change is the aesthetic.",
+    "name": "Iron Net",
     "icon_sprite": "spr_ui_item_tool_iron_net",
     "tags": [
       "net",

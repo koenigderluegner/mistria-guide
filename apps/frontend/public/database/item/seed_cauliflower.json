@@ -1,8 +1,8 @@
 {
   "id": "seed_cauliflower",
   "item": {
-    "description": "items/other/crops_and_forage/seed_cauliflower/description",
-    "name": "items/other/crops_and_forage/seed_cauliflower/name",
+    "description": "Cauliflower seed. This winter crop can be harvested once.",
+    "name": "Cauliflower Seed",
     "icon_sprite": "spr_ui_item_bagseed_cauliflower_icon",
     "tags": [
       "seed"

@@ -1,8 +1,8 @@
 {
   "id": "sapling_peach",
   "item": {
-    "description": "items/other/crops_and_forage/sapling_peach/description",
-    "name": "items/other/crops_and_forage/sapling_peach/name",
+    "description": "A peach tree sapling. This tree can be planted any time of year, but will only fruit in the summer.",
+    "name": "Peach Sapling",
     "icon_sprite": "spr_ui_item_peach_sapling",
     "tags": [
       "seed"

@@ -1,8 +1,8 @@
 {
   "id": "scrap_metal_pants",
   "item": {
-    "description": "items/other/armor/scrap_metal_pants/description",
-    "name": "items/other/armor/scrap_metal_pants/name",
+    "description": "Pants constructed out of scrap metal. Equip to increase defense.",
+    "name": "Scrap Metal Pants",
     "icon_sprite": "spr_ui_item_equipment_scrap_metal_pants",
     "tags": [
       "legs",

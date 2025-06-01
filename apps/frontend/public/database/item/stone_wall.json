@@ -1,8 +1,8 @@
 {
   "id": "stone_wall",
   "item": {
-    "description": "items/furniture/starter_farm_set/stone_wall/description",
-    "name": "items/furniture/starter_farm_set/stone_wall/name",
+    "description": "Stone wall fencing made by carefully arranging stones by hand.",
+    "name": "Stone Wall",
     "icon_sprite": "spr_ui_item_fence_stone_wall",
     "tags": [
       "furniture",

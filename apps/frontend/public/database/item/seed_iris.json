@@ -1,8 +1,8 @@
 {
   "id": "seed_iris",
   "item": {
-    "description": "items/other/crops_and_forage/seed_iris/description",
-    "name": "items/other/crops_and_forage/seed_iris/name",
+    "description": "Iris seed. This fast growing summer flower can be harvested once.",
+    "name": "Iris Seed",
     "icon_sprite": "spr_ui_item_bagseed_iris_icon",
     "tags": [
       "seed"

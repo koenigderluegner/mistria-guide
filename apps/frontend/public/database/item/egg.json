@@ -1,8 +1,8 @@
 {
   "id": "egg",
   "item": {
-    "description": "items/other/ranching/egg/description",
-    "name": "items/other/ranching/egg/name",
+    "description": "An egg laid by a hen. Used as an ingredient for cooking many kinds of dishes.",
+    "name": "Chicken Egg",
     "icon_sprite": "spr_ui_item_chicken_egg_regular",
     "tags": [
       "ranching",

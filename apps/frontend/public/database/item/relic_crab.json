@@ -1,8 +1,8 @@
 {
   "id": "relic_crab",
   "item": {
-    "description": "items/other/bugs/relic_crab/description",
-    "name": "items/other/bugs/relic_crab/name",
+    "description": "An uncommon crustacean found at the beach in all seasons.",
+    "name": "Relic Crab",
     "icon_sprite": "spr_ui_item_insect_reliccrab",
     "tags": [
       "bugs"

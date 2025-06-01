@@ -1,8 +1,8 @@
 {
   "id": "turnip_and_potato_gratin",
   "item": {
-    "description": "items/other/cooked_dishes/turnip_and_potato_gratin/description",
-    "name": "items/other/cooked_dishes/turnip_and_potato_gratin/name",
+    "description": "This dish layers thinly sliced turnip and potato with plenty of cheese and butter.",
+    "name": "Turnip & Potato Gratin",
     "icon_sprite": "spr_ui_item_turnip_and_potato_gratin",
     "tags": [
       "chef",

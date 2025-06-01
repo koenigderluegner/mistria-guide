@@ -1,7 +1,7 @@
 {
   "id": "cosmetic",
   "item": {
-    "description": "items/other/misc/cosmetic/description",
+    "description": "Use this item to unlock the cosmetic to wear!",
     "icon_sprite": "spr_illegal_16",
     "tags": [
       "blacklist_popup"

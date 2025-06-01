@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_chili_pepper",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_chili_pepper/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_chili_pepper/name",
+    "description": "A wooden sign featuring a painted chili pepper.",
+    "name": "Chili Pepper Sign",
     "icon_sprite": "spr_ui_item_crop_sign_chili_pepper",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_sweet_potato",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_sweet_potato/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_sweet_potato/name",
+    "description": "A decorative faux sweet potato plant.",
+    "name": "Faux Sweet Potato",
     "icon_sprite": "spr_ui_item_decor_crop_faux_sweet_potato",
     "tags": [
       "furniture",

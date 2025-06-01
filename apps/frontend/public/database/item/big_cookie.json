@@ -1,8 +1,8 @@
 {
   "id": "big_cookie",
   "item": {
-    "description": "items/other/cooked_dishes/big_cookie/description",
-    "name": "items/other/cooked_dishes/big_cookie/name",
+    "description": "Wow, this is a REALLY big cookie!",
+    "name": "Big Cookie",
     "icon_sprite": "spr_ui_item_bigcookie",
     "value": {
       "bin": 100

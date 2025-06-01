@@ -1,8 +1,8 @@
 {
   "id": "ancient_royal_scepter",
   "item": {
-    "description": "items/other/artifacts/ancient_royal_scepter/description",
-    "name": "items/other/artifacts/ancient_royal_scepter/name",
+    "description": "A legendary artifact. A Royal Scepter with the head of a dragon. The symbol of the Witch Queen's authority.",
+    "name": "Ancient Royal Scepter",
     "icon_sprite": "spr_ui_item_ancient_royal_scepter",
     "tags": [
       "archaeology"

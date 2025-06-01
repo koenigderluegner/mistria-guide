@@ -1,8 +1,8 @@
 {
   "id": "farm_house_calendar",
   "item": {
-    "description": "items/furniture/starter_farm_set/farm_house_calendar/description",
-    "name": "items/furniture/starter_farm_set/farm_house_calendar/name",
+    "description": "A placeable farmhouse calendar.",
+    "name": "Farmhouse Calendar",
     "icon_sprite": "spr_ui_item_object_wall_calendar",
     "tags": [
       "furniture",

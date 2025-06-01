@@ -1,8 +1,8 @@
 {
   "id": "glass_lemonade",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/glass_lemonade/description",
-    "name": "items/furniture/tabletop_clutter_set/glass_lemonade/name",
+    "description": "A decorative lemonade glass.",
+    "name": "Lemonade Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_lemonade",
     "tags": [
       "furniture",

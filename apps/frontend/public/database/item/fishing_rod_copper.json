@@ -1,8 +1,8 @@
 {
   "id": "fishing_rod_copper",
   "item": {
-    "description": "items/other/blacksmithing/fishing_rod_copper/description",
-    "name": "items/other/blacksmithing/fishing_rod_copper/name",
+    "description": "A copper fishing rod. It has a cast range of 8.",
+    "name": "Copper Fishing Rod",
     "icon_sprite": "spr_ui_item_tool_copper_rod",
     "tags": [
       "fishing_rod",

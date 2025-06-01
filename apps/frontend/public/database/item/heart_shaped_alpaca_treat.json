@@ -1,8 +1,8 @@
 {
   "id": "heart_shaped_alpaca_treat",
   "item": {
-    "description": "items/other/ranching/heart_shaped_alpaca_treat/description",
-    "name": "items/other/ranching/heart_shaped_alpaca_treat/name",
+    "description": "Feed these treats to a male and female alpaca to breed them. They must have at least 2 hearts & share a barn that has a free space for a baby.",
+    "name": "Heart Shaped Alpaca Treat",
     "icon_sprite": "spr_ui_item_animal_treat_alpaca",
     "tags": [
       "alpaca_treat",

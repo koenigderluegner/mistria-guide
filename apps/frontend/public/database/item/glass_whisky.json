@@ -1,8 +1,8 @@
 {
   "id": "glass_whisky",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/glass_whisky/description",
-    "name": "items/furniture/tabletop_clutter_set/glass_whisky/name",
+    "description": "A decorative whisky glass.",
+    "name": "Whisky Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_whisky",
     "tags": [
       "furniture",

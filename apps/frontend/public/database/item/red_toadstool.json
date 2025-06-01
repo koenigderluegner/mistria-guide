@@ -1,8 +1,8 @@
 {
   "id": "red_toadstool",
   "item": {
-    "description": "items/other/monster_drops/red_toadstool/description",
-    "name": "items/other/monster_drops/red_toadstool/name",
+    "description": "A red mushroom sometimes dropped by Mushroom monsters. Likely poisonous.",
+    "name": "Red Toadstool",
     "icon_sprite": "spr_ui_item_redtoadstool",
     "tags": [
       "material",

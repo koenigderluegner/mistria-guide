@@ -1,8 +1,8 @@
 {
   "id": "shark",
   "item": {
-    "description": "items/fish/ocean/shark/description",
-    "name": "items/fish/ocean/shark/name",
+    "description": "A rare giant ocean fish found in fall.",
+    "name": "Shark",
     "icon_sprite": "spr_ui_item_fish_giant_shark",
     "tags": [
       "fishable",

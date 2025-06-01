@@ -1,8 +1,8 @@
 {
   "id": "cabin_flooring_walnut",
   "item": {
-    "description": "items/furniture/rustic_cabin_set/cabin_flooring_walnut/description",
-    "name": "items/furniture/rustic_cabin_set/cabin_flooring_walnut/name",
+    "description": "Rustic walnut flooring for your home.",
+    "name": "Rustic Cabin Flooring",
     "icon_sprite": "spr_ui_item_furniture_cabin_flooring_v2",
     "tags": [
       "furniture",

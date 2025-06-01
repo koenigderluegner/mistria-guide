@@ -1,8 +1,8 @@
 {
   "id": "cloth_wristband",
   "item": {
-    "description": "items/other/armor/cloth_wristband/description",
-    "name": "items/other/armor/cloth_wristband/name",
+    "description": "A cloth wristband. It's basically useless.",
+    "name": "Cloth Wristband",
     "icon_sprite": "spr_ui_item_equipment_cloth_wristband",
     "tags": [
       "accessory",

@@ -1,8 +1,8 @@
 {
   "id": "cottage_wallpaper_ash",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_wallpaper_ash/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_wallpaper_ash/name",
+    "description": "Lovely sage green and ash panel wallpaper for your dream cottage.",
+    "name": "Lovely Cottage Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_cottage_wallpaper_v2",
     "tags": [
       "furniture",

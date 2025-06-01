@@ -1,8 +1,8 @@
 {
   "id": "sauteed_snow_peas",
   "item": {
-    "description": "items/other/cooked_dishes/sauteed_snow_peas/description",
-    "name": "items/other/cooked_dishes/sauteed_snow_peas/name",
+    "description": "These crunchy snow peas are sauteed with crisp water chestnuts.",
+    "name": "Sauteed Snow Peas",
     "icon_sprite": "spr_ui_item_sauteed_snow_peas",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "ancient_gold_coin",
   "item": {
-    "description": "items/other/artifacts/ancient_gold_coin/description",
-    "name": "items/other/artifacts/ancient_gold_coin/name",
+    "description": "An uncommon artifact. Etched with the outline of the Witch Queen on one side, and a magnificent tower on the other.",
+    "name": "Ancient Gold Coin",
     "icon_sprite": "spr_ui_item_ancient_gold_coin",
     "tags": [
       "archaeology"

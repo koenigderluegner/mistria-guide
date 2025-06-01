@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_frost_lily",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_frost_lily/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_frost_lily/name",
+    "description": "A wooden sign featuring a painted frost lily.",
+    "name": "Frost Lily Sign",
     "icon_sprite": "spr_ui_item_crop_sign_frost_lily",
     "tags": [
       "furniture",

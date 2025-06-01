@@ -1,8 +1,8 @@
 {
   "id": "bakery_bread_basket_pastel",
   "item": {
-    "description": "items/furniture/decor_bakery_set/bakery_bread_basket_pastel/description",
-    "name": "items/furniture/decor_bakery_set/bakery_bread_basket_pastel/name",
+    "description": "A decorative bread basket with blue fabric.",
+    "name": "Bakery Bread Basket",
     "icon_sprite": "spr_ui_item_decor_bakery_bread_basket_v1",
     "tags": [
       "furniture",

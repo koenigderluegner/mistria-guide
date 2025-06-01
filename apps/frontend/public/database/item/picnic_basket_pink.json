@@ -1,8 +1,8 @@
 {
   "id": "picnic_basket_pink",
   "item": {
-    "description": "items/furniture/decor_picnic_set/picnic_basket_pink/description",
-    "name": "items/furniture/decor_picnic_set/picnic_basket_pink/name",
+    "description": "A cute decorative picnic basket with pink accents.",
+    "name": "Picnic Basket",
     "icon_sprite": "spr_ui_item_picnic_basket_pink",
     "tags": [
       "furniture",

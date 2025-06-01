@@ -1,8 +1,8 @@
 {
   "id": "cabin_firewood_walnut",
   "item": {
-    "description": "items/furniture/rustic_cabin_set/cabin_firewood_walnut/description",
-    "name": "items/furniture/rustic_cabin_set/cabin_firewood_walnut/name",
+    "description": "A neat stack of walnut firewood.",
+    "name": "Rustic Cabin Firewood",
     "icon_sprite": "spr_ui_item_furniture_cabin_firewood_v2",
     "tags": [
       "furniture",

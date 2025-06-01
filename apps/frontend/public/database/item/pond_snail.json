@@ -1,8 +1,8 @@
 {
   "id": "pond_snail",
   "item": {
-    "description": "items/other/bugs/pond_snail/description",
-    "name": "items/other/bugs/pond_snail/name",
+    "description": "A common pond gastropod found in all seasons.",
+    "name": "Pond Snail",
     "icon_sprite": "spr_ui_item_dive_pond_snail",
     "tags": [
       "dive",

@@ -1,8 +1,8 @@
 {
   "id": "mini_whale_shark",
   "item": {
-    "description": "items/mines/tide_caverns/mini_whale_shark/description",
-    "name": "items/mines/tide_caverns/mini_whale_shark/name",
+    "description": "A rare large Tide Caverns fish. Despite its name, it is still very large.",
+    "name": "Mini-Whale Shark",
     "icon_sprite": "spr_ui_item_fish_large_mini_whale_shark",
     "tags": [
       "fishable"

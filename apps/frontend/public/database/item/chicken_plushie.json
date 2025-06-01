@@ -1,8 +1,8 @@
 {
   "id": "chicken_plushie",
   "item": {
-    "description": "items/other/festivals/chicken_plushie/description",
-    "name": "items/other/festivals/chicken_plushie/name",
+    "description": "A cute chicken plushie. Awarded at the Animal Festival.",
+    "name": "Chicken Plushie",
     "icon_sprite": "spr_ui_item_decor_chicken_plushie",
     "tags": [
       "furniture"

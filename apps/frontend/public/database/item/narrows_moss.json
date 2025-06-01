@@ -1,8 +1,8 @@
 {
   "id": "narrows_moss",
   "item": {
-    "description": "items/mines/upper_mines/narrows_moss/description",
-    "name": "items/mines/upper_mines/narrows_moss/name",
+    "description": "A unique species of moss. Very exciting to moss experts.",
+    "name": "Narrows Moss",
     "icon_sprite": "spr_ui_item_narrows_moss",
     "tags": [
       "forageable",

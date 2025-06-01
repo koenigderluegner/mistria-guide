@@ -1,8 +1,8 @@
 {
   "id": "sword_gold",
   "item": {
-    "description": "items/other/blacksmithing/sword_gold/description",
-    "name": "items/other/blacksmithing/sword_gold/name",
+    "description": "A splendid golden sword.",
+    "name": "Gold Sword",
     "icon_sprite": "spr_ui_item_tool_gold_sword",
     "tags": [
       "sword",

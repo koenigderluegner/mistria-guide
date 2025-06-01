@@ -1,8 +1,8 @@
 {
   "id": "sushi_platter",
   "item": {
-    "description": "items/other/cooked_dishes/sushi_platter/description",
-    "name": "items/other/cooked_dishes/sushi_platter/name",
+    "description": "An impressive platter featuring a selection of fresh sushi.",
+    "name": "Sushi Platter",
     "icon_sprite": "spr_ui_item_sushiplatter",
     "tags": [
       "food",

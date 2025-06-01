@@ -1,8 +1,8 @@
 {
   "id": "peat",
   "item": {
-    "description": "items/other/materials/peat/description",
-    "name": "items/other/materials/peat/name",
+    "description": "A brick of compressed organic matter. Often used as a crafting material.",
+    "name": "Peat",
     "icon_sprite": "spr_ui_item_peat",
     "tags": [
       "refined_material",

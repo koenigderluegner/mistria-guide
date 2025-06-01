@@ -1,8 +1,8 @@
 {
   "id": "chocolate",
   "item": {
-    "description": "items/other/materials/chocolate/description",
-    "name": "items/other/materials/chocolate/name",
+    "description": "A bar of quality chocolate. Used in a variety of cooking recipes.",
+    "name": "Chocolate",
     "icon_sprite": "spr_ui_item_chocolate",
     "tags": [
       "pantry",

@@ -1,8 +1,8 @@
 {
   "id": "spring_crop_sign_scroll_bundle",
   "item": {
-    "description": "items/furniture/crop_signs_set/spring_crop_sign_scroll_bundle/description",
-    "name": "items/furniture/crop_signs_set/spring_crop_sign_scroll_bundle/name",
+    "description": "Use this scroll to unlock the crafting recipes for the Spring Crop Sign furniture set!",
+    "name": "Spring Crop Sign Scroll Bundle",
     "icon_sprite": "spr_ui_item_setscroll_springcropsigns",
     "tags": [
       "scroll",

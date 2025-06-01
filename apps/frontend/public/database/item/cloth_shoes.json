@@ -1,8 +1,8 @@
 {
   "id": "cloth_shoes",
   "item": {
-    "description": "items/other/armor/cloth_shoes/description",
-    "name": "items/other/armor/cloth_shoes/name",
+    "description": "A pair of cloth shoes. It's basically useless.",
+    "name": "Cloth Shoes",
     "icon_sprite": "spr_ui_item_equipment_cloth_shoes",
     "tags": [
       "boots",

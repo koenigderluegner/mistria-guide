@@ -1,8 +1,8 @@
 {
   "id": "crispy_fried_earthshroom",
   "item": {
-    "description": "items/other/cooked_dishes/crispy_fried_earthshroom/description",
-    "name": "items/other/cooked_dishes/crispy_fried_earthshroom/name",
+    "description": "This umami mushroom's unique shape gives it an incredible crisp when fried.",
+    "name": "Crispy Fried Earthshroom",
     "icon_sprite": "spr_ui_item_crispy_fried_earthshroom",
     "tags": [
       "food",

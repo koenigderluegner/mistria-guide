@@ -1,8 +1,8 @@
 {
   "id": "sword_iron",
   "item": {
-    "description": "items/other/blacksmithing/sword_iron/description",
-    "name": "items/other/blacksmithing/sword_iron/name",
+    "description": "An iron sword.",
+    "name": "Iron Sword",
     "icon_sprite": "spr_ui_item_tool_iron_sword",
     "tags": [
       "sword",

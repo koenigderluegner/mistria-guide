@@ -1,8 +1,8 @@
 {
   "id": "flathead_catfish",
   "item": {
-    "description": "items/fish/pond/flathead_catfish/description",
-    "name": "items/fish/pond/flathead_catfish/name",
+    "description": "A common medium pond fish found in winter.",
+    "name": "Flathead Catfish",
     "icon_sprite": "spr_ui_item_fish_medium_flathead_catfish",
     "tags": [
       "fishable",

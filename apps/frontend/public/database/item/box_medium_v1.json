@@ -1,8 +1,8 @@
 {
   "id": "box_medium_v1",
   "item": {
-    "description": "items/furniture/tabletop_clutter_set/box_medium_v1/description",
-    "name": "items/furniture/tabletop_clutter_set/box_medium_v1/name",
+    "description": "A medium sized decorative box.",
+    "name": "Medium Box",
     "icon_sprite": "spr_ui_item_decor_clutter_box_medium_v1",
     "tags": [
       "furniture",

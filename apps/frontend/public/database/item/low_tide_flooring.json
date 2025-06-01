@@ -1,8 +1,8 @@
 {
   "id": "low_tide_flooring",
   "item": {
-    "description": "items/furniture/tide_set/low_tide_flooring/description",
-    "name": "items/furniture/tide_set/low_tide_flooring/name",
+    "description": "A rock floor that mimics the look of the Tide Caverns.",
+    "name": "Low Tide Flooring",
     "icon_sprite": "spr_ui_item_furniture_tide_flooring",
     "tags": [
       "furniture",

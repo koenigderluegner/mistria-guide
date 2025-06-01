@@ -1,8 +1,8 @@
 {
   "id": "fishing_tank_silver",
   "item": {
-    "description": "items/furniture/fishing_set/fishing_tank_silver/description",
-    "name": "items/furniture/fishing_set/fishing_tank_silver/name",
+    "description": "A beautiful fish tank with a metallic finish.",
+    "name": "Fish Tank",
     "icon_sprite": "spr_ui_item_furniture_fishing_tank_silver",
     "tags": [
       "furniture",

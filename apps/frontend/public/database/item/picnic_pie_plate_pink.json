@@ -1,8 +1,8 @@
 {
   "id": "picnic_pie_plate_pink",
   "item": {
-    "description": "items/furniture/decor_picnic_set/picnic_pie_plate_pink/description",
-    "name": "items/furniture/decor_picnic_set/picnic_pie_plate_pink/name",
+    "description": "A decorative pie plate with pink accents.",
+    "name": "Picnic Display Pie",
     "icon_sprite": "spr_ui_item_picnic_pie_plate_pink",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "vintage_brush",
   "item": {
-    "description": "items/other/artifacts/vintage_brush/description",
-    "name": "items/other/artifacts/vintage_brush/name",
+    "description": "A rare artifact. This cute vintage tool was used to pet farm animals in years past.",
+    "name": "Vintage Brush",
     "icon_sprite": "spr_ui_item_vintage_brush",
     "tags": [
       "archaeology"

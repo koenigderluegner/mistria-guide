@@ -1,8 +1,8 @@
 {
   "id": "golden_mayonnaise",
   "item": {
-    "description": "items/other/mill/golden_mayonnaise/description",
-    "name": "items/other/mill/golden_mayonnaise/name",
+    "description": "A high quality condiment made from chicken eggs. Used in high level cooking recipes.",
+    "name": "Golden Mayonnaise",
     "icon_sprite": "spr_ui_item_golden_mayonnaise",
     "tags": [
       "milling",

@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_sugar_cane",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_sugar_cane/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_sugar_cane/name",
+    "description": "A decorative faux sugar cane plant.",
+    "name": "Faux Sugar Cane",
     "icon_sprite": "spr_ui_item_decor_crop_faux_sugar_cane",
     "tags": [
       "furniture",

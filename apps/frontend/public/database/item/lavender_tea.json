@@ -1,8 +1,8 @@
 {
   "id": "lavender_tea",
   "item": {
-    "description": "items/other/cooked_dishes/lavender_tea/description",
-    "name": "items/other/cooked_dishes/lavender_tea/name",
+    "description": "The blissful scent and flavor of lavender makes this tea a sophisticated drink.",
+    "name": "Lavender Tea",
     "icon_sprite": "spr_ui_item_lavender_tea",
     "tags": [
       "drink",

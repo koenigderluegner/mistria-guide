@@ -1,8 +1,8 @@
 {
   "id": "vegetable_quiche",
   "item": {
-    "description": "items/other/cooked_dishes/vegetable_quiche/description",
-    "name": "items/other/cooked_dishes/vegetable_quiche/name",
+    "description": "A savory tart filled with fluffy eggs and flavorful vegetables.",
+    "name": "Vegetable Quiche",
     "icon_sprite": "spr_ui_item_vegetable_quiche",
     "tags": [
       "chef",

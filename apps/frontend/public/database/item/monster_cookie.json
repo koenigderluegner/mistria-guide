@@ -1,8 +1,8 @@
 {
   "id": "monster_cookie",
   "item": {
-    "description": "items/other/cooked_dishes/monster_cookie/description",
-    "name": "items/other/cooked_dishes/monster_cookie/name",
+    "description": "A cursed looking cookie with a crumbly texture.",
+    "name": "Monster Cookies",
     "icon_sprite": "spr_ui_item_monster_cookie",
     "tags": [
       "food",

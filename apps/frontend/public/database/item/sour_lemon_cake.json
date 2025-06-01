@@ -1,8 +1,8 @@
 {
   "id": "sour_lemon_cake",
   "item": {
-    "description": "items/other/cooked_dishes/sour_lemon_cake/description",
-    "name": "items/other/cooked_dishes/sour_lemon_cake/name",
+    "description": "This delightful lemon cake is flavored with a generous amount of zest.",
+    "name": "Lemon Cake",
     "icon_sprite": "spr_ui_item_sourlemoncake",
     "tags": [
       "food",

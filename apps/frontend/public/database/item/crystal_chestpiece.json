@@ -1,8 +1,8 @@
 {
   "id": "crystal_chestpiece",
   "item": {
-    "description": "items/other/armor/crystal_chestpiece/description",
-    "name": "items/other/armor/crystal_chestpiece/name",
+    "description": "A chestpiece constructed out of crystal. Equip to increase defense.",
+    "name": "Crystal Chestpiece",
     "icon_sprite": "spr_ui_item_equipment_crystal_chestpiece",
     "tags": [
       "chest",

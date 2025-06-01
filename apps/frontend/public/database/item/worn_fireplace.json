@@ -1,8 +1,8 @@
 {
   "id": "worn_fireplace",
   "item": {
-    "description": "items/furniture/default_worn_set/worn_fireplace/description",
-    "name": "items/furniture/default_worn_set/worn_fireplace/name",
+    "description": "A worn stone fireplace.",
+    "name": "Worn Fireplace",
     "icon_sprite": "spr_ui_item_furniture_default_fireplace_v1",
     "tags": [
       "furniture",

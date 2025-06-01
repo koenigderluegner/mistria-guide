@@ -1,8 +1,8 @@
 {
   "id": "chestnut",
   "item": {
-    "description": "items/other/crops_and_forage/chestnut/description",
-    "name": "items/other/crops_and_forage/chestnut/name",
+    "description": "A common nut foraged in fall. Commonly used as a cooking ingredient.",
+    "name": "Chestnut",
     "icon_sprite": "spr_ui_item_chestnut",
     "tags": [
       "forageable"

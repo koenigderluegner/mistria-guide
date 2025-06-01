@@ -1,8 +1,8 @@
 {
   "id": "king_crab",
   "item": {
-    "description": "items/fish/ocean/king_crab/description",
-    "name": "items/fish/ocean/king_crab/name",
+    "description": "A common large ocean crustacean found on snowy days in winter.",
+    "name": "King Crab",
     "icon_sprite": "spr_ui_item_fish_large_king_crab",
     "tags": [
       "fishable",

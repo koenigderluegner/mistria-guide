@@ -1,8 +1,8 @@
 {
   "id": "seed_carrot",
   "item": {
-    "description": "items/other/crops_and_forage/seed_carrot/description",
-    "name": "items/other/crops_and_forage/seed_carrot/name",
+    "description": "Carrot seed. This spring crop can be harvested once.",
+    "name": "Carrot Seed",
     "icon_sprite": "spr_ui_item_bagseed_carrot_icon",
     "tags": [
       "seed"

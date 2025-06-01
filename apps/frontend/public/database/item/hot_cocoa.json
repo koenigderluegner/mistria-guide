@@ -1,8 +1,8 @@
 {
   "id": "hot_cocoa",
   "item": {
-    "description": "items/other/cooked_dishes/hot_cocoa/description",
-    "name": "items/other/cooked_dishes/hot_cocoa/name",
+    "description": "A rich and warming chocolate drink with a hint of wintergreen.",
+    "name": "Hot Chocolate",
     "icon_sprite": "spr_ui_item_hotcocoa",
     "tags": [
       "food",

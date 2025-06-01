@@ -1,8 +1,8 @@
 {
   "id": "barb",
   "item": {
-    "description": "items/fish/pond/barb/description",
-    "name": "items/fish/pond/barb/name",
+    "description": "A common small pond fish found in spring.",
+    "name": "Barb",
     "icon_sprite": "spr_ui_item_fish_small_barb",
     "tags": [
       "fishable",

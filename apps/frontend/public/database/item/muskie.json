@@ -1,8 +1,8 @@
 {
   "id": "muskie",
   "item": {
-    "description": "items/fish/deep_woods/muskie/description",
-    "name": "items/fish/deep_woods/muskie/name",
+    "description": "An uncommon large Deep Woods fish found in all seasons.",
+    "name": "Muskie",
     "icon_sprite": "spr_ui_item_fish_large_muskie",
     "tags": [
       "fishable",

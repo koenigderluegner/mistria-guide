@@ -1,8 +1,8 @@
 {
   "id": "angel_fish",
   "item": {
-    "description": "items/fish/pond/angel_fish/description",
-    "name": "items/fish/pond/angel_fish/name",
+    "description": "A common small pond fish found in spring.",
+    "name": "Angel Fish",
     "icon_sprite": "spr_ui_item_fish_small_angel_fish",
     "tags": [
       "fishable",

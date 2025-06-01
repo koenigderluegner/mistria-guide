@@ -1,8 +1,8 @@
 {
   "id": "scrap_metal_boots",
   "item": {
-    "description": "items/other/armor/scrap_metal_boots/description",
-    "name": "items/other/armor/scrap_metal_boots/name",
+    "description": "Boots constructed out of scrap metal. Equip to increase defense.",
+    "name": "Scrap Metal Boots",
     "icon_sprite": "spr_ui_item_equipment_scrap_metal_boots",
     "tags": [
       "boots",

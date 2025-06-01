@@ -1,8 +1,8 @@
 {
   "id": "cottage_bed_oak",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_bed_oak/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_bed_oak/name",
+    "description": "A lovely single bed with soft pink floral sheets.",
+    "name": "Lovely Cottage Single Bed",
     "icon_sprite": "spr_ui_item_furniture_cottage_bed_v1",
     "tags": [
       "furniture",

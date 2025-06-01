@@ -1,8 +1,8 @@
 {
   "id": "cherry_cobbler",
   "item": {
-    "description": "items/other/cooked_dishes/cherry_cobbler/description",
-    "name": "items/other/cooked_dishes/cherry_cobbler/name",
+    "description": "These sweet cherries are packed into a sugary crust.",
+    "name": "Cherry Cobbler",
     "icon_sprite": "spr_ui_item_cherry_cobbler",
     "tags": [
       "food",

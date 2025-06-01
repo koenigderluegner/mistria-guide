@@ -39,6 +39,8 @@ export function bugParser(items: Record<ItemId, RawBug>) {
       bugAttractions.push(resBug.attraction);
     }
 
+    // resBug.
+
     res[itemId] = resBug;
   });
 

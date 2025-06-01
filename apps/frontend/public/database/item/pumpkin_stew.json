@@ -1,8 +1,8 @@
 {
   "id": "pumpkin_stew",
   "item": {
-    "description": "items/other/cooked_dishes/pumpkin_stew/description",
-    "name": "items/other/cooked_dishes/pumpkin_stew/name",
+    "description": "A rich stew made up of creamy, pureed pumpkin.",
+    "name": "Pumpkin Stew",
     "icon_sprite": "spr_ui_item_pumpkin_stew",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "heather",
   "item": {
-    "description": "items/other/crops_and_forage/heather/description",
-    "name": "items/other/crops_and_forage/heather/name",
+    "description": "A charming pink flower foraged in fall. Can be used in crafting recipes.",
+    "name": "Heather",
     "icon_sprite": "spr_ui_item_heather",
     "tags": [
       "forageable",

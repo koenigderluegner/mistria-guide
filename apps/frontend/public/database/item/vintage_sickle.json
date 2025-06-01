@@ -1,8 +1,8 @@
 {
   "id": "vintage_sickle",
   "item": {
-    "description": "items/other/artifacts/vintage_sickle/description",
-    "name": "items/other/artifacts/vintage_sickle/name",
+    "description": "An uncommon artifact. This vintage sickle was used by past generations to turn grass into fodder.",
+    "name": "Vintage Sickle",
     "icon_sprite": "spr_ui_item_vintage_sickle",
     "tags": [
       "archaeology"

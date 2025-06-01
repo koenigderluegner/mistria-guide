@@ -1,8 +1,8 @@
 {
   "id": "chili_pepper",
   "item": {
-    "description": "items/other/crops_and_forage/chili_pepper/description",
-    "name": "items/other/crops_and_forage/chili_pepper/name",
+    "description": "A spicy summer crop and popular seasoning. Used to add a kick to many cooking recipes.",
+    "name": "Chili Pepper",
     "icon_sprite": "spr_ui_item_chili_pepper",
     "tags": [
       "crop"

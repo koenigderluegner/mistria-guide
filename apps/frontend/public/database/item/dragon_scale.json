@@ -1,8 +1,8 @@
 {
   "id": "dragon_scale",
   "item": {
-    "description": "items/other/artifacts/dragon_scale/description",
-    "name": "items/other/artifacts/dragon_scale/name",
+    "description": "An uncommon artifact. The passing of thousands of years has hardened this scale into something stronger than steel.",
+    "name": "Dragon Scale",
     "icon_sprite": "spr_ui_item_dragon_scale",
     "tags": [
       "archaeology",

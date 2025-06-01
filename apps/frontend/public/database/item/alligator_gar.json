@@ -1,8 +1,8 @@
 {
   "id": "alligator_gar",
   "item": {
-    "description": "items/fish/pond/alligator_gar/description",
-    "name": "items/fish/pond/alligator_gar/name",
+    "description": "A rare giant pond fish found in winter.",
+    "name": "Alligator Gar",
     "icon_sprite": "spr_ui_item_fish_giant_alligator_gar",
     "tags": [
       "fishable",

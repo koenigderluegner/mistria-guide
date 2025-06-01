@@ -1,8 +1,8 @@
 {
   "id": "seed_cucumber",
   "item": {
-    "description": "items/other/crops_and_forage/seed_cucumber/description",
-    "name": "items/other/crops_and_forage/seed_cucumber/name",
+    "description": "Cucumber seed. This fast growing summer crop can be harvested once.",
+    "name": "Cucumber Seed",
     "icon_sprite": "spr_ui_item_bagseed_cucumber_icon",
     "tags": [
       "seed"

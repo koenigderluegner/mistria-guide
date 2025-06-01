@@ -1,8 +1,8 @@
 {
   "id": "ornamental_sapphire_rock",
   "item": {
-    "description": "items/furniture/tide_set/ornamental_sapphire_rock/description",
-    "name": "items/furniture/tide_set/ornamental_sapphire_rock/name",
+    "description": "A decorative sapphire rock.",
+    "name": "Ornamental Sapphire Rock",
     "icon_sprite": "spr_ui_item_furniture_sapphire_rock",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "potato",
   "item": {
-    "description": "items/other/crops_and_forage/potato/description",
-    "name": "items/other/crops_and_forage/potato/name",
+    "description": "A popular spring crop and staple food. Especially delicious when freshly baked or fried until crispy.",
+    "name": "Potato",
     "icon_sprite": "spr_ui_item_potato",
     "tags": [
       "crop"

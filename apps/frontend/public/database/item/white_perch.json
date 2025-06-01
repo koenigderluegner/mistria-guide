@@ -1,8 +1,8 @@
 {
   "id": "white_perch",
   "item": {
-    "description": "items/fish/pond/white_perch/description",
-    "name": "items/fish/pond/white_perch/name",
+    "description": "A rare medium pond fish found in fall.",
+    "name": "White Perch",
     "icon_sprite": "spr_ui_item_fish_medium_white_perch",
     "tags": [
       "fishable",

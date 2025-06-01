@@ -1,8 +1,8 @@
 {
   "id": "lobster",
   "item": {
-    "description": "items/fish/ocean/lobster/description",
-    "name": "items/fish/ocean/lobster/name",
+    "description": "A common medium ocean crustacean found in spring.",
+    "name": "Lobster",
     "icon_sprite": "spr_ui_item_fish_medium_lobster",
     "tags": [
       "fishable",

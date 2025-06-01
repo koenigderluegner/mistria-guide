@@ -1,8 +1,8 @@
 {
   "id": "treasure_box_silver",
   "item": {
-    "description": "items/fish/misc/treasure_box_silver/description",
-    "name": "items/fish/misc/treasure_box_silver/name",
+    "description": "A rare silver treasure box. Open it to find out what's inside!",
+    "name": "Silver Treasure Box",
     "icon_sprite": "spr_ui_item_silver_chest"
   },
   "fish": {

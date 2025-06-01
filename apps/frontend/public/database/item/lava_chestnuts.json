@@ -1,8 +1,8 @@
 {
   "id": "lava_chestnuts",
   "item": {
-    "description": "items/mines/lava_caves/lava_chestnuts/description",
-    "name": "items/mines/lava_caves/lava_chestnuts/name",
+    "description": "These delicious chestnuts come pre-cooked!",
+    "name": "Lava Chestnuts",
     "icon_sprite": "spr_ui_item_lava_chestnut",
     "tags": [
       "forageable",

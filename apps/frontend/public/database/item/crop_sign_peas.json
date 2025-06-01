@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_peas",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_peas/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_peas/name",
+    "description": "A wooden sign featuring painted peas.",
+    "name": "Peas Sign",
     "icon_sprite": "spr_ui_item_crop_sign_peas",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "basic_dresser_oak",
   "item": {
-    "description": "items/furniture/basic_set/basic_dresser_oak/description",
-    "name": "items/furniture/basic_set/basic_dresser_oak/name",
+    "description": "A basic oak dresser.",
+    "name": "Basic Dresser",
     "icon_sprite": "spr_ui_item_furniture_basic_dresser_v1",
     "tags": [
       "furniture",

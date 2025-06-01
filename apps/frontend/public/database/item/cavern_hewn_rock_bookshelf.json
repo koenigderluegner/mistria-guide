@@ -1,8 +1,8 @@
 {
   "id": "cavern_hewn_rock_bookshelf",
   "item": {
-    "description": "items/furniture/cavern_set/cavern_hewn_rock_bookshelf/description",
-    "name": "items/furniture/cavern_set/cavern_hewn_rock_bookshelf/name",
+    "description": "A hewn rock bookshelf.",
+    "name": "Hewn Rock Bookshelf",
     "icon_sprite": "spr_ui_item_furniture_hewn_rock_bookshelf",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "grouper",
   "item": {
-    "description": "items/fish/ocean/grouper/description",
-    "name": "items/fish/ocean/grouper/name",
+    "description": "A rare giant ocean fish found in summer.",
+    "name": "Grouper",
     "icon_sprite": "spr_ui_item_fish_giant_grouper",
     "tags": [
       "fishable",

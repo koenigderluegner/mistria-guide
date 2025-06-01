@@ -1,8 +1,8 @@
 {
   "id": "copper_legplates",
   "item": {
-    "description": "items/other/armor/copper_legplates/description",
-    "name": "items/other/armor/copper_legplates/name",
+    "description": "A pair of copper legplates. Equip to increase defense.",
+    "name": "Copper Legplates",
     "icon_sprite": "spr_ui_item_equipment_copper_pants",
     "tags": [
       "legs",

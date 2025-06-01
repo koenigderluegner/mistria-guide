@@ -1,8 +1,8 @@
 {
   "id": "duck_egg",
   "item": {
-    "description": "items/other/ranching/duck_egg/description",
-    "name": "items/other/ranching/duck_egg/name",
+    "description": "An egg laid by a duck. Used as an ingredient for cooking a variety of dishes.",
+    "name": "Duck Egg",
     "icon_sprite": "spr_ui_item_duck_egg_regular",
     "tags": [
       "ranching",

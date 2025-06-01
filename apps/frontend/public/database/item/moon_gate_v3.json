@@ -1,8 +1,8 @@
 {
   "id": "moon_gate_v3",
   "item": {
-    "description": "items/furniture/no_set/moon_gate_v3/description",
-    "name": "items/furniture/no_set/moon_gate_v3/name",
+    "description": "A stone moon gate with a green tiled roof.",
+    "name": "Moon Gate",
     "icon_sprite": "spr_ui_item_decor_moon_gate_v3",
     "tags": [
       "furniture",

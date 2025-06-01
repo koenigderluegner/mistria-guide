@@ -1,8 +1,8 @@
 {
   "id": "cream_pet_bed",
   "item": {
-    "description": "items/furniture/pet_set/cream_pet_bed/description",
-    "name": "items/furniture/pet_set/cream_pet_bed/name",
+    "description": "A decorative cream pet bed. It's very cute!",
+    "name": "Cream Pet Bed",
     "icon_sprite": "spr_ui_item_decor_cream_pet_bed",
     "value": {
       "bin": 250,

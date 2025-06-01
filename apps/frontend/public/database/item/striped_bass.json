@@ -1,8 +1,8 @@
 {
   "id": "striped_bass",
   "item": {
-    "description": "items/fish/pond/striped_bass/description",
-    "name": "items/fish/pond/striped_bass/name",
+    "description": "A common large pond fish found in fall.",
+    "name": "Striped Bass",
     "icon_sprite": "spr_ui_item_fish_large_striped_bass",
     "tags": [
       "fishable",

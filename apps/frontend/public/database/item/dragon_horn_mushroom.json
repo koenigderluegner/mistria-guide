@@ -1,8 +1,8 @@
 {
   "id": "dragon_horn_mushroom",
   "item": {
-    "description": "items/other/misc/dragon_horn_mushroom/description",
-    "name": "items/other/misc/dragon_horn_mushroom/name",
+    "description": "Hard to find, but delicious!",
+    "name": "Dragon Horn Mushroom",
     "icon_sprite": "spr_ui_item_dragonshorn",
     "tags": [
       "mushroom"

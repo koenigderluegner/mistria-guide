@@ -1,8 +1,8 @@
 {
   "id": "mayonnaise",
   "item": {
-    "description": "items/other/mill/mayonnaise/description",
-    "name": "items/other/mill/mayonnaise/name",
+    "description": "A popular condiment made from chicken eggs. Used in a variety of cooking recipes.",
+    "name": "Mayonnaise",
     "icon_sprite": "spr_ui_item_mayonnaise",
     "tags": [
       "milling",

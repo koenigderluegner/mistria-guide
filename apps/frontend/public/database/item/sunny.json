@@ -1,8 +1,8 @@
 {
   "id": "sunny",
   "item": {
-    "description": "items/fish/deep_woods/sunny/description",
-    "name": "items/fish/deep_woods/sunny/name",
+    "description": "A common small Deep Woods fish found on rainy or snowy days in all seasons.",
+    "name": "Sunny",
     "icon_sprite": "spr_ui_item_fish_small_sunny",
     "tags": [
       "fishable",

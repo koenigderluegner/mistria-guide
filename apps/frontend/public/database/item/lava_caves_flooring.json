@@ -1,8 +1,8 @@
 {
   "id": "lava_caves_flooring",
   "item": {
-    "description": "items/furniture/lava_cave_set/lava_caves_flooring/description",
-    "name": "items/furniture/lava_cave_set/lava_caves_flooring/name",
+    "description": "A rock floor that mimics the look of the Lava Caves.",
+    "name": "Lava Rock Floor",
     "icon_sprite": "spr_ui_item_furniture_lava_caves_flooring",
     "tags": [
       "furniture",

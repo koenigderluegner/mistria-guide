@@ -1,8 +1,8 @@
 {
   "id": "small_bathmat_white",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/small_bathmat_white/description",
-    "name": "items/furniture/bathroom_furniture_set/small_bathmat_white/name",
+    "description": "A small white bathmat.",
+    "name": "Small Bathmat",
     "icon_sprite": "spr_ui_item_furniture_small_bathmat_white",
     "tags": [
       "furniture",

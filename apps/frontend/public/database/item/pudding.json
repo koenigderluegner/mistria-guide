@@ -1,8 +1,8 @@
 {
   "id": "pudding",
   "item": {
-    "description": "items/other/cooked_dishes/pudding/description",
-    "name": "items/other/cooked_dishes/pudding/name",
+    "description": "A creamy, sumptuous pudding.",
+    "name": "Pudding",
     "icon_sprite": "spr_ui_item_pudding",
     "tags": [
       "food",

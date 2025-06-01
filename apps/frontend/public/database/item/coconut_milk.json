@@ -1,8 +1,8 @@
 {
   "id": "coconut_milk",
   "item": {
-    "description": "items/other/cooked_dishes/coconut_milk/description",
-    "name": "items/other/cooked_dishes/coconut_milk/name",
+    "description": "A rich milk harvested from coconuts.",
+    "name": "Coconut Milk",
     "icon_sprite": "spr_ui_item_coconut_milk",
     "tags": [
       "drink",

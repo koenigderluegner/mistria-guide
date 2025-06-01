@@ -1,8 +1,8 @@
 {
   "id": "ladybug_table_v2",
   "item": {
-    "description": "items/furniture/insect_set/ladybug_table_v2/description",
-    "name": "items/furniture/insect_set/ladybug_table_v2/name",
+    "description": "A round wooden table with an inlaid blue ladybug design.",
+    "name": "Ladybug Table",
     "icon_sprite": "spr_ui_item_furniture_ladybug_table_v2",
     "tags": [
       "furniture",

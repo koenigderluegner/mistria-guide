@@ -1,8 +1,8 @@
 {
   "id": "herringbone_tile_floor_green",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/herringbone_tile_floor_green/description",
-    "name": "items/furniture/bathroom_furniture_set/herringbone_tile_floor_green/name",
+    "description": "Green herringbone tile flooring.",
+    "name": "Herringbone Tile Floor",
     "icon_sprite": "spr_ui_item_furniture_herringbone_tile_flooring_green",
     "tags": [
       "furniture",

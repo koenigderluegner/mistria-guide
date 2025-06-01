@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_catmint",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_catmint/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_catmint/name",
+    "description": "A wooden sign featuring a painted catmint.",
+    "name": "Catmint Sign",
     "icon_sprite": "spr_ui_item_crop_sign_catmint",
     "tags": [
       "furniture",

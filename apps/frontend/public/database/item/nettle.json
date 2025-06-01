@@ -1,8 +1,8 @@
 {
   "id": "nettle",
   "item": {
-    "description": "items/other/crops_and_forage/nettle/description",
-    "name": "items/other/crops_and_forage/nettle/name",
+    "description": "A wild plant foraged in spring with an earthy taste similar to spinach. Commonly used as a cooking ingredient.",
+    "name": "Nettle",
     "icon_sprite": "spr_ui_item_nettle",
     "tags": [
       "forageable"

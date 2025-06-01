@@ -1,8 +1,8 @@
 {
   "id": "poached_pear",
   "item": {
-    "description": "items/other/cooked_dishes/poached_pear/description",
-    "name": "items/other/cooked_dishes/poached_pear/name",
+    "description": "A pear soaked in syrup, with a sweet, melt-in-your-mouth texture.",
+    "name": "Poached Pear",
     "icon_sprite": "spr_ui_item_poached_pear",
     "tags": [
       "food",

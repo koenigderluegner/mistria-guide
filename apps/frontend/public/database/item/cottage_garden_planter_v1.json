@@ -1,8 +1,8 @@
 {
   "id": "cottage_garden_planter_v1",
   "item": {
-    "description": "items/furniture/cottage_garden_set/cottage_garden_planter_v1/description",
-    "name": "items/furniture/cottage_garden_set/cottage_garden_planter_v1/name",
+    "description": "A cottage garden planter made with warm-toned stone.",
+    "name": "Cottage Garden Planter",
     "icon_sprite": "spr_ui_item_decor_cottage_garden_planter_v1",
     "tags": [
       "furniture",

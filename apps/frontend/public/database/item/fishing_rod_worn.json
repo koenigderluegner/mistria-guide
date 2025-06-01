@@ -1,8 +1,8 @@
 {
   "id": "fishing_rod_worn",
   "item": {
-    "description": "items/other/blacksmithing/fishing_rod_worn/description",
-    "name": "items/other/blacksmithing/fishing_rod_worn/name",
+    "description": "A worn but still serviceable fish rod. It has a cast range of 6.",
+    "name": "Worn Fishing Rod",
     "icon_sprite": "spr_ui_item_tool_rusty_rod",
     "tags": [
       "fishing_rod",

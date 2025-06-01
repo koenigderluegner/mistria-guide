@@ -1,8 +1,8 @@
 {
   "id": "woodcrafting_station",
   "item": {
-    "description": "items/other/misc/woodcrafting_station/description",
-    "name": "items/other/misc/woodcrafting_station/name",
+    "description": "A crafting station used to craft furniture and decor of all levels.",
+    "name": "Crafting Station",
     "icon_sprite": "spr_ui_item_crafting_table",
     "value": {
       "bin": 500

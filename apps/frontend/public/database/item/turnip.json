@@ -1,8 +1,8 @@
 {
   "id": "turnip",
   "item": {
-    "description": "items/other/crops_and_forage/turnip/description",
-    "name": "items/other/crops_and_forage/turnip/name",
+    "description": "A fast growing spring crop. Has a spicy taste when raw, and a sweet taste when cooked.",
+    "name": "Turnip",
     "icon_sprite": "spr_ui_item_turnip",
     "tags": [
       "crop"

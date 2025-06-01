@@ -1,8 +1,8 @@
 {
   "id": "horseradish",
   "item": {
-    "description": "items/other/crops_and_forage/horseradish/description",
-    "name": "items/other/crops_and_forage/horseradish/name",
+    "description": "A wild plant foraged in fall. Has a spicy, pungent flavor. Commonly used as a cooking ingredient.",
+    "name": "Horseradish",
     "icon_sprite": "spr_ui_item_horseradish",
     "tags": [
       "forageable"

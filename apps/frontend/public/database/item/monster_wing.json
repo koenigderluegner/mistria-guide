@@ -1,8 +1,8 @@
 {
   "id": "monster_wing",
   "item": {
-    "description": "items/other/monster_drops/monster_wing/description",
-    "name": "items/other/monster_drops/monster_wing/name",
+    "description": "A magic wing sometimes dropped by Essence Bats. Used in certain crafting recipes.",
+    "name": "Monster Wing",
     "icon_sprite": "spr_ui_item_monster_wing",
     "tags": [
       "monster_part",

@@ -1,8 +1,8 @@
 {
   "id": "bathroom_wall_towel_brown",
   "item": {
-    "description": "items/furniture/bathroom_furniture_set/bathroom_wall_towel_brown/description",
-    "name": "items/furniture/bathroom_furniture_set/bathroom_wall_towel_brown/name",
+    "description": "A brown bathroom wall towel.",
+    "name": "Bathroom Wall Towel",
     "icon_sprite": "spr_ui_item_furniture_bathroom_wall_towel_brown",
     "tags": [
       "furniture",

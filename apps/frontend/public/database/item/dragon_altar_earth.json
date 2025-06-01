@@ -1,8 +1,8 @@
 {
   "id": "dragon_altar_earth",
   "item": {
-    "description": "items/furniture/dragon_altar_set/dragon_altar_earth/description",
-    "name": "items/furniture/dragon_altar_set/dragon_altar_earth/name",
+    "description": "A replica dragon claw altar, matching the earth seal room.",
+    "name": "Dragon Claw Altar",
     "icon_sprite": "spr_ui_item_decor_earth_seal_altar",
     "tags": [
       "furniture",

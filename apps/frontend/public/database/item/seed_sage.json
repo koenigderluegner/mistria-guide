@@ -1,8 +1,8 @@
 {
   "id": "seed_sage",
   "item": {
-    "description": "items/other/crops_and_forage/seed_sage/description",
-    "name": "items/other/crops_and_forage/seed_sage/name",
+    "description": "Sage seed. This summer crop can be harvested every 3 days once it reaches maturity.",
+    "name": "Sage Seed",
     "icon_sprite": "spr_ui_item_bagseed_sage_icon",
     "tags": [
       "seed"

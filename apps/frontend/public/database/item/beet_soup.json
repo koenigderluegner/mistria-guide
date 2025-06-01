@@ -1,8 +1,8 @@
 {
   "id": "beet_soup",
   "item": {
-    "description": "items/other/cooked_dishes/beet_soup/description",
-    "name": "items/other/cooked_dishes/beet_soup/name",
+    "description": "A vividly colored soup that's delicious and healthy.",
+    "name": "Beet Soup",
     "icon_sprite": "spr_ui_item_beet_soup",
     "tags": [
       "soup",

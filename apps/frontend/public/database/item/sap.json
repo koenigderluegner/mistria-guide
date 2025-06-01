@@ -1,8 +1,8 @@
 {
   "id": "sap",
   "item": {
-    "description": "items/other/monster_drops/sap/description",
-    "name": "items/other/monster_drops/sap/name",
+    "description": "A drip of sticky sap, sometimes dropped by Saplings. Used in a variety of crafting recipes.",
+    "name": "Sap",
     "icon_sprite": "spr_ui_item_sap",
     "tags": [
       "junk",

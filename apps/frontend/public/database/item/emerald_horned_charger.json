@@ -1,8 +1,8 @@
 {
   "id": "emerald_horned_charger",
   "item": {
-    "description": "items/mines/deep_earth/emerald_horned_charger/description",
-    "name": "items/mines/deep_earth/emerald_horned_charger/name",
+    "description": "A rare large Deep Earth fish. This large fish is nearly all horn, which seems to be made of pure emerald.",
+    "name": "Emerald-Horned Charger",
     "icon_sprite": "spr_ui_item_fish_large_emerald_horned_charger",
     "tags": [
       "fishable"

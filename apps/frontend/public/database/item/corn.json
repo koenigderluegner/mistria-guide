@@ -1,8 +1,8 @@
 {
   "id": "corn",
   "item": {
-    "description": "items/other/crops_and_forage/corn/description",
-    "name": "items/other/crops_and_forage/corn/name",
+    "description": "A popular summer crop and staple food. Used as a key ingredient in many cooking recipes.",
+    "name": "Corn",
     "icon_sprite": "spr_ui_item_corn",
     "tags": [
       "crop"

@@ -1,8 +1,8 @@
 {
   "id": "cod",
   "item": {
-    "description": "items/fish/ocean/cod/description",
-    "name": "items/fish/ocean/cod/name",
+    "description": "A common large ocean fish found in summer and winter.",
+    "name": "Cod",
     "icon_sprite": "spr_ui_item_fish_large_cod",
     "tags": [
       "fishable",

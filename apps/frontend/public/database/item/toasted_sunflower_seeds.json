@@ -1,8 +1,8 @@
 {
   "id": "toasted_sunflower_seeds",
   "item": {
-    "description": "items/other/cooked_dishes/toasted_sunflower_seeds/description",
-    "name": "items/other/cooked_dishes/toasted_sunflower_seeds/name",
+    "description": "Salted and toasted, these sunflower seeds are best by the handful.",
+    "name": "Toasted Sunflower Seeds",
     "icon_sprite": "spr_ui_item_toasted_sunflower_seeds",
     "tags": [
       "food",

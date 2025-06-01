@@ -1,8 +1,8 @@
 {
   "id": "mushroom_rice",
   "item": {
-    "description": "items/other/cooked_dishes/mushroom_rice/description",
-    "name": "items/other/cooked_dishes/mushroom_rice/name",
+    "description": "This fluffy mushroom rice has a nutty, toasted flavor.",
+    "name": "Mushroom Rice",
     "icon_sprite": "spr_ui_item_mushroomrice",
     "tags": [
       "food",

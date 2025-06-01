@@ -1,8 +1,8 @@
 {
   "id": "axe_iron",
   "item": {
-    "description": "items/other/blacksmithing/axe_iron/description",
-    "name": "items/other/blacksmithing/axe_iron/name",
+    "description": "An iron axe. Can be charged to chop a 3x3 area.",
+    "name": "Iron Axe",
     "icon_sprite": "spr_ui_item_tool_iron_axe",
     "tags": [
       "axe",

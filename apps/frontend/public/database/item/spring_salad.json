@@ -1,8 +1,8 @@
 {
   "id": "spring_salad",
   "item": {
-    "description": "items/other/cooked_dishes/spring_salad/description",
-    "name": "items/other/cooked_dishes/spring_salad/name",
+    "description": "This blend of wild vegetables highlights the taste of spring.",
+    "name": "Spring Salad",
     "icon_sprite": "spr_ui_item_springsalad",
     "tags": [
       "food",

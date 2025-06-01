@@ -1,8 +1,8 @@
 {
   "id": "cottage_fridge_ash",
   "item": {
-    "description": "items/furniture/lovely_cottage_set/cottage_fridge_ash/description",
-    "name": "items/furniture/lovely_cottage_set/cottage_fridge_ash/name",
+    "description": "A lovely soft pink icebox. Used for storage.",
+    "name": "Lovely Cottage Icebox",
     "icon_sprite": "spr_ui_item_furniture_cottage_fridge_v2",
     "tags": [
       "furniture",

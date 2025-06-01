@@ -1,8 +1,8 @@
 {
   "id": "winter_stew",
   "item": {
-    "description": "items/other/cooked_dishes/winter_stew/description",
-    "name": "items/other/cooked_dishes/winter_stew/name",
+    "description": "A hearty stew loaded with winter vegetables.",
+    "name": "Winter Stew",
     "icon_sprite": "spr_ui_item_winter_stew",
     "tags": [
       "food",

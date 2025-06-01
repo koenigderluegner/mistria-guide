@@ -1,8 +1,8 @@
 {
   "id": "picnic_rug_red",
   "item": {
-    "description": "items/furniture/decor_picnic_set/picnic_rug_red/description",
-    "name": "items/furniture/decor_picnic_set/picnic_rug_red/name",
+    "description": "A cute red gingham picnic blanket.",
+    "name": "Picnic Blanket",
     "icon_sprite": "spr_ui_item_picnic_rug_red",
     "tags": [
       "furniture",

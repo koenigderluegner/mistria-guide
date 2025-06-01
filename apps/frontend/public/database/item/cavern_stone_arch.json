@@ -1,8 +1,8 @@
 {
   "id": "cavern_stone_arch",
   "item": {
-    "description": "items/furniture/cavern_set/cavern_stone_arch/description",
-    "name": "items/furniture/cavern_set/cavern_stone_arch/name",
+    "description": "A stone arch with stalactites.",
+    "name": "Stalactite Arch",
     "icon_sprite": "spr_ui_item_furniture_stone_arch",
     "tags": [
       "furniture",

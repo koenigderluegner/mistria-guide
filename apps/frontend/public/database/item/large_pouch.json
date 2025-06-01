@@ -1,8 +1,8 @@
 {
   "id": "large_pouch",
   "item": {
-    "description": "items/other/misc/large_pouch/description",
-    "name": "items/other/misc/large_pouch/name",
+    "description": "Use this item to increase your inventory size by 10 slots!",
+    "name": "Bag Upgrade",
     "icon_sprite": "spr_ui_item_large_pouch",
     "value": {
       "store": 2000

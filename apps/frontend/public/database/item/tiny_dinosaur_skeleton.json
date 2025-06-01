@@ -1,8 +1,8 @@
 {
   "id": "tiny_dinosaur_skeleton",
   "item": {
-    "description": "items/other/artifacts/tiny_dinosaur_skeleton/description",
-    "name": "items/other/artifacts/tiny_dinosaur_skeleton/name",
+    "description": "A rare artifact. Definitely not just a lizard.",
+    "name": "Tiny Dinosaur Skeleton",
     "icon_sprite": "spr_ui_item_tiny_dinosaur_skeleton",
     "tags": [
       "archaeology"

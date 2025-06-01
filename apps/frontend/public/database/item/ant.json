@@ -1,8 +1,8 @@
 {
   "id": "ant",
   "item": {
-    "description": "items/other/bugs/ant/description",
-    "name": "items/other/bugs/ant/name",
+    "description": "A common insect found in all seasons but winter.",
+    "name": "Ant",
     "icon_sprite": "spr_ui_item_insect_ant",
     "tags": [
       "bugs"

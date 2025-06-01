@@ -1,8 +1,8 @@
 {
   "id": "warm_rock",
   "item": {
-    "description": "items/mines/lava_caves/warm_rock/description",
-    "name": "items/mines/lava_caves/warm_rock/name",
+    "description": "A common Lava Caves artifact. This rock is ordinary in appearance, but it remains perpetually warm to the touch.",
+    "name": "Warm Rock",
     "icon_sprite": "spr_ui_item_warm_rock",
     "tags": [
       "archaeology"

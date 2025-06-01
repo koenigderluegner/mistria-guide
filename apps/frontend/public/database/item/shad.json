@@ -1,8 +1,8 @@
 {
   "id": "shad",
   "item": {
-    "description": "items/fish/river/shad/description",
-    "name": "items/fish/river/shad/name",
+    "description": "A common medium river fish found in fall.",
+    "name": "Shad",
     "icon_sprite": "spr_ui_item_fish_medium_shad",
     "tags": [
       "fishable",

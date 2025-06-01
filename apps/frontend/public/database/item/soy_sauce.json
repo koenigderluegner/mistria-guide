@@ -1,8 +1,8 @@
 {
   "id": "soy_sauce",
   "item": {
-    "description": "items/other/materials/soy_sauce/description",
-    "name": "items/other/materials/soy_sauce/name",
+    "description": "A tasty and essential condiment. Used in cooking recipes.",
+    "name": "Soy Sauce",
     "icon_sprite": "spr_ui_item_soy_sauce",
     "tags": [
       "pantry",

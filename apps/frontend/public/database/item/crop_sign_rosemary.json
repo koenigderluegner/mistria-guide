@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_rosemary",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_rosemary/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_rosemary/name",
+    "description": "A wooden sign featuring painted rosemary.",
+    "name": "Rosemary Sign",
     "icon_sprite": "spr_ui_item_crop_sign_rosemary",
     "tags": [
       "furniture",

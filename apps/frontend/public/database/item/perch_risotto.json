@@ -1,8 +1,8 @@
 {
   "id": "perch_risotto",
   "item": {
-    "description": "items/other/cooked_dishes/perch_risotto/description",
-    "name": "items/other/cooked_dishes/perch_risotto/name",
+    "description": "This delicate perch filet is perfectly paired with creamy risotto.",
+    "name": "Perch Risotto",
     "icon_sprite": "spr_ui_item_perch_risotto",
     "tags": [
       "food",

@@ -1,8 +1,8 @@
 {
   "id": "chickpea_curry",
   "item": {
-    "description": "items/other/cooked_dishes/chickpea_curry/description",
-    "name": "items/other/cooked_dishes/chickpea_curry/name",
+    "description": "A rich, flavorful curry that's popular all over Aldaria.",
+    "name": "Chickpea Curry",
     "icon_sprite": "spr_ui_item_chickpea_curry",
     "tags": [
       "food",

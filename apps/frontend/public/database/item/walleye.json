@@ -1,8 +1,8 @@
 {
   "id": "walleye",
   "item": {
-    "description": "items/fish/river/walleye/description",
-    "name": "items/fish/river/walleye/name",
+    "description": "A common large river fish found on rainy days in spring.",
+    "name": "Walleye",
     "icon_sprite": "spr_ui_item_fish_large_walleye",
     "tags": [
       "fishable",

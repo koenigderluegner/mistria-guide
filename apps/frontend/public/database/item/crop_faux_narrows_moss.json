@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_narrows_moss",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_narrows_moss/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_narrows_moss/name",
+    "description": "A decorative faux clump of narrows moss.",
+    "name": "Faux Narrows Moss",
     "icon_sprite": "spr_ui_item_decor_crop_faux_narrows_moss",
     "tags": [
       "furniture",

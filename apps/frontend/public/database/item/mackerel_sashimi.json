@@ -1,8 +1,8 @@
 {
   "id": "mackerel_sashimi",
   "item": {
-    "description": "items/other/cooked_dishes/mackerel_sashimi/description",
-    "name": "items/other/cooked_dishes/mackerel_sashimi/name",
+    "description": "An expertly cut slice of premium mackerel.",
+    "name": "Mackerel Sashimi",
     "icon_sprite": "spr_ui_item_mackerel_sashimi",
     "tags": [
       "food",

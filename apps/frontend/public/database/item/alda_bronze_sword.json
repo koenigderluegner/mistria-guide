@@ -1,8 +1,8 @@
 {
   "id": "alda_bronze_sword",
   "item": {
-    "description": "items/other/artifacts/alda_bronze_sword/description",
-    "name": "items/other/artifacts/alda_bronze_sword/name",
+    "description": "A rare artifact. Its intricate carvings and blue-green patina give this sword an otherworldly appearance.",
+    "name": "Alda Bronze Sword",
     "icon_sprite": "spr_ui_item_alda_bronze_sword",
     "tags": [
       "archaeology"

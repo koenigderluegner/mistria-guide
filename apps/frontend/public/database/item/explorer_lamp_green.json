@@ -1,8 +1,8 @@
 {
   "id": "explorer_lamp_green",
   "item": {
-    "description": "items/furniture/explorer_set/explorer_lamp_green/description",
-    "name": "items/furniture/explorer_set/explorer_lamp_green/name",
+    "description": "A green explorer's standing lamp.",
+    "name": "Explorer Lamp",
     "icon_sprite": "spr_ui_item_furniture_explorer_lamp_green",
     "tags": [
       "furniture",

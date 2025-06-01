@@ -1,8 +1,8 @@
 {
   "id": "cow_plushie",
   "item": {
-    "description": "items/other/festivals/cow_plushie/description",
-    "name": "items/other/festivals/cow_plushie/name",
+    "description": "A cute cow plushie. Awarded at the Animal Festival.",
+    "name": "Cow Plushie",
     "icon_sprite": "spr_ui_item_decor_cow_plushie",
     "tags": [
       "furniture"

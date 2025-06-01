@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_garlic",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_garlic/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_garlic/name",
+    "description": "A decorative faux garlic plant.",
+    "name": "Faux Garlic",
     "icon_sprite": "spr_ui_item_decor_crop_faux_garlic",
     "tags": [
       "furniture",

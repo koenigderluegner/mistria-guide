@@ -1,8 +1,8 @@
 {
   "id": "color_paving_stone_v02",
   "item": {
-    "description": "items/furniture/color_paving_stone_set/color_paving_stone_v02/description",
-    "name": "items/furniture/color_paving_stone_set/color_paving_stone_v02/name",
+    "description": "A small red paving stone.",
+    "name": "Color Paving Stone",
     "icon_sprite": "spr_ui_item_decor_floor_tile_small_02",
     "tags": [
       "furniture",

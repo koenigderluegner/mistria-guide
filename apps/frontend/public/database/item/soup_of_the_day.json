@@ -1,8 +1,8 @@
 {
   "id": "soup_of_the_day",
   "item": {
-    "description": "items/other/misc/soup_of_the_day/description",
-    "name": "items/other/misc/soup_of_the_day/name",
+    "description": "This shouldn't be in your inventory...",
+    "name": "Soup of the Day",
     "icon_sprite": "spr_ui_item_vegetablesoup",
     "tags": [
       "drink_sound"

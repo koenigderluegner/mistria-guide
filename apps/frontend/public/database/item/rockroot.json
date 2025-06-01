@@ -1,8 +1,8 @@
 {
   "id": "rockroot",
   "item": {
-    "description": "items/mines/deep_earth/rockroot/description",
-    "name": "items/mines/deep_earth/rockroot/name",
+    "description": "It's hard to tell if this is part of a living plant or if it just resembles one.",
+    "name": "Rockroot",
     "icon_sprite": "spr_ui_item_rockroot",
     "tags": [
       "forageable",

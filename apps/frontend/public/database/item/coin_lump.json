@@ -1,8 +1,8 @@
 {
   "id": "coin_lump",
   "item": {
-    "description": "items/other/artifacts/coin_lump/description",
-    "name": "items/other/artifacts/coin_lump/name",
+    "description": "An uncommon artifact. A mass of old coins, fused together by time.",
+    "name": "Coin Lump",
     "icon_sprite": "spr_ui_item_coin_lump",
     "tags": [
       "archaeology"

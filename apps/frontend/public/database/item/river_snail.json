@@ -1,8 +1,8 @@
 {
   "id": "river_snail",
   "item": {
-    "description": "items/other/bugs/river_snail/description",
-    "name": "items/other/bugs/river_snail/name",
+    "description": "A common river gastropod found in all seasons.",
+    "name": "River Snail",
     "icon_sprite": "spr_ui_item_dive_snail",
     "tags": [
       "dive",

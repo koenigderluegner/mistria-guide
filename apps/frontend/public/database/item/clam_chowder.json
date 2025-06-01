@@ -1,8 +1,8 @@
 {
   "id": "clam_chowder",
   "item": {
-    "description": "items/other/cooked_dishes/clam_chowder/description",
-    "name": "items/other/cooked_dishes/clam_chowder/name",
+    "description": "A rich and creamy chowder with savory clam meat.",
+    "name": "Clam Chowder",
     "icon_sprite": "spr_ui_item_clam_chowder",
     "tags": [
       "food",

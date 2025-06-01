@@ -1,8 +1,8 @@
 {
   "id": "fishing_rod_mistril",
   "item": {
-    "description": "items/other/blacksmithing/fishing_rod_mistril/description",
-    "name": "items/other/blacksmithing/fishing_rod_mistril/name",
+    "description": "A fishing rod made from mistril. It has a cast range of 16.",
+    "name": "Mistril Fishing Rod",
     "icon_sprite": "spr_ui_item_tool_mistril_rod",
     "value": {
       "bin": 1450,

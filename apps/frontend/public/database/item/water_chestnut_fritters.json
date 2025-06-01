@@ -1,8 +1,8 @@
 {
   "id": "water_chestnut_fritters",
   "item": {
-    "description": "items/other/cooked_dishes/water_chestnut_fritters/description",
-    "name": "items/other/cooked_dishes/water_chestnut_fritters/name",
+    "description": "These crispy water chestnuts feature a thick fried coating.",
+    "name": "Water Chestnut Fritters",
     "icon_sprite": "spr_ui_item_water_chestnut_fritters",
     "tags": [
       "food",

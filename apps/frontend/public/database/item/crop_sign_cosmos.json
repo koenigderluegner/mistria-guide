@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_cosmos",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_cosmos/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_cosmos/name",
+    "description": "A wooden sign featuring a painted cosmos.",
+    "name": "Cosmos Sign",
     "icon_sprite": "spr_ui_item_crop_sign_cosmos",
     "tags": [
       "furniture",

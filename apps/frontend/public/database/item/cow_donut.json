@@ -1,8 +1,8 @@
 {
   "id": "cow_donut",
   "item": {
-    "description": "items/other/festivals/cow_donut/description",
-    "name": "items/other/festivals/cow_donut/name",
+    "description": "A cream-filled donut shaped like a cow. This Animal Festival treat is loved by everyone.",
+    "name": "Cow-Shaped Donut",
     "icon_sprite": "spr_ui_item_cow_donut",
     "value": {
       "bin": 300,

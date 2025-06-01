@@ -1,8 +1,8 @@
 {
   "id": "deep_earthworm",
   "item": {
-    "description": "items/mines/deep_earth/deep_earthworm/description",
-    "name": "items/mines/deep_earth/deep_earthworm/name",
+    "description": "An uncommon Deep Earth insect. It's completely unlike its surface-dwelling cousin... if you're a worm expert.",
+    "name": "Deep Earthworm",
     "icon_sprite": "spr_ui_item_insect_deep_earthworm",
     "tags": [
       "bugs"

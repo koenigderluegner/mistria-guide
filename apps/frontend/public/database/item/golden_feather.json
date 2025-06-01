@@ -1,8 +1,8 @@
 {
   "id": "golden_feather",
   "item": {
-    "description": "items/other/ranching/golden_feather/description",
-    "name": "items/other/ranching/golden_feather/name",
+    "description": "A gold quality feather dropped by a rooster. Used in high level cooking and crafting recipes.",
+    "name": "Golden Rooster Feather",
     "icon_sprite": "spr_ui_item_chicken_feather_gold",
     "tags": [
       "ranching",

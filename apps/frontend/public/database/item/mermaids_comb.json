@@ -1,8 +1,8 @@
 {
   "id": "mermaids_comb",
   "item": {
-    "description": "items/other/artifacts/mermaids_comb/description",
-    "name": "items/other/artifacts/mermaids_comb/name",
+    "description": "An uncommon artifact. Looks suspiciously like a fork.",
+    "name": "Mermaid's Comb",
     "icon_sprite": "spr_ui_item_mermaids_comb",
     "tags": [
       "archaeology"

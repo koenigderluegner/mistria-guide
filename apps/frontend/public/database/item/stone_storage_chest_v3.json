@@ -1,8 +1,8 @@
 {
   "id": "stone_storage_chest_v3",
   "item": {
-    "description": "items/furniture/stone_set/stone_storage_chest_v3/description",
-    "name": "items/furniture/stone_set/stone_storage_chest_v3/name",
+    "description": "A stone storage chest.",
+    "name": "Stone Storage Chest",
     "icon_sprite": "spr_ui_item_decor_stone_storage_chest_v3",
     "tags": [
       "furniture",

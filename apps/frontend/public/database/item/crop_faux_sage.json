@@ -1,8 +1,8 @@
 {
   "id": "crop_faux_sage",
   "item": {
-    "description": "items/furniture/faux_plant_set/crop_faux_sage/description",
-    "name": "items/furniture/faux_plant_set/crop_faux_sage/name",
+    "description": "A decorative faux sage plant.",
+    "name": "Faux Sage",
     "icon_sprite": "spr_ui_item_decor_crop_faux_sage",
     "tags": [
       "furniture",

@@ -1,8 +1,8 @@
 {
   "id": "sunflower",
   "item": {
-    "description": "items/other/crops_and_forage/sunflower/description",
-    "name": "items/other/crops_and_forage/sunflower/name",
+    "description": "A cheerful yellow flower that grows in the summer. Can be used in cooking or crafting recipes.",
+    "name": "Sunflower",
     "icon_sprite": "spr_ui_item_sunflower",
     "tags": [
       "crop",

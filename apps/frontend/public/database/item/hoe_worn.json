@@ -1,8 +1,8 @@
 {
   "id": "hoe_worn",
   "item": {
-    "description": "items/other/blacksmithing/hoe_worn/description",
-    "name": "items/other/blacksmithing/hoe_worn/name",
+    "description": "A worn but still serviceable hoe. Used to till dirt in preparation for planting seeds.",
+    "name": "Worn Hoe",
     "icon_sprite": "spr_ui_item_tool_rusty_hoe",
     "tags": [
       "hoe",

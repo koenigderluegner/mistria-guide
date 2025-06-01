@@ -1,8 +1,8 @@
 {
   "id": "cranberry",
   "item": {
-    "description": "items/other/crops_and_forage/cranberry/description",
-    "name": "items/other/crops_and_forage/cranberry/name",
+    "description": "A fall crop that regrows. Has a tart, fruity flavor. Commonly used as a cooking ingredient.",
+    "name": "Cranberry",
     "icon_sprite": "spr_ui_item_cranberry",
     "tags": [
       "crop",

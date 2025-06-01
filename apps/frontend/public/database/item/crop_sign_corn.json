@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_corn",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_corn/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_corn/name",
+    "description": "A wooden sign featuring a painted corn.",
+    "name": "Corn Sign",
     "icon_sprite": "spr_ui_item_crop_sign_corn",
     "tags": [
       "furniture",

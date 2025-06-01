@@ -1,8 +1,8 @@
 {
   "id": "beet",
   "item": {
-    "description": "items/other/crops_and_forage/beet/description",
-    "name": "items/other/crops_and_forage/beet/name",
+    "description": "A fast growing winter crop. Has a strong earthy flavor. Commonly used as a cooking ingredient.",
+    "name": "Beet",
     "icon_sprite": "spr_ui_item_beet",
     "tags": [
       "crop"

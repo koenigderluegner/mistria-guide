@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_carrot",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_carrot/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_carrot/name",
+    "description": "A wooden sign featuring a painted carrot.",
+    "name": "Carrot Sign",
     "icon_sprite": "spr_ui_item_crop_sign_carrot",
     "tags": [
       "furniture",

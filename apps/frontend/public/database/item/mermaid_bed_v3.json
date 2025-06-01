@@ -1,8 +1,8 @@
 {
   "id": "mermaid_bed_v3",
   "item": {
-    "description": "items/furniture/mermaid_set/mermaid_bed_v3/description",
-    "name": "items/furniture/mermaid_set/mermaid_bed_v3/name",
+    "description": "A pink & mint mermaid bed with a shell headboard and gold trim.",
+    "name": "Mermaid Single Bed",
     "icon_sprite": "spr_ui_item_furniture_mermaid_bed_v3",
     "tags": [
       "furniture",

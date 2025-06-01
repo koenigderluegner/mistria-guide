@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_celosia",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_celosia/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_celosia/name",
+    "description": "A wooden sign featuring a painted celosia.",
+    "name": "Celosia Sign",
     "icon_sprite": "spr_ui_item_crop_sign_celosia",
     "tags": [
       "furniture",

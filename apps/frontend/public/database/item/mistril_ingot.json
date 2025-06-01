@@ -1,8 +1,8 @@
 {
   "id": "mistril_ingot",
   "item": {
-    "description": "items/other/blacksmithing/mistril_ingot/description",
-    "name": "items/other/blacksmithing/mistril_ingot/name",
+    "description": "An ingot of pure mistril. Used in a variety of blacksmithing and crafting recipes.",
+    "name": "Mistril Ingot",
     "icon_sprite": "spr_ui_item_mistril_ingot",
     "value": {
       "bin": 330,

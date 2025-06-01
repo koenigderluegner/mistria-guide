@@ -1,8 +1,8 @@
 {
   "id": "earthshroom",
   "item": {
-    "description": "items/mines/deep_earth/earthshroom/description",
-    "name": "items/mines/deep_earth/earthshroom/name",
+    "description": "These mushrooms grow in dense clusters, and smell strongly of earth.",
+    "name": "Earthshroom",
     "icon_sprite": "spr_ui_item_earthshroom",
     "tags": [
       "forageable",

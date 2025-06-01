@@ -1,8 +1,8 @@
 {
   "id": "butterfly_wall_lamp_silver",
   "item": {
-    "description": "items/furniture/insect_set/butterfly_wall_lamp_silver/description",
-    "name": "items/furniture/insect_set/butterfly_wall_lamp_silver/name",
+    "description": "A silver wall lamp shaped like a butterfly.",
+    "name": "Butterfly Wall Lamp",
     "icon_sprite": "spr_ui_item_decor_butterfly_wall_lamp_silver",
     "tags": [
       "furniture",

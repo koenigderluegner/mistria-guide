@@ -1,8 +1,8 @@
 {
   "id": "cloth_helmet",
   "item": {
-    "description": "items/other/armor/cloth_helmet/description",
-    "name": "items/other/armor/cloth_helmet/name",
+    "description": "A cloth helmet. It's basically useless.",
+    "name": "Cloth Helmet",
     "icon_sprite": "spr_ui_item_equipment_cloth_helmet",
     "tags": [
       "head",

@@ -1,8 +1,8 @@
 {
   "id": "bonito",
   "item": {
-    "description": "items/fish/ocean/bonito/description",
-    "name": "items/fish/ocean/bonito/name",
+    "description": "A common medium ocean fish found in summer and winter.",
+    "name": "Bonito",
     "icon_sprite": "spr_ui_item_fish_medium_bonito",
     "tags": [
       "fishable",

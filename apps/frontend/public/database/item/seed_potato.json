@@ -1,8 +1,8 @@
 {
   "id": "seed_potato",
   "item": {
-    "description": "items/other/crops_and_forage/seed_potato/description",
-    "name": "items/other/crops_and_forage/seed_potato/name",
+    "description": "Potato seed. This popular spring crop can be harvested once.",
+    "name": "Potato Seed",
     "icon_sprite": "spr_ui_item_bagseed_potato_icon",
     "tags": [
       "seed"

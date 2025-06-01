@@ -1,8 +1,8 @@
 {
   "id": "crop_sign_strawberry",
   "item": {
-    "description": "items/furniture/crop_signs_set/crop_sign_strawberry/description",
-    "name": "items/furniture/crop_signs_set/crop_sign_strawberry/name",
+    "description": "A wooden sign featuring a painted strawberry.",
+    "name": "Strawberry Sign",
     "icon_sprite": "spr_ui_item_crop_sign_strawberry",
     "tags": [
       "furniture",

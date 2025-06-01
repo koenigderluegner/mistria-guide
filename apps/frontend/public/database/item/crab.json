@@ -1,8 +1,8 @@
 {
   "id": "crab",
   "item": {
-    "description": "items/fish/ocean/crab/description",
-    "name": "items/fish/ocean/crab/name",
+    "description": "A common small ocean crustacean found in summer.",
+    "name": "Crab",
     "icon_sprite": "spr_ui_item_fish_small_crab",
     "tags": [
       "fishable",
