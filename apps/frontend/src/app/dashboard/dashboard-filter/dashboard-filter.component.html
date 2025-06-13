@@ -11,20 +11,21 @@
 
 
   <div class="flex flex-col gap-2">
-    <label for="dashboard-day">Day</label>
-    <mat-select disableOptionCentering formControlName="season">
+    <label for="dashboard-season">Season</label>
+    <mat-select id="dashboard-season" disableOptionCentering formControlName="season">
       @for (seasonOption of Seasons; track seasonOption) {
         <mat-option [value]="seasonOption">{{ seasonOption }}</mat-option>
       }
     </mat-select>
   </div>
   <div class="flex flex-col gap-2">
-    <label for="dashboard-day">Day</label>
-    <input formControlName="year" inputmode="number" matInput min="1" pattern="[0-9]" type="number" />
+    <label for="dashboard-year">Year</label>
+    <input id="dashboard-year" formControlName="year" inputmode="number" matInput min="1" pattern="[0-9]"
+           type="number" />
   </div>
   <div class="flex flex-col gap-2">
-    <label for="dashboard-day">Day</label>
-    <mat-select disableOptionCentering formControlName="weather">
+    <label for="dashboard-weather">Weather</label>
+    <mat-select id="dashboard-weather" disableOptionCentering formControlName="weather">
       @for (weatherOption of Weathers; track weatherOption) {
         <mat-option [value]="weatherOption">{{ weatherOption }}</mat-option>
       }
