@@ -1,1 +1,18 @@
 <app-dashboard-filter class="my-5 block" [parentFormGroup]="fromGroup" />
+
+<section>
+  <h3 class="section-title mb-2">Bugs</h3>
+  <div class="flex gap-2 flex-wrap">
+    @for (bug of bugs(); track bug) {
+      <app-list-entry-item [item]="bug.item" />
+    }
+  </div>
+</section>
+<section class="mt-5">
+  <h3 class="section-title mb-2">Fish</h3>
+  <div class="flex gap-2 flex-wrap">
+    @for (fish of fish(); track fish) {
+      <app-list-entry-item [item]="fish.item" />
+    }
+  </div>
+</section>
