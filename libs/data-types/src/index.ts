@@ -1,6 +1,7 @@
 export * from './generated/index';
 export * from './animal';
 export * from './bug';
+export * from './dashboard';
 export * from './db-item';
 export * from './fish';
 export * from './in-game-date';

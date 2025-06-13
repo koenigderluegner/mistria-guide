@@ -1,0 +1,4024 @@
+{
+  "bugs": [
+    {
+      "id": "fire_wasp",
+      "item": {
+        "id": "fire_wasp",
+        "name": "Fire Wasp",
+        "icon_sprite": "spr_ui_item_insect_fire_wasp"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "cooktop_beetle",
+      "item": {
+        "id": "cooktop_beetle",
+        "name": "Cooktop Beetle",
+        "icon_sprite": "spr_ui_item_insect_cooktop_beetle"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "lava_snail",
+      "item": {
+        "id": "lava_snail",
+        "name": "Lava Snail",
+        "icon_sprite": "spr_ui_item_insect_lava_snail"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "smoke_moth",
+      "item": {
+        "id": "smoke_moth",
+        "name": "Smoke Moth",
+        "icon_sprite": "spr_ui_item_insect_smoke_moth"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "diamond_beetle",
+      "item": {
+        "id": "diamond_beetle",
+        "name": "Diamond Beetle",
+        "icon_sprite": "spr_ui_item_insect_diamond_beetle"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "rock_roach",
+      "item": {
+        "id": "rock_roach",
+        "name": "Rock Roach",
+        "icon_sprite": "spr_ui_item_insect_rock_roach"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "deep_earthworm",
+      "item": {
+        "id": "deep_earthworm",
+        "name": "Deep Earthworm",
+        "icon_sprite": "spr_ui_item_insect_deep_earthworm"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "crystalline_cricket",
+      "item": {
+        "id": "crystalline_cricket",
+        "name": "Crystalline Cricket",
+        "icon_sprite": "spr_ui_item_insect_crystalline_cricket"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "gem_shard_caterpillar",
+      "item": {
+        "id": "gem_shard_caterpillar",
+        "name": "Gem Shard Caterpillar",
+        "icon_sprite": "spr_ui_item_insect_gem_shard_caterpillar"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "crystal_wing_moth",
+      "item": {
+        "id": "crystal_wing_moth",
+        "name": "Crystal Wing Moth",
+        "icon_sprite": "spr_ui_item_insect_crystal_wing_moth"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "sea_scarab",
+      "item": {
+        "id": "sea_scarab",
+        "name": "Sea Scarab",
+        "icon_sprite": "spr_ui_item_insect_sea_scarab"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "waterfly",
+      "item": {
+        "id": "waterfly",
+        "name": "Waterfly",
+        "icon_sprite": "spr_ui_item_insect_waterfly"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "hermit_snail",
+      "item": {
+        "id": "hermit_snail",
+        "name": "Hermit Snail",
+        "icon_sprite": "spr_ui_item_insect_hermit_snail"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "puddle_spider",
+      "item": {
+        "id": "puddle_spider",
+        "name": "Puddle Spider",
+        "icon_sprite": "spr_ui_item_insect_puddle_spider"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "coral_mantis",
+      "item": {
+        "id": "coral_mantis",
+        "name": "Coral Mantis",
+        "icon_sprite": "spr_ui_item_insect_coral_mantis"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "lantern_moth",
+      "item": {
+        "id": "lantern_moth",
+        "name": "Lantern Moth",
+        "icon_sprite": "spr_ui_item_insect_lantern_moth"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "copper_beetle",
+      "item": {
+        "id": "copper_beetle",
+        "name": "Copper Nugget Beetle",
+        "icon_sprite": "spr_ui_item_insect_copper_beetle"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "worm",
+      "item": {
+        "id": "worm",
+        "name": "Worm",
+        "icon_sprite": "spr_ui_item_insect_worm"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "mine_cricket",
+      "item": {
+        "id": "mine_cricket",
+        "name": "Mine Cricket",
+        "icon_sprite": "spr_ui_item_insect_mine_cricket"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "tunnel_millipede",
+      "item": {
+        "id": "tunnel_millipede",
+        "name": "Tunnel Millipede",
+        "icon_sprite": "spr_ui_item_insect_tunnel_millipede"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "butterfly",
+      "item": {
+        "id": "butterfly",
+        "name": "Butterfly",
+        "icon_sprite": "spr_ui_item_insect_butterfly"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "caterpillar",
+      "item": {
+        "id": "caterpillar",
+        "name": "Caterpillar",
+        "icon_sprite": "spr_ui_item_insect_caterpillar"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement"
+      ]
+    },
+    {
+      "id": "flower_crown_beetle",
+      "item": {
+        "id": "flower_crown_beetle",
+        "name": "Flower Crown Beetle",
+        "icon_sprite": "spr_ui_item_insect_flowercrownbeetle"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "petalhopper",
+      "item": {
+        "id": "petalhopper",
+        "name": "Petalhopper",
+        "icon_sprite": "spr_ui_item_insect_petalhopper"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "ladybug",
+      "item": {
+        "id": "ladybug",
+        "name": "Ladybug",
+        "icon_sprite": "spr_ui_item_insect_ladybug"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement"
+      ]
+    },
+    {
+      "id": "luna_moth",
+      "item": {
+        "id": "luna_moth",
+        "name": "Luna Moth",
+        "icon_sprite": "spr_ui_item_insect_lunamoth"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "orchid_mantis",
+      "item": {
+        "id": "orchid_mantis",
+        "name": "Orchid Mantis",
+        "icon_sprite": "spr_ui_item_insect_orchidmantis"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement"
+      ]
+    },
+    {
+      "id": "roly_poly",
+      "item": {
+        "id": "roly_poly",
+        "name": "Roly Poly",
+        "icon_sprite": "spr_ui_item_insect_pillbug"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "snail",
+      "item": {
+        "id": "snail",
+        "name": "Snail",
+        "icon_sprite": "spr_ui_item_insect_snail"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "waterbug",
+      "item": {
+        "id": "waterbug",
+        "name": "Waterbug",
+        "icon_sprite": "spr_ui_item_insect_waterbug"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "cicada",
+      "item": {
+        "id": "cicada",
+        "name": "Cicada",
+        "icon_sprite": "spr_ui_item_insect_cicada"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "cricket",
+      "item": {
+        "id": "cricket",
+        "name": "Cricket",
+        "icon_sprite": "spr_ui_item_insect_cricket"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "dragonfly",
+      "item": {
+        "id": "dragonfly",
+        "name": "Dragonfly",
+        "icon_sprite": "spr_ui_item_insect_dragonfly"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement"
+      ]
+    },
+    {
+      "id": "firefly",
+      "item": {
+        "id": "firefly",
+        "name": "Firefly",
+        "icon_sprite": "spr_ui_item_insect_firefly"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "jewel_beetle",
+      "item": {
+        "id": "jewel_beetle",
+        "name": "Jewel Beetle",
+        "icon_sprite": "spr_ui_item_insect_jewelbeetle"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "magma_beetle",
+      "item": {
+        "id": "magma_beetle",
+        "name": "Magma Beetle",
+        "icon_sprite": "spr_ui_item_insect_magmabeetle"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "strawhopper",
+      "item": {
+        "id": "strawhopper",
+        "name": "Strawhopper",
+        "icon_sprite": "spr_ui_item_insect_strawhopper"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "strobe_firefly",
+      "item": {
+        "id": "strobe_firefly",
+        "name": "Strobe Firefly",
+        "icon_sprite": "spr_ui_item_insect_strobefirefly"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "sand_bug",
+      "item": {
+        "id": "sand_bug",
+        "name": "Sand Bug",
+        "icon_sprite": "spr_ui_item_insect_sand_bug"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "surf_beetle",
+      "item": {
+        "id": "surf_beetle",
+        "name": "Surf Beetle",
+        "icon_sprite": "spr_ui_item_insect_surf_beetle"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "beach_hopper",
+      "item": {
+        "id": "beach_hopper",
+        "name": "Beach Hopper",
+        "icon_sprite": "spr_ui_item_insect_beach_hopper"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "chillipede",
+      "item": {
+        "id": "chillipede",
+        "name": "Chillipede",
+        "icon_sprite": "spr_ui_item_insect_chillipede"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "cicada_nymph",
+      "item": {
+        "id": "cicada_nymph",
+        "name": "Cicada Nymph",
+        "icon_sprite": "spr_ui_item_insect_cicadanymph"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "fairy_bee",
+      "item": {
+        "id": "fairy_bee",
+        "name": "Fairy Bee",
+        "icon_sprite": "spr_ui_item_insect_fairybee"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "inchworm",
+      "item": {
+        "id": "inchworm",
+        "name": "Inchworm",
+        "icon_sprite": "spr_ui_item_insect_inchworm"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "leafhopper",
+      "item": {
+        "id": "leafhopper",
+        "name": "Leafhopper",
+        "icon_sprite": "spr_ui_item_insect_leafhopper"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "mistmoth",
+      "item": {
+        "id": "mistmoth",
+        "name": "Mistmoth",
+        "icon_sprite": "spr_ui_item_insect_mistmoth"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "monarch_butterfly",
+      "item": {
+        "id": "monarch_butterfly",
+        "name": "Monarch Butterfly",
+        "icon_sprite": "spr_ui_item_insect_monarchbutterfly"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "tiger_swallowtail_butterfly",
+      "item": {
+        "id": "tiger_swallowtail_butterfly",
+        "name": "Tiger Swallowtail Butterfly",
+        "icon_sprite": "spr_ui_item_insect_tigerswallowtailbutterfly"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "walking_leaf",
+      "item": {
+        "id": "walking_leaf",
+        "name": "Walking Leaf",
+        "icon_sprite": "spr_ui_item_insect_walkingleaf"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "crystal_caterpillar",
+      "item": {
+        "id": "crystal_caterpillar",
+        "name": "Crystal Caterpillar",
+        "icon_sprite": "spr_ui_item_insect_crystalcaterpillar"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "brightbulb_moth",
+      "item": {
+        "id": "brightbulb_moth",
+        "name": "Brightbulb Moth",
+        "icon_sprite": "spr_ui_item_insect_brightbulb_moth"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "frost_flutter_butterfly",
+      "item": {
+        "id": "frost_flutter_butterfly",
+        "name": "Frost Flutter Butterfly",
+        "icon_sprite": "spr_ui_item_insect_frost_flutter_butterfly"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "icehopper",
+      "item": {
+        "id": "icehopper",
+        "name": "Icehopper",
+        "icon_sprite": "spr_ui_item_insect_icehopper"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "polar_fly",
+      "item": {
+        "id": "polar_fly",
+        "name": "Polar Fly",
+        "icon_sprite": "spr_ui_item_insect_polar_fly"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "snug_bug",
+      "item": {
+        "id": "snug_bug",
+        "name": "Snug Bug",
+        "icon_sprite": "spr_ui_item_insect_snug_bug"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "relic_crab",
+      "item": {
+        "id": "relic_crab",
+        "name": "Relic Crab",
+        "icon_sprite": "spr_ui_item_insect_reliccrab"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "snowball_beetle",
+      "item": {
+        "id": "snowball_beetle",
+        "name": "Snowball Beetle",
+        "icon_sprite": "spr_ui_item_insect_snowballbeetle"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "walking_stick",
+      "item": {
+        "id": "walking_stick",
+        "name": "Walking Stick",
+        "icon_sprite": "spr_ui_item_insect_walkingstick"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "winterpillar",
+      "item": {
+        "id": "winterpillar",
+        "name": "Winterpillar",
+        "icon_sprite": "spr_ui_item_insect_winterpillar"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "ant",
+      "item": {
+        "id": "ant",
+        "name": "Ant",
+        "icon_sprite": "spr_ui_item_insect_ant"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement"
+      ]
+    },
+    {
+      "id": "bumblebee",
+      "item": {
+        "id": "bumblebee",
+        "name": "Bumblebee",
+        "icon_sprite": "spr_ui_item_insect_bumblebee"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "fuzzy_moth",
+      "item": {
+        "id": "fuzzy_moth",
+        "name": "Fuzzy Moth",
+        "icon_sprite": "spr_ui_item_insect_fuzzymoth"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "grasshopper",
+      "item": {
+        "id": "grasshopper",
+        "name": "Grasshopper",
+        "icon_sprite": "spr_ui_item_insect_grasshopper"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "hermit_crab",
+      "item": {
+        "id": "hermit_crab",
+        "name": "Hermit Crab",
+        "icon_sprite": "spr_ui_item_insect_hermitcrab"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "hummingbird_hawk_moth",
+      "item": {
+        "id": "hummingbird_hawk_moth",
+        "name": "Hummingbird Hawk Moth",
+        "icon_sprite": "spr_ui_item_insect_hummingbirdhawkmoth"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "lightning_dragonfly",
+      "item": {
+        "id": "lightning_dragonfly",
+        "name": "Lightning Dragonfly",
+        "icon_sprite": "spr_ui_item_insect_lightningdragonfly"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "weather": [
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "pond_skater",
+      "item": {
+        "id": "pond_skater",
+        "name": "Pond Skater",
+        "icon_sprite": "spr_ui_item_insect_pondskater"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement"
+      ]
+    },
+    {
+      "id": "praying_mantis",
+      "item": {
+        "id": "praying_mantis",
+        "name": "Praying Mantis",
+        "icon_sprite": "spr_ui_item_insect_prayingmantis"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "question_mark_butterfly",
+      "item": {
+        "id": "question_mark_butterfly",
+        "name": "Question Mark Butterfly",
+        "icon_sprite": "spr_ui_item_insect_questionmarkbutterfly"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "redhead_worm",
+      "item": {
+        "id": "redhead_worm",
+        "name": "Redhead Worm",
+        "icon_sprite": "spr_ui_item_insect_redhead_worm"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "speedy_snail",
+      "item": {
+        "id": "speedy_snail",
+        "name": "Speedy Snail",
+        "icon_sprite": "spr_ui_item_insect_speedysnail"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "weather": [
+        "inclement",
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "rhinoceros_beetle",
+      "item": {
+        "id": "rhinoceros_beetle",
+        "name": "Rhinoceros Beetle",
+        "icon_sprite": "spr_ui_item_insect_rhinocerosbeetle"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "windleaf_butterfly",
+      "item": {
+        "id": "windleaf_butterfly",
+        "name": "Windleaf Butterfly",
+        "icon_sprite": "spr_ui_item_insect_windleaf_butterfly"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "mote_firefly",
+      "item": {
+        "id": "mote_firefly",
+        "name": "Mote Firefly",
+        "icon_sprite": "spr_ui_item_insect_mote_firefly"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "loam_caterpillar",
+      "item": {
+        "id": "loam_caterpillar",
+        "name": "Loam Caterpillar",
+        "icon_sprite": "spr_ui_item_insect_loam_caterpillar"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "dragon_horn_beetle",
+      "item": {
+        "id": "dragon_horn_beetle",
+        "name": "Dragon Horn Beetle",
+        "icon_sprite": "spr_ui_item_insect_dragon_horn_beetle"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    },
+    {
+      "id": "singing_katydid",
+      "item": {
+        "id": "singing_katydid",
+        "name": "Singing Katydid",
+        "icon_sprite": "spr_ui_item_insect_singing_katydid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special"
+      ]
+    }
+  ],
+  "fish": [
+    {
+      "id": "sunny",
+      "item": {
+        "id": "sunny",
+        "name": "Sunny",
+        "icon_sprite": "spr_ui_item_fish_small_sunny"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "forest_perch",
+      "item": {
+        "id": "forest_perch",
+        "name": "Forest Perch",
+        "icon_sprite": "spr_ui_item_fish_medium_forest_perch"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "silver_redhorse",
+      "item": {
+        "id": "silver_redhorse",
+        "name": "Silver Redhorse",
+        "icon_sprite": "spr_ui_item_fish_medium_silver_redhorse"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "lake_trout",
+      "item": {
+        "id": "lake_trout",
+        "name": "Lake Trout",
+        "icon_sprite": "spr_ui_item_fish_large_lake_trout"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "muskie",
+      "item": {
+        "id": "muskie",
+        "name": "Muskie",
+        "icon_sprite": "spr_ui_item_fish_large_muskie"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "treasure_box_wood",
+      "item": {
+        "id": "treasure_box_wood",
+        "name": "Wooden Treasure Box",
+        "icon_sprite": "spr_ui_item_wooden_chest"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "treasure_box_copper",
+      "item": {
+        "id": "treasure_box_copper",
+        "name": "Copper Treasure Box",
+        "icon_sprite": "spr_ui_item_copper_chest"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "treasure_box_silver",
+      "item": {
+        "id": "treasure_box_silver",
+        "name": "Silver Treasure Box",
+        "icon_sprite": "spr_ui_item_silver_chest"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "treasure_box_gold",
+      "item": {
+        "id": "treasure_box_gold",
+        "name": "Golden Treasure Box",
+        "icon_sprite": "spr_ui_item_gold_chest"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "seaweed",
+      "item": {
+        "id": "seaweed",
+        "name": "Seaweed",
+        "icon_sprite": "spr_ui_item_dive_seaweed"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "clam",
+      "item": {
+        "id": "clam",
+        "name": "Clam",
+        "icon_sprite": "spr_ui_item_dive_clam"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "newt",
+      "item": {
+        "id": "newt",
+        "name": "Newt",
+        "icon_sprite": "spr_ui_item_dive_newt"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "pearl_clam",
+      "item": {
+        "id": "pearl_clam",
+        "name": "Pearl Clam",
+        "icon_sprite": "spr_ui_item_dive_pearl_clam"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "paper_pondshell",
+      "item": {
+        "id": "paper_pondshell",
+        "name": "Paper Pondshell",
+        "icon_sprite": "spr_ui_item_dive_paper_pondshell"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "freshwater_oyster",
+      "item": {
+        "id": "freshwater_oyster",
+        "name": "Freshwater Oyster",
+        "icon_sprite": "spr_ui_item_dive_freshwater_oyster"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "cod",
+      "item": {
+        "id": "cod",
+        "name": "Cod",
+        "icon_sprite": "spr_ui_item_fish_large_cod"
+      },
+      "seasons": [
+        "summer",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "jellyfish",
+      "item": {
+        "id": "jellyfish",
+        "name": "Jellyfish",
+        "icon_sprite": "spr_ui_item_fish_medium_jellyfish"
+      },
+      "seasons": [
+        "spring",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "octopus",
+      "item": {
+        "id": "octopus",
+        "name": "Octopus",
+        "icon_sprite": "spr_ui_item_fish_large_octopus"
+      },
+      "seasons": [
+        "summer",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "pollock",
+      "item": {
+        "id": "pollock",
+        "name": "Pollock",
+        "icon_sprite": "spr_ui_item_fish_large_pollock"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "puffer_fish",
+      "item": {
+        "id": "puffer_fish",
+        "name": "Puffer Fish",
+        "icon_sprite": "spr_ui_item_fish_medium_puffer_fish"
+      },
+      "seasons": [
+        "summer",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "red_snapper",
+      "item": {
+        "id": "red_snapper",
+        "name": "Red Snapper",
+        "icon_sprite": "spr_ui_item_fish_large_red_snapper"
+      },
+      "seasons": [
+        "spring",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "sardine",
+      "item": {
+        "id": "sardine",
+        "name": "Sardine",
+        "icon_sprite": "spr_ui_item_fish_small_sardine"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "sea_bream",
+      "item": {
+        "id": "sea_bream",
+        "name": "Sea Bream",
+        "icon_sprite": "spr_ui_item_fish_medium_sea_bream"
+      },
+      "seasons": [
+        "spring",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "squid",
+      "item": {
+        "id": "squid",
+        "name": "Squid",
+        "icon_sprite": "spr_ui_item_fish_medium_squid"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "swordfish",
+      "item": {
+        "id": "swordfish",
+        "name": "Swordfish",
+        "icon_sprite": "spr_ui_item_fish_large_swordfish"
+      },
+      "seasons": [
+        "spring",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "tuna",
+      "item": {
+        "id": "tuna",
+        "name": "Tuna",
+        "icon_sprite": "spr_ui_item_fish_large_tuna"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "anchovy",
+      "item": {
+        "id": "anchovy",
+        "name": "Anchovy",
+        "icon_sprite": "spr_ui_item_fish_small_anchovy"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "lobster",
+      "item": {
+        "id": "lobster",
+        "name": "Lobster",
+        "icon_sprite": "spr_ui_item_fish_medium_lobster"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "mackerel",
+      "item": {
+        "id": "mackerel",
+        "name": "Mackerel",
+        "icon_sprite": "spr_ui_item_fish_large_mackerel"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "ocean_sunfish",
+      "item": {
+        "id": "ocean_sunfish",
+        "name": "Ocean Sunfish",
+        "icon_sprite": "spr_ui_item_fish_giant_ocean_sunfish"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "shrimp",
+      "item": {
+        "id": "shrimp",
+        "name": "Shrimp",
+        "icon_sprite": "spr_ui_item_fish_small_shrimp"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "bonito",
+      "item": {
+        "id": "bonito",
+        "name": "Bonito",
+        "icon_sprite": "spr_ui_item_fish_medium_bonito"
+      },
+      "seasons": [
+        "summer",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "char",
+      "item": {
+        "id": "char",
+        "name": "Char",
+        "icon_sprite": "spr_ui_item_fish_large_char"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "crab",
+      "item": {
+        "id": "crab",
+        "name": "Crab",
+        "icon_sprite": "spr_ui_item_fish_small_crab"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "dart",
+      "item": {
+        "id": "dart",
+        "name": "Dart",
+        "icon_sprite": "spr_ui_item_fish_small_dart"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "grouper",
+      "item": {
+        "id": "grouper",
+        "name": "Grouper",
+        "icon_sprite": "spr_ui_item_fish_giant_grouper"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "stingray",
+      "item": {
+        "id": "stingray",
+        "name": "Stingray",
+        "icon_sprite": "spr_ui_item_fish_medium_stingray"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "butterfish",
+      "item": {
+        "id": "butterfish",
+        "name": "Butterfish",
+        "icon_sprite": "spr_ui_item_fish_small_butterfish"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "halibut",
+      "item": {
+        "id": "halibut",
+        "name": "Halibut",
+        "icon_sprite": "spr_ui_item_fish_large_halibut"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "mullet",
+      "item": {
+        "id": "mullet",
+        "name": "Mullet",
+        "icon_sprite": "spr_ui_item_fish_medium_mullet"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "saury",
+      "item": {
+        "id": "saury",
+        "name": "Saury",
+        "icon_sprite": "spr_ui_item_fish_small_saury"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "shark",
+      "item": {
+        "id": "shark",
+        "name": "Shark",
+        "icon_sprite": "spr_ui_item_fish_giant_shark"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "horse_mackerel",
+      "item": {
+        "id": "horse_mackerel",
+        "name": "Horse Mackerel",
+        "icon_sprite": "spr_ui_item_fish_small_horse_mackerel"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "king_crab",
+      "item": {
+        "id": "king_crab",
+        "name": "King Crab",
+        "icon_sprite": "spr_ui_item_fish_large_king_crab"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "oarfish",
+      "item": {
+        "id": "oarfish",
+        "name": "Oarfish",
+        "icon_sprite": "spr_ui_item_fish_giant_oarfish"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "sand_lance",
+      "item": {
+        "id": "sand_lance",
+        "name": "Sand Lance",
+        "icon_sprite": "spr_ui_item_fish_small_sand_lance"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "sea_bass",
+      "item": {
+        "id": "sea_bass",
+        "name": "Sea Bass",
+        "icon_sprite": "spr_ui_item_fish_medium_sea_bass"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "snow_fish",
+      "item": {
+        "id": "snow_fish",
+        "name": "Snow Fish",
+        "icon_sprite": "spr_ui_item_fish_medium_snow_fish"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "chum",
+      "item": {
+        "id": "chum",
+        "name": "Chum",
+        "icon_sprite": "spr_ui_item_fish_large_chum"
+      },
+      "seasons": [
+        "summer",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "crayfish",
+      "item": {
+        "id": "crayfish",
+        "name": "Crayfish",
+        "icon_sprite": "spr_ui_item_dive_crayfish"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "gar",
+      "item": {
+        "id": "gar",
+        "name": "Gar",
+        "icon_sprite": "spr_ui_item_fish_large_gar"
+      },
+      "seasons": [
+        "summer",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "goby",
+      "item": {
+        "id": "goby",
+        "name": "Goby",
+        "icon_sprite": "spr_ui_item_fish_medium_goby"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "pike",
+      "item": {
+        "id": "pike",
+        "name": "Pike",
+        "icon_sprite": "spr_ui_item_fish_large_pike"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "rock_bass",
+      "item": {
+        "id": "rock_bass",
+        "name": "Rock Bass",
+        "icon_sprite": "spr_ui_item_fish_medium_rock_bass"
+      },
+      "seasons": [
+        "spring",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "salmon",
+      "item": {
+        "id": "salmon",
+        "name": "Salmon",
+        "icon_sprite": "spr_ui_item_fish_large_salmon"
+      },
+      "seasons": [
+        "spring",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "smallmouth_bass",
+      "item": {
+        "id": "smallmouth_bass",
+        "name": "Smallmouth Bass",
+        "icon_sprite": "spr_ui_item_fish_small_smallmouth_bass"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "sturgeon",
+      "item": {
+        "id": "sturgeon",
+        "name": "Sturgeon",
+        "icon_sprite": "spr_ui_item_fish_large_sturgeon"
+      },
+      "seasons": [
+        "spring",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "trout",
+      "item": {
+        "id": "trout",
+        "name": "Trout",
+        "icon_sprite": "spr_ui_item_fish_medium_trout"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "bluegill",
+      "item": {
+        "id": "bluegill",
+        "name": "Blue Gill",
+        "icon_sprite": "spr_ui_item_fish_small_blue_gill"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "walleye",
+      "item": {
+        "id": "walleye",
+        "name": "Walleye",
+        "icon_sprite": "spr_ui_item_fish_large_walleye"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "carp",
+      "item": {
+        "id": "carp",
+        "name": "Carp",
+        "icon_sprite": "spr_ui_item_fish_medium_carp"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "chub",
+      "item": {
+        "id": "chub",
+        "name": "Chub",
+        "icon_sprite": "spr_ui_item_fish_small_chub"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "paddlefish",
+      "item": {
+        "id": "paddlefish",
+        "name": "Paddlefish",
+        "icon_sprite": "spr_ui_item_fish_giant_paddlefish"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "bream",
+      "item": {
+        "id": "bream",
+        "name": "Bream",
+        "icon_sprite": "spr_ui_item_fish_large_bream"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "lightning_fish",
+      "item": {
+        "id": "lightning_fish",
+        "name": "Lightning Fish",
+        "icon_sprite": "spr_ui_item_fish_medium_lightning_fish"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "loach",
+      "item": {
+        "id": "loach",
+        "name": "Loach",
+        "icon_sprite": "spr_ui_item_fish_small_loach"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "minnow",
+      "item": {
+        "id": "minnow",
+        "name": "Minnow",
+        "icon_sprite": "spr_ui_item_fish_small_minnow"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "sweetfish",
+      "item": {
+        "id": "sweetfish",
+        "name": "Sweetfish",
+        "icon_sprite": "spr_ui_item_fish_medium_sweetfish"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "tarpon",
+      "item": {
+        "id": "tarpon",
+        "name": "Tarpon",
+        "icon_sprite": "spr_ui_item_fish_giant_tarpon"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "grayling",
+      "item": {
+        "id": "grayling",
+        "name": "Grayling",
+        "icon_sprite": "spr_ui_item_fish_small_grayling"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "lamprey",
+      "item": {
+        "id": "lamprey",
+        "name": "Lamprey",
+        "icon_sprite": "spr_ui_item_fish_small_lamprey"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "leaf_fish",
+      "item": {
+        "id": "leaf_fish",
+        "name": "Leaf Fish",
+        "icon_sprite": "spr_ui_item_fish_small_leaf_fish"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "special"
+      ]
+    },
+    {
+      "id": "perch",
+      "item": {
+        "id": "perch",
+        "name": "Perch",
+        "icon_sprite": "spr_ui_item_fish_large_perch"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "razorback",
+      "item": {
+        "id": "razorback",
+        "name": "Razorback",
+        "icon_sprite": "spr_ui_item_fish_medium_razorback"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "shad",
+      "item": {
+        "id": "shad",
+        "name": "Shad",
+        "icon_sprite": "spr_ui_item_fish_medium_shad"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "bowfish",
+      "item": {
+        "id": "bowfish",
+        "name": "Bowfish",
+        "icon_sprite": "spr_ui_item_fish_large_bowfish"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "dace",
+      "item": {
+        "id": "dace",
+        "name": "Dace",
+        "icon_sprite": "spr_ui_item_fish_small_dace"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "herring",
+      "item": {
+        "id": "herring",
+        "name": "Herring",
+        "icon_sprite": "spr_ui_item_fish_small_herring"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "shadow_bass",
+      "item": {
+        "id": "shadow_bass",
+        "name": "Shadow Bass",
+        "icon_sprite": "spr_ui_item_fish_medium_shadow_bass"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "bullfrog",
+      "item": {
+        "id": "bullfrog",
+        "name": "Bullfrog",
+        "icon_sprite": "spr_ui_item_fish_small_bullfrog"
+      },
+      "seasons": [
+        "summer",
+        "winter"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "catfish",
+      "item": {
+        "id": "catfish",
+        "name": "Catfish",
+        "icon_sprite": "spr_ui_item_fish_medium_catfish"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "frog",
+      "item": {
+        "id": "frog",
+        "name": "Frog",
+        "icon_sprite": "spr_ui_item_fish_small_frog"
+      },
+      "seasons": [
+        "spring",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "koi",
+      "item": {
+        "id": "koi",
+        "name": "Koi",
+        "icon_sprite": "spr_ui_item_fish_medium_koi"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "roach",
+      "item": {
+        "id": "roach",
+        "name": "Roach",
+        "icon_sprite": "spr_ui_item_fish_medium_roach"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "snakehead",
+      "item": {
+        "id": "snakehead",
+        "name": "Snakehead",
+        "icon_sprite": "spr_ui_item_fish_large_snakehead"
+      },
+      "seasons": [
+        "spring",
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "snapping_turtle",
+      "item": {
+        "id": "snapping_turtle",
+        "name": "Snapping Turtle",
+        "icon_sprite": "spr_ui_item_fish_large_snapping_turtle"
+      },
+      "seasons": [
+        "summer",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "tetra",
+      "item": {
+        "id": "tetra",
+        "name": "Tetra",
+        "icon_sprite": "spr_ui_item_fish_small_tetra"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "turtle",
+      "item": {
+        "id": "turtle",
+        "name": "Turtle",
+        "icon_sprite": "spr_ui_item_fish_large_turtle"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "angel_fish",
+      "item": {
+        "id": "angel_fish",
+        "name": "Angel Fish",
+        "icon_sprite": "spr_ui_item_fish_small_angel_fish"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "barb",
+      "item": {
+        "id": "barb",
+        "name": "Barb",
+        "icon_sprite": "spr_ui_item_fish_small_barb"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "cherry_fish",
+      "item": {
+        "id": "cherry_fish",
+        "name": "Cherry Fish",
+        "icon_sprite": "spr_ui_item_fish_small_cherry_fish"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "special"
+      ]
+    },
+    {
+      "id": "crucian_carp",
+      "item": {
+        "id": "crucian_carp",
+        "name": "Crucian Carp",
+        "icon_sprite": "spr_ui_item_fish_medium_crucian_carp"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "goldfish",
+      "item": {
+        "id": "goldfish",
+        "name": "Goldfish",
+        "icon_sprite": "spr_ui_item_fish_small_goldfish"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "brown_bullhead",
+      "item": {
+        "id": "brown_bullhead",
+        "name": "Brown Bullhead",
+        "icon_sprite": "spr_ui_item_fish_medium_brown_bullhead"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "brown_trout",
+      "item": {
+        "id": "brown_trout",
+        "name": "Brown Trout",
+        "icon_sprite": "spr_ui_item_fish_large_brown_trout"
+      },
+      "seasons": [
+        "spring"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "giant_koi",
+      "item": {
+        "id": "giant_koi",
+        "name": "Giant Koi",
+        "icon_sprite": "spr_ui_item_fish_giant_giant_koi"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "golden_shiner",
+      "item": {
+        "id": "golden_shiner",
+        "name": "Golden Shiner",
+        "icon_sprite": "spr_ui_item_fish_small_golden_shiner"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "lake_chub",
+      "item": {
+        "id": "lake_chub",
+        "name": "Lake Chub",
+        "icon_sprite": "spr_ui_item_fish_small_lake_chub"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "sauger",
+      "item": {
+        "id": "sauger",
+        "name": "Sauger",
+        "icon_sprite": "spr_ui_item_fish_large_sauger"
+      },
+      "seasons": [
+        "summer"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "bluefish",
+      "item": {
+        "id": "bluefish",
+        "name": "Bluefish",
+        "icon_sprite": "spr_ui_item_fish_large_bluefish"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "killifish",
+      "item": {
+        "id": "killifish",
+        "name": "Killifish",
+        "icon_sprite": "spr_ui_item_fish_small_killifish"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "white_perch",
+      "item": {
+        "id": "white_perch",
+        "name": "White Perch",
+        "icon_sprite": "spr_ui_item_fish_medium_white_perch"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "rainbow_trout",
+      "item": {
+        "id": "rainbow_trout",
+        "name": "Rainbow Trout",
+        "icon_sprite": "spr_ui_item_fish_medium_rainbow_trout"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "striped_bass",
+      "item": {
+        "id": "striped_bass",
+        "name": "Striped Bass",
+        "icon_sprite": "spr_ui_item_fish_large_striped_bass"
+      },
+      "seasons": [
+        "fall"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "alligator_gar",
+      "item": {
+        "id": "alligator_gar",
+        "name": "Alligator Gar",
+        "icon_sprite": "spr_ui_item_fish_giant_alligator_gar"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "burbot",
+      "item": {
+        "id": "burbot",
+        "name": "Burbot",
+        "icon_sprite": "spr_ui_item_fish_large_burbot"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "flathead_catfish",
+      "item": {
+        "id": "flathead_catfish",
+        "name": "Flathead Catfish",
+        "icon_sprite": "spr_ui_item_fish_medium_flathead_catfish"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "freshwater_eel",
+      "item": {
+        "id": "freshwater_eel",
+        "name": "Freshwater Eel",
+        "icon_sprite": "spr_ui_item_fish_medium_freshwater_eel"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "giant_tilapia",
+      "item": {
+        "id": "giant_tilapia",
+        "name": "Giant Tilapia",
+        "icon_sprite": "spr_ui_item_fish_large_giant_tilapia"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "tilapia",
+      "item": {
+        "id": "tilapia",
+        "name": "Tilapia",
+        "icon_sprite": "spr_ui_item_fish_small_tilapia"
+      },
+      "seasons": [
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "lava_piranha",
+      "item": {
+        "id": "lava_piranha",
+        "name": "Lava Piranha",
+        "icon_sprite": "spr_ui_item_fish_small_lava_piranha"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "candelabra_seadragon",
+      "item": {
+        "id": "candelabra_seadragon",
+        "name": "Candelabra Seadragon",
+        "icon_sprite": "spr_ui_item_fish_small_candelabra_seadragon"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "armored_bass",
+      "item": {
+        "id": "armored_bass",
+        "name": "Armored Bass",
+        "icon_sprite": "spr_ui_item_fish_medium_armored_bass"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "sulfur_crab",
+      "item": {
+        "id": "sulfur_crab",
+        "name": "Sulfur Crab",
+        "icon_sprite": "spr_ui_item_fish_medium_sulfur_crab"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "firesail_fish",
+      "item": {
+        "id": "firesail_fish",
+        "name": "Firesail Fish",
+        "icon_sprite": "spr_ui_item_fish_large_firesail_fish"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "pebble_minnow",
+      "item": {
+        "id": "pebble_minnow",
+        "name": "Pebble Minnow",
+        "icon_sprite": "spr_ui_item_fish_small_pebble_minnow"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "shardfin",
+      "item": {
+        "id": "shardfin",
+        "name": "Shardfin",
+        "icon_sprite": "spr_ui_item_fish_small_shardfin"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "earth_eel",
+      "item": {
+        "id": "earth_eel",
+        "name": "Earth Eel",
+        "icon_sprite": "spr_ui_item_fish_medium_earth_eel"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "rockbiter",
+      "item": {
+        "id": "rockbiter",
+        "name": "Rockbiter",
+        "icon_sprite": "spr_ui_item_fish_medium_rockbiter"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "emerald_horned_charger",
+      "item": {
+        "id": "emerald_horned_charger",
+        "name": "Emerald-Horned Charger",
+        "icon_sprite": "spr_ui_item_fish_large_emerald_horned_charger"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "sapphire_betta",
+      "item": {
+        "id": "sapphire_betta",
+        "name": "Sapphire Betta",
+        "icon_sprite": "spr_ui_item_fish_small_sapphire_betta"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "archerfish",
+      "item": {
+        "id": "archerfish",
+        "name": "Archerfish",
+        "icon_sprite": "spr_ui_item_fish_small_archerfish"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "transparent_jellyfish",
+      "item": {
+        "id": "transparent_jellyfish",
+        "name": "Transparent Jellyfish",
+        "icon_sprite": "spr_ui_item_fish_medium_transparent_jellyfish"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "water_balloon_fish",
+      "item": {
+        "id": "water_balloon_fish",
+        "name": "Water Balloon Fish",
+        "icon_sprite": "spr_ui_item_fish_medium_water_balloon_fish"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "mini_whale_shark",
+      "item": {
+        "id": "mini_whale_shark",
+        "name": "Mini-Whale Shark",
+        "icon_sprite": "spr_ui_item_fish_large_mini_whale_shark"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "cave_shrimp",
+      "item": {
+        "id": "cave_shrimp",
+        "name": "Cave Shrimp",
+        "icon_sprite": "spr_ui_item_fish_small_cave_shrimp"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "rock_guppy",
+      "item": {
+        "id": "rock_guppy",
+        "name": "Rock Guppy",
+        "icon_sprite": "spr_ui_item_fish_small_rock_guppy"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "stone_loach",
+      "item": {
+        "id": "stone_loach",
+        "name": "Stone Loach",
+        "icon_sprite": "spr_ui_item_fish_medium_stone_loach"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "cave_eel",
+      "item": {
+        "id": "cave_eel",
+        "name": "Cave Eel",
+        "icon_sprite": "spr_ui_item_fish_medium_cave_eel"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "cave_shark",
+      "item": {
+        "id": "cave_shark",
+        "name": "Cave Shark",
+        "icon_sprite": "spr_ui_item_fish_large_cave_shark"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "basic_wood",
+      "item": {
+        "id": "basic_wood",
+        "name": "Wood",
+        "icon_sprite": "spr_ui_item_regularwood"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "fiber",
+      "item": {
+        "id": "fiber",
+        "name": "Fiber",
+        "icon_sprite": "spr_ui_item_fiber"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "clay",
+      "item": {
+        "id": "clay",
+        "name": "Clay",
+        "icon_sprite": "spr_ui_item_clay"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "glass",
+      "item": {
+        "id": "glass",
+        "name": "Glass",
+        "icon_sprite": "spr_ui_item_glass"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "unidentified_artifact",
+      "item": {
+        "id": "unidentified_artifact",
+        "name": "Unidentified Artifact",
+        "icon_sprite": "spr_ui_item_unidentified_artifact"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "rusted_treasure_chest",
+      "item": {
+        "id": "rusted_treasure_chest",
+        "name": "Rusted Treasure Chest",
+        "icon_sprite": "spr_ui_item_rusted_treasure_chest"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "rubber_fish",
+      "item": {
+        "id": "rubber_fish",
+        "name": "Rubber Fish",
+        "icon_sprite": "spr_ui_item_rubber_fish"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "water_sphere",
+      "item": {
+        "id": "water_sphere",
+        "name": "Water Sphere",
+        "icon_sprite": "spr_ui_item_water_sphere"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "giant_fish_scale",
+      "item": {
+        "id": "giant_fish_scale",
+        "name": "Giant Fish Scale",
+        "icon_sprite": "spr_ui_item_giant_fish_scale"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "coin_lump",
+      "item": {
+        "id": "coin_lump",
+        "name": "Coin Lump",
+        "icon_sprite": "spr_ui_item_coin_lump"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "rainbow_seaweed",
+      "item": {
+        "id": "rainbow_seaweed",
+        "name": "Rainbow Seaweed",
+        "icon_sprite": "spr_ui_item_rainbow_seaweed"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "rock_with_a_hole",
+      "item": {
+        "id": "rock_with_a_hole",
+        "name": "Rock with a Hole",
+        "icon_sprite": "spr_ui_item_rock_with_a_hole"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "rusted_shield",
+      "item": {
+        "id": "rusted_shield",
+        "name": "Rusted Shield",
+        "icon_sprite": "spr_ui_item_rusted_shield"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "mermaids_comb",
+      "item": {
+        "id": "mermaids_comb",
+        "name": "Mermaid's Comb",
+        "icon_sprite": "spr_ui_item_mermaids_comb"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "criminal_confession",
+      "item": {
+        "id": "criminal_confession",
+        "name": "Criminal Confession",
+        "icon_sprite": "spr_ui_item_criminal_confession"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "pond_snail",
+      "item": {
+        "id": "pond_snail",
+        "name": "Pond Snail",
+        "icon_sprite": "spr_ui_item_dive_pond_snail"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    },
+    {
+      "id": "river_snail",
+      "item": {
+        "id": "river_snail",
+        "name": "River Snail",
+        "icon_sprite": "spr_ui_item_dive_snail"
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "fall",
+        "winter"
+      ],
+      "weather": [
+        "calm",
+        "special",
+        "inclement",
+        "heavy_inclement"
+      ]
+    }
+  ]
+}

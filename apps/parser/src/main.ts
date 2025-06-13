@@ -11,6 +11,7 @@ import { museumWingsParser } from './parsers/museum-wings-parser';
 import { TranslationReferenceResolver } from './localization/tranlation-reference-resolver';
 import { animalParser } from './parsers/animal-parser';
 import { ItemMinifier } from './item-minifier/item-minifier';
+import { dashboardParser } from './parsers/dashboard-parser';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
@@ -58,6 +59,9 @@ const dbItems = dbItemParser(items, bugs, fish);
 dbItems.forEach((item) => {
   writeFileToFrontendDatabase(`/item/${item.id}.json`, item);
 });
+
+const dashboard = dashboardParser(dbItems);
+writeFileToFrontendDatabase('dashboard.json', dashboard);
 
 const musuemWings = museumWingsParser(
   data.ui.menus.standard_menus.museum,
