@@ -4,6 +4,7 @@ export * from './bug';
 export * from './db-item';
 export * from './fish';
 export * from './item';
+export * from './minified-item';
 export * from './museum-wing';
 export * from './perks-and-skill';
 export * from './recipe';

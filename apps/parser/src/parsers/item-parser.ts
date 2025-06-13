@@ -9,7 +9,7 @@ import { TranslationReferenceResolver } from '../localization/tranlation-referen
 
 export function itemParser(
   items: Record<string, Record<string, Record<ItemId, RawItem>>>
-) {
+): Record<ItemId, Item> {
   const res: Record<string, Item> = {};
 
   const allItemIds: string[] = [];

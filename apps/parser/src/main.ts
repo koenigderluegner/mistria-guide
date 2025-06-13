@@ -10,6 +10,7 @@ import { skillsParser } from './parsers/skills-parser';
 import { museumWingsParser } from './parsers/museum-wings-parser';
 import { TranslationReferenceResolver } from './localization/tranlation-reference-resolver';
 import { animalParser } from './parsers/animal-parser';
+import { ItemMinifier } from './item-minifier/item-minifier';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
@@ -38,6 +39,8 @@ function createReadableFiles(
 
 const items = itemParser(data.items);
 writeFileToFrontendDatabase('items.json', items);
+
+ItemMinifier.addItems(items);
 
 const skills = skillsParser(data.ui.skill_menu, data.perks, data.skills);
 writeFileToFrontendDatabase('skills.json', skills);
