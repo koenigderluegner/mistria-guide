@@ -8,7 +8,14 @@ import { ItemMinifier } from '../item-minifier/item-minifier';
 
 export function dashboardParser(items: DbItem[]): Dashboard {
   const itemsWithBug = items.filter((i) => i.bug);
-  const itemsWithFish = items.filter((i) => i.fish);
+  const itemsWithFish = items.filter(
+    (i) =>
+      i.fish &&
+      !i.fish.is_chest &&
+      i.fish.rarity !== 'junk' &&
+      i.fish.rarity !== 'artifact_fishing' &&
+      i.fish.rarity !== 'artifact_divespots'
+  );
 
   return {
     bugs: itemsWithBug.map((i) => ({
