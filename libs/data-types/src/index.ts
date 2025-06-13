@@ -3,6 +3,7 @@ export * from './animal';
 export * from './bug';
 export * from './db-item';
 export * from './fish';
+export * from './in-game-date';
 export * from './item';
 export * from './minified-item';
 export * from './museum-wing';

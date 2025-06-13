@@ -1,0 +1,36 @@
+<div [formGroup]="parentFormGroup()" class="flex flex-wrap gap-x-3 gap-y-4">
+
+  <div class="flex flex-col gap-2">
+    <label for="dashboard-day">Day</label>
+    <div class="flex gap-1 shrink-0">
+      <input formControlName="day" id="dashboard-day" inputmode="number" max="28" min="1" pattern="[0-9]"
+             type="number" />
+      <button (click)="increaseDay(1)" class="btn size-9! touch-manipulation">+</button>
+    </div>
+  </div>
+
+
+  <div class="flex flex-col gap-2">
+    <label for="dashboard-day">Day</label>
+    <mat-select disableOptionCentering formControlName="season">
+      @for (seasonOption of Seasons; track seasonOption) {
+        <mat-option [value]="seasonOption">{{ seasonOption }}</mat-option>
+      }
+    </mat-select>
+  </div>
+  <div class="flex flex-col gap-2">
+    <label for="dashboard-day">Day</label>
+    <input formControlName="year" inputmode="number" matInput min="1" pattern="[0-9]" type="number" />
+  </div>
+  <div class="flex flex-col gap-2">
+    <label for="dashboard-day">Day</label>
+    <mat-select disableOptionCentering formControlName="weather">
+      @for (weatherOption of Weathers; track weatherOption) {
+        <mat-option [value]="weatherOption">{{ weatherOption }}</mat-option>
+      }
+    </mat-select>
+  </div>
+  <mat-checkbox class="text-white self-center" formControlName="hideCompleted">Hide completed</mat-checkbox>
+
+
+</div>
