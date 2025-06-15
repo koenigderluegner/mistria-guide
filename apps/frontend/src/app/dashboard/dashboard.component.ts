@@ -12,13 +12,13 @@ import {
 import { DashboardFilterComponent } from './dashboard-filter/dashboard-filter.component';
 import { FormControl, FormGroup } from '@angular/forms';
 import { DashboardFilter } from './dashboard-filter/dashboard-filter.type';
-import { Dashboard, Season, Weather } from '@mistria-guide/data-types';
-import { httpResource } from '@angular/common/http';
+import { Season, Weather, WingSetId } from '@mistria-guide/data-types';
 import { map, tap } from 'rxjs';
 import { toSignal } from '@angular/core/rxjs-interop';
 import { ListEntryItemComponent } from '../shared/list-entry-item/list-entry-item.component';
 import { UserDataService } from '../user-data/user-data.service';
 import { MatProgressSpinner } from '@angular/material/progress-spinner';
+import { DatabaseService } from '../core/database.service';
 
 @Component({
   selector: 'app-dashboard',
@@ -30,7 +30,9 @@ import { MatProgressSpinner } from '@angular/material/progress-spinner';
   templateUrl: './dashboard.component.html',
 })
 export class DashboardComponent {
-  data = httpResource<Dashboard>(() => 'database/dashboard.json');
+  #database = inject(DatabaseService);
+  wings = this.#database.getMuseumWings();
+  data = this.#database.getDashboard();
   userData = inject(UserDataService);
   userDataFilter = computed(() => {
     return this.userData.currentData().dashboardFilter;
@@ -55,6 +57,10 @@ export class DashboardComponent {
       this.userDataFilter().hideCompleted ?? true,
       { nonNullable: true }
     ),
+    onlyMuseumRelated: new FormControl<boolean>(
+      this.userDataFilter().hideCompleted ?? true,
+      { nonNullable: true }
+    ),
   });
   injector = inject(Injector);
   filterValues = runInInjectionContext(this.injector, () =>
@@ -72,10 +78,20 @@ export class DashboardComponent {
 
   bugs = computed(() => {
     const filterValue = this.filterValues();
-    const season: Season = filterValue.season;
-    const weather: Weather = filterValue.weather;
+    const { season, weather, onlyMuseumRelated } = filterValue;
 
-    return (this.data.value()?.bugs ?? []).filter((f) => {
+    let bugs = this.data.value()?.bugs ?? [];
+    if (onlyMuseumRelated) {
+      const value = this.wings.value();
+      if (value) {
+        const sets = value.insect.sets;
+        const museumBugs = (Object.keys(sets) as WingSetId[])
+          .map((setKey) => sets[setKey].items)
+          .flat();
+        bugs = bugs.filter((b) => museumBugs.includes(b.id));
+      }
+    }
+    return bugs.filter((f) => {
       return (
         f.seasons.includes(season) &&
         (f.weather.includes(weather) || !f.weather.length)
@@ -85,10 +101,21 @@ export class DashboardComponent {
 
   fish = computed(() => {
     const filterValue = this.filterValues();
-    const season: Season = filterValue.season;
-    const weather: Weather = filterValue.weather;
+    const { season, weather, onlyMuseumRelated } = filterValue;
 
-    return (this.data.value()?.fish ?? []).filter((f) => {
+    let fish = this.data.value()?.fish ?? [];
+    if (onlyMuseumRelated) {
+      const value = this.wings.value();
+      if (value) {
+        const sets = value.fish.sets;
+        const museumFish = (Object.keys(sets) as WingSetId[])
+          .map((setKey) => sets[setKey].items)
+          .flat();
+        fish = fish.filter((b) => museumFish.includes(b.id));
+      }
+    }
+
+    return fish.filter((f) => {
       return (
         f.seasons.includes(season) &&
         (f.weather.includes(weather) || !f.weather.length)

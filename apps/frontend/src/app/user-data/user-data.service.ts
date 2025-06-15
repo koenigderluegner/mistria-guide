@@ -90,6 +90,7 @@ export class UserDataService {
         season: 'spring',
         weather: 'calm',
         hideCompleted: true,
+        onlyMuseumRelated: true,
       },
       checklists: {},
     };

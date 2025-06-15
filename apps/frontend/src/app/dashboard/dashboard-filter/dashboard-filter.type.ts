@@ -7,6 +7,7 @@ export type DashboardFilterData = {
   year: number;
   weather: Weather;
   hideCompleted: boolean;
+  onlyMuseumRelated: boolean;
 };
 
 export type DashboardFilter = {
