@@ -1,0 +1,12 @@
+
+.page-title {
+  @apply scroll-m-20 text-4xl font-semibold tracking-tight sm:text-3xl xl:text-4xl;
+}
+
+.section-title {
+  @apply mt-12 scroll-m-28 text-2xl font-medium tracking-tight first:mt-0 lg:mt-20 [&+p]:mt-4;
+}
+
+label {
+  @apply flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50;
+}

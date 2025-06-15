@@ -1,0 +1,13 @@
+.mdc-checkbox__background {
+  @apply dark:bg-input/30!;
+  @apply border-input! focus-visible:border-ring focus-visible:ring-ring/50  size-4 shrink-0 rounded-[4px] border shadow-xs transition-shadow outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50;
+}
+
+.mdc-checkbox__native-control:enabled:checked ~ .mdc-checkbox__background {
+  @apply bg-primary!  dark:bg-primary! border-primary!
+
+}
+
+.mdc-checkbox__checkmark {
+  --mat-checkbox-selected-checkmark-color: var(--primary-foreground);
+}
