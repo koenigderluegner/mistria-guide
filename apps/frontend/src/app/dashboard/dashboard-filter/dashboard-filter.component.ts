@@ -7,6 +7,7 @@ import { MatInput } from '@angular/material/input';
 import { DashboardFilter } from './dashboard-filter.type';
 import { Seasons, Weathers } from '@mistria-guide/data-types';
 import { addDays } from '../../shared/util/specific-date.function';
+import { TitleCasePipe } from '@angular/common';
 
 @Component({
   selector: 'app-dashboard-filter',
@@ -17,6 +18,7 @@ import { addDays } from '../../shared/util/specific-date.function';
     ReactiveFormsModule,
     MatCheckbox,
     MatInput,
+    TitleCasePipe,
   ],
   templateUrl: './dashboard-filter.component.html',
 })

@@ -14,7 +14,7 @@
     <label for="dashboard-season">Season</label>
     <mat-select id="dashboard-season" disableOptionCentering formControlName="season">
       @for (seasonOption of Seasons; track seasonOption) {
-        <mat-option [value]="seasonOption">{{ seasonOption }}</mat-option>
+        <mat-option [value]="seasonOption">{{ seasonOption | titlecase }}</mat-option>
       }
     </mat-select>
   </div>
@@ -27,11 +27,12 @@
     <label for="dashboard-weather">Weather</label>
     <mat-select id="dashboard-weather" disableOptionCentering formControlName="weather">
       @for (weatherOption of Weathers; track weatherOption) {
-        <mat-option [value]="weatherOption">{{ weatherOption }}</mat-option>
+        <mat-option [value]="weatherOption">{{ weatherOption | titlecase }}</mat-option>
       }
     </mat-select>
   </div>
-  <mat-checkbox class="text-white self-center" formControlName="hideCompleted">Hide completed</mat-checkbox>
+  <mat-checkbox class="text-white self-center mt-4.5" formControlName="hideCompleted">Hide completed
+  </mat-checkbox>
 
 
 </div>
