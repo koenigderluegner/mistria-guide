@@ -1,18 +1,10 @@
-import { IconSprite, ItemId, WingId, WingSetId } from './generated';
+import { IconSprite, WingId, WingSetId } from './generated';
 import { TranslationReference } from './translation-reference';
+import { MuseumWingSet } from './museum-wing-set';
 
 export type MuseumWing = {
   wing: WingId;
   icon_key: IconSprite;
-  sets: Record<
-    WingId,
-    {
-      orderId: string;
-      setId: WingSetId;
-      name: TranslationReference;
-      description: TranslationReference;
-      items: ItemId[];
-    }
-  >;
+  sets: Record<WingSetId, MuseumWingSet>;
   name: TranslationReference;
 };

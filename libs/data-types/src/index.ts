@@ -8,6 +8,7 @@ export * from './in-game-date';
 export * from './item';
 export * from './minified-item';
 export * from './museum-wing';
+export * from './museum-wing-set';
 export * from './perks-and-skill';
 export * from './recipe';
 export * from './translation-reference';
