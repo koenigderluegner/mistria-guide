@@ -7,7 +7,7 @@ import { Dashboard, MuseumWing, WingId } from '@mistria-guide/data-types';
 })
 export class DatabaseService {
   getData<T>(key: string) {
-    return httpResource<T>(() => `/database/${key}.json`);
+    return httpResource<T>(() => `database/${key}.json`);
   }
 
   getMuseumWings() {
