@@ -1,4 +1,8 @@
-<a [routerLink]="['/item', item().id]"
-   class="">
-  <app-sprite class="scale-200" [name]="item().icon_sprite" />
-</a>
+<div class="flex flex-col items-center justify-center">
+  <a class="h-11 w-11 p-1.5 flex justify-center items-center" [routerLink]="['/item', item().id]">
+    <app-sprite class="scale-200" [name]="item().icon_sprite" />
+  </a>
+  <div class="w-full border-t"></div>
+  <mat-checkbox [checked]="!!checked()" (change)="checkboxChanged.emit($event.checked)"></mat-checkbox>
+</div>
+
