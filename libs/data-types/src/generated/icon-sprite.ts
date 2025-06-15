@@ -2048,10 +2048,10 @@ export const IconSprites = [
   'spr_ui_skills_mining_icon_good_as_gold',
   'spr_ui_skills_mining_icon_refined_rockery',
   'spr_ui_skills_mining_icon_break_one_get_two',
-  'spr_ui_museum_archaeology_wing_button',
-  'spr_ui_museum_fish_wing_button',
-  'spr_ui_museum_flora_wing_button',
-  'spr_ui_museum_insects_wing_button',
+  'spr_ui_museum_archaeology_wing_button_default',
+  'spr_ui_museum_fish_wing_button_default',
+  'spr_ui_museum_flora_wing_button_default',
+  'spr_ui_museum_insects_wing_button_default',
 ] as const;
 
 export type IconSprite = (typeof IconSprites)[number];

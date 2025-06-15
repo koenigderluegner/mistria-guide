@@ -1,14 +1,8 @@
 import { IconSprites } from '@mistria-guide/data-types';
 import * as path from 'node:path';
 import * as fs from 'node:fs';
+import { workspaceRoot } from 'nx/src/utils/workspace-root';
 
-// I do this to avoid copying all assets to the dist folder
-const workspaceRoot = path.resolve(
-  __dirname.replace(`dist${path.sep}apps${path.sep}extractor`, ''),
-  '..',
-  '..',
-  '..'
-);
 const frontendTargetPath = path.resolve(
   workspaceRoot,
   'apps/frontend/public/assets/sprites'

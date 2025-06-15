@@ -21,6 +21,11 @@ export function museumWingsParser(
   const iconSprites: string[] = [];
   const wingSetIds: string[] = [];
   ui.wings.forEach((wing) => {
+    const wingIconKey = wing.icon_key.replace(
+      'wing_button',
+      'wing_button_default'
+    );
+    wing.icon_key = wingIconKey;
     iconSprites.push(wing.icon_key);
     const sets = ui[`${wing.wing}_order`]
       .map((order) => {
