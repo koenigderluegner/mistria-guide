@@ -1,5 +1,7 @@
 import {
   ApplicationConfig,
+  inject,
+  provideAppInitializer,
   provideExperimentalZonelessChangeDetection,
 } from '@angular/core';
 import { provideRouter, withComponentInputBinding } from '@angular/router';
@@ -9,6 +11,7 @@ import {
   withEventReplay,
 } from '@angular/platform-browser';
 import { provideHttpClient, withFetch } from '@angular/common/http';
+import { UserDataService } from './user-data/user-data.service';
 
 export const appConfig: ApplicationConfig = {
   providers: [
@@ -16,5 +19,8 @@ export const appConfig: ApplicationConfig = {
     provideExperimentalZonelessChangeDetection(),
     provideRouter(appRoutes, withComponentInputBinding()),
     provideHttpClient(withFetch()),
+    provideAppInitializer(() => {
+      inject(UserDataService).read();
+    }),
   ],
 };

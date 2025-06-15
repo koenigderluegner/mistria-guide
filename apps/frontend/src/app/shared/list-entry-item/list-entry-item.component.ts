@@ -8,7 +8,8 @@ import { SpriteComponent } from '../sprite/sprite.component';
   imports: [RouterLink, SpriteComponent],
   templateUrl: './list-entry-item.component.html',
   host: {
-    class: 'inline-flex',
+    class:
+      'inline-flex hover:bg-secondary/80 dark:bg-input/30 dark:hover:bg-input/80 border-input inline-flex rounded-md border bg-transparent h-11 w-11 p-3 text-base shadow-xs transition-[color,box-shadow] outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px]',
   },
 })
 export class ListEntryItemComponent {
