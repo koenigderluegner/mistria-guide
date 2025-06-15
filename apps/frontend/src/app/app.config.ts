@@ -2,7 +2,7 @@ import {
   ApplicationConfig,
   inject,
   provideAppInitializer,
-  provideExperimentalZonelessChangeDetection,
+  provideZonelessChangeDetection,
 } from '@angular/core';
 import { provideRouter, withComponentInputBinding } from '@angular/router';
 import { appRoutes } from './app.routes';
@@ -16,7 +16,7 @@ import { UserDataService } from './user-data/user-data.service';
 export const appConfig: ApplicationConfig = {
   providers: [
     provideClientHydration(withEventReplay()),
-    provideExperimentalZonelessChangeDetection(),
+    provideZonelessChangeDetection(),
     provideRouter(appRoutes, withComponentInputBinding()),
     provideHttpClient(withFetch()),
     provideAppInitializer(() => {

@@ -1,12 +1,13 @@
 import {
   Component,
+  DOCUMENT,
   effect,
   inject,
   linkedSignal,
   signal,
   untracked,
 } from '@angular/core';
-import { DOCUMENT, NgTemplateOutlet } from '@angular/common';
+import { NgTemplateOutlet } from '@angular/common';
 import { BreakpointObserver } from '@angular/cdk/layout';
 import { SidebarMenuItemDirective } from './sidebar-menu-item.directive';
 import { SpriteComponent } from '../shared/sprite/sprite.component';

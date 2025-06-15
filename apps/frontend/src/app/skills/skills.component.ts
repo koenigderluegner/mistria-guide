@@ -11,7 +11,7 @@ import { SpriteComponent } from '../shared/sprite/sprite.component';
 export class SkillsComponent {
   skillId = input<SkillId>();
   protected skills = httpResource<Record<SkillId, Skill>>(
-    'database/skills.json'
+    () => 'database/skills.json'
   );
   protected foundSkill = computed(() => {
     if (!this.skills.hasValue()) return undefined;
