@@ -41,6 +41,7 @@
     "@nx/web": "21.2.0",
     "@nx/workspace": "21.2.0",
     "@schematics/angular": "20.0.2",
+    "@spartan-ng/cli": "^0.0.1-alpha.476",
     "@swc-node/register": "~1.9.1",
     "@swc/core": "~1.5.7",
     "@swc/helpers": "~0.5.11",
