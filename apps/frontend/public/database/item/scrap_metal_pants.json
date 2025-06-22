@@ -1,6 +1,7 @@
 {
   "id": "scrap_metal_pants",
   "item": {
+    "id": "scrap_metal_pants",
     "description": "Pants constructed out of scrap metal. Equip to increase defense.",
     "name": "Scrap Metal Pants",
     "icon_sprite": "spr_ui_item_equipment_scrap_metal_pants",

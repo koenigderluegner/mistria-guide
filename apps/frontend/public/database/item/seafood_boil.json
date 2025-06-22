@@ -1,6 +1,7 @@
 {
   "id": "seafood_boil",
   "item": {
+    "id": "seafood_boil",
     "description": "This medley of fresh seafood and vegetables is doused generously in butter.",
     "name": "Seafood Boil",
     "icon_sprite": "spr_ui_item_seafood_boil",

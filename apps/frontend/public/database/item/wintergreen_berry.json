@@ -1,6 +1,7 @@
 {
   "id": "wintergreen_berry",
   "item": {
+    "id": "wintergreen_berry",
     "description": "A wonderful winter berry. Used in a variety of cooking recipes.",
     "name": "Wintergreen Berry",
     "icon_sprite": "spr_ui_item_bush_wintergreen",

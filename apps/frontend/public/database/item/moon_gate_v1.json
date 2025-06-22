@@ -1,6 +1,7 @@
 {
   "id": "moon_gate_v1",
   "item": {
+    "id": "moon_gate_v1",
     "description": "A stone moon gate with a blue tiled roof.",
     "name": "Moon Gate",
     "icon_sprite": "spr_ui_item_decor_moon_gate_v1",

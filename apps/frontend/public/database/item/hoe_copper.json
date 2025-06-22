@@ -1,6 +1,7 @@
 {
   "id": "hoe_copper",
   "item": {
+    "id": "hoe_copper",
     "description": "A copper hoe. Can be charged to till 3 tiles in a row.",
     "name": "Copper Hoe",
     "icon_sprite": "spr_ui_item_tool_copper_hoe",

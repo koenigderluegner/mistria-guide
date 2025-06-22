@@ -1,6 +1,7 @@
 {
   "id": "fiber",
   "item": {
+    "id": "fiber",
     "description": "Fiber made of plant material. Used in a variety of crafting recipes.",
     "name": "Fiber",
     "icon_sprite": "spr_ui_item_fiber",

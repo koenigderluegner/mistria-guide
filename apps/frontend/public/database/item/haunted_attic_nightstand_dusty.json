@@ -1,6 +1,7 @@
 {
   "id": "haunted_attic_nightstand_dusty",
   "item": {
+    "id": "haunted_attic_nightstand_dusty",
     "description": "An old fashioned nightstand with a dusty warm-tone color.",
     "name": "Haunted Attic Nightstand",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_nightstand_dusty",

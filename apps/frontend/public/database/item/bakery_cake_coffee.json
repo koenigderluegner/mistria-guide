@@ -1,6 +1,7 @@
 {
   "id": "bakery_cake_coffee",
   "item": {
+    "id": "bakery_cake_coffee",
     "description": "A decorative chocolate cake. Looks delicious!",
     "name": "Bakery Display Cake",
     "icon_sprite": "spr_ui_item_decor_bakery_cake_v2",

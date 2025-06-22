@@ -1,6 +1,7 @@
 {
   "id": "starter_wood_fence",
   "item": {
+    "id": "starter_wood_fence",
     "description": "A simple wooden fence.",
     "name": "Wooden Fence",
     "icon_sprite": "spr_ui_item_decor_starter_wood_fence",

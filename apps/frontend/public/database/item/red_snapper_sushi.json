@@ -1,6 +1,7 @@
 {
   "id": "red_snapper_sushi",
   "item": {
+    "id": "red_snapper_sushi",
     "description": "A premium slice of Red Snapper over seasoned rice.",
     "name": "Red Snapper Sushi",
     "icon_sprite": "spr_ui_item_red_snapper_sushi",

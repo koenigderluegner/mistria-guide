@@ -1,6 +1,7 @@
 {
   "id": "red_snapper",
   "item": {
+    "id": "red_snapper",
     "description": "A common large ocean fish found in spring and fall.",
     "name": "Red Snapper",
     "icon_sprite": "spr_ui_item_fish_large_red_snapper",

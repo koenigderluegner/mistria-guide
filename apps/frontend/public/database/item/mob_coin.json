@@ -1,6 +1,7 @@
 {
   "id": "mob_coin",
   "item": {
+    "id": "mob_coin",
     "description": "You shouldn't have this!",
     "name": "coin",
     "icon_sprite": "spr_mob_coin",

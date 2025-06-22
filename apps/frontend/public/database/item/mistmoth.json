@@ -1,6 +1,7 @@
 {
   "id": "mistmoth",
   "item": {
+    "id": "mistmoth",
     "description": "A rare insect found at night in fall.",
     "name": "Mistmoth",
     "icon_sprite": "spr_ui_item_insect_mistmoth",

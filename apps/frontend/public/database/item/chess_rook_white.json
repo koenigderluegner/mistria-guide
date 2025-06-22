@@ -1,6 +1,7 @@
 {
   "id": "chess_rook_white",
   "item": {
+    "id": "chess_rook_white",
     "description": "An oversized white rook chess piece.",
     "name": "Chess Rook Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_rook_white",

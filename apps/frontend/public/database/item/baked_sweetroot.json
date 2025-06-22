@@ -1,6 +1,7 @@
 {
   "id": "baked_sweetroot",
   "item": {
+    "id": "baked_sweetroot",
     "description": "After baking, its natural sweetness increases, making it a tasty treat.",
     "name": "Baked Sweetroot",
     "icon_sprite": "spr_ui_item_baked_sweetroot",

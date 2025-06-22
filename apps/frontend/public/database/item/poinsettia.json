@@ -1,6 +1,7 @@
 {
   "id": "poinsettia",
   "item": {
+    "id": "poinsettia",
     "description": "A lovely red winter flower. Can be used in crafting recipes.",
     "name": "Poinsettia",
     "icon_sprite": "spr_ui_item_poinsettia",

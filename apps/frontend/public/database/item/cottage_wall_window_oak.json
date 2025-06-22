@@ -1,6 +1,7 @@
 {
   "id": "cottage_wall_window_oak",
   "item": {
+    "id": "cottage_wall_window_oak",
     "description": "A lovely oak wood window dressed in white curtains with a pink trim.",
     "name": "Lovely Cottage Window",
     "icon_sprite": "spr_ui_item_furniture_cottage_wall_window_v1",

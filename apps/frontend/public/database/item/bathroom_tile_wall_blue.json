@@ -1,6 +1,7 @@
 {
   "id": "bathroom_tile_wall_blue",
   "item": {
+    "id": "bathroom_tile_wall_blue",
     "description": "A wallpaper that resembles blue and white bathroom tile.",
     "name": "Bathroom Tile Wall",
     "icon_sprite": "spr_ui_item_furniture_bathroom_tile_wall_blue",

@@ -1,6 +1,7 @@
 {
   "id": "baked_potato",
   "item": {
+    "id": "baked_potato",
     "description": "This hot and fluffy baked potato is simple but filling.",
     "name": "Baked Potato",
     "icon_sprite": "spr_ui_item_bakedpotato",

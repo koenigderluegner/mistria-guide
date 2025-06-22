@@ -1,6 +1,7 @@
 {
   "id": "color_paving_stone_v02",
   "item": {
+    "id": "color_paving_stone_v02",
     "description": "A small red paving stone.",
     "name": "Color Paving Stone",
     "icon_sprite": "spr_ui_item_decor_floor_tile_small_02",

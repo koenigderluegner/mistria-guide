@@ -1,6 +1,7 @@
 {
   "id": "thyme",
   "item": {
+    "id": "thyme",
     "description": "A popular herb grown in summer. Commonly used as a cooking ingredient.",
     "name": "Thyme",
     "icon_sprite": "spr_ui_item_thyme",

@@ -1,6 +1,7 @@
 {
   "id": "basket",
   "item": {
+    "id": "basket",
     "description": "A decorative woven basket.",
     "name": "Basket",
     "icon_sprite": "spr_ui_item_decor_clutter_basket",

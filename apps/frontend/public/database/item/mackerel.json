@@ -1,6 +1,7 @@
 {
   "id": "mackerel",
   "item": {
+    "id": "mackerel",
     "description": "A common large ocean fish found on rainy days in spring.",
     "name": "Mackerel",
     "icon_sprite": "spr_ui_item_fish_large_mackerel",

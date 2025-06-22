@@ -1,6 +1,7 @@
 {
   "id": "net_mistril",
   "item": {
+    "id": "net_mistril",
     "description": "A bug catching net made from mistril. The only change is the aesthetic.",
     "name": "Mistril Net",
     "icon_sprite": "spr_ui_item_tool_mistril_net",

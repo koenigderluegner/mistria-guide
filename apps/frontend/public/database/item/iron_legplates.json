@@ -1,6 +1,7 @@
 {
   "id": "iron_legplates",
   "item": {
+    "id": "iron_legplates",
     "description": "Legplates constructed out of iron. Equip to increase defense.",
     "name": "Iron Legplates",
     "icon_sprite": "spr_ui_item_equipment_iron_pants",

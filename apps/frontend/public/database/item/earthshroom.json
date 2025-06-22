@@ -1,6 +1,7 @@
 {
   "id": "earthshroom",
   "item": {
+    "id": "earthshroom",
     "description": "These mushrooms grow in dense clusters, and smell strongly of earth.",
     "name": "Earthshroom",
     "icon_sprite": "spr_ui_item_earthshroom",

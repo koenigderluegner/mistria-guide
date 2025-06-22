@@ -1,6 +1,7 @@
 {
   "id": "goby",
   "item": {
+    "id": "goby",
     "description": "An uncommon medium river fish found in all seasons.",
     "name": "Goby",
     "icon_sprite": "spr_ui_item_fish_medium_goby",

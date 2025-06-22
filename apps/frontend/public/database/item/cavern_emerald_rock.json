@@ -1,6 +1,7 @@
 {
   "id": "cavern_emerald_rock",
   "item": {
+    "id": "cavern_emerald_rock",
     "description": "A decorative emerald rock.",
     "name": "Ornamental Emerald Rock",
     "icon_sprite": "spr_ui_item_furniture_emerald_rock",

@@ -1,6 +1,7 @@
 {
   "id": "orange",
   "item": {
+    "id": "orange",
     "description": "The citrusy fruit of the orange tree, which fruits in fall. A popular ingredient in cooking recipes.",
     "name": "Orange",
     "icon_sprite": "spr_ui_item_orange",

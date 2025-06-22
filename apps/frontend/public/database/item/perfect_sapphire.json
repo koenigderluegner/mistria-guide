@@ -1,6 +1,7 @@
 {
   "id": "perfect_sapphire",
   "item": {
+    "id": "perfect_sapphire",
     "description": "A rare artifact. This unusually large sapphire seems to glow from within.",
     "name": "Perfect Sapphire",
     "icon_sprite": "spr_ui_item_perfect_sapphire",

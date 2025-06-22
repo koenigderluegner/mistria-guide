@@ -1,6 +1,7 @@
 {
   "id": "inn_cross_stitch",
   "item": {
+    "id": "inn_cross_stitch",
     "description": "Framed cross stitch wall art, matching the design used at the Inn.",
     "name": "Inn Cross Stitch",
     "icon_sprite": "spr_ui_item_furniture_inn_cross_stitch",

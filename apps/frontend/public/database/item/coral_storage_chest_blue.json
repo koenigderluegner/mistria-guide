@@ -1,6 +1,7 @@
 {
   "id": "coral_storage_chest_blue",
   "item": {
+    "id": "coral_storage_chest_blue",
     "description": "A blue coral storage chest.",
     "name": "Coral Storage Chest",
     "icon_sprite": "spr_ui_item_furniture_coral_storage_chest_blue",

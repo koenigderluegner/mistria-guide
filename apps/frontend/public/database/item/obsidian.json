@@ -1,6 +1,7 @@
 {
   "id": "obsidian",
   "item": {
+    "id": "obsidian",
     "description": "A shard of volcanic glass.",
     "name": "Obsidian",
     "icon_sprite": "spr_ui_item_obsidian",

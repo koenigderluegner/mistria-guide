@@ -1,6 +1,7 @@
 {
   "id": "green_tea",
   "item": {
+    "id": "green_tea",
     "description": "This tea has a mellow, slightly vegetal flavor.",
     "name": "Green Tea",
     "icon_sprite": "spr_ui_item_green_tea",

@@ -1,6 +1,7 @@
 {
   "id": "seed_chili_pepper",
   "item": {
+    "id": "seed_chili_pepper",
     "description": "Chili pepper seed. This summer crop can be harvested once.",
     "name": "Chili Pepper Seed",
     "icon_sprite": "spr_ui_item_bagseed_chili_pepper_icon",

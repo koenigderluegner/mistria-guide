@@ -1,6 +1,7 @@
 {
   "id": "explorer_chair_green",
   "item": {
+    "id": "explorer_chair_green",
     "description": "A comfy green explorer's chair.",
     "name": "Explorer Chair",
     "icon_sprite": "spr_ui_item_furniture_explorer_chair_green",

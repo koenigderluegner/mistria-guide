@@ -1,6 +1,7 @@
 {
   "id": "sauteed_snow_peas",
   "item": {
+    "id": "sauteed_snow_peas",
     "description": "These crunchy snow peas are sauteed with crisp water chestnuts.",
     "name": "Sauteed Snow Peas",
     "icon_sprite": "spr_ui_item_sauteed_snow_peas",

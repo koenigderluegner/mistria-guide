@@ -1,6 +1,7 @@
 {
   "id": "chess_queen_white",
   "item": {
+    "id": "chess_queen_white",
     "description": "An oversized white queen chess piece.",
     "name": "Chess Queen Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_queen_white",

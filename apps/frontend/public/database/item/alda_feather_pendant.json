@@ -1,6 +1,7 @@
 {
   "id": "alda_feather_pendant",
   "item": {
+    "id": "alda_feather_pendant",
     "description": "An uncommon artifact. Once used in marriage proposals, beautifully designed.",
     "name": "Alda Feather Pendant",
     "icon_sprite": "spr_ui_item_alda_feather_pendant",

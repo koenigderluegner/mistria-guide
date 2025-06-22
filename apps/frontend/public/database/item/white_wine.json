@@ -1,6 +1,7 @@
 {
   "id": "white_wine",
   "item": {
+    "id": "white_wine",
     "description": "A sweet wine that compliments many dishes.",
     "name": "White Wine",
     "icon_sprite": "spr_ui_item_white_wine",

@@ -1,6 +1,7 @@
 {
   "id": "large_coop_red_blueprint",
   "item": {
+    "id": "large_coop_red_blueprint",
     "description": "Use this item to place a large red coop construction site on your farm! Requirements to build: 125 wood, 100 stone.",
     "name": "Large Red Coop Blueprint",
     "icon_sprite": "spr_ui_item_large_coop_red",

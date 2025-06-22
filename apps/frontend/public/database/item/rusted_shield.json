@@ -1,6 +1,7 @@
 {
   "id": "rusted_shield",
   "item": {
+    "id": "rusted_shield",
     "description": "An uncommon artifact. A very old shield with an unusual design.",
     "name": "Rusted Shield",
     "icon_sprite": "spr_ui_item_rusted_shield",

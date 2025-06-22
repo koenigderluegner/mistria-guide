@@ -1,6 +1,7 @@
 {
   "id": "copper_ring",
   "item": {
+    "id": "copper_ring",
     "description": "A copper ring. Equip to increase defense.",
     "name": "Copper Ring",
     "icon_sprite": "spr_ui_item_equipment_copper_ring",

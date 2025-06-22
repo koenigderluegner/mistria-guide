@@ -1,6 +1,7 @@
 {
   "id": "clay",
   "item": {
+    "id": "clay",
     "description": "A small lump of clay. Used in a variety of crafting recipes.",
     "name": "Clay",
     "icon_sprite": "spr_ui_item_clay",

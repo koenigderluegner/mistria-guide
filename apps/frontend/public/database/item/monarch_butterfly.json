@@ -1,6 +1,7 @@
 {
   "id": "monarch_butterfly",
   "item": {
+    "id": "monarch_butterfly",
     "description": "A common insect found during the daytime in fall.",
     "name": "Monarch Butterfly",
     "icon_sprite": "spr_ui_item_insect_monarchbutterfly",

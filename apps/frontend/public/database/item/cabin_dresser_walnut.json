@@ -1,6 +1,7 @@
 {
   "id": "cabin_dresser_walnut",
   "item": {
+    "id": "cabin_dresser_walnut",
     "description": "A rustic walnut dresser.",
     "name": "Rustic Cabin Dresser",
     "icon_sprite": "spr_ui_item_furniture_cabin_dresser_v2",

@@ -1,6 +1,7 @@
 {
   "id": "lava_caves_gold_node",
   "item": {
+    "id": "lava_caves_gold_node",
     "description": "A decorative gold node.",
     "name": "Ornamental Gold Node",
     "icon_sprite": "spr_ui_item_furniture_gold_node",

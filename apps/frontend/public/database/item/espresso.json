@@ -1,6 +1,7 @@
 {
   "id": "espresso",
   "item": {
+    "id": "espresso",
     "description": "A tiny, hot drink that packs a punch.",
     "name": "Espresso",
     "icon_sprite": "spr_ui_item_espresso",

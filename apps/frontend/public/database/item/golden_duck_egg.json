@@ -1,6 +1,7 @@
 {
   "id": "golden_duck_egg",
   "item": {
+    "id": "golden_duck_egg",
     "description": "A gold quality egg layed by a duck. Used in high level cooking and crafting recipes.",
     "name": "Golden Duck Egg",
     "icon_sprite": "spr_ui_item_duck_egg_gold",

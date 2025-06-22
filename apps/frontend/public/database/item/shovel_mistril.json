@@ -1,6 +1,7 @@
 {
   "id": "shovel_mistril",
   "item": {
+    "id": "shovel_mistril",
     "description": "A shovel made from mistril. Can be charged to dig a 6x9 area.",
     "name": "Mistril Shovel",
     "icon_sprite": "spr_ui_item_tool_mistril_shovel",

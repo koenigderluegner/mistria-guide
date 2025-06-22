@@ -1,6 +1,7 @@
 {
   "id": "monster_mash",
   "item": {
+    "id": "monster_mash",
     "description": "This mash has a truly indescribable flavor.",
     "name": "Monster Mash",
     "icon_sprite": "spr_ui_item_monster_mash",

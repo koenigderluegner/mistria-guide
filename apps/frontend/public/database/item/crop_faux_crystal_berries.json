@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_crystal_berries",
   "item": {
+    "id": "crop_faux_crystal_berries",
     "description": "A decorative faux crystal berry plant.",
     "name": "Faux Crystal Berries",
     "icon_sprite": "spr_ui_item_decor_crop_faux_crystal_berries",

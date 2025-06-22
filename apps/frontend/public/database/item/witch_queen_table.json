@@ -1,6 +1,7 @@
 {
   "id": "witch_queen_table",
   "item": {
+    "id": "witch_queen_table",
     "description": "A purple table with sea green detailing.",
     "name": "Witch Queen Table",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_table",

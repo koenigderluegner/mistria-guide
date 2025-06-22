@@ -1,6 +1,7 @@
 {
   "id": "explorer_globe_brown",
   "item": {
+    "id": "explorer_globe_brown",
     "description": "A gray explorer's globe.",
     "name": "Explorer Globe",
     "icon_sprite": "spr_ui_item_furniture_explorer_globe_brown",

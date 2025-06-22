@@ -1,6 +1,7 @@
 {
   "id": "miners_wallpaper",
   "item": {
+    "id": "miners_wallpaper",
     "description": "Cave wall wallpaper for your home.",
     "name": "Mines Wall",
     "icon_sprite": "spr_ui_item_furniture_mines_wallpaper",

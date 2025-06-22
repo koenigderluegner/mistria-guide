@@ -1,6 +1,7 @@
 {
   "id": "mayonnaise",
   "item": {
+    "id": "mayonnaise",
     "description": "A popular condiment made from chicken eggs. Used in a variety of cooking recipes.",
     "name": "Mayonnaise",
     "icon_sprite": "spr_ui_item_mayonnaise",

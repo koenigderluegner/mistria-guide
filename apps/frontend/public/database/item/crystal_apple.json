@@ -1,6 +1,7 @@
 {
   "id": "crystal_apple",
   "item": {
+    "id": "crystal_apple",
     "description": "A rare artifact. Appears to have been infused with essence.",
     "name": "Crystal Apple",
     "icon_sprite": "spr_ui_item_crystal_apple",

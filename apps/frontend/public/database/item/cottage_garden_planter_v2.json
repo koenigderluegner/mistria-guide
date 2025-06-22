@@ -1,6 +1,7 @@
 {
   "id": "cottage_garden_planter_v2",
   "item": {
+    "id": "cottage_garden_planter_v2",
     "description": "A cottage garden planter made with neutral-toned stone.",
     "name": "Cottage Garden Planter",
     "icon_sprite": "spr_ui_item_decor_cottage_garden_planter_v2",

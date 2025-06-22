@@ -1,6 +1,7 @@
 {
   "id": "apple_pie",
   "item": {
+    "id": "apple_pie",
     "description": "A flaky pie filled with tender slices of slow-cooked apple.",
     "name": "Apple Pie",
     "icon_sprite": "spr_ui_item_apple_pie",

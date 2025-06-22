@@ -1,6 +1,7 @@
 {
   "id": "chess_bishop_black",
   "item": {
+    "id": "chess_bishop_black",
     "description": "An oversized black bishop chess piece.",
     "name": "Chess Bishop Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_bishop_black",

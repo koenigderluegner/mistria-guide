@@ -1,6 +1,7 @@
 {
   "id": "lava_caves_obsidian_double_bed_purple",
   "item": {
+    "id": "lava_caves_obsidian_double_bed_purple",
     "description": "A luxurious bed with an obsidian headboard and purple-black quilted blankets.",
     "name": "Obsidian Double Bed",
     "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_double_bed_purple",

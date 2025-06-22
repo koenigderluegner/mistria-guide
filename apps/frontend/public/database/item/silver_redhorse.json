@@ -1,6 +1,7 @@
 {
   "id": "silver_redhorse",
   "item": {
+    "id": "silver_redhorse",
     "description": "An uncommon medium Deep Woods fish found in all seasons.",
     "name": "Silver Redhorse",
     "icon_sprite": "spr_ui_item_fish_medium_silver_redhorse",

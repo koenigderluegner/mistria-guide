@@ -1,6 +1,7 @@
 {
   "id": "plum_blossom",
   "item": {
+    "id": "plum_blossom",
     "description": "A delicate pink flower grown in the winter. Can be given as a gift or used in various crafting recipes.",
     "name": "Plum Blossom",
     "icon_sprite": "spr_ui_item_plum_blossom",

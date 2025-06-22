@@ -1,6 +1,7 @@
 {
   "id": "red_duck_wall_ribbon",
   "item": {
+    "id": "red_duck_wall_ribbon",
     "description": "A red display ribbon commemorating your duck's second place win at the Animal Festival.",
     "name": "Red Duck Wall Ribbon",
     "icon_sprite": "spr_ui_item_decor_red_duck_ribbon",

@@ -1,6 +1,7 @@
 {
   "id": "haunted_attic_double_bed_dusty",
   "item": {
+    "id": "haunted_attic_double_bed_dusty",
     "description": "An old fashioned double bed with a blue-gray patterned cover.",
     "name": "Haunted Attic Double Bed",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_double_bed_dusty",

@@ -1,6 +1,7 @@
 {
   "id": "basic_dresser_walnut",
   "item": {
+    "id": "basic_dresser_walnut",
     "description": "A basic walnut dresser.",
     "name": "Basic Dresser",
     "icon_sprite": "spr_ui_item_furniture_basic_dresser_v2",

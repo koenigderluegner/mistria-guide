@@ -1,6 +1,7 @@
 {
   "id": "starter_potted_plant",
   "item": {
+    "id": "starter_potted_plant",
     "description": "Freshly potted yellow flowers.",
     "name": "Potted Plant",
     "icon_sprite": "spr_ui_item_decor_starter_potted_plant",

@@ -1,6 +1,7 @@
 {
   "id": "dungeon_fountain_health",
   "item": {
+    "id": "dungeon_fountain_health",
     "description": "This shouldn't be visible to you in game!",
     "name": "Fountain Health 33",
     "icon_sprite": "spr_ui_item_stone_cup",

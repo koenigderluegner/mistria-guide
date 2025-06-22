@@ -1,6 +1,7 @@
 {
   "id": "spring_festival_breath_of_spring_wreath",
   "item": {
+    "id": "spring_festival_breath_of_spring_wreath",
     "description": "A deluxe wreath made of large breath of spring flowers woven together.",
     "name": "Deluxe Breath of Spring Wreath",
     "icon_sprite": "spr_ui_item_decor_spring_festival_breath_of_spring_wreath",

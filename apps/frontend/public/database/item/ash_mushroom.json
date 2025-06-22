@@ -1,6 +1,7 @@
 {
   "id": "ash_mushroom",
   "item": {
+    "id": "ash_mushroom",
     "description": "A delicate mushroom that releases ashlike spores when jostled.",
     "name": "Ash Mushroom",
     "icon_sprite": "spr_ui_item_ash_mushroom",

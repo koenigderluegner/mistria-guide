@@ -1,6 +1,7 @@
 {
   "id": "seed_rosemary",
   "item": {
+    "id": "seed_rosemary",
     "description": "Rosemary seed. This fall crop can be harvested every 3 days once it reaches maturity.",
     "name": "Rosemary Seed",
     "icon_sprite": "spr_ui_item_bagseed_rosemary_icon",

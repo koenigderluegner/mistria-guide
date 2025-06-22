@@ -1,6 +1,7 @@
 {
   "id": "strawberry",
   "item": {
+    "id": "strawberry",
     "description": "A spring fruit crop. Sweet and flavorful, these berries are frequently used in dessert recipes.",
     "name": "Strawberry",
     "icon_sprite": "spr_ui_item_strawberry",

@@ -1,6 +1,7 @@
 {
   "id": "fish_tacos",
   "item": {
+    "id": "fish_tacos",
     "description": "These delicious tacos are loaded with crispy cod and veggies.",
     "name": "Fish Tacos",
     "icon_sprite": "spr_ui_item_fish_tacos",

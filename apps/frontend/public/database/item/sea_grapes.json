@@ -1,6 +1,7 @@
 {
   "id": "sea_grapes",
   "item": {
+    "id": "sea_grapes",
     "description": "These grapes have a salty pop that adds a briny taste to any dish. Used in a variety of cooking recipes.",
     "name": "Sea Grapes",
     "icon_sprite": "spr_ui_item_sea_grapes",

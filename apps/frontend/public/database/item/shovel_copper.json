@@ -1,6 +1,7 @@
 {
   "id": "shovel_copper",
   "item": {
+    "id": "shovel_copper",
     "description": "A copper shovel. Can be charged to dig 3 tiles in a row.",
     "name": "Copper Shovel",
     "icon_sprite": "spr_ui_item_tool_copper_shovel",

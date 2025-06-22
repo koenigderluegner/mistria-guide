@@ -1,6 +1,7 @@
 {
   "id": "sage",
   "item": {
+    "id": "sage",
     "description": "A popular herb grown in summer. Commonly used as a cooking ingredient.",
     "name": "Sage",
     "icon_sprite": "spr_ui_item_sage",

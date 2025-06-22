@@ -1,6 +1,7 @@
 {
   "id": "basic_area_rug_yellow",
   "item": {
+    "id": "basic_area_rug_yellow",
     "description": "A yellow area rug.",
     "name": "Basic Area Rug",
     "icon_sprite": "spr_ui_item_furniture_basic_area_rug_v1",

@@ -1,6 +1,7 @@
 {
   "id": "swordfish",
   "item": {
+    "id": "swordfish",
     "description": "An uncommon large ocean fish found in spring and fall.",
     "name": "Swordfish",
     "icon_sprite": "spr_ui_item_fish_large_swordfish",

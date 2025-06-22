@@ -1,6 +1,7 @@
 {
   "id": "squid",
   "item": {
+    "id": "squid",
     "description": "A common medium ocean cephalopod found in all seasons.",
     "name": "Squid",
     "icon_sprite": "spr_ui_item_fish_medium_squid",

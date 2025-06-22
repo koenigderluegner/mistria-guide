@@ -1,6 +1,7 @@
 {
   "id": "turnip_and_cabbage_salad",
   "item": {
+    "id": "turnip_and_cabbage_salad",
     "description": "A fresh salad with a wonderful crunch.",
     "name": "Turnip & Cabbage Salad",
     "icon_sprite": "spr_ui_item_turnip_and_cabbage_salad",

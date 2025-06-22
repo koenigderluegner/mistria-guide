@@ -1,6 +1,7 @@
 {
   "id": "ore_diamond",
   "item": {
+    "id": "ore_diamond",
     "description": "A rare and beautiful gem. Can be sold, gifted, or used in high level crafting recipes.",
     "name": "Diamond",
     "icon_sprite": "spr_ui_item_diamond",

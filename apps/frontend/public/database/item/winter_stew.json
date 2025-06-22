@@ -1,6 +1,7 @@
 {
   "id": "winter_stew",
   "item": {
+    "id": "winter_stew",
     "description": "A hearty stew loaded with winter vegetables.",
     "name": "Winter Stew",
     "icon_sprite": "spr_ui_item_winter_stew",

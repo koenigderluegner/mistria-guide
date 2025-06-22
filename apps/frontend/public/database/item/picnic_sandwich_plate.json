@@ -1,6 +1,7 @@
 {
   "id": "picnic_sandwich_plate",
   "item": {
+    "id": "picnic_sandwich_plate",
     "description": "A decorative sandwich plate.",
     "name": "Picnic Display Sandwiches",
     "icon_sprite": "spr_ui_item_picnic_snack_plate_red",

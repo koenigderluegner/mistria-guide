@@ -1,6 +1,7 @@
 {
   "id": "fairy_bee",
   "item": {
+    "id": "fairy_bee",
     "description": "A legendary insect found in the morning during fall. It's beautiful!",
     "name": "Fairy Bee",
     "icon_sprite": "spr_ui_item_insect_fairybee",

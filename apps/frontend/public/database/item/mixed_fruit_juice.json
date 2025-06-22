@@ -1,6 +1,7 @@
 {
   "id": "mixed_fruit_juice",
   "item": {
+    "id": "mixed_fruit_juice",
     "description": "A tasty blended fruit juice.",
     "name": "Mixed Fruit Juice",
     "icon_sprite": "spr_ui_item_mixed_fruit_juice",

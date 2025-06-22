@@ -1,6 +1,7 @@
 {
   "id": "pick_axe_worn",
   "item": {
+    "id": "pick_axe_worn",
     "description": "A worn but still serviceable pickaxe. Used to break small rocks and to excavate dig spots.",
     "name": "Worn Pickaxe",
     "icon_sprite": "spr_ui_item_tool_rusty_pickaxe",

@@ -1,6 +1,7 @@
 {
   "id": "sunflower",
   "item": {
+    "id": "sunflower",
     "description": "A cheerful yellow flower that grows in the summer. Can be used in cooking or crafting recipes.",
     "name": "Sunflower",
     "icon_sprite": "spr_ui_item_sunflower",

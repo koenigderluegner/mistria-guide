@@ -1,6 +1,7 @@
 {
   "id": "seed_cabbage",
   "item": {
+    "id": "seed_cabbage",
     "description": "Cabbage seed. This slow growing spring crop can be harvested once.",
     "name": "Cabbage Seed",
     "icon_sprite": "spr_ui_item_bagseed_cabbage_icon",

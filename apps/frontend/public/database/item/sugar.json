@@ -1,6 +1,7 @@
 {
   "id": "sugar",
   "item": {
+    "id": "sugar",
     "description": "A bag of processed sugar. Used to sweeten dishes when cooking.",
     "name": "Sugar",
     "icon_sprite": "spr_ui_item_sugar",

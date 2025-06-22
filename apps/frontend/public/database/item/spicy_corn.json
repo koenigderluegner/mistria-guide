@@ -1,6 +1,7 @@
 {
   "id": "spicy_corn",
   "item": {
+    "id": "spicy_corn",
     "description": "This roasted ear of corn has been coated with a tasty spice mixture.",
     "name": "Spicy Corn",
     "icon_sprite": "spr_ui_item_spicy_corn",

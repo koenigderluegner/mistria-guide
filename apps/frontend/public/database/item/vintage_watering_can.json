@@ -1,6 +1,7 @@
 {
   "id": "vintage_watering_can",
   "item": {
+    "id": "vintage_watering_can",
     "description": "An uncommon artifact. This vintage watering can was popular among farmers back in the day.",
     "name": "Vintage Watering Can",
     "icon_sprite": "spr_ui_item_vintage_watering_can",

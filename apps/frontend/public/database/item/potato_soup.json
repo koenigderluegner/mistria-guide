@@ -1,6 +1,7 @@
 {
   "id": "potato_soup",
   "item": {
+    "id": "potato_soup",
     "description": "This thick potato soup is creamy with a mild oniony flavor.",
     "name": "Potato Soup",
     "icon_sprite": "spr_ui_item_potatosoup",

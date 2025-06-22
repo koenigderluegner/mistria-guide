@@ -1,6 +1,7 @@
 {
   "id": "bowfish",
   "item": {
+    "id": "bowfish",
     "description": "A common large river fish found in winter.",
     "name": "Bowfish",
     "icon_sprite": "spr_ui_item_fish_large_bowfish",

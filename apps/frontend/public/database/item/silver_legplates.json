@@ -1,6 +1,7 @@
 {
   "id": "silver_legplates",
   "item": {
+    "id": "silver_legplates",
     "description": "Legplates constructed out of silver. Equip to increase defense.",
     "name": "Silver Legplates",
     "icon_sprite": "spr_ui_item_equipment_silver_pants",

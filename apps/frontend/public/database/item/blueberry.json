@@ -1,6 +1,7 @@
 {
   "id": "blueberry",
   "item": {
+    "id": "blueberry",
     "description": "These round blue berries are foraged in spring. Used in a variety of cooking recipes.",
     "name": "Blueberry",
     "icon_sprite": "spr_ui_item_bush_blueberry",

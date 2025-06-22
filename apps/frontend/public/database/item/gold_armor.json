@@ -1,6 +1,7 @@
 {
   "id": "gold_armor",
   "item": {
+    "id": "gold_armor",
     "description": "A chestpiece constructed out of gold. Equip to increase defense.",
     "name": "Gold Armor",
     "icon_sprite": "spr_ui_item_equipment_gold_chestpiece",

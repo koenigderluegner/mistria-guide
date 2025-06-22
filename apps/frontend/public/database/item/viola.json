@@ -1,6 +1,7 @@
 {
   "id": "viola",
   "item": {
+    "id": "viola",
     "description": "A cute yellow and purple flower foraged in fall. Can be used in crafting recipes.",
     "name": "Viola",
     "icon_sprite": "spr_ui_item_pansy",

@@ -1,6 +1,7 @@
 {
   "id": "luna_moth",
   "item": {
+    "id": "luna_moth",
     "description": "A rare insect found at night in spring.",
     "name": "Luna Moth",
     "icon_sprite": "spr_ui_item_insect_lunamoth",

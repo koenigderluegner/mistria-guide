@@ -1,6 +1,7 @@
 {
   "id": "silver_ring",
   "item": {
+    "id": "silver_ring",
     "description": "A ring constructed out of silver. Equip to increase defense.",
     "name": "Silver Ring",
     "icon_sprite": "spr_ui_item_equipment_silver_ring",

@@ -1,6 +1,7 @@
 {
   "id": "farm_bridge",
   "item": {
+    "id": "farm_bridge",
     "description": "A basic farm bridge. Place it over water to connect farm areas.",
     "name": "Starter Farm Bridge",
     "icon_sprite": "spr_ui_item_decor_starter_bridge",

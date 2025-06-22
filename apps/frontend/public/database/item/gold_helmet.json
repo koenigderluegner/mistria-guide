@@ -1,6 +1,7 @@
 {
   "id": "gold_helmet",
   "item": {
+    "id": "gold_helmet",
     "description": "A helmet constructed out of gold. Equip to increase defense.",
     "name": "Gold Helmet",
     "icon_sprite": "spr_ui_item_equipment_gold_helmet",

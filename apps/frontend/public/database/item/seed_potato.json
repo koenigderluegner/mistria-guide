@@ -1,6 +1,7 @@
 {
   "id": "seed_potato",
   "item": {
+    "id": "seed_potato",
     "description": "Potato seed. This popular spring crop can be harvested once.",
     "name": "Potato Seed",
     "icon_sprite": "spr_ui_item_bagseed_potato_icon",

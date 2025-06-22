@@ -1,6 +1,7 @@
 {
   "id": "barb",
   "item": {
+    "id": "barb",
     "description": "A common small pond fish found in spring.",
     "name": "Barb",
     "icon_sprite": "spr_ui_item_fish_small_barb",

@@ -1,6 +1,7 @@
 {
   "id": "fishing_lamp_blue",
   "item": {
+    "id": "fishing_lamp_blue",
     "description": "A cute lamp that looks like a blue lighthouse.",
     "name": "Lighthouse Lamp",
     "icon_sprite": "spr_ui_item_furniture_fishing_lamp_blue",

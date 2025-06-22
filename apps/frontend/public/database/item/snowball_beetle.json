@@ -1,6 +1,7 @@
 {
   "id": "snowball_beetle",
   "item": {
+    "id": "snowball_beetle",
     "description": "A legendary insect found during heavy snow in winter. It's adorable!",
     "name": "Snowball Beetle",
     "icon_sprite": "spr_ui_item_insect_snowballbeetle",

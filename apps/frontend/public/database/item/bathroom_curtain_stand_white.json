@@ -1,6 +1,7 @@
 {
   "id": "bathroom_curtain_stand_white",
   "item": {
+    "id": "bathroom_curtain_stand_white",
     "description": "A white bathroom curtain stand.",
     "name": "Bathroom Curtain Stand",
     "icon_sprite": "spr_ui_item_furniture_bathroom_curtain_stand_white",

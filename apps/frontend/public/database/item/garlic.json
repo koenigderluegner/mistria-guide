@@ -1,6 +1,7 @@
 {
   "id": "garlic",
   "item": {
+    "id": "garlic",
     "description": "A fall crop that regrows. Has a strong taste and odor. Commonly used as a cooking ingredient.",
     "name": "Garlic",
     "icon_sprite": "spr_ui_item_garlic",

@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_sugar_cane",
   "item": {
+    "id": "crop_faux_sugar_cane",
     "description": "A decorative faux sugar cane plant.",
     "name": "Faux Sugar Cane",
     "icon_sprite": "spr_ui_item_decor_crop_faux_sugar_cane",

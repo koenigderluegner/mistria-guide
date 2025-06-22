@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_sweetroot",
   "item": {
+    "id": "crop_faux_sweetroot",
     "description": "A decorative faux sweetroot plant.",
     "name": "Faux Sweetroot",
     "icon_sprite": "spr_ui_item_decor_crop_faux_sweetroot",

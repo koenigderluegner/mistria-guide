@@ -1,6 +1,7 @@
 {
   "id": "cottage_garden_arch_v2",
   "item": {
+    "id": "cottage_garden_arch_v2",
     "description": "A pretty off-white garden arch, covered with ivy.",
     "name": "Cottage Garden Arch",
     "icon_sprite": "spr_ui_item_decor_cottage_garden_arch_v2",

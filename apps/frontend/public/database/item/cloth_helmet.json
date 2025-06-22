@@ -1,6 +1,7 @@
 {
   "id": "cloth_helmet",
   "item": {
+    "id": "cloth_helmet",
     "description": "A cloth helmet. It's basically useless.",
     "name": "Cloth Helmet",
     "icon_sprite": "spr_ui_item_equipment_cloth_helmet",

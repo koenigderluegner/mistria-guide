@@ -1,6 +1,7 @@
 {
   "id": "seed_viola",
   "item": {
+    "id": "seed_viola",
     "description": "Viola seed. This fall flower can be harvested once.",
     "name": "Viola Seed",
     "icon_sprite": "spr_ui_item_bagseed_viola_icon",

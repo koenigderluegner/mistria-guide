@@ -1,6 +1,7 @@
 {
   "id": "turtle",
   "item": {
+    "id": "turtle",
     "description": "A common large pond reptile found in all seasons.",
     "name": "Turtle",
     "icon_sprite": "spr_ui_item_fish_large_turtle",

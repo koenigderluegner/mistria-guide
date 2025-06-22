@@ -1,6 +1,7 @@
 {
   "id": "espresso_cup_v2",
   "item": {
+    "id": "espresso_cup_v2",
     "description": "A decorative white espresso cup.",
     "name": "Espresso Cup",
     "icon_sprite": "spr_ui_item_decor_espresso_v2",

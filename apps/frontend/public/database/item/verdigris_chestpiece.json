@@ -1,6 +1,7 @@
 {
   "id": "verdigris_chestpiece",
   "item": {
+    "id": "verdigris_chestpiece",
     "description": "A chestpiece constructed out of verdigris copper. Equip to increase defense.",
     "name": "Verdigris Chestpiece",
     "icon_sprite": "spr_ui_item_equipment_verdigris_chestpiece",

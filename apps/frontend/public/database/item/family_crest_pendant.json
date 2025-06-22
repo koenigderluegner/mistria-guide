@@ -1,6 +1,7 @@
 {
   "id": "family_crest_pendant",
   "item": {
+    "id": "family_crest_pendant",
     "description": "An uncommon artifact. Once widely adopted in Aldaria, pendants were given to family members who were leaving home for the first time.",
     "name": "Family Crest Pendant",
     "icon_sprite": "spr_ui_item_family_crest_pendant",

@@ -1,6 +1,7 @@
 {
   "id": "vintage_brush",
   "item": {
+    "id": "vintage_brush",
     "description": "A rare artifact. This cute vintage tool was used to pet farm animals in years past.",
     "name": "Vintage Brush",
     "icon_sprite": "spr_ui_item_vintage_brush",

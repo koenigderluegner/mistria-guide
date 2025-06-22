@@ -1,6 +1,7 @@
 {
   "id": "crop_sign_pomegranate",
   "item": {
+    "id": "crop_sign_pomegranate",
     "description": "A wooden sign featuring a painted pomegranate.",
     "name": "Pomegranate Sign",
     "icon_sprite": "spr_ui_item_crop_sign_pomegranate",

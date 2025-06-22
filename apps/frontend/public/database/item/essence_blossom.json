@@ -1,6 +1,7 @@
 {
   "id": "essence_blossom",
   "item": {
+    "id": "essence_blossom",
     "description": "A flower infused with magic, beautiful and surprisingly resilient.",
     "name": "Essence Blossom",
     "icon_sprite": "spr_ui_item_essence_blossom",

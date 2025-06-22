@@ -1,6 +1,7 @@
 {
   "id": "jar_medium",
   "item": {
+    "id": "jar_medium",
     "description": "A medium sized decorative glass jar.",
     "name": "Medium Jar",
     "icon_sprite": "spr_ui_item_decor_clutter_jar_medium",

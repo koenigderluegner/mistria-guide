@@ -1,6 +1,7 @@
 {
   "id": "lava_caves_obsidian_fence_blue",
   "item": {
+    "id": "lava_caves_obsidian_fence_blue",
     "description": "A piece of blue-black obsidian fencing.",
     "name": "Obsidian Fence",
     "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_fence_blue",

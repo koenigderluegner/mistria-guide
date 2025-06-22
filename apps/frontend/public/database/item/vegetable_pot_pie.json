@@ -1,6 +1,7 @@
 {
   "id": "vegetable_pot_pie",
   "item": {
+    "id": "vegetable_pot_pie",
     "description": "A flaky pot pie loaded with delicious vegetables in a thick gravy.",
     "name": "Vegetable Pot Pie",
     "icon_sprite": "spr_ui_item_vegetable_pot_pie",

@@ -1,6 +1,7 @@
 {
   "id": "statuette_of_caldarus",
   "item": {
+    "id": "statuette_of_caldarus",
     "description": "A legendary artifact. There seems to have been a subset of the empire that once worshiped Caldarus...",
     "name": "Statuette of Caldarus",
     "icon_sprite": "spr_ui_item_statuette_of_caldarus",

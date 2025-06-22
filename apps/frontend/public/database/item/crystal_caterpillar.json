@@ -1,6 +1,7 @@
 {
   "id": "crystal_caterpillar",
   "item": {
+    "id": "crystal_caterpillar",
     "description": "A rare insect found on snowy days in winter.",
     "name": "Crystal Caterpillar",
     "icon_sprite": "spr_ui_item_insect_crystalcaterpillar",

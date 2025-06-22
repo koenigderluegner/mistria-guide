@@ -1,6 +1,7 @@
 {
   "id": "basic_wall_window_oak",
   "item": {
+    "id": "basic_wall_window_oak",
     "description": "A basic oak window with yellow curtains.",
     "name": "Basic Window",
     "icon_sprite": "spr_ui_item_furniture_basic_wall_window_v1",

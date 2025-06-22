@@ -1,6 +1,7 @@
 {
   "id": "chickpea",
   "item": {
+    "id": "chickpea",
     "description": "A wild vegetable grown in spring. Commonly used as an ingredient in cooking recipes.",
     "name": "Chickpea",
     "icon_sprite": "spr_ui_item_chickpea",

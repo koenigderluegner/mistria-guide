@@ -1,6 +1,7 @@
 {
   "id": "buttered_peas",
   "item": {
+    "id": "buttered_peas",
     "description": "A generous amount of butter is the secret to these delicious peas.",
     "name": "Buttered Peas",
     "icon_sprite": "spr_ui_item_buttered_peas",

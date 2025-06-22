@@ -1,6 +1,7 @@
 {
   "id": "jasmine",
   "item": {
+    "id": "jasmine",
     "description": "A delightful white flower foraged in winter. Can be used in crafting and cooking recipes.",
     "name": "Jasmine",
     "icon_sprite": "spr_ui_item_jasmine",

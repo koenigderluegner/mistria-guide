@@ -1,6 +1,7 @@
 {
   "id": "spring_lamp_orange",
   "item": {
+    "id": "spring_lamp_orange",
     "description": "A yellow lamp in the shape of a vase of flowers.",
     "name": "Spring Lamp",
     "icon_sprite": "spr_ui_item_furniture_spring_lamp_orange",

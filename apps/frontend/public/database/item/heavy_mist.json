@@ -1,6 +1,7 @@
 {
   "id": "heavy_mist",
   "item": {
+    "id": "heavy_mist",
     "description": "An alcoholic drink that blends coffee liqueur and sweetened cream.",
     "name": "Heavy Mist",
     "icon_sprite": "spr_ui_item_heavy_mist",

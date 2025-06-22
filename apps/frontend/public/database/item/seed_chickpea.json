@@ -1,6 +1,7 @@
 {
   "id": "seed_chickpea",
   "item": {
+    "id": "seed_chickpea",
     "description": "Chickpea seed. This spring crop can be harvested every 3 days once it reaches maturity.",
     "name": "Chickpea Seed",
     "icon_sprite": "spr_ui_item_bagseed_chickpea_icon",

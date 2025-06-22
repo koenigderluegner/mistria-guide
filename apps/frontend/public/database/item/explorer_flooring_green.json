@@ -1,6 +1,7 @@
 {
   "id": "explorer_flooring_green",
   "item": {
+    "id": "explorer_flooring_green",
     "description": "Cracked green-gray tile flooring.",
     "name": "Explorer Flooring",
     "icon_sprite": "spr_ui_item_furniture_explorer_flooring_green",

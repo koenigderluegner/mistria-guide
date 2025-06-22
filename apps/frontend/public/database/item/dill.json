@@ -1,6 +1,7 @@
 {
   "id": "dill",
   "item": {
+    "id": "dill",
     "description": "A popular herb grown in summer. Commonly used as a cooking ingredient.",
     "name": "Dill",
     "icon_sprite": "spr_ui_item_dill",

@@ -1,6 +1,7 @@
 {
   "id": "seed_cauliflower",
   "item": {
+    "id": "seed_cauliflower",
     "description": "Cauliflower seed. This winter crop can be harvested once.",
     "name": "Cauliflower Seed",
     "icon_sprite": "spr_ui_item_bagseed_cauliflower_icon",

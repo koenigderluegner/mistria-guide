@@ -1,6 +1,7 @@
 {
   "id": "white_rabbit_wall_ribbon",
   "item": {
+    "id": "white_rabbit_wall_ribbon",
     "description": "A white display ribbon commemorating your rabbit's third place win at the Animal Festival.",
     "name": "White Rabbit Wall Ribbon",
     "icon_sprite": "spr_ui_item_decor_white_rabbit_ribbon",

@@ -1,6 +1,7 @@
 {
   "id": "fish_stew",
   "item": {
+    "id": "fish_stew",
     "description": "This flavorful stew blends the taste of freshly cooked fish with sweet wild leek.",
     "name": "Fish Stew",
     "icon_sprite": "spr_ui_item_fishstew",

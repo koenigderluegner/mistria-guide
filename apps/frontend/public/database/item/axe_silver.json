@@ -1,6 +1,7 @@
 {
   "id": "axe_silver",
   "item": {
+    "id": "axe_silver",
     "description": "A silver axe. Can be charged to chop a 3x6 area.",
     "name": "Silver Axe",
     "icon_sprite": "spr_ui_item_tool_silver_axe",

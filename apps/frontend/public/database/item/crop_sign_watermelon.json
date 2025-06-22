@@ -1,6 +1,7 @@
 {
   "id": "crop_sign_watermelon",
   "item": {
+    "id": "crop_sign_watermelon",
     "description": "A wooden sign featuring a painted watermelon.",
     "name": "Watermelon Sign",
     "icon_sprite": "spr_ui_item_crop_sign_watermelon",

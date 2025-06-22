@@ -1,6 +1,7 @@
 {
   "id": "starry_flooring_v1",
   "item": {
+    "id": "starry_flooring_v1",
     "description": "Starry patterned flooring with blue and orange stars.",
     "name": "Starry Flooring",
     "icon_sprite": "spr_ui_item_furniture_starry_flooring_v1",

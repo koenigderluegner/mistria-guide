@@ -1,6 +1,7 @@
 {
   "id": "chestnut",
   "item": {
+    "id": "chestnut",
     "description": "A common nut foraged in fall. Commonly used as a cooking ingredient.",
     "name": "Chestnut",
     "icon_sprite": "spr_ui_item_chestnut",

@@ -1,6 +1,7 @@
 {
   "id": "tunnel_millipede",
   "item": {
+    "id": "tunnel_millipede",
     "description": "An uncommon Upper Mines insect. Their many legs make quick work of tunneling.",
     "name": "Tunnel Millipede",
     "icon_sprite": "spr_ui_item_insect_tunnel_millipede",

@@ -1,6 +1,7 @@
 {
   "id": "sesame_broccoli",
   "item": {
+    "id": "sesame_broccoli",
     "description": "This steamed broccoli is coated with sesame seeds.",
     "name": "Sesame Broccoli",
     "icon_sprite": "spr_ui_item_sesame_broccoli",

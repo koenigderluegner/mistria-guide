@@ -1,6 +1,7 @@
 {
   "id": "star_brooch",
   "item": {
+    "id": "star_brooch",
     "description": "A beaded brooch resembling the stars. Traditionally used to invite another to Mistria's Shooting Star Festival.",
     "name": "Star Brooch",
     "icon_sprite": "spr_ui_item_star_brooch"

@@ -1,6 +1,7 @@
 {
   "id": "essence_stone_large",
   "item": {
+    "id": "essence_stone_large",
     "description": "An Essence Stone. Charges a magic tool for 20 days. Consume for 100 Essence.",
     "name": "Large Essence Stone",
     "icon_sprite": "spr_ui_item_essence_stone_large",

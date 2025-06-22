@@ -1,6 +1,7 @@
 {
   "id": "large_paving_stone_v1",
   "item": {
+    "id": "large_paving_stone_v1",
     "description": "A large paving stone.",
     "name": "Large Paving Stone",
     "icon_sprite": "spr_ui_item_decor_large_paving_stone_v1",

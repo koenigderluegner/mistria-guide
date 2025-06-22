@@ -1,6 +1,7 @@
 {
   "id": "training_dummy_mushroom",
   "item": {
+    "id": "training_dummy_mushroom",
     "description": "A training dummy that looks like a Mushroom Monster.",
     "name": "Training Dummy",
     "icon_sprite": "spr_ui_item_decor_training_dummy_mushroom",

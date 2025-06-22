@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_cabbage",
   "item": {
+    "id": "crop_faux_cabbage",
     "description": "A decorative faux cabbage plant.",
     "name": "Faux Cabbage",
     "icon_sprite": "spr_ui_item_decor_crop_faux_cabbage",

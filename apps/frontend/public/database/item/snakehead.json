@@ -1,6 +1,7 @@
 {
   "id": "snakehead",
   "item": {
+    "id": "snakehead",
     "description": "An uncommon large pond fish found in spring and fall.",
     "name": "Snakehead",
     "icon_sprite": "spr_ui_item_fish_large_snakehead",

@@ -1,6 +1,7 @@
 {
   "id": "mini_whale_shark",
   "item": {
+    "id": "mini_whale_shark",
     "description": "A rare large Tide Caverns fish. Despite its name, it is still very large.",
     "name": "Mini-Whale Shark",
     "icon_sprite": "spr_ui_item_fish_large_mini_whale_shark",

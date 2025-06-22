@@ -1,6 +1,7 @@
 {
   "id": "stingray",
   "item": {
+    "id": "stingray",
     "description": "A common medium ocean fish found in summer.",
     "name": "Stingray",
     "icon_sprite": "spr_ui_item_fish_medium_stingray",

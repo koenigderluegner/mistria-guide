@@ -1,6 +1,7 @@
 {
   "id": "witch_queen_chair",
   "item": {
+    "id": "witch_queen_chair",
     "description": "An opulent purple and sea green chair fit for a Witch Queen.",
     "name": "Witch Queen Chair",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_chair",

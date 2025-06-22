@@ -1,6 +1,7 @@
 {
   "id": "spring_festival_large_planter",
   "item": {
+    "id": "spring_festival_large_planter",
     "description": "A large white and pink planter full of breath of spring flowers.",
     "name": "Breath of Spring Large Planter",
     "icon_sprite": "spr_ui_item_decor_spring_festival_large_planter",

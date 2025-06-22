@@ -1,6 +1,7 @@
 {
   "id": "crop_sign_chili_pepper",
   "item": {
+    "id": "crop_sign_chili_pepper",
     "description": "A wooden sign featuring a painted chili pepper.",
     "name": "Chili Pepper Sign",
     "icon_sprite": "spr_ui_item_crop_sign_chili_pepper",

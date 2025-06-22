@@ -1,6 +1,7 @@
 {
   "id": "feather",
   "item": {
+    "id": "feather",
     "description": "A feather dropped by a rooster. Used in a variety of crafting recipes.",
     "name": "Rooster Feather",
     "icon_sprite": "spr_ui_item_chicken_feather_regular",

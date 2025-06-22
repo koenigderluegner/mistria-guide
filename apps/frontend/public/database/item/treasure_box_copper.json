@@ -1,6 +1,7 @@
 {
   "id": "treasure_box_copper",
   "item": {
+    "id": "treasure_box_copper",
     "description": "An uncommon copper treasure box. Open it to find out what's inside!",
     "name": "Copper Treasure Box",
     "icon_sprite": "spr_ui_item_copper_chest"

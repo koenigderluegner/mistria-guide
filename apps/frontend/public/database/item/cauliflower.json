@@ -1,6 +1,7 @@
 {
   "id": "cauliflower",
   "item": {
+    "id": "cauliflower",
     "description": "A winter crop. Has a subtle nutty flavor. Commonly used as a cooking ingredient.",
     "name": "Cauliflower",
     "icon_sprite": "spr_ui_item_cauliflower",

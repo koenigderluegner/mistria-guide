@@ -1,6 +1,7 @@
 {
   "id": "sword_verdigris",
   "item": {
+    "id": "sword_verdigris",
     "description": "A verdigris sword.",
     "name": "Verdigris Sword",
     "icon_sprite": "spr_ui_item_tool_verdigris_sword",

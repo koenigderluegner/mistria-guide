@@ -1,6 +1,7 @@
 {
   "id": "leafhopper",
   "item": {
+    "id": "leafhopper",
     "description": "A common insect found in fall. Sometimes found when cutting grass.",
     "name": "Leafhopper",
     "icon_sprite": "spr_ui_item_insect_leafhopper",

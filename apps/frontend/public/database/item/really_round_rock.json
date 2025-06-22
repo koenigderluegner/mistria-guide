@@ -1,6 +1,7 @@
 {
   "id": "really_round_rock",
   "item": {
+    "id": "really_round_rock",
     "description": "A common artifact. This naturally formed stone is unnaturally round.",
     "name": "Really Round Rock",
     "icon_sprite": "spr_ui_item_really_round_rock",

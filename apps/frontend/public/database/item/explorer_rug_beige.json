@@ -1,6 +1,7 @@
 {
   "id": "explorer_rug_beige",
   "item": {
+    "id": "explorer_rug_beige",
     "description": "A well-worn brown explorer's rug.",
     "name": "Explorer Rug",
     "icon_sprite": "spr_ui_item_furniture_explorer_rug_beige",

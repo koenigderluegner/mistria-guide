@@ -1,6 +1,7 @@
 {
   "id": "coral_mantis",
   "item": {
+    "id": "coral_mantis",
     "description": "An uncommon Tide Caverns insect. Its camouflage has turned this mantis into a work of art.",
     "name": "Coral Mantis",
     "icon_sprite": "spr_ui_item_insect_coral_mantis",

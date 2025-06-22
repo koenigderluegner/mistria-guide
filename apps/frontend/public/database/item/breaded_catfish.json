@@ -1,6 +1,7 @@
 {
   "id": "breaded_catfish",
   "item": {
+    "id": "breaded_catfish",
     "description": "This fried catfish is crispy on the outside and tender on the inside.",
     "name": "Breaded Catfish",
     "icon_sprite": "spr_ui_item_breadedcatfish",

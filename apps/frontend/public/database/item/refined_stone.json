@@ -1,6 +1,7 @@
 {
   "id": "refined_stone",
   "item": {
+    "id": "refined_stone",
     "description": "Refined Stone. Used in a variety of high-level crafting recipes.",
     "name": "Refined Stone",
     "icon_sprite": "spr_ui_item_refined_stone",

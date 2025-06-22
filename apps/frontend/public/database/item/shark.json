@@ -1,6 +1,7 @@
 {
   "id": "shark",
   "item": {
+    "id": "shark",
     "description": "A rare giant ocean fish found in fall.",
     "name": "Shark",
     "icon_sprite": "spr_ui_item_fish_giant_shark",

@@ -1,6 +1,7 @@
 {
   "id": "box_small_v2",
   "item": {
+    "id": "box_small_v2",
     "description": "A small decorative purple box.",
     "name": "Small Box",
     "icon_sprite": "spr_ui_item_decor_clutter_box_small_v2",

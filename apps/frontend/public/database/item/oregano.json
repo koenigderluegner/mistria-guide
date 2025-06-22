@@ -1,6 +1,7 @@
 {
   "id": "oregano",
   "item": {
+    "id": "oregano",
     "description": "A popular herb grown in summer. Commonly used as a cooking ingredient.",
     "name": "Oregano",
     "icon_sprite": "spr_ui_item_oregano",

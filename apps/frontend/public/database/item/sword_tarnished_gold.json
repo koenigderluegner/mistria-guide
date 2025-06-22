@@ -1,6 +1,7 @@
 {
   "id": "sword_tarnished_gold",
   "item": {
+    "id": "sword_tarnished_gold",
     "description": "A tarnished gold sword.",
     "name": "Tarnished Gold Sword",
     "icon_sprite": "spr_ui_item_tool_tarnished_gold_sword",

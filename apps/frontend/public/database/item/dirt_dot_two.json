@@ -1,6 +1,7 @@
 {
   "id": "dirt_dot_two",
   "item": {
+    "id": "dirt_dot_two",
     "description": "Use this item to add two dot details to a dirt tile.",
     "name": "Dirt Tile 2 Dots",
     "icon_sprite": "spr_ui_item_decor_starter_dirt_dot_two",

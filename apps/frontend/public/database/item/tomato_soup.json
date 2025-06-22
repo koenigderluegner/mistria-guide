@@ -1,6 +1,7 @@
 {
   "id": "tomato_soup",
   "item": {
+    "id": "tomato_soup",
     "description": "The rich tomato flavor of this soup is complimented by a touch of basil.",
     "name": "Tomato Soup",
     "icon_sprite": "spr_ui_item_tomato_soup",

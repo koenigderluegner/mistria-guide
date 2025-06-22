@@ -1,6 +1,7 @@
 {
   "id": "toasted_sunflower_seeds",
   "item": {
+    "id": "toasted_sunflower_seeds",
     "description": "Salted and toasted, these sunflower seeds are best by the handful.",
     "name": "Toasted Sunflower Seeds",
     "icon_sprite": "spr_ui_item_toasted_sunflower_seeds",

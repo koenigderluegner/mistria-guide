@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_sage",
   "item": {
+    "id": "crop_faux_sage",
     "description": "A decorative faux sage plant.",
     "name": "Faux Sage",
     "icon_sprite": "spr_ui_item_decor_crop_faux_sage",

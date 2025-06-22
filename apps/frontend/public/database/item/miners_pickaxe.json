@@ -1,6 +1,7 @@
 {
   "id": "miners_pickaxe",
   "item": {
+    "id": "miners_pickaxe",
     "description": "A common artifact. It's in pretty good condition despite its age.",
     "name": "Miner's Pickaxe",
     "icon_sprite": "spr_ui_item_miners_pickaxe",

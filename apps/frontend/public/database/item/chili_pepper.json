@@ -1,6 +1,7 @@
 {
   "id": "chili_pepper",
   "item": {
+    "id": "chili_pepper",
     "description": "A spicy summer crop and popular seasoning. Used to add a kick to many cooking recipes.",
     "name": "Chili Pepper",
     "icon_sprite": "spr_ui_item_chili_pepper",

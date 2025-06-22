@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_chili_pepper",
   "item": {
+    "id": "crop_faux_chili_pepper",
     "description": "A decorative faux chili pepper plant.",
     "name": "Faux Chili Pepper",
     "icon_sprite": "spr_ui_item_decor_crop_faux_chili_pepper",

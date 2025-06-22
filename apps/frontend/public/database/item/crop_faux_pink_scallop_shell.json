@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_pink_scallop_shell",
   "item": {
+    "id": "crop_faux_pink_scallop_shell",
     "description": "A decorative faux pink scallop shell.",
     "name": "Faux Pink Scallop Shell",
     "icon_sprite": "spr_ui_item_decor_crop_faux_pink_scallop_shell",

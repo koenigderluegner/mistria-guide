@@ -1,6 +1,7 @@
 {
   "id": "strawberry_shortcake",
   "item": {
+    "id": "strawberry_shortcake",
     "description": "This dainty cake is layered with sweet strawberries and fresh cream.",
     "name": "Strawberry Shortcake",
     "icon_sprite": "spr_ui_item_strawberryshortcake",

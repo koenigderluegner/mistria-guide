@@ -1,6 +1,7 @@
 {
   "id": "dandelion",
   "item": {
+    "id": "dandelion",
     "description": "A wild flower that grows in the spring. Sometimes used in cooking recipes.",
     "name": "Dandelion",
     "icon_sprite": "spr_ui_item_dandelionflower",

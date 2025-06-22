@@ -1,6 +1,7 @@
 {
   "id": "braised_burdock",
   "item": {
+    "id": "braised_burdock",
     "description": "This thinly sliced burdock has a sweet and savory flavor.",
     "name": "Braised Burdock",
     "icon_sprite": "spr_ui_item_braised_burdock",

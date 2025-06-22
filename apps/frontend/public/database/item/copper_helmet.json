@@ -1,6 +1,7 @@
 {
   "id": "copper_helmet",
   "item": {
+    "id": "copper_helmet",
     "description": "A copper helmet. Equip to increase defense.",
     "name": "Copper Helmet",
     "icon_sprite": "spr_ui_item_equipment_copper_helmet",

@@ -1,6 +1,7 @@
 {
   "id": "chess_bishop_purple",
   "item": {
+    "id": "chess_bishop_purple",
     "description": "An oversized purple bishop chess piece.",
     "name": "Chess Bishop Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_bishop_purple",

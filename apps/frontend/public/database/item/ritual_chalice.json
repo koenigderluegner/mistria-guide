@@ -1,6 +1,7 @@
 {
   "id": "ritual_chalice",
   "item": {
+    "id": "ritual_chalice",
     "description": "An uncommon artifact. This ornate chalice was presumably used during ancient rituals.",
     "name": "Ritual Chalice",
     "icon_sprite": "spr_ui_item_ritual_chalice",

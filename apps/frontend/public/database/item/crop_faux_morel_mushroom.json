@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_morel_mushroom",
   "item": {
+    "id": "crop_faux_morel_mushroom",
     "description": "A decorative faux morel mushroom.",
     "name": "Faux Morel Mushroom",
     "icon_sprite": "spr_ui_item_decor_crop_faux_morel_mushroom",

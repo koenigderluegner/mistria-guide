@@ -1,6 +1,7 @@
 {
   "id": "worn_well",
   "item": {
+    "id": "worn_well",
     "description": "A worn-down well.",
     "name": "Worn Well",
     "icon_sprite": "spr_ui_item_furniture_worn_well",

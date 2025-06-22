@@ -1,6 +1,7 @@
 {
   "id": "seed_iris",
   "item": {
+    "id": "seed_iris",
     "description": "Iris seed. This fast growing summer flower can be harvested once.",
     "name": "Iris Seed",
     "icon_sprite": "spr_ui_item_bagseed_iris_icon",

@@ -1,6 +1,7 @@
 {
   "id": "vintage_cow_bell",
   "item": {
+    "id": "vintage_cow_bell",
     "description": "A legendary artifact. This vintage bell would have been used to call cows home in bygone years.",
     "name": "Vintage Cow Bell",
     "icon_sprite": "spr_ui_item_vintage_bell",

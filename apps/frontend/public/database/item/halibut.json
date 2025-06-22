@@ -1,6 +1,7 @@
 {
   "id": "halibut",
   "item": {
+    "id": "halibut",
     "description": "A common large ocean fish found on rainy days in fall.",
     "name": "Halibut",
     "icon_sprite": "spr_ui_item_fish_large_halibut",

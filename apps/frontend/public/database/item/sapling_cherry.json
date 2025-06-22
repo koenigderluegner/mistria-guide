@@ -1,6 +1,7 @@
 {
   "id": "sapling_cherry",
   "item": {
+    "id": "sapling_cherry",
     "description": "A cherry tree sapling. This tree can be planted any time of year, but will only fruit in the spring.",
     "name": "Cherry Sapling",
     "icon_sprite": "spr_ui_item_cherry_sapling",

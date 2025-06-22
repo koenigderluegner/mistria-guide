@@ -1,6 +1,7 @@
 {
   "id": "apple_honey_curry",
   "item": {
+    "id": "apple_honey_curry",
     "description": "A sweet, mild curry, loaded with vegetables and served over rice.",
     "name": "Apple Honey Curry",
     "icon_sprite": "spr_ui_item_apple_honey_curry",

@@ -1,6 +1,7 @@
 {
   "id": "summer_flooring_red",
   "item": {
+    "id": "summer_flooring_red",
     "description": "A warm-toned grassy floor speckled with white flowers.",
     "name": "Summer Flooring",
     "icon_sprite": "spr_ui_item_furniture_summer_flooring_red",

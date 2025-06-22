@@ -1,6 +1,7 @@
 {
   "id": "hummingbird_hawk_moth",
   "item": {
+    "id": "hummingbird_hawk_moth",
     "description": "A rare insect found in all seasons but winter.",
     "name": "Hummingbird Hawk Moth",
     "icon_sprite": "spr_ui_item_insect_hummingbirdhawkmoth",

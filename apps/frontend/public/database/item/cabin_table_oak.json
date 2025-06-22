@@ -1,6 +1,7 @@
 {
   "id": "cabin_table_oak",
   "item": {
+    "id": "cabin_table_oak",
     "description": "A rustic oak wooden table.",
     "name": "Rustic Cabin Table",
     "icon_sprite": "spr_ui_item_furniture_cabin_table_v3",

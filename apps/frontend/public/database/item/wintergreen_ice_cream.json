@@ -1,6 +1,7 @@
 {
   "id": "wintergreen_ice_cream",
   "item": {
+    "id": "wintergreen_ice_cream",
     "description": "This ice cream is flavored with wintergreen, giving it an extra chill.",
     "name": "Wintergreen Ice Cream",
     "icon_sprite": "spr_ui_item_wintergreen_ice_cream",

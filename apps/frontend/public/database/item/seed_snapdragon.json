@@ -1,6 +1,7 @@
 {
   "id": "seed_snapdragon",
   "item": {
+    "id": "seed_snapdragon",
     "description": "Snapdragon seed. This winter flower can be harvested once.",
     "name": "Snapdragon Seed",
     "icon_sprite": "spr_ui_item_bagseed_snapdragon_icon",

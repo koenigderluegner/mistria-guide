@@ -1,6 +1,7 @@
 {
   "id": "hard_wood",
   "item": {
+    "id": "hard_wood",
     "description": "A piece of high quality hard wood. Used in a variety of crafting recipes.",
     "name": "Hard Wood",
     "icon_sprite": "spr_ui_item_hardwood",

@@ -1,6 +1,7 @@
 {
   "id": "haunted_attic_wallpaper_dark",
   "item": {
+    "id": "haunted_attic_wallpaper_dark",
     "description": "An old fashioned purple wallpaper with wood beams.",
     "name": "Haunted Attic Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_wallpaper_dark",

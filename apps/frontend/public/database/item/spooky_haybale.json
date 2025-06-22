@@ -1,6 +1,7 @@
 {
   "id": "spooky_haybale",
   "item": {
+    "id": "spooky_haybale",
     "description": "For those who love hay.",
     "name": "Hay Bale",
     "icon_sprite": "spr_ui_item_decor_spooky_haybale",

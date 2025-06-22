@@ -1,6 +1,7 @@
 {
   "id": "monster_shell",
   "item": {
+    "id": "monster_shell",
     "description": "A rocky shell sometimes dropped by Clods. Used in certain cooking and crafting recipes.",
     "name": "Monster Shell",
     "icon_sprite": "spr_ui_item_monster_shell",

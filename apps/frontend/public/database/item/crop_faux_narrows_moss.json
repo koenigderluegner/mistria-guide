@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_narrows_moss",
   "item": {
+    "id": "crop_faux_narrows_moss",
     "description": "A decorative faux clump of narrows moss.",
     "name": "Faux Narrows Moss",
     "icon_sprite": "spr_ui_item_decor_crop_faux_narrows_moss",

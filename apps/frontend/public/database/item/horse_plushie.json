@@ -1,6 +1,7 @@
 {
   "id": "horse_plushie",
   "item": {
+    "id": "horse_plushie",
     "description": "A cute horse plushie. Awarded at the Animal Festival.",
     "name": "Horse Plushie",
     "icon_sprite": "spr_ui_item_decor_horse_plushie",

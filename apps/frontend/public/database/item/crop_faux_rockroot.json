@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_rockroot",
   "item": {
+    "id": "crop_faux_rockroot",
     "description": "A decorative faux rockroot plant.",
     "name": "Faux Rockroot",
     "icon_sprite": "spr_ui_item_decor_crop_faux_rockroot",

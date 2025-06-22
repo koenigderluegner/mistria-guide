@@ -1,6 +1,7 @@
 {
   "id": "diamond_beetle",
   "item": {
+    "id": "diamond_beetle",
     "description": "A rare Lava Caves insect. This wondrous beetle had an impenetrable defense... unless you pick it up.",
     "name": "Diamond Beetle",
     "icon_sprite": "spr_ui_item_insect_diamond_beetle",

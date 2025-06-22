@@ -1,6 +1,7 @@
 {
   "id": "fiddlehead",
   "item": {
+    "id": "fiddlehead",
     "description": "A wild plant foraged in spring with a sweet grassy flavor. Commonly used as a cooking ingredient.",
     "name": "Fiddlehead",
     "icon_sprite": "spr_ui_item_fiddlehead",

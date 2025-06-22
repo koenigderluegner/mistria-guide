@@ -1,6 +1,7 @@
 {
   "id": "frost_lily",
   "item": {
+    "id": "frost_lily",
     "description": "An enchanting fast growing winter flower. Can be used in crafting recipes.",
     "name": "Frost Lily",
     "icon_sprite": "spr_ui_item_frost_lily",

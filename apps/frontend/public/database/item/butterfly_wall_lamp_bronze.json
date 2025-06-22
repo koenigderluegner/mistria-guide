@@ -1,6 +1,7 @@
 {
   "id": "butterfly_wall_lamp_bronze",
   "item": {
+    "id": "butterfly_wall_lamp_bronze",
     "description": "A copper wall lamp shaped like a butterfly.",
     "name": "Butterfly Wall Lamp",
     "icon_sprite": "spr_ui_item_decor_butterfly_wall_lamp_bronze",

@@ -1,6 +1,7 @@
 {
   "id": "field_flower",
   "item": {
+    "id": "field_flower",
     "description": "Use this item to add a single flower detail to a grass tile.",
     "name": "Grass Tile Flower",
     "icon_sprite": "spr_ui_item_decor_starter_field_flower",

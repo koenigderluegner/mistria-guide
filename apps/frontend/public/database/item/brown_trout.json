@@ -1,6 +1,7 @@
 {
   "id": "brown_trout",
   "item": {
+    "id": "brown_trout",
     "description": "A common large pond fish found in spring.",
     "name": "Brown Trout",
     "icon_sprite": "spr_ui_item_fish_large_brown_trout",

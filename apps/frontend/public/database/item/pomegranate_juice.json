@@ -1,6 +1,7 @@
 {
   "id": "pomegranate_juice",
   "item": {
+    "id": "pomegranate_juice",
     "description": "A sweet juice made from pomegranates.",
     "name": "Pomegranate Juice",
     "icon_sprite": "spr_ui_item_pomegranate_juice",

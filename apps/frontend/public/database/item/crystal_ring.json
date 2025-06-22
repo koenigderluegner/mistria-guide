@@ -1,6 +1,7 @@
 {
   "id": "crystal_ring",
   "item": {
+    "id": "crystal_ring",
     "description": "A ring constructed out of crystal. Equip to increase defense.",
     "name": "Crystal Ring",
     "icon_sprite": "spr_ui_item_equipment_crystal_ring",

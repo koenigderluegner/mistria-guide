@@ -1,6 +1,7 @@
 {
   "id": "sand_dollar",
   "item": {
+    "id": "sand_dollar",
     "description": "A common shell found on the beach.",
     "name": "Sand Dollar",
     "icon_sprite": "spr_ui_item_shell_sand_dollar",

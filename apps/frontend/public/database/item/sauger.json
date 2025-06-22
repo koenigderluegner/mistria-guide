@@ -1,6 +1,7 @@
 {
   "id": "sauger",
   "item": {
+    "id": "sauger",
     "description": "A common large pond fish found in summer.",
     "name": "Sauger",
     "icon_sprite": "spr_ui_item_fish_large_sauger",

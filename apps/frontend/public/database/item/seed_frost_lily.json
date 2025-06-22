@@ -1,6 +1,7 @@
 {
   "id": "seed_frost_lily",
   "item": {
+    "id": "seed_frost_lily",
     "description": "Frost lily seed. This fast growing winter flower can be harvested once.",
     "name": "Frost Lily Seed",
     "icon_sprite": "spr_ui_item_bagseed_frost_lily_icon",

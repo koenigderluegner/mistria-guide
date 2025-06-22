@@ -1,6 +1,7 @@
 {
   "id": "tiny_volcano",
   "item": {
+    "id": "tiny_volcano",
     "description": "A rare Lava Caves artifact. This geological formation looks a lot like a volcano, except... tiny.",
     "name": "Tiny Volcano",
     "icon_sprite": "spr_ui_item_tiny_volcano",

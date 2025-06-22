@@ -1,6 +1,7 @@
 {
   "id": "gryphon_statue_replica_v1",
   "item": {
+    "id": "gryphon_statue_replica_v1",
     "description": "A replica of an ancient stone gryphon.",
     "name": "Gryphon Statue Replica",
     "icon_sprite": "spr_ui_item_decor_gryphon_statue_v1",

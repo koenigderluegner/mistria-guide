@@ -1,6 +1,7 @@
 {
   "id": "sunny",
   "item": {
+    "id": "sunny",
     "description": "A common small Deep Woods fish found on rainy or snowy days in all seasons.",
     "name": "Sunny",
     "icon_sprite": "spr_ui_item_fish_small_sunny",

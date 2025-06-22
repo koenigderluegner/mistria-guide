@@ -1,6 +1,7 @@
 {
   "id": "seaweed",
   "item": {
+    "id": "seaweed",
     "description": "A common plant, grows in all seasons.",
     "name": "Seaweed",
     "icon_sprite": "spr_ui_item_dive_seaweed",

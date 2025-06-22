@@ -1,6 +1,7 @@
 {
   "id": "tarpon",
   "item": {
+    "id": "tarpon",
     "description": "A rare giant river fish found in summer.",
     "name": "Tarpon",
     "icon_sprite": "spr_ui_item_fish_giant_tarpon",

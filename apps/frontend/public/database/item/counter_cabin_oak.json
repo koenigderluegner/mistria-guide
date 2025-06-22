@@ -1,6 +1,7 @@
 {
   "id": "counter_cabin_oak",
   "item": {
+    "id": "counter_cabin_oak",
     "description": "An oak cabin counter piece. Place two or more together to connect them!",
     "name": "Cabin Counter",
     "icon_sprite": "spr_ui_item_decor_counter_cabin_oak",

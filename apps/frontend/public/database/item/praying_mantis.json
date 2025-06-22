@@ -1,6 +1,7 @@
 {
   "id": "praying_mantis",
   "item": {
+    "id": "praying_mantis",
     "description": "A common insect found during the daytime in all seasons but winter.",
     "name": "Praying Mantis",
     "icon_sprite": "spr_ui_item_insect_prayingmantis",

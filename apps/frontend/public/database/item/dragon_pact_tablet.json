@@ -1,6 +1,7 @@
 {
   "id": "dragon_pact_tablet",
   "item": {
+    "id": "dragon_pact_tablet",
     "description": "A legendary artifact. Written in untranslatable Draconian.",
     "name": "Dragon Pact Tablet",
     "icon_sprite": "spr_ui_item_dragon_pact_tablet",

@@ -1,6 +1,7 @@
 {
   "id": "lava_caves_obsidian_storage_chest_blue",
   "item": {
+    "id": "lava_caves_obsidian_storage_chest_blue",
     "description": "A faceted blue-black obsidian storage chest.",
     "name": "Obsidian Storage Chest",
     "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_storage_chest_blue",

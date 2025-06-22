@@ -1,6 +1,7 @@
 {
   "id": "medium_barn_red_blueprint",
   "item": {
+    "id": "medium_barn_red_blueprint",
     "description": "Use this item to place a medium red barn construction site on your farm! Requirements to build: 125 wood, 100 stone.",
     "name": "Medium Red Barn Blueprint",
     "icon_sprite": "spr_ui_item_medium_barn_red",

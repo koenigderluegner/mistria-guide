@@ -1,6 +1,7 @@
 {
   "id": "perfect_copper_ore",
   "item": {
+    "id": "perfect_copper_ore",
     "description": "An uncommon artifact. This large chunk of pure copper ore is worthy of display.",
     "name": "Perfect Copper Ore",
     "icon_sprite": "spr_ui_item_perfect_copper_ore",

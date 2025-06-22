@@ -1,6 +1,7 @@
 {
   "id": "cicada_nymph",
   "item": {
+    "id": "cicada_nymph",
     "description": "A common insect found at night in fall.",
     "name": "Cicada Nymph",
     "icon_sprite": "spr_ui_item_insect_cicadanymph",

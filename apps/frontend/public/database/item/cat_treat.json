@@ -1,6 +1,7 @@
 {
   "id": "cat_treat",
   "item": {
+    "id": "cat_treat",
     "description": "An optional treat for cats. All cats love it!",
     "name": "Cat Treat",
     "icon_sprite": "spr_ui_item_animal_treat_cat",

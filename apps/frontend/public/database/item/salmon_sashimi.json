@@ -1,6 +1,7 @@
 {
   "id": "salmon_sashimi",
   "item": {
+    "id": "salmon_sashimi",
     "description": "An expertly cut slice of premium salmon.",
     "name": "Salmon Sashimi",
     "icon_sprite": "spr_ui_item_salmon_sashimi",

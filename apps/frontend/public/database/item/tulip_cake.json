@@ -1,6 +1,7 @@
 {
   "id": "tulip_cake",
   "item": {
+    "id": "tulip_cake",
     "description": "A cake made to look like a vase of tulips. This Spring Festival treat is liked by everyone.",
     "name": "Tulip Cake",
     "icon_sprite": "spr_ui_item_tulipcake",

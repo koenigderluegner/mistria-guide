@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_corn",
   "item": {
+    "id": "crop_faux_corn",
     "description": "A decorative faux corn plant.",
     "name": "Faux Corn",
     "icon_sprite": "spr_ui_item_decor_crop_faux_corn",

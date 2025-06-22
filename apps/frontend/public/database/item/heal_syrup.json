@@ -1,6 +1,7 @@
 {
   "id": "heal_syrup",
   "item": {
+    "id": "heal_syrup",
     "description": "This medicinal syrup restores 100 health when consumed. Tastes like cherry.",
     "name": "Healing Syrup",
     "icon_sprite": "spr_ui_item_syrup_health",

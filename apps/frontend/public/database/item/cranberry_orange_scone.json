@@ -1,6 +1,7 @@
 {
   "id": "cranberry_orange_scone",
   "item": {
+    "id": "cranberry_orange_scone",
     "description": "This inviting scone has whole cranberries baked in.",
     "name": "Cranberry Orange Scone",
     "icon_sprite": "spr_ui_item_cranberry_orange_scone",

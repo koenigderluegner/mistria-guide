@@ -1,6 +1,7 @@
 {
   "id": "octopus_plushie",
   "item": {
+    "id": "octopus_plushie",
     "description": "An octopus plushie with an enchanting expression.",
     "name": "Octopus Plushie",
     "icon_sprite": "spr_ui_item_decor_octopus_plushie",

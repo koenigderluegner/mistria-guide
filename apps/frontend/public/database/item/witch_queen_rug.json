@@ -1,6 +1,7 @@
 {
   "id": "witch_queen_rug",
   "item": {
+    "id": "witch_queen_rug",
     "description": "An elaborate purple and gold rug that shows the phases of the moon.",
     "name": "Witch Queen Rug",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_rug",

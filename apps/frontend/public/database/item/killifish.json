@@ -1,6 +1,7 @@
 {
   "id": "killifish",
   "item": {
+    "id": "killifish",
     "description": "A common small pond fish found in fall.",
     "name": "Killifish",
     "icon_sprite": "spr_ui_item_fish_small_killifish",

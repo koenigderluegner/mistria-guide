@@ -1,6 +1,7 @@
 {
   "id": "perfect_silver_ore",
   "item": {
+    "id": "perfect_silver_ore",
     "description": "An uncommon artifact. The size and sheen on this piece of silver is a work of art.",
     "name": "Perfect Silver Ore",
     "icon_sprite": "spr_ui_item_perfect_silver_ore",

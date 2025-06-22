@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_sea_grapes",
   "item": {
+    "id": "crop_faux_sea_grapes",
     "description": "A decorative faux sea grape plant.",
     "name": "Faux Sea Grapes",
     "icon_sprite": "spr_ui_item_decor_crop_faux_sea_grapes",

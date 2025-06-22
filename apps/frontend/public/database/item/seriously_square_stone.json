@@ -1,6 +1,7 @@
 {
   "id": "seriously_square_stone",
   "item": {
+    "id": "seriously_square_stone",
     "description": "A common artifact. This naturally formed stone is a perfect square, a true delight for a rock connoisseur.",
     "name": "Seriously Square Stone",
     "icon_sprite": "spr_ui_item_seriously_square_rock",

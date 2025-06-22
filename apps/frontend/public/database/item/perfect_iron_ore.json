@@ -1,6 +1,7 @@
 {
   "id": "perfect_iron_ore",
   "item": {
+    "id": "perfect_iron_ore",
     "description": "An uncommon artifact. This chunk of iron is too magnificent to simply melt down.",
     "name": "Perfect Iron Ore",
     "icon_sprite": "spr_ui_item_perfect_iron_ore",

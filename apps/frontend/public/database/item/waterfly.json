@@ -1,6 +1,7 @@
 {
   "id": "waterfly",
   "item": {
+    "id": "waterfly",
     "description": "A common Tide Caverns insect. Like its firefly cousin, it uses its blue glow to signal.",
     "name": "Waterfly",
     "icon_sprite": "spr_ui_item_insect_waterfly",

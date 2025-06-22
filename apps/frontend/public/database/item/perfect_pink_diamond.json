@@ -1,6 +1,7 @@
 {
   "id": "perfect_pink_diamond",
   "item": {
+    "id": "perfect_pink_diamond",
     "description": "A rare artifact. This pink diamond is incredibly large and splendid.",
     "name": "Perfect Pink Diamond",
     "icon_sprite": "spr_ui_item_perfect_pink_diamond",

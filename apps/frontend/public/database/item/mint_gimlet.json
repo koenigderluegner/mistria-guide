@@ -1,6 +1,7 @@
 {
   "id": "mint_gimlet",
   "item": {
+    "id": "mint_gimlet",
     "description": "A gin cocktail brightened up with the addition of mint.",
     "name": "Mint Gimlet",
     "icon_sprite": "spr_ui_item_mint_gimlet",

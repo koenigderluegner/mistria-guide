@@ -1,6 +1,7 @@
 {
   "id": "seed_turnip",
   "item": {
+    "id": "seed_turnip",
     "description": "Turnip seed. This fast growing spring crop can be harvested once.",
     "name": "Turnip Seed",
     "icon_sprite": "spr_ui_item_bagseed_turnip_icon",

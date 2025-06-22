@@ -1,6 +1,6 @@
 import { TranslationReference } from './translation-reference';
 import { RawRecipe, Recipe, transformRecipe } from './recipe';
-import { IconSprite, Quality, Tag, ToolType } from './generated';
+import { IconSprite, ItemId, Quality, Tag, ToolType } from './generated';
 
 export type RawItem = {
   name: TranslationReference;
@@ -21,8 +21,9 @@ export type RawItem = {
   };
 } & RawRecipe;
 
-export function transformItem(item: RawItem): Item {
+export function transformItem(item: RawItem, id: ItemId): Item {
   const res: Item = {
+    id,
     description: item.description,
     name: item.name,
     icon_sprite: item.icon_sprite,
@@ -36,6 +37,7 @@ export function transformItem(item: RawItem): Item {
 }
 
 export type Item = {
+  id: ItemId;
   name: TranslationReference;
   description: TranslationReference;
   icon_sprite: IconSprite;

@@ -1,6 +1,7 @@
 {
   "id": "summer_salad",
   "item": {
+    "id": "summer_salad",
     "description": "This healthy salad celebrates the flavors of Summer.",
     "name": "Summer Salad",
     "icon_sprite": "spr_ui_item_summer_salad",

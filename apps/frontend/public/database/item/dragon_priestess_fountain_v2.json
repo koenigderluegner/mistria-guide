@@ -1,6 +1,7 @@
 {
   "id": "dragon_priestess_fountain_v2",
   "item": {
+    "id": "dragon_priestess_fountain_v2",
     "description": "A small fountain that features a Dragon Priestess.",
     "name": "Dragon Priestess Fountain",
     "icon_sprite": "spr_ui_item_dragon_priestess_fountain_v2",

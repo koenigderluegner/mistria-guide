@@ -1,6 +1,7 @@
 {
   "id": "rustic_cabin_scroll_bundle",
   "item": {
+    "id": "rustic_cabin_scroll_bundle",
     "description": "Use this scroll to unlock the crafting recipes for the Rustic Cabin furniture set!",
     "name": "Rustic Cabin Scroll Bundle",
     "icon_sprite": "spr_ui_item_setscroll_rusticcabin",

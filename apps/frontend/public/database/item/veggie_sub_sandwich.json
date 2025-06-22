@@ -1,6 +1,7 @@
 {
   "id": "veggie_sub_sandwich",
   "item": {
+    "id": "veggie_sub_sandwich",
     "description": "This appetizing sandwich is made up of thinly sliced vegetables stacked high.",
     "name": "Veggie Sub Sandwich",
     "icon_sprite": "spr_ui_item_veggie_sub_sandwich",

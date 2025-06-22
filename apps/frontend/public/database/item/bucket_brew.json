@@ -1,6 +1,7 @@
 {
   "id": "bucket_brew",
   "item": {
+    "id": "bucket_brew",
     "description": "An ill-advised combination of many liquors. Tastes awful.",
     "name": "Bucket Brew",
     "icon_sprite": "spr_ui_item_bucket_brew",

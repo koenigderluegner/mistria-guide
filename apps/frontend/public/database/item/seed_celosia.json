@@ -1,6 +1,7 @@
 {
   "id": "seed_celosia",
   "item": {
+    "id": "seed_celosia",
     "description": "Celosia seed. This fast growing fall flower can be harvested once.",
     "name": "Celosia Seed",
     "icon_sprite": "spr_ui_item_bagseed_celosia_icon",

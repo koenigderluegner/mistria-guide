@@ -1,6 +1,7 @@
 {
   "id": "sod",
   "item": {
+    "id": "sod",
     "description": "A square of cut earth. Used as a crafting material.",
     "name": "Sod",
     "icon_sprite": "spr_ui_item_sod",

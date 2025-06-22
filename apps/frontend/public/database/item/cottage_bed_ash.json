@@ -1,6 +1,7 @@
 {
   "id": "cottage_bed_ash",
   "item": {
+    "id": "cottage_bed_ash",
     "description": "A lovely single bed with white floral sheets.",
     "name": "Lovely Cottage Single Bed",
     "icon_sprite": "spr_ui_item_furniture_cottage_bed_v2",

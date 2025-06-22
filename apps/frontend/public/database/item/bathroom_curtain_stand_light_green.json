@@ -1,6 +1,7 @@
 {
   "id": "bathroom_curtain_stand_light_green",
   "item": {
+    "id": "bathroom_curtain_stand_light_green",
     "description": "A light green bathroom curtain stand.",
     "name": "Bathroom Curtain Stand",
     "icon_sprite": "spr_ui_item_furniture_bathroom_curtain_stand_light_green",

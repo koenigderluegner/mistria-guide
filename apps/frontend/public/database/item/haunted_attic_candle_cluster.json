@@ -1,6 +1,7 @@
 {
   "id": "haunted_attic_candle_cluster",
   "item": {
+    "id": "haunted_attic_candle_cluster",
     "description": "A group of off-white candles that look partially melted.",
     "name": "Melted Candle Cluster",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_candle_3",

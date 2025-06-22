@@ -1,6 +1,7 @@
 {
   "id": "thorn_vine",
   "item": {
+    "id": "thorn_vine",
     "description": "A wild plant foraged in all seasons. In addition to being extremely tough, this thorny vine grows very quickly.",
     "name": "Thorn Vine",
     "icon_sprite": "spr_ui_item_thorn_vine",

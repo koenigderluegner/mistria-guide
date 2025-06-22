@@ -1,6 +1,7 @@
 {
   "id": "fish_skewer",
   "item": {
+    "id": "fish_skewer",
     "description": "Crisply fried to bring out the flavor of the fish.",
     "name": "Fish Skewers",
     "icon_sprite": "spr_ui_item_fish_skewer",

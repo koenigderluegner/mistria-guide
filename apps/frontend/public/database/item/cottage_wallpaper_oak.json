@@ -1,6 +1,7 @@
 {
   "id": "cottage_wallpaper_oak",
   "item": {
+    "id": "cottage_wallpaper_oak",
     "description": "Lovely antique white and oak panel wallpaper for your dream cottage.",
     "name": "Lovely Cottage Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_cottage_wallpaper_v1",

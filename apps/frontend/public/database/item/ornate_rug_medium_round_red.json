@@ -1,6 +1,7 @@
 {
   "id": "ornate_rug_medium_round_red",
   "item": {
+    "id": "ornate_rug_medium_round_red",
     "description": "A medium sized red ornate rug with a circular shape.",
     "name": "Ornate Medium Round Rug",
     "icon_sprite": "spr_ui_item_decor_ornate_rug_medium_round_red",

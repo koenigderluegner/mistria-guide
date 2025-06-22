@@ -1,6 +1,7 @@
 {
   "id": "diamond_backed_mirror",
   "item": {
+    "id": "diamond_backed_mirror",
     "description": "A rare artifact. The use of diamond here feels impractical.",
     "name": "Diamond-Backed Mirror",
     "icon_sprite": "spr_ui_item_diamond_backed_mirror",

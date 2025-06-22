@@ -1,6 +1,7 @@
 {
   "id": "ultimate_hay",
   "item": {
+    "id": "ultimate_hay",
     "description": "Ultimate feed for large animals. It can be placed in barn troughs or hand-fed.",
     "name": "Ultimate Large Animal Feed",
     "icon_sprite": "spr_ui_item_animal_feed_hay_ultimate_bag",

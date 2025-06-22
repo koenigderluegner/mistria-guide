@@ -1,6 +1,7 @@
 {
   "id": "cabin_firewood_oak",
   "item": {
+    "id": "cabin_firewood_oak",
     "description": "A neat stack of oak firewood.",
     "name": "Rustic Cabin Firewood",
     "icon_sprite": "spr_ui_item_furniture_cabin_firewood_v3",

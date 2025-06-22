@@ -1,6 +1,7 @@
 {
   "id": "silver_helmet",
   "item": {
+    "id": "silver_helmet",
     "description": "A helmet constructed out of silver. Equip to increase defense.",
     "name": "Silver Helmet",
     "icon_sprite": "spr_ui_item_equipment_silver_helmet",

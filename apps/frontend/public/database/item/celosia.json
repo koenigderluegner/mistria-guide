@@ -1,6 +1,7 @@
 {
   "id": "celosia",
   "item": {
+    "id": "celosia",
     "description": "A fast growing pink fall flower. Can be used in crafting recipes.",
     "name": "Celosia",
     "icon_sprite": "spr_ui_item_celosia",

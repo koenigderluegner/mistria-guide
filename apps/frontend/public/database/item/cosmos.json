@@ -1,6 +1,7 @@
 {
   "id": "cosmos",
   "item": {
+    "id": "cosmos",
     "description": "A deep red flower grown in the summer. Can be given as a gift or used in various crafting recipes.",
     "name": "Cosmos",
     "icon_sprite": "spr_ui_item_cosmos",

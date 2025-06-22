@@ -1,6 +1,7 @@
 {
   "id": "seed_broccoli",
   "item": {
+    "id": "seed_broccoli",
     "description": "Broccoli seed. This fall crop can be harvested once.",
     "name": "Broccoli Seed",
     "icon_sprite": "spr_ui_item_bagseed_broccoli_icon",

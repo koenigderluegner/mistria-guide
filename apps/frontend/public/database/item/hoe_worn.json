@@ -1,6 +1,7 @@
 {
   "id": "hoe_worn",
   "item": {
+    "id": "hoe_worn",
     "description": "A worn but still serviceable hoe. Used to till dirt in preparation for planting seeds.",
     "name": "Worn Hoe",
     "icon_sprite": "spr_ui_item_tool_rusty_hoe",

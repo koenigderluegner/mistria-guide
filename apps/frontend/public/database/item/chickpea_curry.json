@@ -1,6 +1,7 @@
 {
   "id": "chickpea_curry",
   "item": {
+    "id": "chickpea_curry",
     "description": "A rich, flavorful curry that's popular all over Aldaria.",
     "name": "Chickpea Curry",
     "icon_sprite": "spr_ui_item_chickpea_curry",

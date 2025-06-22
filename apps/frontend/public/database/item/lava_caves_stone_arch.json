@@ -1,6 +1,7 @@
 {
   "id": "lava_caves_stone_arch",
   "item": {
+    "id": "lava_caves_stone_arch",
     "description": "A stone arch from the Lava Caves.",
     "name": "Lava Rock Arch",
     "icon_sprite": "spr_ui_item_furniture_lava_caves_stone_beam",

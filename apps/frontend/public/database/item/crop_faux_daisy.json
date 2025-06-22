@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_daisy",
   "item": {
+    "id": "crop_faux_daisy",
     "description": "A decorative faux daisy.",
     "name": "Faux Daisy",
     "icon_sprite": "spr_ui_item_decor_crop_faux_daisy",

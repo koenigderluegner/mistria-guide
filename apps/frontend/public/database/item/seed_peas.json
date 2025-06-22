@@ -1,6 +1,7 @@
 {
   "id": "seed_peas",
   "item": {
+    "id": "seed_peas",
     "description": "Pea seed. This spring crop can be harvested every 3 days once it reaches maturity.",
     "name": "Pea Seed",
     "icon_sprite": "spr_ui_item_bagseed_peas_icon",

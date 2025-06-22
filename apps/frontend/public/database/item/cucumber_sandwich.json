@@ -1,6 +1,7 @@
 {
   "id": "cucumber_sandwich",
   "item": {
+    "id": "cucumber_sandwich",
     "description": "This delectable sandwich thinly layers sliced cucumber and cheese.",
     "name": "Cucumber Sandwich",
     "icon_sprite": "spr_ui_item_cucumber_sandwich",

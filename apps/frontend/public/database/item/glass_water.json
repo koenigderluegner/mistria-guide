@@ -1,6 +1,7 @@
 {
   "id": "glass_water",
   "item": {
+    "id": "glass_water",
     "description": "A decorative water glass.",
     "name": "Water Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_water",

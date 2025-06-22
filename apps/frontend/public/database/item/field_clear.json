@@ -1,6 +1,7 @@
 {
   "id": "field_clear",
   "item": {
+    "id": "field_clear",
     "description": "Use this item to clear decorative details from a grass tile.",
     "name": "Grass Tile Clear",
     "icon_sprite": "spr_ui_item_decor_starter_field_clear",

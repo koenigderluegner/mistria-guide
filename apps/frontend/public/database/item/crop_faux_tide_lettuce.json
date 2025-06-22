@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_tide_lettuce",
   "item": {
+    "id": "crop_faux_tide_lettuce",
     "description": "A decorative faux tide lettuce plant.",
     "name": "Faux Tide Lettuce",
     "icon_sprite": "spr_ui_item_decor_crop_faux_tide_lettuce",

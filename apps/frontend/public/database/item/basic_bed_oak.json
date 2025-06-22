@@ -1,6 +1,7 @@
 {
   "id": "basic_bed_oak",
   "item": {
+    "id": "basic_bed_oak",
     "description": "A basic oak single bed with yellow sheets.",
     "name": "Basic Single Bed",
     "icon_sprite": "spr_ui_item_furniture_basic_bed_v1",

@@ -1,6 +1,7 @@
 {
   "id": "chrysanthemum",
   "item": {
+    "id": "chrysanthemum",
     "description": "A popular dark red fall flower. Can be used in crafting recipes.",
     "name": "Chrysanthemum",
     "icon_sprite": "spr_ui_item_chrysanthemum",

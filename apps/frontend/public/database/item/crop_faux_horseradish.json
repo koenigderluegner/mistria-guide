@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_horseradish",
   "item": {
+    "id": "crop_faux_horseradish",
     "description": "A decorative faux horseradish plant.",
     "name": "Faux Horseradish",
     "icon_sprite": "spr_ui_item_decor_crop_faux_horseradish",

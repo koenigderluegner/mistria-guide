@@ -1,6 +1,7 @@
 {
   "id": "coin_lump",
   "item": {
+    "id": "coin_lump",
     "description": "An uncommon artifact. A mass of old coins, fused together by time.",
     "name": "Coin Lump",
     "icon_sprite": "spr_ui_item_coin_lump",

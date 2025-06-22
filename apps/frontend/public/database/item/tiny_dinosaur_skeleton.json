@@ -1,6 +1,7 @@
 {
   "id": "tiny_dinosaur_skeleton",
   "item": {
+    "id": "tiny_dinosaur_skeleton",
     "description": "A rare artifact. Definitely not just a lizard.",
     "name": "Tiny Dinosaur Skeleton",
     "icon_sprite": "spr_ui_item_tiny_dinosaur_skeleton",

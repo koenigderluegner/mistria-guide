@@ -1,6 +1,7 @@
 {
   "id": "bathtub_black",
   "item": {
+    "id": "bathtub_black",
     "description": " A black bathtub.",
     "name": "Bathtub",
     "icon_sprite": "spr_ui_item_furniture_bathtub_black",

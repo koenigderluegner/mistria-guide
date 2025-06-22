@@ -1,6 +1,7 @@
 {
   "id": "sea_bream_rice",
   "item": {
+    "id": "sea_bream_rice",
     "description": "This rich rice incorporates tempting chunks of sea bream.",
     "name": "Sea Bream Rice",
     "icon_sprite": "spr_ui_item_sea_bream_rice",

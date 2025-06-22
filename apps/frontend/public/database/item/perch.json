@@ -1,6 +1,7 @@
 {
   "id": "perch",
   "item": {
+    "id": "perch",
     "description": "A common large river fish found on rainy days in fall.",
     "name": "Perch",
     "icon_sprite": "spr_ui_item_fish_large_perch",

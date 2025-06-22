@@ -1,6 +1,7 @@
 {
   "id": "bakery_cookie_jar_pastel",
   "item": {
+    "id": "bakery_cookie_jar_pastel",
     "description": "A decorative cookie jar filled with vanilla cookies.",
     "name": "Bakery Cookie Jar",
     "icon_sprite": "spr_ui_item_decor_bakery_cookie_jar_v1",

@@ -1,6 +1,7 @@
 {
   "id": "hoe_gold",
   "item": {
+    "id": "hoe_gold",
     "description": "A splendid golden hoe. Can be charged to till a 6x6 area.",
     "name": "Gold Hoe",
     "icon_sprite": "spr_ui_item_tool_gold_hoe",

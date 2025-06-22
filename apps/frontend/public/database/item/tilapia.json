@@ -1,6 +1,7 @@
 {
   "id": "tilapia",
   "item": {
+    "id": "tilapia",
     "description": "A common small pond fish found in winter.",
     "name": "Tilapia",
     "icon_sprite": "spr_ui_item_fish_small_tilapia",

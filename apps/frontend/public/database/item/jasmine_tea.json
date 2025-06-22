@@ -1,6 +1,7 @@
 {
   "id": "jasmine_tea",
   "item": {
+    "id": "jasmine_tea",
     "description": "A hot cup of jasmine tea.",
     "name": "Jasmine Tea",
     "icon_sprite": "spr_ui_item_jasmine_tea",

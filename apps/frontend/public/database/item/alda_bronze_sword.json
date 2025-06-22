@@ -1,6 +1,7 @@
 {
   "id": "alda_bronze_sword",
   "item": {
+    "id": "alda_bronze_sword",
     "description": "A rare artifact. Its intricate carvings and blue-green patina give this sword an otherworldly appearance.",
     "name": "Alda Bronze Sword",
     "icon_sprite": "spr_ui_item_alda_bronze_sword",

@@ -1,6 +1,7 @@
 {
   "id": "net_worn",
   "item": {
+    "id": "net_worn",
     "description": "A worn but still serviceable net. Used to catch bugs.",
     "name": "Worn Net",
     "icon_sprite": "spr_ui_item_tool_rusty_net",

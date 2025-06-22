@@ -1,6 +1,7 @@
 {
   "id": "cream_pet_dish",
   "item": {
+    "id": "cream_pet_dish",
     "description": "A decorative cream pet dish. It's very cute!",
     "name": "Cream Pet Dish",
     "icon_sprite": "spr_ui_item_decor_cream_pet_dish",

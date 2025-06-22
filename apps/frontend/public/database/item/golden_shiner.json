@@ -1,6 +1,7 @@
 {
   "id": "golden_shiner",
   "item": {
+    "id": "golden_shiner",
     "description": "A common small pond fish found in summer.",
     "name": "Golden Shiner",
     "icon_sprite": "spr_ui_item_fish_small_golden_shiner",

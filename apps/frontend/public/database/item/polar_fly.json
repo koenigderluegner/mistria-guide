@@ -1,6 +1,7 @@
 {
   "id": "polar_fly",
   "item": {
+    "id": "polar_fly",
     "description": "A common insect found in winter.",
     "name": "Polar Fly",
     "icon_sprite": "spr_ui_item_insect_polar_fly",

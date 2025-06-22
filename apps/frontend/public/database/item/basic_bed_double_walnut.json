@@ -1,6 +1,7 @@
 {
   "id": "basic_bed_double_walnut",
   "item": {
+    "id": "basic_bed_double_walnut",
     "description": "A basic walnut double bed with green sheets.",
     "name": "Basic Double Bed",
     "icon_sprite": "spr_ui_item_furniture_basic_double_bed_v2",

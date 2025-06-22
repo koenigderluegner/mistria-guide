@@ -1,6 +1,7 @@
 {
   "id": "witch_queen_moon_lamp",
   "item": {
+    "id": "witch_queen_moon_lamp",
     "description": "A lamp in the shape of the full moon.",
     "name": "Witch Queen Moon Lamp",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_moon_lamp",

@@ -1,6 +1,7 @@
 {
   "id": "fishing_double_bed_red",
   "item": {
+    "id": "fishing_double_bed_red",
     "description": "An nautical double bed with red anchor print sheets.",
     "name": "Fishing Double Bed",
     "icon_sprite": "spr_ui_item_furniture_fishing_double_bed_red",

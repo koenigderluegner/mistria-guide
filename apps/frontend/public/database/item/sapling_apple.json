@@ -1,6 +1,7 @@
 {
   "id": "sapling_apple",
   "item": {
+    "id": "sapling_apple",
     "description": "An apple tree sapling. This tree can be planted any time of year, but will only fruit in the fall.",
     "name": "Apple Sapling",
     "icon_sprite": "spr_ui_item_apple_sapling",

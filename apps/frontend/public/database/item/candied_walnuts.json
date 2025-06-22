@@ -1,6 +1,7 @@
 {
   "id": "candied_walnuts",
   "item": {
+    "id": "candied_walnuts",
     "description": "These sugar coated walnuts are a perfect energy boosting snack.",
     "name": "Candied Walnuts",
     "icon_sprite": "spr_ui_item_candied_walnuts",

@@ -1,6 +1,7 @@
 {
   "id": "tetra",
   "item": {
+    "id": "tetra",
     "description": "A common small pond fish found in all seasons.",
     "name": "Tetra",
     "icon_sprite": "spr_ui_item_fish_small_tetra",

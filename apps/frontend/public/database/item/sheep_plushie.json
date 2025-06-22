@@ -1,6 +1,7 @@
 {
   "id": "sheep_plushie",
   "item": {
+    "id": "sheep_plushie",
     "description": "A cute sheep plushie. Awarded at the Animal Festival.",
     "name": "Sheep Plushie",
     "icon_sprite": "spr_ui_item_decor_sheep_plushie",

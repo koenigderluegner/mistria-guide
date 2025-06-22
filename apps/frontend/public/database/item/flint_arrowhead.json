@@ -1,6 +1,7 @@
 {
   "id": "flint_arrowhead",
   "item": {
+    "id": "flint_arrowhead",
     "description": "An uncommon artifact. Likely lost during a hunt.",
     "name": "Flint Arrowhead",
     "icon_sprite": "spr_ui_item_flint_arrowhead",

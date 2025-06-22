@@ -1,6 +1,7 @@
 {
   "id": "stone_horse",
   "item": {
+    "id": "stone_horse",
     "description": "An uncommon artifact. Carefully carved and very cute.",
     "name": "Stone Horse",
     "icon_sprite": "spr_ui_item_stone_horse",

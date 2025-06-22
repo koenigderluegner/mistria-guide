@@ -1,6 +1,7 @@
 {
   "id": "pike",
   "item": {
+    "id": "pike",
     "description": "A common large river fish found in all seasons.",
     "name": "Pike",
     "icon_sprite": "spr_ui_item_fish_large_pike",

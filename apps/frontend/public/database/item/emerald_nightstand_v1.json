@@ -1,6 +1,7 @@
 {
   "id": "emerald_nightstand_v1",
   "item": {
+    "id": "emerald_nightstand_v1",
     "description": "An ornate emerald nightstand with gold detailing.",
     "name": "Emerald Nightstand",
     "icon_sprite": "spr_ui_item_furniture_emerald_nightstand_v1",

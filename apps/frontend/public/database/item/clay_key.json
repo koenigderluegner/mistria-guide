@@ -1,6 +1,7 @@
 {
   "id": "clay_key",
   "item": {
+    "id": "clay_key",
     "description": "An old clay key which can be used to open clay chests.",
     "name": "Clay Key",
     "icon_sprite": "spr_ui_item_clay_key",

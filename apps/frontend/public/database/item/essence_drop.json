@@ -1,6 +1,7 @@
 {
   "id": "essence_drop",
   "item": {
+    "id": "essence_drop",
     "description": "A drip of magic, sometimes dropped by Essence Bats. Used in a variety of crafting recipes.",
     "name": "Essence Drop",
     "icon_sprite": "spr_ui_item_essence_drop",

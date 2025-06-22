@@ -1,6 +1,7 @@
 {
   "id": "ore_gold",
   "item": {
+    "id": "ore_gold",
     "description": "A chunk of gold ore. Can be refined into ingots for crafting.",
     "name": "Gold Ore",
     "icon_sprite": "spr_ui_item_gold_ore",

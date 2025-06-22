@@ -1,6 +1,7 @@
 {
   "id": "oyster_mushroom",
   "item": {
+    "id": "oyster_mushroom",
     "description": "A wild mushroom foraged in winter. Has an earthy flavor. Commonly used as a cooking ingredient.",
     "name": "Oyster Mushroom",
     "icon_sprite": "spr_ui_item_oyster_mushroom",

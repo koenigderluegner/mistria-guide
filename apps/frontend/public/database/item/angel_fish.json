@@ -1,6 +1,7 @@
 {
   "id": "angel_fish",
   "item": {
+    "id": "angel_fish",
     "description": "A common small pond fish found in spring.",
     "name": "Angel Fish",
     "icon_sprite": "spr_ui_item_fish_small_angel_fish",

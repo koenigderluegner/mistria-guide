@@ -1,6 +1,7 @@
 {
   "id": "basic_wood_chest_blue",
   "item": {
+    "id": "basic_wood_chest_blue",
     "description": "A placeable basic wooden chest.",
     "name": "Basic Wood Chest",
     "icon_sprite": "spr_ui_item_furniture_basic_chest_v12",

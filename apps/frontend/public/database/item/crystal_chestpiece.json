@@ -1,6 +1,7 @@
 {
   "id": "crystal_chestpiece",
   "item": {
+    "id": "crystal_chestpiece",
     "description": "A chestpiece constructed out of crystal. Equip to increase defense.",
     "name": "Crystal Chestpiece",
     "icon_sprite": "spr_ui_item_equipment_crystal_chestpiece",

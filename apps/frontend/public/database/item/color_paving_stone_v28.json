@@ -1,6 +1,7 @@
 {
   "id": "color_paving_stone_v28",
   "item": {
+    "id": "color_paving_stone_v28",
     "description": "A small cream paving stone.",
     "name": "Color Paving Stone",
     "icon_sprite": "spr_ui_item_decor_floor_tile_small_28",

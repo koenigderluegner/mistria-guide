@@ -1,6 +1,7 @@
 {
   "id": "freshwater_oyster",
   "item": {
+    "id": "freshwater_oyster",
     "description": "A common river mussel, found in all seasons.",
     "name": "Freshwater Oyster",
     "icon_sprite": "spr_ui_item_dive_freshwater_oyster",

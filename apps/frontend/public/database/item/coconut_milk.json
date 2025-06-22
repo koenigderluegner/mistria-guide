@@ -1,6 +1,7 @@
 {
   "id": "coconut_milk",
   "item": {
+    "id": "coconut_milk",
     "description": "A rich milk harvested from coconuts.",
     "name": "Coconut Milk",
     "icon_sprite": "spr_ui_item_coconut_milk",

@@ -1,6 +1,7 @@
 {
   "id": "restorative_syrup",
   "item": {
+    "id": "restorative_syrup",
     "description": "This medicinal syrup grants you a 2 hour health & stamina regen effect when consumed. Tastes like spearmint.",
     "name": "Restorative Syrup",
     "icon_sprite": "spr_ui_item_syrup_restore",

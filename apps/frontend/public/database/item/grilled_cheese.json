@@ -1,6 +1,7 @@
 {
   "id": "grilled_cheese",
   "item": {
+    "id": "grilled_cheese",
     "description": "A crisply griddled sandwich full of melted cheese.",
     "name": "Grilled Cheese",
     "icon_sprite": "spr_ui_item_grilled_cheese",

@@ -1,6 +1,7 @@
 {
   "id": "cavern_rock_flooring",
   "item": {
+    "id": "cavern_rock_flooring",
     "description": "A rock floor that mimics the look of the Deep Earth.",
     "name": "Rock Floor",
     "icon_sprite": "spr_ui_item_furniture_flooring_deep_earth",

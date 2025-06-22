@@ -1,6 +1,7 @@
 {
   "id": "fennel",
   "item": {
+    "id": "fennel",
     "description": "A wild herb foraged in spring with a mild licorice flavor. Commonly used as a cooking ingredient.",
     "name": "Fennel",
     "icon_sprite": "spr_ui_item_fennel",

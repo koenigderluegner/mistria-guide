@@ -1,6 +1,7 @@
 {
   "id": "brown_bullhead",
   "item": {
+    "id": "brown_bullhead",
     "description": "A common medium pond fish found in summer.",
     "name": "Brown Bullhead",
     "icon_sprite": "spr_ui_item_fish_medium_brown_bullhead",

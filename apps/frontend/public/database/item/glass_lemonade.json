@@ -1,6 +1,7 @@
 {
   "id": "glass_lemonade",
   "item": {
+    "id": "glass_lemonade",
     "description": "A decorative lemonade glass.",
     "name": "Lemonade Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_lemonade",

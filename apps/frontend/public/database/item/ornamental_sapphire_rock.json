@@ -1,6 +1,7 @@
 {
   "id": "ornamental_sapphire_rock",
   "item": {
+    "id": "ornamental_sapphire_rock",
     "description": "A decorative sapphire rock.",
     "name": "Ornamental Sapphire Rock",
     "icon_sprite": "spr_ui_item_furniture_sapphire_rock",

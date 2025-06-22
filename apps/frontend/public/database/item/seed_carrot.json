@@ -1,6 +1,7 @@
 {
   "id": "seed_carrot",
   "item": {
+    "id": "seed_carrot",
     "description": "Carrot seed. This spring crop can be harvested once.",
     "name": "Carrot Seed",
     "icon_sprite": "spr_ui_item_bagseed_carrot_icon",

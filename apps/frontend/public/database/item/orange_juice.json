@@ -1,6 +1,7 @@
 {
   "id": "orange_juice",
   "item": {
+    "id": "orange_juice",
     "description": "A sweet and citrusy juice made from oranges.",
     "name": "Orange Juice",
     "icon_sprite": "spr_ui_item_orange_juice",

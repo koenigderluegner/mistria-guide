@@ -1,6 +1,7 @@
 {
   "id": "cottage_chair_ash",
   "item": {
+    "id": "cottage_chair_ash",
     "description": "A lovely ash wood chair with a sage green cushion.",
     "name": "Lovely Cottage Chair",
     "icon_sprite": "spr_ui_item_furniture_cottage_chair_v2",

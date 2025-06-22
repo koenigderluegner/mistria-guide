@@ -1,6 +1,7 @@
 {
   "id": "pan_fried_snapper",
   "item": {
+    "id": "pan_fried_snapper",
     "description": "This pan fried snapper is mild and a little sweet.",
     "name": "Pan-fried Snapper",
     "icon_sprite": "spr_ui_item_panfriedsnapper",

@@ -1,6 +1,7 @@
 {
   "id": "summer_table_red",
   "item": {
+    "id": "summer_table_red",
     "description": "A white wooden table with a red tablecloth.",
     "name": "Summer Table",
     "icon_sprite": "spr_ui_item_furniture_summer_table_red",

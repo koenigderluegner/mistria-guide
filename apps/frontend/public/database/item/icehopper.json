@@ -1,6 +1,7 @@
 {
   "id": "icehopper",
   "item": {
+    "id": "icehopper",
     "description": "A common insect found in winter. Sometimes found when cutting grass.",
     "name": "Icehopper",
     "icon_sprite": "spr_ui_item_insect_icehopper",

@@ -1,6 +1,7 @@
 {
   "id": "roly_poly",
   "item": {
+    "id": "roly_poly",
     "description": "An uncommon insect found in spring. Found when breaking rocks.",
     "name": "Roly Poly",
     "icon_sprite": "spr_ui_item_insect_pillbug",

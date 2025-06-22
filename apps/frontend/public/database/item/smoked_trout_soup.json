@@ -1,6 +1,7 @@
 {
   "id": "smoked_trout_soup",
   "item": {
+    "id": "smoked_trout_soup",
     "description": "This rich and creamy soup has an irresistible flavor of smoked fish.",
     "name": "Smoked Trout Soup",
     "icon_sprite": "spr_ui_item_smokedtroutsoup",

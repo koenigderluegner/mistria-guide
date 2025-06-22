@@ -1,6 +1,7 @@
 {
   "id": "coral",
   "item": {
+    "id": "coral",
     "description": "A pretty piece of coral. Found in the Tide Caverns & used for crafting.",
     "name": "Coral",
     "icon_sprite": "spr_ui_item_coral",

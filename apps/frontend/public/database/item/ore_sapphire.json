@@ -1,6 +1,7 @@
 {
   "id": "ore_sapphire",
   "item": {
+    "id": "ore_sapphire",
     "description": "A lustrous blue gem. Can be sold, gifted, or used in certain crafting recipes.",
     "name": "Sapphire",
     "icon_sprite": "spr_ui_item_sapphire",

@@ -1,6 +1,7 @@
 {
   "id": "crayfish_etouffee",
   "item": {
+    "id": "crayfish_etouffee",
     "description": "A rich & delicious crayfish stew served over rice.",
     "name": "Crayfish Etouffee",
     "icon_sprite": "spr_ui_item_crayfishetouffee",

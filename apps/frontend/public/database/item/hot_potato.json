@@ -1,6 +1,7 @@
 {
   "id": "hot_potato",
   "item": {
+    "id": "hot_potato",
     "description": "These pre-cooked wild potatoes have a tangy flavor that is surprisingly addictive.",
     "name": "Hot Potato",
     "icon_sprite": "spr_ui_item_hot_potato",

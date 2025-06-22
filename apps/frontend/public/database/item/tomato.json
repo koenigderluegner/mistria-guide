@@ -1,6 +1,7 @@
 {
   "id": "tomato",
   "item": {
+    "id": "tomato",
     "description": "An essential summer crop. Used as an ingredient in many cooking recipes.",
     "name": "Tomato",
     "icon_sprite": "spr_ui_item_tomato",

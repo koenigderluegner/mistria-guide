@@ -1,6 +1,7 @@
 {
   "id": "pond_snail",
   "item": {
+    "id": "pond_snail",
     "description": "A common pond gastropod found in all seasons.",
     "name": "Pond Snail",
     "icon_sprite": "spr_ui_item_dive_pond_snail",

@@ -1,6 +1,7 @@
 {
   "id": "herb_butter_pasta",
   "item": {
+    "id": "herb_butter_pasta",
     "description": "A buttery, mouthwatering pasta made with fresh herbs.",
     "name": "Herb Butter Pasta",
     "icon_sprite": "spr_ui_item_herb_butter_pasta",

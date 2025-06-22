@@ -1,6 +1,7 @@
 {
   "id": "gold_cow_trophy",
   "item": {
+    "id": "gold_cow_trophy",
     "description": "A gold display trophy commemorating your cow's first place win at the Animal Festival.",
     "name": "Gold Cow Trophy",
     "icon_sprite": "spr_ui_item_decor_gold_cow_trophy",

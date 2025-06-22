@@ -1,6 +1,7 @@
 {
   "id": "pebble_minnow",
   "item": {
+    "id": "pebble_minnow",
     "description": "A common small Deep Earth fish. The scales of these fish have taken on a pebbled texture to help it blend into its surroundings.",
     "name": "Pebble Minnow",
     "icon_sprite": "spr_ui_item_fish_small_pebble_minnow",

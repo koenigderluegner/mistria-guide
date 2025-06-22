@@ -1,6 +1,7 @@
 {
   "id": "sword_worn",
   "item": {
+    "id": "sword_worn",
     "description": "A worn but still serviceable sword. Used to cut grass and to fight, if necessary.",
     "name": "Worn Sword",
     "icon_sprite": "spr_ui_item_tool_rusty_sword",

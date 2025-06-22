@@ -1,6 +1,7 @@
 {
   "id": "clam_chowder",
   "item": {
+    "id": "clam_chowder",
     "description": "A rich and creamy chowder with savory clam meat.",
     "name": "Clam Chowder",
     "icon_sprite": "spr_ui_item_clam_chowder",

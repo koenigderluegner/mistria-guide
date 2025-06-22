@@ -1,6 +1,7 @@
 {
   "id": "animal_cosmetic",
   "item": {
+    "id": "animal_cosmetic",
     "description": "Use this item to unlock the cosmetic for your animals to wear!",
     "icon_sprite": "spr_illegal_16",
     "tags": [

@@ -1,6 +1,7 @@
 {
   "id": "star_viewing_blanket_blue",
   "item": {
+    "id": "star_viewing_blanket_blue",
     "description": "A Shooting Star Festival blanket in blue.",
     "name": "Star Viewing Blanket",
     "icon_sprite": "spr_ui_item_decor_star_viewing_blanket_blue",

@@ -1,6 +1,7 @@
 {
   "id": "cottage_chair_oak",
   "item": {
+    "id": "cottage_chair_oak",
     "description": "A lovely oak wood chair with a soft pink cushion.",
     "name": "Lovely Cottage Chair",
     "icon_sprite": "spr_ui_item_furniture_cottage_chair_v1",

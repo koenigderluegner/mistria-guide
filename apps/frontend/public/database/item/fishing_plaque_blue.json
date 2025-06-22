@@ -1,6 +1,7 @@
 {
   "id": "fishing_plaque_blue",
   "item": {
+    "id": "fishing_plaque_blue",
     "description": "A faux fish wall plaque featuring a blue-green fish.",
     "name": "Faux Fish Wall Plaque",
     "icon_sprite": "spr_ui_item_furniture_fishing_plaque_blue",

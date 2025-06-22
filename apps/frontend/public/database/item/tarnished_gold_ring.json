@@ -1,6 +1,7 @@
 {
   "id": "tarnished_gold_ring",
   "item": {
+    "id": "tarnished_gold_ring",
     "description": "A ring constructed out of tarnished gold. Equip to increase defense.",
     "name": "Tarnished Gold Ring",
     "icon_sprite": "spr_ui_item_equipment_tarnished_gold_ring",

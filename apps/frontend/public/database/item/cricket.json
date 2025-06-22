@@ -1,6 +1,7 @@
 {
   "id": "cricket",
   "item": {
+    "id": "cricket",
     "description": "A common insect found at night in summer.",
     "name": "Cricket",
     "icon_sprite": "spr_ui_item_insect_cricket",

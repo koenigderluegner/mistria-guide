@@ -1,6 +1,7 @@
 {
   "id": "seed_tulip",
   "item": {
+    "id": "seed_tulip",
     "description": "Tulip seed. This spring flower can be harvested once.",
     "name": "Tulip Seed",
     "icon_sprite": "spr_ui_item_bagseed_tulip_icon",

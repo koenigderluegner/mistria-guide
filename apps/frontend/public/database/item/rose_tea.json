@@ -1,6 +1,7 @@
 {
   "id": "rose_tea",
   "item": {
+    "id": "rose_tea",
     "description": "A soothing tea with a light rose flavor.",
     "name": "Rose Tea",
     "icon_sprite": "spr_ui_item_rose_tea",

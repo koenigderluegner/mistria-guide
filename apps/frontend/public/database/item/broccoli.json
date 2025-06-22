@@ -1,6 +1,7 @@
 {
   "id": "broccoli",
   "item": {
+    "id": "broccoli",
     "description": "A fall crop. Crunchy with a mild, grassy flavor. Commonly used as a cooking ingredient.",
     "name": "Broccoli",
     "icon_sprite": "spr_ui_item_broccoli",

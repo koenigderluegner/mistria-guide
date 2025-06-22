@@ -1,6 +1,7 @@
 {
   "id": "worn_nightstand",
   "item": {
+    "id": "worn_nightstand",
     "description": "A worn wooden nightstand.",
     "name": "Worn Nightstand",
     "icon_sprite": "spr_ui_item_furniture_default_nightstand_v1",

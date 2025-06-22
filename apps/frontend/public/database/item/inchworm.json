@@ -1,6 +1,7 @@
 {
   "id": "inchworm",
   "item": {
+    "id": "inchworm",
     "description": "A common insect found in fall.",
     "name": "Inchworm",
     "icon_sprite": "spr_ui_item_insect_inchworm",

@@ -1,6 +1,7 @@
 {
   "id": "chicky_hot_chocolate",
   "item": {
+    "id": "chicky_hot_chocolate",
     "description": "A rich hot chocolate in a chicky shaped mug. This Animal Festival treat is liked by everyone.",
     "name": "Chicky Hot Chocolate",
     "icon_sprite": "spr_ui_item_chicky_hot_chocolate",

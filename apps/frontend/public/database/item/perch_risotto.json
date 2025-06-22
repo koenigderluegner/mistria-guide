@@ -1,6 +1,7 @@
 {
   "id": "perch_risotto",
   "item": {
+    "id": "perch_risotto",
     "description": "This delicate perch filet is perfectly paired with creamy risotto.",
     "name": "Perch Risotto",
     "icon_sprite": "spr_ui_item_perch_risotto",

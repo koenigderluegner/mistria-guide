@@ -1,6 +1,7 @@
 {
   "id": "crystal_string_lights_purple",
   "item": {
+    "id": "crystal_string_lights_purple",
     "description": "Purple crystal string lights to hang on your wall.",
     "name": "Crystal Wall String Lights",
     "icon_sprite": "spr_ui_item_decor_crystal_string_lights_purple",

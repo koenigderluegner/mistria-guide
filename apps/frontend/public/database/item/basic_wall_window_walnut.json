@@ -1,6 +1,7 @@
 {
   "id": "basic_wall_window_walnut",
   "item": {
+    "id": "basic_wall_window_walnut",
     "description": "A basic walnut window with green curtains.",
     "name": "Basic Window",
     "icon_sprite": "spr_ui_item_furniture_basic_wall_window_v2",

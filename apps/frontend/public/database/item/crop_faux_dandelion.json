@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_dandelion",
   "item": {
+    "id": "crop_faux_dandelion",
     "description": "A decorative faux dandelion.",
     "name": "Faux Dandelion",
     "icon_sprite": "spr_ui_item_decor_crop_faux_dandelion",

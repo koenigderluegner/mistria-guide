@@ -1,6 +1,7 @@
 {
   "id": "seed_jasmine",
   "item": {
+    "id": "seed_jasmine",
     "description": "Jasmine seed. This slow growing winter flower can be harvested every 3 days once it reaches maturity.",
     "name": "Jasmine Seed",
     "icon_sprite": "spr_ui_item_bagseed_jasmine_icon",

@@ -1,6 +1,7 @@
 {
   "id": "ore_copper",
   "item": {
+    "id": "ore_copper",
     "description": "Found in the upper levels of the Mines, this ore can be refined into ingots for use in crafting recipes.",
     "name": "Copper Ore",
     "icon_sprite": "spr_ui_item_copper_ore",

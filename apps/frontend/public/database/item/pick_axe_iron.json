@@ -1,6 +1,7 @@
 {
   "id": "pick_axe_iron",
   "item": {
+    "id": "pick_axe_iron",
     "description": "An iron pickaxe. Can be charged to strike a 3x3 area.",
     "name": "Iron Pickaxe",
     "icon_sprite": "spr_ui_item_tool_iron_pickaxe",

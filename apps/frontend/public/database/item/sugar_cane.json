@@ -1,6 +1,7 @@
 {
   "id": "sugar_cane",
   "item": {
+    "id": "sugar_cane",
     "description": "A popular summer crop. Can be refined into sugar, which is used in many recipes.",
     "name": "Sugar Cane",
     "icon_sprite": "spr_ui_item_sugar_cane",

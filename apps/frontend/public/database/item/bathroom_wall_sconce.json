@@ -1,6 +1,7 @@
 {
   "id": "bathroom_wall_sconce",
   "item": {
+    "id": "bathroom_wall_sconce",
     "description": " A bathroom wall sconce.",
     "name": "Bathroom Wall Sconce",
     "icon_sprite": "spr_ui_item_furniture_bathroom_wall_sconce",

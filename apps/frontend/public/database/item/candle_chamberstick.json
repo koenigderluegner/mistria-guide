@@ -1,6 +1,7 @@
 {
   "id": "candle_chamberstick",
   "item": {
+    "id": "candle_chamberstick",
     "description": "A decorative candle chamberstick.",
     "name": "Candle Chamberstick",
     "icon_sprite": "spr_ui_item_decor_clutter_candle_chamberstick",

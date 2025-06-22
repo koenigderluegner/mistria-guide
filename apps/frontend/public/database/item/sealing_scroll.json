@@ -1,6 +1,7 @@
 {
   "id": "sealing_scroll",
   "item": {
+    "id": "sealing_scroll",
     "description": "An extremely rare and dangerous magical object. Few remain in this world.",
     "name": "Sealing Scroll",
     "icon_sprite": "spr_ui_item_sealing_scroll"

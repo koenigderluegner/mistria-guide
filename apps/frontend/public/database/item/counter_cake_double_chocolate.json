@@ -1,6 +1,7 @@
 {
   "id": "counter_cake_double_chocolate",
   "item": {
+    "id": "counter_cake_double_chocolate",
     "description": "A chocolate cake counter piece. Place two or more together to connect them!",
     "name": "Cake Counter",
     "icon_sprite": "spr_ui_item_decor_counter_cake_double_chocolate",

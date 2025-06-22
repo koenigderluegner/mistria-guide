@@ -1,6 +1,7 @@
 {
   "id": "forest_perch",
   "item": {
+    "id": "forest_perch",
     "description": "A common medium Deep Woods fish found on rainy or snowy days in all seasons.",
     "name": "Forest Perch",
     "icon_sprite": "spr_ui_item_fish_medium_forest_perch",

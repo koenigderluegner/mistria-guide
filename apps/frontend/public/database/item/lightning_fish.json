@@ -1,6 +1,7 @@
 {
   "id": "lightning_fish",
   "item": {
+    "id": "lightning_fish",
     "description": "A legendary medium river fish found on stormy days in summer.",
     "name": "Lightning Fish",
     "icon_sprite": "spr_ui_item_fish_medium_lightning_fish",

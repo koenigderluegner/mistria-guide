@@ -1,6 +1,7 @@
 {
   "id": "golden_alpaca_wool",
   "item": {
+    "id": "golden_alpaca_wool",
     "description": "Gold quality wool from an alpaca. Used in a variety of crafting recipes.",
     "name": "Golden Alpaca Wool",
     "icon_sprite": "spr_ui_item_alpaca_wool_gold",

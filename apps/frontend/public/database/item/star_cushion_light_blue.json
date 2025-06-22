@@ -1,6 +1,7 @@
 {
   "id": "star_cushion_light_blue",
   "item": {
+    "id": "star_cushion_light_blue",
     "description": "A Shooting Star Festival cushion in light blue.",
     "name": "Star Cushion",
     "icon_sprite": "spr_ui_item_decor_star_cushion_light_blue",

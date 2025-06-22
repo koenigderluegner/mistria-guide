@@ -1,6 +1,7 @@
 {
   "id": "inn_counter",
   "item": {
+    "id": "inn_counter",
     "description": "A kitchen counter, matching the design used at the Inn.",
     "name": "Inn Counter",
     "icon_sprite": "spr_ui_item_furniture_inn_counter",

@@ -1,6 +1,7 @@
 {
   "id": "burdock_root",
   "item": {
+    "id": "burdock_root",
     "description": "A wild plant foraged in winter. Has a nutty, earthy flavor. Commonly used as a cooking ingredient.",
     "name": "Burdock Root",
     "icon_sprite": "spr_ui_item_burdock_root",

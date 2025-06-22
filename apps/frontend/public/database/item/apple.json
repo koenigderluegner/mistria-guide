@@ -1,6 +1,7 @@
 {
   "id": "apple",
   "item": {
+    "id": "apple",
     "description": "The delicious fruit of the apple tree, which fruits in fall. A popular ingredient in cooking recipes.",
     "name": "Apple",
     "icon_sprite": "spr_ui_item_apple",

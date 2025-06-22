@@ -1,6 +1,7 @@
 {
   "id": "relic_crab",
   "item": {
+    "id": "relic_crab",
     "description": "An uncommon crustacean found at the beach in all seasons.",
     "name": "Relic Crab",
     "icon_sprite": "spr_ui_item_insect_reliccrab",

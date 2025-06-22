@@ -1,6 +1,7 @@
 {
   "id": "picnic_rug_yellow",
   "item": {
+    "id": "picnic_rug_yellow",
     "description": "A cute yellow gingham picnic blanket.",
     "name": "Picnic Blanket",
     "icon_sprite": "spr_ui_item_picnic_rug_yellow",

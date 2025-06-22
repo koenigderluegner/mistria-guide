@@ -1,6 +1,7 @@
 {
   "id": "worn_table",
   "item": {
+    "id": "worn_table",
     "description": "A worn wooden table.",
     "name": "Worn Table",
     "icon_sprite": "spr_ui_item_furniture_default_table_v1",

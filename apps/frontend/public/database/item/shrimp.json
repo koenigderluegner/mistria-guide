@@ -1,6 +1,7 @@
 {
   "id": "shrimp",
   "item": {
+    "id": "shrimp",
     "description": "A common small ocean crustacean found in spring.",
     "name": "Shrimp",
     "icon_sprite": "spr_ui_item_fish_small_shrimp",

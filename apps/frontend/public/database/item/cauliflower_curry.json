@@ -1,6 +1,7 @@
 {
   "id": "cauliflower_curry",
   "item": {
+    "id": "cauliflower_curry",
     "description": "This spicy curry is mellowed by the cauliflower.",
     "name": "Cauliflower Curry",
     "icon_sprite": "spr_ui_item_cauliflower_curry",

@@ -1,6 +1,7 @@
 {
   "id": "tile_roof_fence_v3",
   "item": {
+    "id": "tile_roof_fence_v3",
     "description": "A stone fence with a green tiled roof.",
     "name": "Tile Roof Fence",
     "icon_sprite": "spr_ui_item_tile_roof_fence_v3",

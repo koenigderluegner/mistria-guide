@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_tea",
   "item": {
+    "id": "crop_faux_tea",
     "description": "A decorative faux tea plant.",
     "name": "Faux Tea",
     "icon_sprite": "spr_ui_item_decor_crop_faux_tea",

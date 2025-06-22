@@ -1,6 +1,7 @@
 {
   "id": "net_gold",
   "item": {
+    "id": "net_gold",
     "description": "A splendid bug net with a golden handle. The only change is the aesthetic.",
     "name": "Gold Net",
     "icon_sprite": "spr_ui_item_tool_gold_net",

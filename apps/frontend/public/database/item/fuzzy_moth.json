@@ -1,6 +1,7 @@
 {
   "id": "fuzzy_moth",
   "item": {
+    "id": "fuzzy_moth",
     "description": "An uncommon insect found at night in all seasons.",
     "name": "Fuzzy Moth",
     "icon_sprite": "spr_ui_item_insect_fuzzymoth",

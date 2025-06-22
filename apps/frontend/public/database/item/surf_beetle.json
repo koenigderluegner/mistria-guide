@@ -1,6 +1,7 @@
 {
   "id": "surf_beetle",
   "item": {
+    "id": "surf_beetle",
     "description": "A common insect found at the beach in all seasons.",
     "name": "Surf Beetle",
     "icon_sprite": "spr_ui_item_insect_surf_beetle",

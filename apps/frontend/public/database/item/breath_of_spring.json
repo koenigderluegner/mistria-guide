@@ -1,6 +1,7 @@
 {
   "id": "breath_of_spring",
   "item": {
+    "id": "breath_of_spring",
     "description": "A special Mistrian flower that appears just before the Spring Festival.",
     "name": "Breath of Spring",
     "icon_sprite": "spr_ui_item_breath_of_spring",

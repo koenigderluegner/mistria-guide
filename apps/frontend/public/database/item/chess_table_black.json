@@ -1,6 +1,7 @@
 {
   "id": "chess_table_black",
   "item": {
+    "id": "chess_table_black",
     "description": "A black chess table.",
     "name": "Chess Table",
     "icon_sprite": "spr_ui_item_furniture_chess_table_black",

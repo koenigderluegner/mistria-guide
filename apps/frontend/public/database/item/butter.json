@@ -1,6 +1,7 @@
 {
   "id": "butter",
   "item": {
+    "id": "butter",
     "description": "Butter made with cow's milk. Used in a variety of cooking recipes.",
     "name": "Butter",
     "icon_sprite": "spr_ui_item_butter",

@@ -1,6 +1,7 @@
 {
   "id": "rosemary",
   "item": {
+    "id": "rosemary",
     "description": "A fragrant herb grown in fall. Commonly used as a cooking ingredient.",
     "name": "Rosemary",
     "icon_sprite": "spr_ui_item_rosemary",

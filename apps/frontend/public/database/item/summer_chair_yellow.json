@@ -1,6 +1,7 @@
 {
   "id": "summer_chair_yellow",
   "item": {
+    "id": "summer_chair_yellow",
     "description": "A white lawn chair.",
     "name": "Summer Chair",
     "icon_sprite": "spr_ui_item_furniture_summer_chair_yellow",

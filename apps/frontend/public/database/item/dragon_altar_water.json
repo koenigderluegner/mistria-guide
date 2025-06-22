@@ -1,6 +1,7 @@
 {
   "id": "dragon_altar_water",
   "item": {
+    "id": "dragon_altar_water",
     "description": "A replica dragon claw altar, matching the water seal room.",
     "name": "Dragon Claw Altar",
     "icon_sprite": "spr_ui_item_decor_water_seal_altar",

@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_sand_dollar",
   "item": {
+    "id": "crop_faux_sand_dollar",
     "description": "A decorative faux sand dollar.",
     "name": "Faux Sand Dollar",
     "icon_sprite": "spr_ui_item_decor_crop_faux_sand_dollar",

@@ -1,6 +1,7 @@
 {
   "id": "tuna_sashimi",
   "item": {
+    "id": "tuna_sashimi",
     "description": "An expertly cut slice of premium tuna.",
     "name": "Tuna Sashimi",
     "icon_sprite": "spr_ui_item_tuna_sashimi",

@@ -1,6 +1,7 @@
 {
   "id": "picnic_pie_plate_yellow",
   "item": {
+    "id": "picnic_pie_plate_yellow",
     "description": "A decorative pie plate with yellow accents.",
     "name": "Picnic Display Pie",
     "icon_sprite": "spr_ui_item_picnic_pie_plate_yellow",

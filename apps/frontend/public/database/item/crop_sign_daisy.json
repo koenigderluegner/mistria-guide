@@ -1,6 +1,7 @@
 {
   "id": "crop_sign_daisy",
   "item": {
+    "id": "crop_sign_daisy",
     "description": "A wooden sign featuring a painted daisy.",
     "name": "Daisy Sign",
     "icon_sprite": "spr_ui_item_crop_sign_daisy",

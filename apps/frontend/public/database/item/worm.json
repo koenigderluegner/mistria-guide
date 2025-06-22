@@ -1,6 +1,7 @@
 {
   "id": "worm",
   "item": {
+    "id": "worm",
     "description": "An uncommon Upper Mines invertebrate. It's just a worm.",
     "name": "Worm",
     "icon_sprite": "spr_ui_item_insect_worm",

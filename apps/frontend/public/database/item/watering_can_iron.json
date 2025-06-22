@@ -1,6 +1,7 @@
 {
   "id": "watering_can_iron",
   "item": {
+    "id": "watering_can_iron",
     "description": "An iron watering can. Can be charged to water a 3x3 area.",
     "name": "Iron Watering Can",
     "icon_sprite": "spr_ui_item_tool_iron_watering_can",

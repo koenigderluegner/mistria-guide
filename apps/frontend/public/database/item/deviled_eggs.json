@@ -1,6 +1,7 @@
 {
   "id": "deviled_eggs",
   "item": {
+    "id": "deviled_eggs",
     "description": "These hard boiled egg halves have a creamy, flavorful filling.",
     "name": "Deviled Eggs",
     "icon_sprite": "spr_ui_item_deviled_eggs",

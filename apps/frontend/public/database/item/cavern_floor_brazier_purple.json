@@ -1,6 +1,7 @@
 {
   "id": "cavern_floor_brazier_purple",
   "item": {
+    "id": "cavern_floor_brazier_purple",
     "description": "A floor brazier filled with purple flames.",
     "name": "Floor Brazier",
     "icon_sprite": "spr_ui_item_furniture_floor_brazier_purple",

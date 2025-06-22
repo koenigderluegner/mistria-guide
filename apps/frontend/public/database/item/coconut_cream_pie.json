@@ -1,6 +1,7 @@
 {
   "id": "coconut_cream_pie",
   "item": {
+    "id": "coconut_cream_pie",
     "description": "This luscious pie has a whipped cream top infused with coconut.",
     "name": "Coconut Cream Pie",
     "icon_sprite": "spr_ui_item_coconut_cream_pie",

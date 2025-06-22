@@ -1,6 +1,7 @@
 {
   "id": "cabbage",
   "item": {
+    "id": "cabbage",
     "description": "A slow growing spring crop. Crunchy with a mild taste, this leafy vegetable can be used in a variety of cooking recipes.",
     "name": "Cabbage",
     "icon_sprite": "spr_ui_item_cabbage",

@@ -1,6 +1,7 @@
 {
   "id": "mistria_history_scroll_v1",
   "item": {
+    "id": "mistria_history_scroll_v1",
     "description": "A decorative Caldosian scroll.",
     "name": "Caldosian Decorative Scroll",
     "icon_sprite": "spr_ui_item_decor_mistria_history_scroll",

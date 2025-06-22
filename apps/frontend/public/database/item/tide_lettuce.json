@@ -1,6 +1,7 @@
 {
   "id": "tide_lettuce",
   "item": {
+    "id": "tide_lettuce",
     "description": "This wild lettuce has a rich flavor and a satisfying crunch. Used in a variety of cooking recipes.",
     "name": "Tide Lettuce",
     "icon_sprite": "spr_ui_item_tide_lettuce",

@@ -1,6 +1,7 @@
 {
   "id": "black_tablet",
   "item": {
+    "id": "black_tablet",
     "description": "An uncommon artifact. Made of a strange metal, it's not clear what this is for.",
     "name": "Black Tablet",
     "icon_sprite": "spr_ui_item_black_tablet",

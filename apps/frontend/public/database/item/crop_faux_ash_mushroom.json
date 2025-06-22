@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_ash_mushroom",
   "item": {
+    "id": "crop_faux_ash_mushroom",
     "description": "A decorative faux ash mushroom.",
     "name": "Faux Ash Mushroom",
     "icon_sprite": "spr_ui_item_decor_crop_faux_ash_mushroom",

@@ -1,6 +1,7 @@
 {
   "id": "spring_festival_flower_chest",
   "item": {
+    "id": "spring_festival_flower_chest",
     "description": "A cute pink storage chest carved with breath of spring flowers.",
     "name": "Breath of Spring Storage Chest",
     "icon_sprite": "spr_ui_item_decor_spring_festival_flower_chest",

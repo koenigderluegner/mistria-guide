@@ -1,6 +1,7 @@
 {
   "id": "lava_caves_obsidian_chair_blue",
   "item": {
+    "id": "lava_caves_obsidian_chair_blue",
     "description": "A faceted blue-black obsidian chair.",
     "name": "Obsidian Chair",
     "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_chair_blue",

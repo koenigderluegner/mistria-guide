@@ -1,6 +1,7 @@
 {
   "id": "crab",
   "item": {
+    "id": "crab",
     "description": "A common small ocean crustacean found in summer.",
     "name": "Crab",
     "icon_sprite": "spr_ui_item_fish_small_crab",

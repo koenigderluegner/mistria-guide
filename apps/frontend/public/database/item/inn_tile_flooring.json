@@ -1,6 +1,7 @@
 {
   "id": "inn_tile_flooring",
   "item": {
+    "id": "inn_tile_flooring",
     "description": "Stone tile flooring, matching the design used at the Inn.",
     "name": "Inn Tile Flooring",
     "icon_sprite": "spr_ui_item_furniture_inn_tile_flooring",

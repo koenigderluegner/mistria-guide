@@ -1,6 +1,7 @@
 {
   "id": "narrows_moss",
   "item": {
+    "id": "narrows_moss",
     "description": "A unique species of moss. Very exciting to moss experts.",
     "name": "Narrows Moss",
     "icon_sprite": "spr_ui_item_narrows_moss",

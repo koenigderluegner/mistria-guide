@@ -1,6 +1,7 @@
 {
   "id": "fishing_flooring_red",
   "item": {
+    "id": "fishing_flooring_red",
     "description": "Checkered red tile flooring.",
     "name": "Fishing Flooring",
     "icon_sprite": "spr_ui_item_furniture_fishing_floor_red",

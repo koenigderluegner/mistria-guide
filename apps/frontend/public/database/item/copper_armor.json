@@ -1,6 +1,7 @@
 {
   "id": "copper_armor",
   "item": {
+    "id": "copper_armor",
     "description": "A copper chest piece. Equip to increase defense.",
     "name": "Copper Armor",
     "icon_sprite": "spr_ui_item_equipment_copper_chestpiece",

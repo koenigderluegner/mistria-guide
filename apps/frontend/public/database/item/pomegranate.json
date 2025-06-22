@@ -1,6 +1,7 @@
 {
   "id": "pomegranate",
   "item": {
+    "id": "pomegranate",
     "description": "The seed-filled fruit of the pomegranate tree, which fruits in winter. Used in a variety of cooking recipes.",
     "name": "Pomegranate",
     "icon_sprite": "spr_ui_item_pomegranate",

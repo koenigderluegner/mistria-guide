@@ -1,6 +1,7 @@
 {
   "id": "stone_lamp_v2",
   "item": {
+    "id": "stone_lamp_v2",
     "description": "A stone lamp.",
     "name": "Stone Lamp",
     "icon_sprite": "spr_ui_item_decor_stone_lamp_v2",

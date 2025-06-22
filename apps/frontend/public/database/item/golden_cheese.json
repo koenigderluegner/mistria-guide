@@ -1,6 +1,7 @@
 {
   "id": "golden_cheese",
   "item": {
+    "id": "golden_cheese",
     "description": "High quality cheese made with golden cow's milk. Used in high level cooking recipes.",
     "name": "Golden Cheese",
     "icon_sprite": "spr_ui_item_golden_cheese",

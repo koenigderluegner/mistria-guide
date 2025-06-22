@@ -1,6 +1,7 @@
 {
   "id": "hay",
   "item": {
+    "id": "hay",
     "description": "Dried grass used as feed for large animals. Also used in certain crafting recipes.",
     "name": "Hay",
     "icon_sprite": "spr_ui_item_hayball",

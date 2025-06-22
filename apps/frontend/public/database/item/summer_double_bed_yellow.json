@@ -1,6 +1,7 @@
 {
   "id": "summer_double_bed_yellow",
   "item": {
+    "id": "summer_double_bed_yellow",
     "description": "A white linen double bed with a yellow flower vine wrapped around the headboard.",
     "name": "Summer Double Bed",
     "icon_sprite": "spr_ui_item_furniture_summer_double_bed_yellow",

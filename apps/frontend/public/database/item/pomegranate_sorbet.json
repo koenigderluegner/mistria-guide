@@ -1,6 +1,7 @@
 {
   "id": "pomegranate_sorbet",
   "item": {
+    "id": "pomegranate_sorbet",
     "description": "A creamy sorbet topped with sweet and crunchy pomegranate seeds.",
     "name": "Pomegranate Sorbet",
     "icon_sprite": "spr_ui_item_pomegranate_sorbet",

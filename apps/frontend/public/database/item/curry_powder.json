@@ -1,6 +1,7 @@
 {
   "id": "curry_powder",
   "item": {
+    "id": "curry_powder",
     "description": "A delicious and aromatic spice blend. Used as an ingredient in cooking recipes.",
     "name": "Curry Powder",
     "icon_sprite": "spr_ui_item_curry_powder",

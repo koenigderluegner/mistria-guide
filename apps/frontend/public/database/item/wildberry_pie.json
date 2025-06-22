@@ -1,6 +1,7 @@
 {
   "id": "wildberry_pie",
   "item": {
+    "id": "wildberry_pie",
     "description": "This delicious fruit pie is made with local wild berries.",
     "name": "Wild Berry Pie",
     "icon_sprite": "spr_ui_item_wildberry_pie",

@@ -1,6 +1,7 @@
 {
   "id": "lake_trout",
   "item": {
+    "id": "lake_trout",
     "description": "A common large Deep Woods fish found in all seasons.",
     "name": "Lake Trout",
     "icon_sprite": "spr_ui_item_fish_large_lake_trout",

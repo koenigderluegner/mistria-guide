@@ -1,6 +1,7 @@
 {
   "id": "sushi_platter",
   "item": {
+    "id": "sushi_platter",
     "description": "An impressive platter featuring a selection of fresh sushi.",
     "name": "Sushi Platter",
     "icon_sprite": "spr_ui_item_sushiplatter",

@@ -1,6 +1,7 @@
 {
   "id": "sapling_peach",
   "item": {
+    "id": "sapling_peach",
     "description": "A peach tree sapling. This tree can be planted any time of year, but will only fruit in the summer.",
     "name": "Peach Sapling",
     "icon_sprite": "spr_ui_item_peach_sapling",

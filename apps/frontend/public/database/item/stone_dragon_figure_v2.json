@@ -1,6 +1,7 @@
 {
   "id": "stone_dragon_figure_v2",
   "item": {
+    "id": "stone_dragon_figure_v2",
     "description": "A small decorative stone dragon figure.",
     "name": "Stone Dragon Figure",
     "icon_sprite": "spr_ui_item_decor_stone_dragon_figure_v2",

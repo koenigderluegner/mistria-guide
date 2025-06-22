@@ -1,6 +1,7 @@
 {
   "id": "rock_guppy",
   "item": {
+    "id": "rock_guppy",
     "description": "An uncommon small Upper Mines fish. Very similar to a regular guppy.",
     "name": "Rock Guppy",
     "icon_sprite": "spr_ui_item_fish_small_rock_guppy",

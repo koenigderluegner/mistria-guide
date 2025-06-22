@@ -1,6 +1,7 @@
 {
   "id": "round_cushioned_stool_light_green",
   "item": {
+    "id": "round_cushioned_stool_light_green",
     "description": "A light green round cushioned stool.",
     "name": "Round Cushioned Stool",
     "icon_sprite": "spr_ui_item_furniture_round_cushion_stool_light_green",

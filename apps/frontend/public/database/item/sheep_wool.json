@@ -1,6 +1,7 @@
 {
   "id": "sheep_wool",
   "item": {
+    "id": "sheep_wool",
     "description": "Thick and cozy wool from a sheep. Used in a variety of crafting recipes.",
     "name": "Sheep Wool",
     "icon_sprite": "spr_ui_item_sheep_wool_regular",

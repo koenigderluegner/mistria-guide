@@ -1,6 +1,7 @@
 {
   "id": "giant_tilapia",
   "item": {
+    "id": "giant_tilapia",
     "description": "An uncommon giant pond fish found in winter.",
     "name": "Giant Tilapia",
     "icon_sprite": "spr_ui_item_fish_large_giant_tilapia",

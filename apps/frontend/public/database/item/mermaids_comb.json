@@ -1,6 +1,7 @@
 {
   "id": "mermaids_comb",
   "item": {
+    "id": "mermaids_comb",
     "description": "An uncommon artifact. Looks suspiciously like a fork.",
     "name": "Mermaid's Comb",
     "icon_sprite": "spr_ui_item_mermaids_comb",

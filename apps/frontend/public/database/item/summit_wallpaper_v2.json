@@ -1,6 +1,7 @@
 {
   "id": "summit_wallpaper_v2",
   "item": {
+    "id": "summit_wallpaper_v2",
     "description": "A beautiful wallpaper resembling the summit sky at sunset.",
     "name": "Summit Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_summit_wallpaper_v2",

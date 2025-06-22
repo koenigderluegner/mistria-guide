@@ -1,6 +1,7 @@
 {
   "id": "seed_chrysanthemum",
   "item": {
+    "id": "seed_chrysanthemum",
     "description": "Chrysanthemum seed. This fall flower can be harvested once.",
     "name": "Chrysanthemum Seed",
     "icon_sprite": "spr_ui_item_bagseed_chrysanthemum_icon",

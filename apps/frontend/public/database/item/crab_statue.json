@@ -1,6 +1,7 @@
 {
   "id": "crab_statue",
   "item": {
+    "id": "crab_statue",
     "description": "A rare artifact. This delicately crafted statue almost seems alive.",
     "name": "Crab Statue",
     "icon_sprite": "spr_ui_item_crab_statue",

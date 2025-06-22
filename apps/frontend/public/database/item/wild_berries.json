@@ -1,6 +1,7 @@
 {
   "id": "wild_berries",
   "item": {
+    "id": "wild_berries",
     "description": "These small red berries are foraged in spring. Used in a variety of cooking recipes.",
     "name": "Wild Berries",
     "icon_sprite": "spr_ui_item_bush_wildberry",

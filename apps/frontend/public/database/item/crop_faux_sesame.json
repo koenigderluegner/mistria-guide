@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_sesame",
   "item": {
+    "id": "crop_faux_sesame",
     "description": "A decorative faux sesame plant.",
     "name": "Faux Sesame",
     "icon_sprite": "spr_ui_item_decor_crop_faux_sesame",

@@ -1,6 +1,7 @@
 {
   "id": "miners_helmet",
   "item": {
+    "id": "miners_helmet",
     "description": "A rare artifact. There is a worn away name on it that ends with the letter L...",
     "name": "Miner's Helmet",
     "icon_sprite": "spr_ui_item_miners_helmet",

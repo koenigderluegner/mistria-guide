@@ -1,6 +1,7 @@
 {
   "id": "witch_queen_cauldron",
   "item": {
+    "id": "witch_queen_cauldron",
     "description": "An iron cauldron finished in gold.",
     "name": "Witch Queen Cauldron",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_cauldron",

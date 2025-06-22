@@ -1,6 +1,7 @@
 {
   "id": "worn_garden_lamp",
   "item": {
+    "id": "worn_garden_lamp",
     "description": "A worn garden lamp.",
     "name": "Worn Garden Lamp",
     "icon_sprite": "spr_ui_item_furniture_default_worn_garden_light",

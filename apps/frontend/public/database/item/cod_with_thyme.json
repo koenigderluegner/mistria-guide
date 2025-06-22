@@ -1,6 +1,7 @@
 {
   "id": "cod_with_thyme",
   "item": {
+    "id": "cod_with_thyme",
     "description": "This delicate filet of cod has been baked with peppery thyme.",
     "name": "Cod with Thyme",
     "icon_sprite": "spr_ui_item_cod_with_thyme",

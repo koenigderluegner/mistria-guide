@@ -1,6 +1,7 @@
 {
   "id": "water_chestnut_fritters",
   "item": {
+    "id": "water_chestnut_fritters",
     "description": "These crispy water chestnuts feature a thick fried coating.",
     "name": "Water Chestnut Fritters",
     "icon_sprite": "spr_ui_item_water_chestnut_fritters",

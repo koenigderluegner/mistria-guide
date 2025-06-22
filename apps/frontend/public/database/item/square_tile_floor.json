@@ -1,6 +1,7 @@
 {
   "id": "square_tile_floor",
   "item": {
+    "id": "square_tile_floor",
     "description": "White square tile flooring.",
     "name": "Square Tile Floor",
     "icon_sprite": "spr_ui_item_furniture_square_tile_flooring_white",

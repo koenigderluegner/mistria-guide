@@ -1,6 +1,7 @@
 {
   "id": "haunted_attic_wall_cobweb_left",
   "item": {
+    "id": "haunted_attic_wall_cobweb_left",
     "description": "A decorative white cobweb, left version.",
     "name": "Cobweb Left",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_cobweb_left",

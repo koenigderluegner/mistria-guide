@@ -1,6 +1,7 @@
 {
   "id": "dart",
   "item": {
+    "id": "dart",
     "description": "A common small ocean fish found in summer.",
     "name": "Dart",
     "icon_sprite": "spr_ui_item_fish_small_dart",

@@ -1,6 +1,7 @@
 {
   "id": "axe_worn",
   "item": {
+    "id": "axe_worn",
     "description": "A worn but still serviceable axe. Used to destroy branches and trees.",
     "name": "Worn Axe",
     "icon_sprite": "spr_ui_item_tool_rusty_axe",

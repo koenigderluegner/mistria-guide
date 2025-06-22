@@ -1,6 +1,7 @@
 {
   "id": "fire_wasp",
   "item": {
+    "id": "fire_wasp",
     "description": "A common Lava Caves insect. Luckily this wasp seems to be a danger only to other insects.",
     "name": "Fire Wasp",
     "icon_sprite": "spr_ui_item_insect_fire_wasp",

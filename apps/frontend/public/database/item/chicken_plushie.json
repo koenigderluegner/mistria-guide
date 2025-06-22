@@ -1,6 +1,7 @@
 {
   "id": "chicken_plushie",
   "item": {
+    "id": "chicken_plushie",
     "description": "A cute chicken plushie. Awarded at the Animal Festival.",
     "name": "Chicken Plushie",
     "icon_sprite": "spr_ui_item_decor_chicken_plushie",

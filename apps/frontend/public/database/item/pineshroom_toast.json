@@ -1,6 +1,7 @@
 {
   "id": "pineshroom_toast",
   "item": {
+    "id": "pineshroom_toast",
     "description": "A simple holiday sweet treat that's unique to Mistria.",
     "name": "Pineshroom Toast",
     "icon_sprite": "spr_ui_item_pineshroom_toast",

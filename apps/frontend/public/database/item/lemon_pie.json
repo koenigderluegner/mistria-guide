@@ -1,6 +1,7 @@
 {
   "id": "lemon_pie",
   "item": {
+    "id": "lemon_pie",
     "description": "This lemon pie is a perfect balance of sweet and tart.",
     "name": "Lemon Pie",
     "icon_sprite": "spr_ui_item_lemonpie",

@@ -1,6 +1,7 @@
 {
   "id": "watermelon",
   "item": {
+    "id": "watermelon",
     "description": "A classic summer crop. Super refreshing on a hot summer day.",
     "name": "Watermelon",
     "icon_sprite": "spr_ui_item_watermelon",

@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_holly",
   "item": {
+    "id": "crop_faux_holly",
     "description": "A decorative faux holly plant.",
     "name": "Faux Holly",
     "icon_sprite": "spr_ui_item_decor_crop_faux_holly",

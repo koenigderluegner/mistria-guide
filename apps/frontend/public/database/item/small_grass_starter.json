@@ -1,6 +1,7 @@
 {
   "id": "small_grass_starter",
   "item": {
+    "id": "small_grass_starter",
     "description": "Use this item to plant a patch of new grass on your farm. Useful for grazing animals.",
     "name": "Grass Starter",
     "icon_sprite": "spr_ui_item_small_grass_starter",

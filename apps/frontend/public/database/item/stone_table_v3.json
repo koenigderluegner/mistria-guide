@@ -1,6 +1,7 @@
 {
   "id": "stone_table_v3",
   "item": {
+    "id": "stone_table_v3",
     "description": "A small stone table.",
     "name": "Stone Table",
     "icon_sprite": "spr_ui_item_decor_stone_table_v3",

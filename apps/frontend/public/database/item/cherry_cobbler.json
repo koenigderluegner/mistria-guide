@@ -1,6 +1,7 @@
 {
   "id": "cherry_cobbler",
   "item": {
+    "id": "cherry_cobbler",
     "description": "These sweet cherries are packed into a sugary crust.",
     "name": "Cherry Cobbler",
     "icon_sprite": "spr_ui_item_cherry_cobbler",

@@ -1,6 +1,7 @@
 {
   "id": "glass_absinthe",
   "item": {
+    "id": "glass_absinthe",
     "description": "A decorative absinthe glass.",
     "name": "Absinthe Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_absinthe",

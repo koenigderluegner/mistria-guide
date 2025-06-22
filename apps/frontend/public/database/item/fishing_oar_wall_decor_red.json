@@ -1,6 +1,7 @@
 {
   "id": "fishing_oar_wall_decor_red",
   "item": {
+    "id": "fishing_oar_wall_decor_red",
     "description": "Decorative red striped oars, perfect for hanging on your wall.",
     "name": "Oar Wall Decor",
     "icon_sprite": "spr_ui_item_furniture_fishing_oars_red",

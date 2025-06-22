@@ -1,6 +1,7 @@
 {
   "id": "ore_ruby",
   "item": {
+    "id": "ore_ruby",
     "description": "A sparkling red gem. Can be sold, gifted, or used in certain crafting recipes.",
     "name": "Ruby",
     "icon_sprite": "spr_ui_item_ruby",

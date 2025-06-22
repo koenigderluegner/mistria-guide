@@ -1,6 +1,7 @@
 {
   "id": "worn_flooring",
   "item": {
+    "id": "worn_flooring",
     "description": "Worn wood flooring.",
     "name": "Worn Flooring",
     "icon_sprite": "spr_ui_item_furniture_default_flooring_v1",

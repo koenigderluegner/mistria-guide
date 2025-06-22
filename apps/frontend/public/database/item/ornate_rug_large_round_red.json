@@ -1,6 +1,7 @@
 {
   "id": "ornate_rug_large_round_red",
   "item": {
+    "id": "ornate_rug_large_round_red",
     "description": "A large sized red ornate rug with a round shape.",
     "name": "Ornate Large Round Rug",
     "icon_sprite": "spr_ui_item_decor_ornate_rug_large_round_red",

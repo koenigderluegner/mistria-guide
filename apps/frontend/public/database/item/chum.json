@@ -1,6 +1,7 @@
 {
   "id": "chum",
   "item": {
+    "id": "chum",
     "description": "An uncommon large river fish found in summer and winter.",
     "name": "Chum",
     "icon_sprite": "spr_ui_item_fish_large_chum",

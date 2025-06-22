@@ -1,6 +1,7 @@
 {
   "id": "rainbow_seaweed",
   "item": {
+    "id": "rainbow_seaweed",
     "description": "An uncommon artifact. Can only be found floating in the current, no one seems to know where it grows.",
     "name": "Rainbow Seaweed",
     "icon_sprite": "spr_ui_item_rainbow_seaweed",

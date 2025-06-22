@@ -1,6 +1,7 @@
 {
   "id": "noodles",
   "item": {
+    "id": "noodles",
     "description": "These fresh noodles are tasty by themselves but also a versatile ingredient.",
     "name": "Noodles",
     "icon_sprite": "spr_ui_item_noodles",

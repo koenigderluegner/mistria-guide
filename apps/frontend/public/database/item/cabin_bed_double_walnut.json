@@ -1,6 +1,7 @@
 {
   "id": "cabin_bed_double_walnut",
   "item": {
+    "id": "cabin_bed_double_walnut",
     "description": "A rustic double bed with blue plaid sheets.",
     "name": "Rustic Cabin Double Bed",
     "icon_sprite": "spr_ui_item_furniture_cabin_double_bed_v2",

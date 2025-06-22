@@ -1,6 +1,7 @@
 {
   "id": "crop_sign_pear",
   "item": {
+    "id": "crop_sign_pear",
     "description": "A wooden sign featuring a painted pear.",
     "name": "Pear Sign",
     "icon_sprite": "spr_ui_item_crop_sign_pear",

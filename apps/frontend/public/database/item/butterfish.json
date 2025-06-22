@@ -1,6 +1,7 @@
 {
   "id": "butterfish",
   "item": {
+    "id": "butterfish",
     "description": "A common small ocean fish found in fall.",
     "name": "Butterfish",
     "icon_sprite": "spr_ui_item_fish_small_butterfish",

@@ -1,6 +1,7 @@
 {
   "id": "fall_table_yellow",
   "item": {
+    "id": "fall_table_yellow",
     "description": "A cozy dining table with a yellow gingham tablecloth.",
     "name": "Fall Dining Table",
     "icon_sprite": "spr_ui_item_furniture_fall_table_yellow",

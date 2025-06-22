@@ -1,6 +1,7 @@
 {
   "id": "beet_salad",
   "item": {
+    "id": "beet_salad",
     "description": "This salad is made of fresh, tender slices of beet.",
     "name": "Beet Salad",
     "icon_sprite": "spr_ui_item_beet_salad",

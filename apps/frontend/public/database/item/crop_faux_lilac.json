@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_lilac",
   "item": {
+    "id": "crop_faux_lilac",
     "description": "A decorative faux lilac plant.",
     "name": "Faux Lilac",
     "icon_sprite": "spr_ui_item_decor_crop_faux_lilac",

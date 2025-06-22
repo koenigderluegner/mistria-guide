@@ -1,6 +1,7 @@
 {
   "id": "miners_rucksack",
   "item": {
+    "id": "miners_rucksack",
     "description": "An uncommon artifact. It seems to have been down in the Mines a long time.",
     "name": "Miner's Rucksack",
     "icon_sprite": "spr_ui_item_miners_rucksack",

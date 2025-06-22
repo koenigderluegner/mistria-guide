@@ -1,6 +1,7 @@
 {
   "id": "seed_snowdrop_anemone",
   "item": {
+    "id": "seed_snowdrop_anemone",
     "description": "Snowdrop anemone seed. This spring flower can be harvested once.",
     "name": "Snowdrop Anemone Seed",
     "icon_sprite": "spr_ui_item_bagseed_snowdrop_anemone_icon",

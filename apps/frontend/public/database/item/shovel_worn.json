@@ -1,6 +1,7 @@
 {
   "id": "shovel_worn",
   "item": {
+    "id": "shovel_worn",
     "description": "A worn but still serviceable shovel. Used to expand fields, excavate dig spots, and destroy crops.",
     "name": "Worn Shovel",
     "icon_sprite": "spr_ui_item_tool_rusty_shovel",

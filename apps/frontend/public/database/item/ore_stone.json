@@ -1,6 +1,7 @@
 {
   "id": "ore_stone",
   "item": {
+    "id": "ore_stone",
     "description": "A piece of stone. Essential for many crafting recipes.",
     "name": "Stone",
     "icon_sprite": "spr_ui_item_rock",

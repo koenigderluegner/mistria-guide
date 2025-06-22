@@ -1,6 +1,7 @@
 {
   "id": "color_paving_stone_v08",
   "item": {
+    "id": "color_paving_stone_v08",
     "description": "A small yellow paving stone.",
     "name": "Color Paving Stone",
     "icon_sprite": "spr_ui_item_decor_floor_tile_small_08",

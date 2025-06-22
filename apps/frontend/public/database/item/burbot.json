@@ -1,6 +1,7 @@
 {
   "id": "burbot",
   "item": {
+    "id": "burbot",
     "description": "A common large pond fish found on snowy days in winter.",
     "name": "Burbot",
     "icon_sprite": "spr_ui_item_fish_large_burbot",

@@ -1,6 +1,7 @@
 {
   "id": "explorer_double_bed_beige",
   "item": {
+    "id": "explorer_double_bed_beige",
     "description": "An explorer's double bed with striped brown sheets.",
     "name": "Explorer Double Bed",
     "icon_sprite": "spr_ui_item_furniture_explorer_double_bed_beige",

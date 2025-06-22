@@ -1,6 +1,7 @@
 {
   "id": "bathroom_sink_black",
   "item": {
+    "id": "bathroom_sink_black",
     "description": "A black bathroom sink.",
     "name": "Bathroom Sink",
     "icon_sprite": "spr_ui_item_furniture_bathroom_sink_black",

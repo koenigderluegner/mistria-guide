@@ -1,6 +1,7 @@
 {
   "id": "cabin_flooring_cherry",
   "item": {
+    "id": "cabin_flooring_cherry",
     "description": "Rustic cherry flooring for your home.",
     "name": "Rustic Cabin Flooring",
     "icon_sprite": "spr_ui_item_furniture_cabin_flooring_v1",

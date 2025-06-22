@@ -1,6 +1,7 @@
 {
   "id": "onion_soup",
   "item": {
+    "id": "onion_soup",
     "description": "A rich onion soup that smells as good as it tastes.",
     "name": "Onion Soup",
     "icon_sprite": "spr_ui_item_onion_soup",

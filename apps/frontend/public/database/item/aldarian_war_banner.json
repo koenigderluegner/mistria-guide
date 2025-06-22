@@ -1,6 +1,7 @@
 {
   "id": "aldarian_war_banner",
   "item": {
+    "id": "aldarian_war_banner",
     "description": "A rare artifact. Emblazoned with the royal crest of Aldaria.",
     "name": "Aldarian War Banner",
     "icon_sprite": "spr_ui_item_aldarian_war_banner",

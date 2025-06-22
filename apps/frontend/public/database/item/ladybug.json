@@ -1,6 +1,7 @@
 {
   "id": "ladybug",
   "item": {
+    "id": "ladybug",
     "description": "A common insect found in spring.",
     "name": "Ladybug",
     "icon_sprite": "spr_ui_item_insect_ladybug",

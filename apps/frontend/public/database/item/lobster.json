@@ -1,6 +1,7 @@
 {
   "id": "lobster",
   "item": {
+    "id": "lobster",
     "description": "A common medium ocean crustacean found in spring.",
     "name": "Lobster",
     "icon_sprite": "spr_ui_item_fish_medium_lobster",

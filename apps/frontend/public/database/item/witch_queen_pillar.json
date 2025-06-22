@@ -1,6 +1,7 @@
 {
   "id": "witch_queen_pillar",
   "item": {
+    "id": "witch_queen_pillar",
     "description": "A purple pillar trimmed in gold.",
     "name": "Witch Queen Pillar",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_pillar",

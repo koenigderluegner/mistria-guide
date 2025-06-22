@@ -1,6 +1,7 @@
 {
   "id": "golden_cheesecake",
   "item": {
+    "id": "golden_cheesecake",
     "description": "An extravagant cheesecake, decadently rich and moist.",
     "name": "Golden Cheesecake",
     "icon_sprite": "spr_ui_item_golden_cheesecake",

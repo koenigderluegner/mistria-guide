@@ -1,6 +1,7 @@
 {
   "id": "trilobite_fossil",
   "item": {
+    "id": "trilobite_fossil",
     "description": "An uncommon artifact. Too many legs, but still kinda cute.",
     "name": "Trilobite Fossil",
     "icon_sprite": "spr_ui_item_trilobite_fossil",

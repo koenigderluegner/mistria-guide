@@ -1,6 +1,7 @@
 {
   "id": "fishing_rug_blue",
   "item": {
+    "id": "fishing_rug_blue",
     "description": "A blue rug with a pretty fish pattern.",
     "name": "Fishing Rug",
     "icon_sprite": "spr_ui_item_furniture_fishing_rug_blue",

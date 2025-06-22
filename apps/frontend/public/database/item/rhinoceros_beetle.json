@@ -1,6 +1,7 @@
 {
   "id": "rhinoceros_beetle",
   "item": {
+    "id": "rhinoceros_beetle",
     "description": "An uncommon bug found at night in all seasons but winter.",
     "name": "Rhinoceros Beetle",
     "icon_sprite": "spr_ui_item_insect_rhinocerosbeetle",

@@ -1,6 +1,7 @@
 {
   "id": "mocha",
   "item": {
+    "id": "mocha",
     "description": "A delicious cup of coffee blended with chocolate.",
     "name": "Mocha",
     "icon_sprite": "spr_ui_item_mocha",

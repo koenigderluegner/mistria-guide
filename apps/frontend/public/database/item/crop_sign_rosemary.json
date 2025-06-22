@@ -1,6 +1,7 @@
 {
   "id": "crop_sign_rosemary",
   "item": {
+    "id": "crop_sign_rosemary",
     "description": "A wooden sign featuring painted rosemary.",
     "name": "Rosemary Sign",
     "icon_sprite": "spr_ui_item_crop_sign_rosemary",

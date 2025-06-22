@@ -1,6 +1,7 @@
 {
   "id": "alpaca_wool",
   "item": {
+    "id": "alpaca_wool",
     "description": "Soft, silky wool from an alpaca. Used in a variety of crafting recipes.",
     "name": "Alpaca Wool",
     "icon_sprite": "spr_ui_item_alpaca_wool_regular",

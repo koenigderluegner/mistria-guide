@@ -1,6 +1,7 @@
 {
   "id": "bathroom_curtain_stand_pink",
   "item": {
+    "id": "bathroom_curtain_stand_pink",
     "description": "A pink bathroom curtain stand.",
     "name": "Bathroom Curtain Stand",
     "icon_sprite": "spr_ui_item_furniture_bathroom_curtain_stand_pink",

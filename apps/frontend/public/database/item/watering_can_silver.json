@@ -1,6 +1,7 @@
 {
   "id": "watering_can_silver",
   "item": {
+    "id": "watering_can_silver",
     "description": "A silver watering can. Can be charged to water a 3x6 area.",
     "name": "Silver Watering Can",
     "icon_sprite": "spr_ui_item_tool_silver_watering_can",

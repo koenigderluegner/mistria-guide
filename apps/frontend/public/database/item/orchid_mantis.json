@@ -1,6 +1,7 @@
 {
   "id": "orchid_mantis",
   "item": {
+    "id": "orchid_mantis",
     "description": "A rare insect found during the daytime in spring.",
     "name": "Orchid Mantis",
     "icon_sprite": "spr_ui_item_insect_orchidmantis",

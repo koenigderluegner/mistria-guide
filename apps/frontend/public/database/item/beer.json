@@ -1,6 +1,7 @@
 {
   "id": "beer",
   "item": {
+    "id": "beer",
     "description": "A locally brewed beer with a rich, malty flavor.",
     "name": "Beer",
     "icon_sprite": "spr_ui_item_beer",

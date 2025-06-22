@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_earthshroom",
   "item": {
+    "id": "crop_faux_earthshroom",
     "description": "A decorative faux earthshroom.",
     "name": "Faux Earthshroom",
     "icon_sprite": "spr_ui_item_decor_crop_faux_earthshroom",

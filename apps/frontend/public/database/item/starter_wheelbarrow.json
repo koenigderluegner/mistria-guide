@@ -1,6 +1,7 @@
 {
   "id": "starter_wheelbarrow",
   "item": {
+    "id": "starter_wheelbarrow",
     "description": "A wheelbarrow filled with a variety of spring flowers.",
     "name": "Wheelbarrow",
     "icon_sprite": "spr_ui_item_decor_starter_wheelbarrow",

@@ -1,6 +1,7 @@
 {
   "id": "cabin_lamp_walnut",
   "item": {
+    "id": "cabin_lamp_walnut",
     "description": "A rustic lamp with a blue lampshade.",
     "name": "Rustic Cabin Lamp",
     "icon_sprite": "spr_ui_item_furniture_cabin_lamp_v2",

@@ -1,6 +1,7 @@
 {
   "id": "candle",
   "item": {
+    "id": "candle",
     "description": "A decorative candle.",
     "name": "Candle",
     "icon_sprite": "spr_ui_item_decor_clutter_candle",

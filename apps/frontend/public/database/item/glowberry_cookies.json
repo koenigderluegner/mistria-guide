@@ -1,6 +1,7 @@
 {
   "id": "glowberry_cookies",
   "item": {
+    "id": "glowberry_cookies",
     "description": "A delicious cookie speckled with dried glowberries.",
     "name": "Glowberry Cookies",
     "icon_sprite": "spr_ui_item_glowberry_cookies",

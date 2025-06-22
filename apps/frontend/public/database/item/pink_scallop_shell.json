@@ -1,6 +1,7 @@
 {
   "id": "pink_scallop_shell",
   "item": {
+    "id": "pink_scallop_shell",
     "description": "A common shell found on the beach.",
     "name": "Pink Scallop Shell",
     "icon_sprite": "spr_ui_item_shell_pink_scallop",

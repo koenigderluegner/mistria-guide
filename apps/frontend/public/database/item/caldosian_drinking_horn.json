@@ -1,6 +1,7 @@
 {
   "id": "caldosian_drinking_horn",
   "item": {
+    "id": "caldosian_drinking_horn",
     "description": "A rare artifact. Drinking horns were usually passed down through the family line.",
     "name": "Caldosian Drinking Horn",
     "icon_sprite": "spr_ui_item_caldosian_drinking_horn",

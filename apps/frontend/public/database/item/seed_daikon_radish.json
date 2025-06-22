@@ -1,6 +1,7 @@
 {
   "id": "seed_daikon_radish",
   "item": {
+    "id": "seed_daikon_radish",
     "description": "Daikon radish seed. This slow growing winter crop can be harvested once.",
     "name": "Daikon Radish Seed",
     "icon_sprite": "spr_ui_item_bagseed_daikon_radish_icon",

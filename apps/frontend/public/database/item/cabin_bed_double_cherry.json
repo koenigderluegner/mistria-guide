@@ -1,6 +1,7 @@
 {
   "id": "cabin_bed_double_cherry",
   "item": {
+    "id": "cabin_bed_double_cherry",
     "description": "A rustic double bed with red plaid sheets.",
     "name": "Rustic Cabin Double Bed",
     "icon_sprite": "spr_ui_item_furniture_cabin_double_bed_v1",

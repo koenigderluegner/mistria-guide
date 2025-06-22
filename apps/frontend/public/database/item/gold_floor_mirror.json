@@ -1,6 +1,7 @@
 {
   "id": "gold_floor_mirror",
   "item": {
+    "id": "gold_floor_mirror",
     "description": "A gold bathroom floor mirror.",
     "name": "Gold Floor Mirror",
     "icon_sprite": "spr_ui_item_furniture_bathroom_floor_mirror_gold",

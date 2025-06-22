@@ -1,6 +1,7 @@
 {
   "id": "roasted_sweet_potato",
   "item": {
+    "id": "roasted_sweet_potato",
     "description": "This roasted sweet potato has a custard-like consistency.",
     "name": "Roasted Sweet Potato",
     "icon_sprite": "spr_ui_item_roasted_sweet_potato",

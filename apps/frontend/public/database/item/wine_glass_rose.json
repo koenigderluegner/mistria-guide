@@ -1,6 +1,7 @@
 {
   "id": "wine_glass_rose",
   "item": {
+    "id": "wine_glass_rose",
     "description": "A decorative glass of rose wine.",
     "name": "Rose Wine Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_wine_glass_rose",

@@ -1,6 +1,7 @@
 {
   "id": "cabin_wall_shelf_cherry",
   "item": {
+    "id": "cabin_wall_shelf_cherry",
     "description": "A rustic wooden wall shelf with a small red pot.",
     "name": "Rustic Cabin Wall Shelf",
     "icon_sprite": "spr_ui_item_furniture_cabin_wall_shelf_v1",

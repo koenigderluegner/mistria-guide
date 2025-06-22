@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_snapdragon",
   "item": {
+    "id": "crop_faux_snapdragon",
     "description": "A decorative faux snapdragon plant.",
     "name": "Faux Snapdragon",
     "icon_sprite": "spr_ui_item_decor_crop_faux_snapdragon",

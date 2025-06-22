@@ -1,6 +1,7 @@
 {
   "id": "pan_fried_salmon",
   "item": {
+    "id": "pan_fried_salmon",
     "description": "This pan fried salmon is perfectly tender and flaky.",
     "name": "Pan-fried Salmon",
     "icon_sprite": "spr_ui_item_panfriedsalmon",

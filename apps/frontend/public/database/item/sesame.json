@@ -1,6 +1,7 @@
 {
   "id": "sesame",
   "item": {
+    "id": "sesame",
     "description": "A wild plant foraged in summer with a mild, nutty flavor. Commonly used as a cooking ingredient.",
     "name": "Sesame",
     "icon_sprite": "spr_ui_item_sesame",

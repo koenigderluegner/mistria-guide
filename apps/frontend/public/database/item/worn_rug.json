@@ -1,6 +1,7 @@
 {
   "id": "worn_rug",
   "item": {
+    "id": "worn_rug",
     "description": "A worn green rug.",
     "name": "Worn Rug",
     "icon_sprite": "spr_ui_item_furniture_default_worn_rug",

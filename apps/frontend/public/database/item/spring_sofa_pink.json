@@ -1,6 +1,7 @@
 {
   "id": "spring_sofa_pink",
   "item": {
+    "id": "spring_sofa_pink",
     "description": "A pretty pink sofa.",
     "name": "Spring Sofa",
     "icon_sprite": "spr_ui_item_furniture_spring_sofa_pink",

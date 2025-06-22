@@ -1,6 +1,7 @@
 {
   "id": "king_crab",
   "item": {
+    "id": "king_crab",
     "description": "A common large ocean crustacean found on snowy days in winter.",
     "name": "King Crab",
     "icon_sprite": "spr_ui_item_fish_large_king_crab",

@@ -1,6 +1,7 @@
 {
   "id": "braised_carrots",
   "item": {
+    "id": "braised_carrots",
     "description": "After braising, the natural sweetness of the carrots is enhanced.",
     "name": "Braised Carrots",
     "icon_sprite": "spr_ui_item_braised_carrots",

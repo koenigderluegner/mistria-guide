@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_frost_lily",
   "item": {
+    "id": "crop_faux_frost_lily",
     "description": "A decorative faux frost lily.",
     "name": "Faux Frost Lily",
     "icon_sprite": "spr_ui_item_decor_crop_faux_frost_lily",

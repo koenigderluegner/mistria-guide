@@ -1,6 +1,7 @@
 {
   "id": "purse",
   "item": {
+    "id": "purse",
     "description": "Use this item to collect the money inside!",
     "name": "Purse of Tesserae",
     "icon_sprite": "spr_ui_item_bag_of_tesserae",

@@ -1,6 +1,7 @@
 {
   "id": "tide_salad",
   "item": {
+    "id": "tide_salad",
     "description": "A salad that tastes like a day at the beach.",
     "name": "Tide Salad",
     "icon_sprite": "spr_ui_item_tide_salad",

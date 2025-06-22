@@ -1,6 +1,7 @@
 {
   "id": "trail_mix",
   "item": {
+    "id": "trail_mix",
     "description": "A tasty snack mix, good for eating on the go.",
     "name": "Trail Mix",
     "icon_sprite": "spr_ui_item_trailmix",

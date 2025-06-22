@@ -1,6 +1,7 @@
 {
   "id": "fire_tablet_rubbing",
   "item": {
+    "id": "fire_tablet_rubbing",
     "description": "A rubbing of the tablet found on the 60th floor of the Mines.",
     "name": "Fire Tablet Rubbing",
     "icon_sprite": "spr_ui_item_fire_tablet_rubbing"

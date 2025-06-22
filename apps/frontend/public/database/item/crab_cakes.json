@@ -1,6 +1,7 @@
 {
   "id": "crab_cakes",
   "item": {
+    "id": "crab_cakes",
     "description": "These tender cakes are packed full of savory crab. Perfect with aioli.",
     "name": "Crab Cakes",
     "icon_sprite": "spr_ui_item_crab_cakes",

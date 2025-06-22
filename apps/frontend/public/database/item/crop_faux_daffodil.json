@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_daffodil",
   "item": {
+    "id": "crop_faux_daffodil",
     "description": "A decorative faux daffodil.",
     "name": "Faux Daffodil",
     "icon_sprite": "spr_ui_item_decor_crop_faux_daffodil",

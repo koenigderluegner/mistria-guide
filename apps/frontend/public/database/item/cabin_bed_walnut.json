@@ -1,6 +1,7 @@
 {
   "id": "cabin_bed_walnut",
   "item": {
+    "id": "cabin_bed_walnut",
     "description": "A rustic single bed with blue plaid sheets.",
     "name": "Rustic Cabin Bed",
     "icon_sprite": "spr_ui_item_furniture_cabin_bed_v2",

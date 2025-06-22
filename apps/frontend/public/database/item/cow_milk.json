@@ -1,6 +1,7 @@
 {
   "id": "cow_milk",
   "item": {
+    "id": "cow_milk",
     "description": "Fresh milk from a cow. Used in a variety of cooking recipes.",
     "name": "Milk",
     "icon_sprite": "spr_ui_item_cow_milk_regular",

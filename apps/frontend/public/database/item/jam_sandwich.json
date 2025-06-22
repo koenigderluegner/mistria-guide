@@ -1,6 +1,7 @@
 {
   "id": "jam_sandwich",
   "item": {
+    "id": "jam_sandwich",
     "description": "A sweet sandwich made with fluffy bread and wild berry jam.",
     "name": "Jam Sandwich",
     "icon_sprite": "spr_ui_item_jam_sandwich",

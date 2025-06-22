@@ -1,6 +1,7 @@
 {
   "id": "stone_storage_chest_v1",
   "item": {
+    "id": "stone_storage_chest_v1",
     "description": "A stone storage chest.",
     "name": "Stone Storage Chest",
     "icon_sprite": "spr_ui_item_decor_stone_storage_chest_v1",

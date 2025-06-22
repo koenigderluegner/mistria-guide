@@ -1,6 +1,7 @@
 {
   "id": "hoe_silver",
   "item": {
+    "id": "hoe_silver",
     "description": "A silver hoe. Can be charged to till a 3x6 area.",
     "name": "Silver Hoe",
     "icon_sprite": "spr_ui_item_tool_silver_hoe",

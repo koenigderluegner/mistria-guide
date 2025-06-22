@@ -1,6 +1,7 @@
 {
   "id": "caldosian_breastplate",
   "item": {
+    "id": "caldosian_breastplate",
     "description": "A rare artifact. This magnificent breastplate is so ornate, it was likely used for ceremonial purposes.",
     "name": "Caldosian Breastplate",
     "icon_sprite": "spr_ui_item_caldosian_breastplate",

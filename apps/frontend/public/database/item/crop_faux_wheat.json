@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_wheat",
   "item": {
+    "id": "crop_faux_wheat",
     "description": "A decorative faux wheat plant.",
     "name": "Faux Wheat",
     "icon_sprite": "spr_ui_item_decor_crop_faux_wheat",

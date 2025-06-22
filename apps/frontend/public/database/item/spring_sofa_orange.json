@@ -1,6 +1,7 @@
 {
   "id": "spring_sofa_orange",
   "item": {
+    "id": "spring_sofa_orange",
     "description": "A pretty yellow sofa.",
     "name": "Spring Sofa",
     "icon_sprite": "spr_ui_item_furniture_spring_sofa_orange",

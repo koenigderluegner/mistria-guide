@@ -1,6 +1,7 @@
 {
   "id": "cabin_bed_cherry",
   "item": {
+    "id": "cabin_bed_cherry",
     "description": "A rustic single bed with red plaid sheets.",
     "name": "Rustic Cabin Bed",
     "icon_sprite": "spr_ui_item_furniture_cabin_bed_v1",

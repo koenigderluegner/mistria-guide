@@ -1,6 +1,7 @@
 {
   "id": "golden_sheep_wool",
   "item": {
+    "id": "golden_sheep_wool",
     "description": "Gold quality wool from a sheep. Used in a variety of crafting recipes.",
     "name": "Golden Sheep Wool",
     "icon_sprite": "spr_ui_item_sheep_wool_gold",

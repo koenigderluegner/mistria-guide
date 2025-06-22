@@ -1,6 +1,7 @@
 {
   "id": "shadow_bass",
   "item": {
+    "id": "shadow_bass",
     "description": "A rare medium river fish found in winter.",
     "name": "Shadow Bass",
     "icon_sprite": "spr_ui_item_fish_medium_shadow_bass",

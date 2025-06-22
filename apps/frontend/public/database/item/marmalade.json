@@ -1,6 +1,7 @@
 {
   "id": "marmalade",
   "item": {
+    "id": "marmalade",
     "description": "A sweet, zesty jam made with orange rind.",
     "name": "Marmalade",
     "icon_sprite": "spr_ui_item_marmalade",

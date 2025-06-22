@@ -1,6 +1,7 @@
 {
   "id": "espresso_cup_v1",
   "item": {
+    "id": "espresso_cup_v1",
     "description": "A decorative green espresso cup.",
     "name": "Espresso Cup",
     "icon_sprite": "spr_ui_item_decor_espresso_v1",

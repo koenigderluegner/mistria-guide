@@ -1,6 +1,7 @@
 {
   "id": "small_barn_black_blueprint",
   "item": {
+    "id": "small_barn_black_blueprint",
     "description": "Use this item to place a small white barn construction site on your farm! Requirements to build: 100 wood, 75 stone.",
     "name": "Small White Barn Blueprint",
     "icon_sprite": "spr_ui_item_small_barn_black",

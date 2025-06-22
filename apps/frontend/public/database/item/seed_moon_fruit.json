@@ -1,6 +1,7 @@
 {
   "id": "seed_moon_fruit",
   "item": {
+    "id": "seed_moon_fruit",
     "description": "Moon fruit seed. This fall crop can be harvested every 3 days once it reaches maturity.",
     "name": "Moon Fruit Seed",
     "icon_sprite": "spr_ui_item_bagseed_moon_fruit_icon",

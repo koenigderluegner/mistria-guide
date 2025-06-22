@@ -1,6 +1,7 @@
 {
   "id": "explorer_trunk_table_green",
   "item": {
+    "id": "explorer_trunk_table_green",
     "description": "A sturdy explorer's green trunk table.",
     "name": "Explorer Trunk Table",
     "icon_sprite": "spr_ui_item_furniture_explorer_trunk_table_green",

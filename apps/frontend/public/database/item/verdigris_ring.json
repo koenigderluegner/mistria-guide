@@ -1,6 +1,7 @@
 {
   "id": "verdigris_ring",
   "item": {
+    "id": "verdigris_ring",
     "description": "A ring constructed out of verdigris copper. Equip to increase defense.",
     "name": "Verdigris Ring",
     "icon_sprite": "spr_ui_item_equipment_verdigris_ring",

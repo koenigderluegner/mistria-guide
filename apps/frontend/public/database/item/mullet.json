@@ -1,6 +1,7 @@
 {
   "id": "mullet",
   "item": {
+    "id": "mullet",
     "description": "A common medium ocean fish found in fall.",
     "name": "Mullet",
     "icon_sprite": "spr_ui_item_fish_medium_mullet",

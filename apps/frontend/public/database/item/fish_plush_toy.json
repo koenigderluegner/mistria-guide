@@ -1,6 +1,7 @@
 {
   "id": "fish_plush_toy",
   "item": {
+    "id": "fish_plush_toy",
     "description": "A plush fish toy with an enchanting expression.",
     "name": "Fish Plush Toy",
     "icon_sprite": "spr_ui_item_decor_fish_plushie",

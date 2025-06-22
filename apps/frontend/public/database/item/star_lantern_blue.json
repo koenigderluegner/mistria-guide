@@ -1,6 +1,7 @@
 {
   "id": "star_lantern_blue",
   "item": {
+    "id": "star_lantern_blue",
     "description": "A Shooting Star Festival lantern with a blue star detail.",
     "name": "Star Lantern",
     "icon_sprite": "spr_ui_item_decor_star_lantern_blue",

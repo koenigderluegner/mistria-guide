@@ -1,6 +1,7 @@
 {
   "id": "latte",
   "item": {
+    "id": "latte",
     "description": "A frothy steamed blend of milk and coffee.",
     "name": "Latte",
     "icon_sprite": "spr_ui_item_latte",

@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_rosemary",
   "item": {
+    "id": "crop_faux_rosemary",
     "description": "A decorative faux rosemary plant.",
     "name": "Faux Rosemary",
     "icon_sprite": "spr_ui_item_decor_crop_faux_rosemary",

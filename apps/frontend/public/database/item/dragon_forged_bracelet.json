@@ -1,6 +1,7 @@
 {
   "id": "dragon_forged_bracelet",
   "item": {
+    "id": "dragon_forged_bracelet",
     "description": "A rare artifact. An ancient bracelet forged by dragon fire. Strangely, it looks like it would fit a human-sized wrist.",
     "name": "Dragon-Forged Bracelet",
     "icon_sprite": "spr_ui_item_dragon_forged_bracelet",

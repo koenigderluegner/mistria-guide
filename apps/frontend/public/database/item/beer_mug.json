@@ -1,6 +1,7 @@
 {
   "id": "beer_mug",
   "item": {
+    "id": "beer_mug",
     "description": "A decorative beer mug.",
     "name": "Beer Mug",
     "icon_sprite": "spr_ui_item_decor_clutter_beer",

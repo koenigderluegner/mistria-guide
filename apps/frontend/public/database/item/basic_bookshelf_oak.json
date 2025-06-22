@@ -1,6 +1,7 @@
 {
   "id": "basic_bookshelf_oak",
   "item": {
+    "id": "basic_bookshelf_oak",
     "description": "A basic oak bookshelf.",
     "name": "Basic Bookshelf",
     "icon_sprite": "spr_ui_item_furniture_basic_bookshelf_v1",

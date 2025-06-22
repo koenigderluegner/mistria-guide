@@ -1,6 +1,7 @@
 {
   "id": "miners_minecart_v1",
   "item": {
+    "id": "miners_minecart_v1",
     "description": "A decorative minecart with a worn look.",
     "name": "Minecart",
     "icon_sprite": "spr_ui_item_furniture_minecart_v1",

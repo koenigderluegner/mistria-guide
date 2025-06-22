@@ -1,6 +1,7 @@
 {
   "id": "cabin_chair_oak",
   "item": {
+    "id": "cabin_chair_oak",
     "description": "A rustic oak chair.",
     "name": "Rustic Cabin Chair",
     "icon_sprite": "spr_ui_item_furniture_cabin_chair_v3",

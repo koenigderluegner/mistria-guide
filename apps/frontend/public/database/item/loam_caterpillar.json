@@ -1,6 +1,7 @@
 {
   "id": "loam_caterpillar",
   "item": {
+    "id": "loam_caterpillar",
     "description": "An uncommon Deep Woods insect. These caterpillars can be found munching away in the thick loam of the Deep Woods.",
     "name": "Loam Caterpillar",
     "icon_sprite": "spr_ui_item_insect_loam_caterpillar",

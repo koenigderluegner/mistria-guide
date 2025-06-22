@@ -1,6 +1,7 @@
 {
   "id": "walnut",
   "item": {
+    "id": "walnut",
     "description": "A wild nut foraged in all seasons. Very nutritious, with an earthy flavor. Sometimes used in cooking recipes.",
     "name": "Walnut",
     "icon_sprite": "spr_ui_item_walnut",

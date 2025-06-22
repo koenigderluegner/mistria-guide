@@ -1,6 +1,7 @@
 {
   "id": "chess_queen_light_wood",
   "item": {
+    "id": "chess_queen_light_wood",
     "description": "An oversized wood-toned queen chess piece.",
     "name": "Chess Queen Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_queen_light_wood",

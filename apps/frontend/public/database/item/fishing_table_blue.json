@@ -1,6 +1,7 @@
 {
   "id": "fishing_table_blue",
   "item": {
+    "id": "fishing_table_blue",
     "description": "A narrow wooden table with a blue runner.",
     "name": "Fishing Table",
     "icon_sprite": "spr_ui_item_furniture_fishing_table_blue",

@@ -1,6 +1,7 @@
 {
   "id": "rose_hip",
   "item": {
+    "id": "rose_hip",
     "description": "A wild plant foraged in winter. Has a sweet and sour flavor. Commonly used as a cooking ingredient.",
     "name": "Rose Hip",
     "icon_sprite": "spr_ui_item_bush_rosehip",

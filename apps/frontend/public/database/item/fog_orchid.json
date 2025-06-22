@@ -1,6 +1,7 @@
 {
   "id": "fog_orchid",
   "item": {
+    "id": "fog_orchid",
     "description": "A haunting white flower foraged in fall. Can be given as a gift or used in crafting recipes.",
     "name": "Fog Orchid",
     "icon_sprite": "spr_ui_item_fogorchid",

@@ -1,6 +1,7 @@
 {
   "id": "sapling_lemon",
   "item": {
+    "id": "sapling_lemon",
     "description": "A lemon tree sapling. This tree can be planted any time of year, but will only fruit in the spring.",
     "name": "Lemon Sapling",
     "icon_sprite": "spr_ui_item_lemon_sapling",

@@ -1,6 +1,7 @@
 {
   "id": "spring_galette",
   "item": {
+    "id": "spring_galette",
     "description": "A rich pastry crust highlights all the wild flavors of Spring.",
     "name": "Spring Galette",
     "icon_sprite": "spr_ui_item_spring_galette",

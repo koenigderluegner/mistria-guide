@@ -1,6 +1,7 @@
 {
   "id": "chess_pawn_black",
   "item": {
+    "id": "chess_pawn_black",
     "description": "An oversized black pawn chess piece.",
     "name": "Chess Pawn Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_pawn_black",

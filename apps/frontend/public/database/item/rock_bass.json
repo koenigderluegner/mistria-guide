@@ -1,6 +1,7 @@
 {
   "id": "rock_bass",
   "item": {
+    "id": "rock_bass",
     "description": "A common medium river fish found in spring and fall.",
     "name": "Rock Bass",
     "icon_sprite": "spr_ui_item_fish_medium_rock_bass",

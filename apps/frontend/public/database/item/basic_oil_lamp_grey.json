@@ -1,6 +1,7 @@
 {
   "id": "basic_oil_lamp_grey",
   "item": {
+    "id": "basic_oil_lamp_grey",
     "description": "A basic grey oil lamp.",
     "name": "Basic Oil Lamp",
     "icon_sprite": "spr_ui_item_furniture_basic_oil_lamp_v1",

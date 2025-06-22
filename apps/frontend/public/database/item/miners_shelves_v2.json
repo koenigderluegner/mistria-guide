@@ -1,6 +1,7 @@
 {
   "id": "miners_shelves_v2",
   "item": {
+    "id": "miners_shelves_v2",
     "description": "Industrial shelves with a cool-tone hue.",
     "name": "Mines Shelf",
     "icon_sprite": "spr_ui_item_furniture_miners_shelves_v2",

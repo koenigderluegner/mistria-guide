@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_upper_mines_mushroom",
   "item": {
+    "id": "crop_faux_upper_mines_mushroom",
     "description": "A decorative faux upper mines mushroom.",
     "name": "Faux Upper Mines Mushroom",
     "icon_sprite": "spr_ui_item_decor_crop_faux_upper_mines_mushroom",

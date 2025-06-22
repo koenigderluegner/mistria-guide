@@ -1,6 +1,7 @@
 {
   "id": "pumpkin_stew",
   "item": {
+    "id": "pumpkin_stew",
     "description": "A rich stew made up of creamy, pureed pumpkin.",
     "name": "Pumpkin Stew",
     "icon_sprite": "spr_ui_item_pumpkin_stew",

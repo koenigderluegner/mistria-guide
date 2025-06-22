@@ -1,6 +1,7 @@
 {
   "id": "cottage_dresser_ash",
   "item": {
+    "id": "cottage_dresser_ash",
     "description": "A lovely dresser painted antique white and soft pink.",
     "name": "Lovely Cottage Dresser",
     "icon_sprite": "spr_ui_item_furniture_cottage_dresser_v2",

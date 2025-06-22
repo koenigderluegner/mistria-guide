@@ -1,6 +1,7 @@
 {
   "id": "newt",
   "item": {
+    "id": "newt",
     "description": "A common amphibian found in all seasons.",
     "name": "Newt",
     "icon_sprite": "spr_ui_item_dive_newt",

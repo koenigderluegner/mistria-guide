@@ -1,6 +1,7 @@
 {
   "id": "snail",
   "item": {
+    "id": "snail",
     "description": "An uncommon gastropod found in spring.",
     "name": "Snail",
     "icon_sprite": "spr_ui_item_insect_snail",

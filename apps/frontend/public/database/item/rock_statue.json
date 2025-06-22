@@ -1,6 +1,7 @@
 {
   "id": "rock_statue",
   "item": {
+    "id": "rock_statue",
     "description": "A rare artifact. This naturally formed stone appears to be in the shape of a human, but... surely it's just a coincidence.",
     "name": "Rock Statue",
     "icon_sprite": "spr_ui_item_rock_statue",

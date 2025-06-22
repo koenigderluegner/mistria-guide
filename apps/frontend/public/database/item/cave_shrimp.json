@@ -1,6 +1,7 @@
 {
   "id": "cave_shrimp",
   "item": {
+    "id": "cave_shrimp",
     "description": "A common small Upper Mines crustacean. Its translucent body gives it a distinct appearance.",
     "name": "Cave Shrimp",
     "icon_sprite": "spr_ui_item_fish_small_cave_shrimp",

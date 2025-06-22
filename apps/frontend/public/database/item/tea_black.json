@@ -1,6 +1,7 @@
 {
   "id": "tea_black",
   "item": {
+    "id": "tea_black",
     "description": "A decorative cup of black tea.",
     "name": "Black Tea Cup",
     "icon_sprite": "spr_ui_item_decor_clutter_tea_black",

@@ -1,6 +1,7 @@
 {
   "id": "cottage_garden_shed_v1",
   "item": {
+    "id": "cottage_garden_shed_v1",
     "description": "A pretty off-white garden shed.",
     "name": "Cottage Garden Shed",
     "icon_sprite": "spr_ui_item_decor_cottage_garden_shed_v1",

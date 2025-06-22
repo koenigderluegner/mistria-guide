@@ -1,6 +1,7 @@
 {
   "id": "seed_cranberry",
   "item": {
+    "id": "seed_cranberry",
     "description": "Cranberry seed. This fall crop can be harvested every 3 days once it reaches maturity.",
     "name": "Cranberry Seed",
     "icon_sprite": "spr_ui_item_bagseed_cranberry_icon",

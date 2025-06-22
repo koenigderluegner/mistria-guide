@@ -1,6 +1,7 @@
 {
   "id": "striped_bass",
   "item": {
+    "id": "striped_bass",
     "description": "A common large pond fish found in fall.",
     "name": "Striped Bass",
     "icon_sprite": "spr_ui_item_fish_large_striped_bass",

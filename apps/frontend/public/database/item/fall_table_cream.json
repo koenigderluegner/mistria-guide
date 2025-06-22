@@ -1,6 +1,7 @@
 {
   "id": "fall_table_cream",
   "item": {
+    "id": "fall_table_cream",
     "description": "A cozy dining table with a cream gingham tablecloth.",
     "name": "Fall Dining Table",
     "icon_sprite": "spr_ui_item_furniture_fall_table_cream",

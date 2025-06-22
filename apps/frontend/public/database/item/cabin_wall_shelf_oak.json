@@ -1,6 +1,7 @@
 {
   "id": "cabin_wall_shelf_oak",
   "item": {
+    "id": "cabin_wall_shelf_oak",
     "description": "A rustic wooden wall shelf with a small yellow pot.",
     "name": "Rustic Cabin Wall Shelf",
     "icon_sprite": "spr_ui_item_furniture_cabin_wall_shelf_v3",

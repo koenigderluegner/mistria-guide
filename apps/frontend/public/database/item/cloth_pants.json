@@ -1,6 +1,7 @@
 {
   "id": "cloth_pants",
   "item": {
+    "id": "cloth_pants",
     "description": "A pair of cloth pants. It's basically useless.",
     "name": "Cloth Pants",
     "icon_sprite": "spr_ui_item_equipment_cloth_pants",

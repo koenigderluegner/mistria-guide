@@ -1,6 +1,7 @@
 {
   "id": "cabin_nightstand_walnut",
   "item": {
+    "id": "cabin_nightstand_walnut",
     "description": "A rustic walnut nightstand.",
     "name": "Rustic Cabin Nightstand",
     "icon_sprite": "spr_ui_item_furniture_cabin_nightstand_v2",

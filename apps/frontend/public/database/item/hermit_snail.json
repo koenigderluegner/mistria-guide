@@ -1,6 +1,7 @@
 {
   "id": "hermit_snail",
   "item": {
+    "id": "hermit_snail",
     "description": "An uncommon Tide Caverns insect. Decorates its shell with sand and brightly colored pebbles.",
     "name": "Hermit Snail",
     "icon_sprite": "spr_ui_item_insect_hermit_snail",

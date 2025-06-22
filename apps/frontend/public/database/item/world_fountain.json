@@ -1,6 +1,7 @@
 {
   "id": "world_fountain",
   "item": {
+    "id": "world_fountain",
     "description": "This shouldn't be visible to you in game!",
     "name": "World Fountain 20",
     "icon_sprite": "spr_ui_item_stone_cup",

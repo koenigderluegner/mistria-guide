@@ -1,6 +1,7 @@
 {
   "id": "weather_crystal_ball",
   "item": {
+    "id": "weather_crystal_ball",
     "description": "Peer beyond the curtain, into...the weather.",
     "name": "Weather Crystal Ball",
     "icon_sprite": "spr_ui_item_weather_crystal_ball",

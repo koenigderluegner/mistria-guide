@@ -1,6 +1,7 @@
 {
   "id": "moon_fruit",
   "item": {
+    "id": "moon_fruit",
     "description": "A rare fruit foraged in fall. It has a sweet, floral flavor and is commonly used as a cooking ingredient.",
     "name": "Moon Fruit",
     "icon_sprite": "spr_ui_item_moon_fruit",

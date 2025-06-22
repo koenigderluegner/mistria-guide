@@ -1,6 +1,7 @@
 {
   "id": "sword_mistril",
   "item": {
+    "id": "sword_mistril",
     "description": "A sword made from mistril.",
     "name": "Mistril Sword",
     "icon_sprite": "spr_ui_item_tool_mistril_sword",

@@ -1,6 +1,7 @@
 {
   "id": "lava_piranha",
   "item": {
+    "id": "lava_piranha",
     "description": "A common small Lava Caves fish. This fish couldn't be more alarming in both its appearance and its behavior.",
     "name": "Lava Piranha",
     "icon_sprite": "spr_ui_item_fish_small_lava_piranha",

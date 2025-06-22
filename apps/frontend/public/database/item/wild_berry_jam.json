@@ -1,6 +1,7 @@
 {
   "id": "wild_berry_jam",
   "item": {
+    "id": "wild_berry_jam",
     "description": "This fruity springtime jam is tart and sweet.",
     "name": "Wild Berry Jam",
     "icon_sprite": "spr_ui_item_wild_berry_jam",

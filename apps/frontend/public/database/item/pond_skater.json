@@ -1,6 +1,7 @@
 {
   "id": "pond_skater",
   "item": {
+    "id": "pond_skater",
     "description": "An uncommon insect found in all seasons.",
     "name": "Pond Skater",
     "icon_sprite": "spr_ui_item_insect_pondskater",

@@ -1,6 +1,7 @@
 {
   "id": "pinecone",
   "item": {
+    "id": "pinecone",
     "description": "A pinecone containing the seeds of a pine tree. Used in certain crafting recipes.",
     "name": "Pinecone",
     "icon_sprite": "spr_ui_item_pinecone",

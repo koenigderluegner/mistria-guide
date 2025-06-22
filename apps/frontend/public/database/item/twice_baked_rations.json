@@ -1,6 +1,7 @@
 {
   "id": "twice_baked_rations",
   "item": {
+    "id": "twice_baked_rations",
     "description": "These rations are so tasty, the Inn now stocks them regularly!",
     "name": "Twice-Baked Rations",
     "icon_sprite": "spr_ui_item_twice_baked_rations",

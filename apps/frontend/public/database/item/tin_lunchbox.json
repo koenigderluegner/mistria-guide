@@ -1,6 +1,7 @@
 {
   "id": "tin_lunchbox",
   "item": {
+    "id": "tin_lunchbox",
     "description": "A common artifact. Sadly, it's empty.",
     "name": "Tin Lunchbox",
     "icon_sprite": "spr_ui_item_tin_lunchbox",

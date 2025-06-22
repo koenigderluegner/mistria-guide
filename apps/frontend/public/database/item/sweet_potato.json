@@ -1,6 +1,7 @@
 {
   "id": "sweet_potato",
   "item": {
+    "id": "sweet_potato",
     "description": "A fast growing fall crop. True to its name, it has a sweet flavor when cooked.",
     "name": "Sweet Potato",
     "icon_sprite": "spr_ui_item_sweet_potato",

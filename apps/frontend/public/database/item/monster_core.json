@@ -1,6 +1,7 @@
 {
   "id": "monster_core",
   "item": {
+    "id": "monster_core",
     "description": "A powered core sometimes dropped by Enchanterns. Used in certain cooking and crafting recipes.",
     "name": "Monster Core",
     "icon_sprite": "spr_ui_item_monster_core",

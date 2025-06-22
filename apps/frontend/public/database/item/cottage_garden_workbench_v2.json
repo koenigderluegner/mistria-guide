@@ -1,6 +1,7 @@
 {
   "id": "cottage_garden_workbench_v2",
   "item": {
+    "id": "cottage_garden_workbench_v2",
     "description": "A charmingly cluttered garden workbench.",
     "name": "Cottage Garden Workbench",
     "icon_sprite": "spr_ui_item_decor_cottage_garden_workbench_v2",

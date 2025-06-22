@@ -1,6 +1,7 @@
 {
   "id": "duck_egg",
   "item": {
+    "id": "duck_egg",
     "description": "An egg laid by a duck. Used as an ingredient for cooking a variety of dishes.",
     "name": "Duck Egg",
     "icon_sprite": "spr_ui_item_duck_egg_regular",

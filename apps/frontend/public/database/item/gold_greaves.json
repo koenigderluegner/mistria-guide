@@ -1,6 +1,7 @@
 {
   "id": "gold_greaves",
   "item": {
+    "id": "gold_greaves",
     "description": "Greaves constructed out of gold. Equip to increase defense.",
     "name": "Gold Greaves",
     "icon_sprite": "spr_ui_item_equipment_gold_boots",

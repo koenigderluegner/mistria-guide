@@ -1,6 +1,7 @@
 {
   "id": "caramel_candy",
   "item": {
+    "id": "caramel_candy",
     "description": "A sticky, delicious candy made of sugar and butter.",
     "name": "Caramel Candy",
     "icon_sprite": "spr_ui_item_caramel_candy",

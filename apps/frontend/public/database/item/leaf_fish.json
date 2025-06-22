@@ -1,6 +1,7 @@
 {
   "id": "leaf_fish",
   "item": {
+    "id": "leaf_fish",
     "description": "A legendary small river fish found on breezy falling leaf days in fall.",
     "name": "Leaf Fish",
     "icon_sprite": "spr_ui_item_fish_small_leaf_fish",

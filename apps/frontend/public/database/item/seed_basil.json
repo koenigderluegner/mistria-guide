@@ -1,6 +1,7 @@
 {
   "id": "seed_basil",
   "item": {
+    "id": "seed_basil",
     "description": "Basil seed. This summer crop can be harvested every 3 days once it reaches maturity.",
     "name": "Basil Seed",
     "icon_sprite": "spr_ui_item_bagseed_basil_icon",

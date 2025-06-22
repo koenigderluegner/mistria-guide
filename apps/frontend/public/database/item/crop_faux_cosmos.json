@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_cosmos",
   "item": {
+    "id": "crop_faux_cosmos",
     "description": "A decorative faux cosmos plant.",
     "name": "Faux Cosmos",
     "icon_sprite": "spr_ui_item_decor_crop_faux_cosmos",

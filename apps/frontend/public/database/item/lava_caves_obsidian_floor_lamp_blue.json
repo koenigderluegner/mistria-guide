@@ -1,6 +1,7 @@
 {
   "id": "lava_caves_obsidian_floor_lamp_blue",
   "item": {
+    "id": "lava_caves_obsidian_floor_lamp_blue",
     "description": "A faceted blue-black obsidian floor lamp.",
     "name": "Obsidian Floor Lamp",
     "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_floor_lamp_blue",

@@ -1,6 +1,7 @@
 {
   "id": "peaches_and_cream",
   "item": {
+    "id": "peaches_and_cream",
     "description": "These sweet peach slices are topped with whipped cream.",
     "name": "Peaches and Cream",
     "icon_sprite": "spr_ui_item_peaches_and_cream",

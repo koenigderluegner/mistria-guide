@@ -1,6 +1,7 @@
 {
   "id": "iron_helmet",
   "item": {
+    "id": "iron_helmet",
     "description": "A helmet constructed out of iron. Equip to increase defense.",
     "name": "Iron Helmet",
     "icon_sprite": "spr_ui_item_equipment_iron_helmet",

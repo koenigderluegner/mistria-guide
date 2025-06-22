@@ -1,6 +1,7 @@
 {
   "id": "petalhopper",
   "item": {
+    "id": "petalhopper",
     "description": "A common insect found during the daytime in spring. Sometimes found when cutting grass.",
     "name": "Petalhopper",
     "icon_sprite": "spr_ui_item_insect_petalhopper",

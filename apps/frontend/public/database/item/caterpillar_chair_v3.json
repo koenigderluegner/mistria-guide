@@ -1,6 +1,7 @@
 {
   "id": "caterpillar_chair_v3",
   "item": {
+    "id": "caterpillar_chair_v3",
     "description": "A plush burgundy armchair that looks like a caterpillar.",
     "name": "Caterpillar Chair",
     "icon_sprite": "spr_ui_item_furniture_caterpillar_chair_v3",

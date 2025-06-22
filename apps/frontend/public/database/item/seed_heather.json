@@ -1,6 +1,7 @@
 {
   "id": "seed_heather",
   "item": {
+    "id": "seed_heather",
     "description": "Heather seed. This slow growing fall flower can be harvested every 3 days once it reaches maturity.",
     "name": "Heather Seed",
     "icon_sprite": "spr_ui_item_bagseed_heather_icon",

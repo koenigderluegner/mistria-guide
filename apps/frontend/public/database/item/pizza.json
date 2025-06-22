@@ -1,6 +1,7 @@
 {
   "id": "pizza",
   "item": {
+    "id": "pizza",
     "description": "This delicious pizza has a thick layer of melted cheese with a tangy tomato sauce.",
     "name": "Pizza",
     "icon_sprite": "spr_ui_item_pizza",

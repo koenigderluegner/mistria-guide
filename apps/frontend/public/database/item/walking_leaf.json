@@ -1,6 +1,7 @@
 {
   "id": "walking_leaf",
   "item": {
+    "id": "walking_leaf",
     "description": "An uncommon insect found during the daytime in fall. Sometimes found when shaking trees.",
     "name": "Walking Leaf",
     "icon_sprite": "spr_ui_item_insect_walkingleaf",

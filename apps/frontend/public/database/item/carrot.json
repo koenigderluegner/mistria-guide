@@ -1,6 +1,7 @@
 {
   "id": "carrot",
   "item": {
+    "id": "carrot",
     "description": "A spring crop. Crunchy when raw, they become soft and sweet when cooked.",
     "name": "Carrot",
     "icon_sprite": "spr_ui_item_carrot",

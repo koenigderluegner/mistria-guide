@@ -1,6 +1,7 @@
 {
   "id": "sliced_turnip",
   "item": {
+    "id": "sliced_turnip",
     "description": "These crisp slices of turnip are mildly sweet. Tasty & refreshing.",
     "name": "Sliced Turnip",
     "icon_sprite": "spr_ui_item_sliced_turnip",

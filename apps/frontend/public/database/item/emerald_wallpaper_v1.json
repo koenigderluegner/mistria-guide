@@ -1,6 +1,7 @@
 {
   "id": "emerald_wallpaper_v1",
   "item": {
+    "id": "emerald_wallpaper_v1",
     "description": "Ornate emerald colored wallpaper with gold detailing.",
     "name": "Emerald Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_emerald_wallpaper_v1",

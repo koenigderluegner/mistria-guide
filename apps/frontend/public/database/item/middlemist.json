@@ -1,6 +1,7 @@
 {
   "id": "middlemist",
   "item": {
+    "id": "middlemist",
     "description": "A rare and beautiful red flower grown in spring. Can be given as a gift or used in various crafting recipes.",
     "name": "Middlemist",
     "icon_sprite": "spr_ui_item_middlemistred",

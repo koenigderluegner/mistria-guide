@@ -1,6 +1,7 @@
 {
   "id": "haunted_attic_wallpaper_dusty",
   "item": {
+    "id": "haunted_attic_wallpaper_dusty",
     "description": "An old fashioned off-white wallpaper with wood beams.",
     "name": "Haunted Attic Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_wallpaper_dusty",

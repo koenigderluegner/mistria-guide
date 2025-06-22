@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_strawberry",
   "item": {
+    "id": "crop_faux_strawberry",
     "description": "A decorative faux strawberry plant.",
     "name": "Faux Strawberry",
     "icon_sprite": "spr_ui_item_decor_crop_faux_strawberry",

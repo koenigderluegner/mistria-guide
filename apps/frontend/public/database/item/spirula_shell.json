@@ -1,6 +1,7 @@
 {
   "id": "spirula_shell",
   "item": {
+    "id": "spirula_shell",
     "description": "A common shell found on the beach.",
     "name": "Spirula Shell",
     "icon_sprite": "spr_ui_item_shell_common_spirula",

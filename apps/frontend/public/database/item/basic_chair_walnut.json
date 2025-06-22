@@ -1,6 +1,7 @@
 {
   "id": "basic_chair_walnut",
   "item": {
+    "id": "basic_chair_walnut",
     "description": "A basic walnut chair.",
     "name": "Basic Chair",
     "icon_sprite": "spr_ui_item_furniture_basic_chair_v2",

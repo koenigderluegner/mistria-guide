@@ -1,6 +1,7 @@
 {
   "id": "cavern_stone_arch",
   "item": {
+    "id": "cavern_stone_arch",
     "description": "A stone arch with stalactites.",
     "name": "Stalactite Arch",
     "icon_sprite": "spr_ui_item_furniture_stone_arch",

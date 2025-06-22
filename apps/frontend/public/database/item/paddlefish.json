@@ -1,6 +1,7 @@
 {
   "id": "paddlefish",
   "item": {
+    "id": "paddlefish",
     "description": "A rare giant river fish found in spring.",
     "name": "Paddlefish",
     "icon_sprite": "spr_ui_item_fish_giant_paddlefish",

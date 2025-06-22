@@ -1,6 +1,7 @@
 {
   "id": "chillipede",
   "item": {
+    "id": "chillipede",
     "description": "An uncommon insect found in fall. Found when breaking rocks.",
     "name": "Chillipede",
     "icon_sprite": "spr_ui_item_insect_chillipede",

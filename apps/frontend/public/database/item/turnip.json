@@ -1,6 +1,7 @@
 {
   "id": "turnip",
   "item": {
+    "id": "turnip",
     "description": "A fast growing spring crop. Has a spicy taste when raw, and a sweet taste when cooked.",
     "name": "Turnip",
     "icon_sprite": "spr_ui_item_turnip",

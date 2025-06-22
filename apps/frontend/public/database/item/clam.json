@@ -1,6 +1,7 @@
 {
   "id": "clam",
   "item": {
+    "id": "clam",
     "description": "A common find found in all seasons.",
     "name": "Clam",
     "icon_sprite": "spr_ui_item_dive_clam",

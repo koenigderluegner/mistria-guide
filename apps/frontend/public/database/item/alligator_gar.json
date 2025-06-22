@@ -1,6 +1,7 @@
 {
   "id": "alligator_gar",
   "item": {
+    "id": "alligator_gar",
     "description": "A rare giant pond fish found in winter.",
     "name": "Alligator Gar",
     "icon_sprite": "spr_ui_item_fish_giant_alligator_gar",

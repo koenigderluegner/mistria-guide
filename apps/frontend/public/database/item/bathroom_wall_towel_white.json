@@ -1,6 +1,7 @@
 {
   "id": "bathroom_wall_towel_white",
   "item": {
+    "id": "bathroom_wall_towel_white",
     "description": "A white bathroom wall towel.",
     "name": "Bathroom Wall Towel",
     "icon_sprite": "spr_ui_item_furniture_bathroom_wall_towel_beige",

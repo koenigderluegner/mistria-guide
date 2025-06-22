@@ -1,6 +1,7 @@
 {
   "id": "bumblebee_plushie",
   "item": {
+    "id": "bumblebee_plushie",
     "description": "A cute bumblebee plushie.",
     "name": "Bumblebee Plushie",
     "icon_sprite": "spr_ui_item_decor_bumblebee_plushie",

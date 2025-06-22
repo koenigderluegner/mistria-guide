@@ -1,6 +1,7 @@
 {
   "id": "pink_pet_dish",
   "item": {
+    "id": "pink_pet_dish",
     "description": "A decorative pink pet dish. It's very cute!",
     "name": "Pink Pet Dish",
     "icon_sprite": "spr_ui_item_decor_pink_pet_dish",

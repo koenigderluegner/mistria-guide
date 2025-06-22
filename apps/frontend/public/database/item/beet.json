@@ -1,6 +1,7 @@
 {
   "id": "beet",
   "item": {
+    "id": "beet",
     "description": "A fast growing winter crop. Has a strong earthy flavor. Commonly used as a cooking ingredient.",
     "name": "Beet",
     "icon_sprite": "spr_ui_item_beet",

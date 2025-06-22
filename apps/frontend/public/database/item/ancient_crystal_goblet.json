@@ -1,6 +1,7 @@
 {
   "id": "ancient_crystal_goblet",
   "item": {
+    "id": "ancient_crystal_goblet",
     "description": "A rare artifact. Elegant and sturdy, this goblet was likely used during Witch Queen rituals.",
     "name": "Ancient Crystal Goblet",
     "icon_sprite": "spr_ui_item_ancient_crystal_goblet",

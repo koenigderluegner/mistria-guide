@@ -1,6 +1,7 @@
 {
   "id": "picnic_place_setting_yellow",
   "item": {
+    "id": "picnic_place_setting_yellow",
     "description": "A picnic place setting with yellow accents.",
     "name": "Picnic Place Setting",
     "icon_sprite": "spr_ui_item_picnic_place_setting_yellow",

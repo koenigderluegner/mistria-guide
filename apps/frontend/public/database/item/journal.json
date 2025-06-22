@@ -1,6 +1,7 @@
 {
   "id": "journal",
   "item": {
+    "id": "journal",
     "description": "A simple diary used for recording your journey.",
     "name": "Diary",
     "icon_sprite": "spr_ui_item_object_journal",

@@ -1,6 +1,7 @@
 {
   "id": "basic_nightstand_oak",
   "item": {
+    "id": "basic_nightstand_oak",
     "description": "A basic oak nightstand.",
     "name": "Basic Nightstand",
     "icon_sprite": "spr_ui_item_furniture_basic_nightstand_v1",

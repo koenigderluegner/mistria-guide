@@ -1,6 +1,7 @@
 {
   "id": "cherry_tart",
   "item": {
+    "id": "cherry_tart",
     "description": "This cherry tart is sour and sweet with a crumbly buttery crust.",
     "name": "Cherry Tart",
     "icon_sprite": "spr_ui_item_cherrytart",

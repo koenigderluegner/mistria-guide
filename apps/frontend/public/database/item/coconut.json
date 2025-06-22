@@ -1,6 +1,7 @@
 {
   "id": "coconut",
   "item": {
+    "id": "coconut",
     "description": "The versatile fruit of the coconut tree, which fruits in summer. A useful ingredient in cooking recipes.",
     "name": "Coconut",
     "icon_sprite": "spr_ui_item_coconut",

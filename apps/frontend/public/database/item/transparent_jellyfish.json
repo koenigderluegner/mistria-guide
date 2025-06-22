@@ -1,6 +1,7 @@
 {
   "id": "transparent_jellyfish",
   "item": {
+    "id": "transparent_jellyfish",
     "description": "A common medium Tide Caverns invertebrate. It evolved in darkness, resulting in an unusual transparent appearance.",
     "name": "Transparent Jellyfish",
     "icon_sprite": "spr_ui_item_fish_medium_transparent_jellyfish",

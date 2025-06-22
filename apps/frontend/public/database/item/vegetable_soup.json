@@ -1,6 +1,7 @@
 {
   "id": "vegetable_soup",
   "item": {
+    "id": "vegetable_soup",
     "description": "A healthy and filling soup made with fresh vegetables.",
     "name": "Vegetable Soup",
     "icon_sprite": "spr_ui_item_vegetablesoup",

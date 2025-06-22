@@ -1,6 +1,7 @@
 {
   "id": "chess_king_light_wood",
   "item": {
+    "id": "chess_king_light_wood",
     "description": "An oversized wood-toned king chess piece.",
     "name": "Chess King Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_king_light_wood",

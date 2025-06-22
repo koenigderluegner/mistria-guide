@@ -1,6 +1,7 @@
 {
   "id": "obsidian_blade",
   "item": {
+    "id": "obsidian_blade",
     "description": "A rare artifact. The artifact is still dangerously sharp.",
     "name": "Obsidian Blade",
     "icon_sprite": "spr_ui_item_obsidian_blade",

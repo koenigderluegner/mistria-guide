@@ -1,6 +1,7 @@
 {
   "id": "strawberries_and_cream",
   "item": {
+    "id": "strawberries_and_cream",
     "description": "A simple and sweet dessert.",
     "name": "Strawberries and Cream",
     "icon_sprite": "spr_ui_item_strawberriesandcream",

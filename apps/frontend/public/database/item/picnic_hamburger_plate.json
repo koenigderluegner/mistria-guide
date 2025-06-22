@@ -1,6 +1,7 @@
 {
   "id": "picnic_hamburger_plate",
   "item": {
+    "id": "picnic_hamburger_plate",
     "description": "A decorative burger plate.",
     "name": "Picnic Display Burgers",
     "icon_sprite": "spr_ui_item_picnic_snack_plate_yellow",

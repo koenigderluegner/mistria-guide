@@ -1,6 +1,7 @@
 {
   "id": "cottage_bed_double_ash",
   "item": {
+    "id": "cottage_bed_double_ash",
     "description": "A lovely double bed with white floral sheets.",
     "name": "Lovely Cottage Double Bed",
     "icon_sprite": "spr_ui_item_furniture_cottage_double_bed_v2",

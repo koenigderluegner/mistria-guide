@@ -1,6 +1,7 @@
 {
   "id": "net_copper",
   "item": {
+    "id": "net_copper",
     "description": "A bug catching net with a copper handle. The only change is the aesthetic.",
     "name": "Copper Net",
     "icon_sprite": "spr_ui_item_tool_copper_net",

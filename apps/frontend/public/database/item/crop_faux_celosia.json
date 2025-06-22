@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_celosia",
   "item": {
+    "id": "crop_faux_celosia",
     "description": "A decorative faux celosia plant.",
     "name": "Faux Celosia",
     "icon_sprite": "spr_ui_item_decor_crop_faux_celosia",

@@ -1,6 +1,7 @@
 {
   "id": "snapping_turtle",
   "item": {
+    "id": "snapping_turtle",
     "description": "A common large pond reptile found in summer and winter.",
     "name": "Snapping Turtle",
     "icon_sprite": "spr_ui_item_fish_large_snapping_turtle",

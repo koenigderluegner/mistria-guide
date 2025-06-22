@@ -1,6 +1,7 @@
 {
   "id": "fishing_rod_silver",
   "item": {
+    "id": "fishing_rod_silver",
     "description": "A silver handled fishing rod. It has a cast range of 12.",
     "name": "Silver Fishing Rod",
     "icon_sprite": "spr_ui_item_tool_silver_rod",

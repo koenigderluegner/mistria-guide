@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_daikon_radish",
   "item": {
+    "id": "crop_faux_daikon_radish",
     "description": "A decorative faux daikon radish.",
     "name": "Faux Daikon Radish",
     "icon_sprite": "spr_ui_item_decor_crop_faux_daikon_radish",

@@ -1,6 +1,7 @@
 {
   "id": "spirit_mushroom",
   "item": {
+    "id": "spirit_mushroom",
     "description": "A wild mushroom foraged in all seasons. It only seems to grow deep in the woods. Sometimes used in cooking recipes.",
     "name": "Spirit Mushroom",
     "icon_sprite": "spr_ui_item_spirit_mushroom",

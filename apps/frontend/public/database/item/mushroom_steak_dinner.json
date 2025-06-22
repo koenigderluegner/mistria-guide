@@ -1,6 +1,7 @@
 {
   "id": "mushroom_steak_dinner",
   "item": {
+    "id": "mushroom_steak_dinner",
     "description": "An oyster mushroom is the meaty, tender centerpiece of the meal.",
     "name": "Mushroom Steak Dinner",
     "icon_sprite": "spr_ui_item_mushroom_steak_dinner",

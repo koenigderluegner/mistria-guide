@@ -1,6 +1,7 @@
 {
   "id": "golden_feather",
   "item": {
+    "id": "golden_feather",
     "description": "A gold quality feather dropped by a rooster. Used in high level cooking and crafting recipes.",
     "name": "Golden Rooster Feather",
     "icon_sprite": "spr_ui_item_chicken_feather_gold",

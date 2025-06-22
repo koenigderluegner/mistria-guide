@@ -1,6 +1,7 @@
 {
   "id": "hermit_crab",
   "item": {
+    "id": "hermit_crab",
     "description": "A common crustacean found at the beach in all seasons.",
     "name": "Hermit Crab",
     "icon_sprite": "spr_ui_item_insect_hermitcrab",

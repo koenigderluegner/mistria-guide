@@ -1,6 +1,7 @@
 {
   "id": "omelet",
   "item": {
+    "id": "omelet",
     "description": "This fluffy omelet is loaded with melted cheese.",
     "name": "Omelet",
     "icon_sprite": "spr_ui_item_omelet",

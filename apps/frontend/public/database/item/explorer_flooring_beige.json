@@ -1,6 +1,7 @@
 {
   "id": "explorer_flooring_beige",
   "item": {
+    "id": "explorer_flooring_beige",
     "description": "Cracked beige tile flooring.",
     "name": "Explorer Flooring",
     "icon_sprite": "spr_ui_item_furniture_explorer_flooring_beige",

@@ -1,6 +1,7 @@
 {
   "id": "onion",
   "item": {
+    "id": "onion",
     "description": "A fall crop that regrows. Pungent, with a strong, sharp flavor. Commonly used as a cooking ingredient.",
     "name": "Onion",
     "icon_sprite": "spr_ui_item_onion",

@@ -1,6 +1,7 @@
 {
   "id": "crystal_berry_pie",
   "item": {
+    "id": "crystal_berry_pie",
     "description": "A pie that's as beautiful as it is tasty.",
     "name": "Crystal Berry Pie",
     "icon_sprite": "spr_ui_item_crystal_berry_pie",

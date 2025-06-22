@@ -1,6 +1,7 @@
 {
   "id": "catmint",
   "item": {
+    "id": "catmint",
     "description": "A cute purple flower grown in the summer. Can be given as a gift or used in various crafting recipes.",
     "name": "Catmint",
     "icon_sprite": "spr_ui_item_catmint",

@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_basil",
   "item": {
+    "id": "crop_faux_basil",
     "description": "A decorative faux basil plant.",
     "name": "Faux Basil",
     "icon_sprite": "spr_ui_item_decor_crop_faux_basil",

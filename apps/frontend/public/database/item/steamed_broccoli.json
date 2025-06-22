@@ -1,6 +1,7 @@
 {
   "id": "steamed_broccoli",
   "item": {
+    "id": "steamed_broccoli",
     "description": "This broccoli is tender and juicy.",
     "name": "Steamed Broccoli",
     "icon_sprite": "spr_ui_item_steamed_broccoli",

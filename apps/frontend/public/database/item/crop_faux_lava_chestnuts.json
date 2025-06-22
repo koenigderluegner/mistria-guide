@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_lava_chestnuts",
   "item": {
+    "id": "crop_faux_lava_chestnuts",
     "description": "A decorative faux lava chestnut.",
     "name": "Faux Lava Chestnuts",
     "icon_sprite": "spr_ui_item_decor_crop_faux_lava_chestnut",

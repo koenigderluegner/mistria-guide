@@ -1,6 +1,7 @@
 {
   "id": "shards",
   "item": {
+    "id": "shards",
     "description": "Shards originating from unknown artifacts. Used as a crafting material.",
     "name": "Shards",
     "icon_sprite": "spr_ui_item_shards",

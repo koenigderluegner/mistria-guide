@@ -1,6 +1,7 @@
 {
   "id": "spicy_cheddar_biscuit",
   "item": {
+    "id": "spicy_cheddar_biscuit",
     "description": "A fluffy biscuit with a cheesy, spicy kick.",
     "name": "Spicy Cheddar Biscuit",
     "icon_sprite": "spr_ui_item_spicy_cheddar_biscuit",

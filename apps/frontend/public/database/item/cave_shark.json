@@ -1,6 +1,7 @@
 {
   "id": "cave_shark",
   "item": {
+    "id": "cave_shark",
     "description": "A rare large Upper Mines fish. How did they end up in the Mines?!",
     "name": "Cave Shark",
     "icon_sprite": "spr_ui_item_fish_large_cave_shark",

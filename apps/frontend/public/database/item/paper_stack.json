@@ -1,6 +1,7 @@
 {
   "id": "paper_stack",
   "item": {
+    "id": "paper_stack",
     "description": "A decorative stack of paper.",
     "name": "Paper Stack",
     "icon_sprite": "spr_ui_item_decor_clutter_paper_stack",

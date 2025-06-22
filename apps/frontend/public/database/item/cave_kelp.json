@@ -1,6 +1,7 @@
 {
   "id": "cave_kelp",
   "item": {
+    "id": "cave_kelp",
     "description": "This seaweed makes a great thickener for soups. Used in a variety of cooking recipes.",
     "name": "Jade Dulse",
     "icon_sprite": "spr_ui_item_cave_kelp",

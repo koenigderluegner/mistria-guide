@@ -1,6 +1,7 @@
 {
   "id": "sword_gold",
   "item": {
+    "id": "sword_gold",
     "description": "A splendid golden sword.",
     "name": "Gold Sword",
     "icon_sprite": "spr_ui_item_tool_gold_sword",

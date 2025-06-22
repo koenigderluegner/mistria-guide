@@ -1,6 +1,7 @@
 {
   "id": "ryis_lumber",
   "item": {
+    "id": "ryis_lumber",
     "description": "This shouldn't be in your inventory...",
     "name": "Ryis' Lumber",
     "icon_sprite": "spr_prop_lumber_plank_horizontal_medium_spring",

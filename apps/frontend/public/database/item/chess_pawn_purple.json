@@ -1,6 +1,7 @@
 {
   "id": "chess_pawn_purple",
   "item": {
+    "id": "chess_pawn_purple",
     "description": "An oversized purple pawn chess piece.",
     "name": "Chess Pawn Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_pawn_purple",

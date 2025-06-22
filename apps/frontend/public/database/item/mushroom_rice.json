@@ -1,6 +1,7 @@
 {
   "id": "mushroom_rice",
   "item": {
+    "id": "mushroom_rice",
     "description": "This fluffy mushroom rice has a nutty, toasted flavor.",
     "name": "Mushroom Rice",
     "icon_sprite": "spr_ui_item_mushroomrice",

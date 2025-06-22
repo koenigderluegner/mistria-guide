@@ -1,6 +1,7 @@
 {
   "id": "pollock",
   "item": {
+    "id": "pollock",
     "description": "A common large ocean fish found in all seasons.",
     "name": "Pollock",
     "icon_sprite": "spr_ui_item_fish_large_pollock",

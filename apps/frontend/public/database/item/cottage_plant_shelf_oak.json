@@ -1,6 +1,7 @@
 {
   "id": "cottage_plant_shelf_oak",
   "item": {
+    "id": "cottage_plant_shelf_oak",
     "description": "A lovely oak wood & antique white plant shelf.",
     "name": "Lovely Cottage Plant Shelf",
     "icon_sprite": "spr_ui_item_furniture_cottage_plant_shelf_v1",

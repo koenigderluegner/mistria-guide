@@ -1,6 +1,7 @@
 {
   "id": "mist_held_item",
   "item": {
+    "id": "mist_held_item",
     "description": "This shouldn't be in your inventory...",
     "name": "Invalid Item",
     "icon_sprite": "spr_illegal_16",

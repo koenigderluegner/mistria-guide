@@ -1,6 +1,7 @@
 {
   "id": "oarfish",
   "item": {
+    "id": "oarfish",
     "description": "A rare giant ocean fish found in winter.",
     "name": "Oarfish",
     "icon_sprite": "spr_ui_item_fish_giant_oarfish",

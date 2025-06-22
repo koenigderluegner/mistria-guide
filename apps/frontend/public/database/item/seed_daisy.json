@@ -1,6 +1,7 @@
 {
   "id": "seed_daisy",
   "item": {
+    "id": "seed_daisy",
     "description": "Daisy seed. This fast growing summer flower can be harvested once.",
     "name": "Daisy Seed",
     "icon_sprite": "spr_ui_item_bagseed_daisy_icon",

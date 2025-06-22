@@ -1,6 +1,7 @@
 {
   "id": "star_lantern_yellow",
   "item": {
+    "id": "star_lantern_yellow",
     "description": "A Shooting Star Festival lantern with a yellow star detail.",
     "name": "Star Lantern",
     "icon_sprite": "spr_ui_item_decor_star_lantern_yellow",

@@ -1,6 +1,7 @@
 {
   "id": "worn_bed",
   "item": {
+    "id": "worn_bed",
     "description": "A worn bed with a cozy old quilt.",
     "name": "Worn Bed",
     "icon_sprite": "spr_ui_item_furniture_default_bed_v1",

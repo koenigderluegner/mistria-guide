@@ -1,6 +1,7 @@
 {
   "id": "small_animal_seesaw",
   "item": {
+    "id": "small_animal_seesaw",
     "description": "A decorative toy for small animals to play on when outside. It's very cute!",
     "name": "Small Animal Seesaw",
     "icon_sprite": "spr_ui_item_small_animal_toy_seesaw",

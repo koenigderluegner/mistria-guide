@@ -1,6 +1,7 @@
 {
   "id": "inn_stool",
   "item": {
+    "id": "inn_stool",
     "description": "An upholstered stool, matching the design used at the Inn.",
     "name": "Inn Stool",
     "icon_sprite": "spr_ui_item_furniture_inn_stool",

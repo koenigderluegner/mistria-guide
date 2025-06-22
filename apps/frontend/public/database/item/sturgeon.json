@@ -1,6 +1,7 @@
 {
   "id": "sturgeon",
   "item": {
+    "id": "sturgeon",
     "description": "An uncommon large river fish found in spring and fall.",
     "name": "Sturgeon",
     "icon_sprite": "spr_ui_item_fish_large_sturgeon",

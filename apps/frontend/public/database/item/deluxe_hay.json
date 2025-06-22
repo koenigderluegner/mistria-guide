@@ -1,6 +1,7 @@
 {
   "id": "deluxe_hay",
   "item": {
+    "id": "deluxe_hay",
     "description": "Deluxe feed for large animals. It can be placed in barn troughs or hand-fed.",
     "name": "Deluxe Large Animal Feed",
     "icon_sprite": "spr_ui_item_animal_feed_hay_deluxe_bag",

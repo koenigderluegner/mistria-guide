@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_carrot",
   "item": {
+    "id": "crop_faux_carrot",
     "description": "A decorative faux carrot plant.",
     "name": "Faux Carrot",
     "icon_sprite": "spr_ui_item_decor_crop_faux_carrot",

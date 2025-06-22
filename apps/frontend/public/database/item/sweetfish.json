@@ -1,6 +1,7 @@
 {
   "id": "sweetfish",
   "item": {
+    "id": "sweetfish",
     "description": "A common medium river fish found in summer.",
     "name": "Sweetfish",
     "icon_sprite": "spr_ui_item_fish_medium_sweetfish",

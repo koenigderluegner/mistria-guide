@@ -1,6 +1,7 @@
 {
   "id": "verdigris_tassets",
   "item": {
+    "id": "verdigris_tassets",
     "description": "Tassets constructed out of verdigris copper. Equip to increase defense.",
     "name": "Verdigris Tassets",
     "icon_sprite": "spr_ui_item_equipment_verdigris_tassets",

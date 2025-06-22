@@ -1,6 +1,7 @@
 {
   "id": "starlight_coral",
   "item": {
+    "id": "starlight_coral",
     "description": "A common artifact. This piece of coral glimmers as if reflecting starlight.",
     "name": "Starlight Coral",
     "icon_sprite": "spr_ui_item_starlight_coral",

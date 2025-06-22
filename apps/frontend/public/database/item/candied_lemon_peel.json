@@ -1,6 +1,7 @@
 {
   "id": "candied_lemon_peel",
   "item": {
+    "id": "candied_lemon_peel",
     "description": "A sweet treat bursting with lemon flavor.",
     "name": "Candied Lemon Peel",
     "icon_sprite": "spr_ui_item_candied_lemon_peel",

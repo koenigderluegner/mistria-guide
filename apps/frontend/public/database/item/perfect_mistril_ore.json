@@ -1,6 +1,7 @@
 {
   "id": "perfect_mistril_ore",
   "item": {
+    "id": "perfect_mistril_ore",
     "description": "A rare artifact. This mistril ore is incredibly large and splendid.",
     "name": "Perfect Mistril Ore",
     "icon_sprite": "spr_ui_item_perfect_mistril_ore",

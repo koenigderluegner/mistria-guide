@@ -1,6 +1,7 @@
 {
   "id": "aldarian_gauntlet",
   "item": {
+    "id": "aldarian_gauntlet",
     "description": "A rare artifact. This battle-worn gauntlet shows heavy use.",
     "name": "Aldarian Gauntlet",
     "icon_sprite": "spr_ui_item_aldarian_gauntlet",

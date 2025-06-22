@@ -1,6 +1,7 @@
 {
   "id": "starter_shipping_box",
   "item": {
+    "id": "starter_shipping_box",
     "description": "A placeable shipping bin. Put items inside to sell them overnight.",
     "name": "Shipping Bin",
     "icon_sprite": "spr_ui_item_basic_misc_shipping_bin",

@@ -1,6 +1,7 @@
 {
   "id": "cloth_wristband",
   "item": {
+    "id": "cloth_wristband",
     "description": "A cloth wristband. It's basically useless.",
     "name": "Cloth Wristband",
     "icon_sprite": "spr_ui_item_equipment_cloth_wristband",

@@ -1,6 +1,7 @@
 {
   "id": "chub",
   "item": {
+    "id": "chub",
     "description": "A common small river fish found in spring.",
     "name": "Chub",
     "icon_sprite": "spr_ui_item_fish_small_chub",

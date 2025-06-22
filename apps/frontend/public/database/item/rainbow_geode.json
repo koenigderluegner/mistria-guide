@@ -1,6 +1,7 @@
 {
   "id": "rainbow_geode",
   "item": {
+    "id": "rainbow_geode",
     "description": "An uncommon Lava Caves artifact. This incredible geode is formed of many different gems, all fused together.",
     "name": "Rainbow Geode",
     "icon_sprite": "spr_ui_item_rainbow_geode",

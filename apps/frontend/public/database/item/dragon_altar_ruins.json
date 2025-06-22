@@ -1,6 +1,7 @@
 {
   "id": "dragon_altar_ruins",
   "item": {
+    "id": "dragon_altar_ruins",
     "description": "A replica dragon claw altar, matching the ruins seal room.",
     "name": "Dragon Claw Altar",
     "icon_sprite": "spr_ui_item_decor_ruins_seal_altar",

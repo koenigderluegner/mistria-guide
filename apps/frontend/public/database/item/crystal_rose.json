@@ -1,6 +1,7 @@
 {
   "id": "crystal_rose",
   "item": {
+    "id": "crystal_rose",
     "description": "This delicate, shimmering rose appears to be made of crystal.",
     "name": "Crystal Rose",
     "icon_sprite": "spr_ui_item_crystal_rose",

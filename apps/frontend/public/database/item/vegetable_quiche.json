@@ -1,6 +1,7 @@
 {
   "id": "vegetable_quiche",
   "item": {
+    "id": "vegetable_quiche",
     "description": "A savory tart filled with fluffy eggs and flavorful vegetables.",
     "name": "Vegetable Quiche",
     "icon_sprite": "spr_ui_item_vegetable_quiche",

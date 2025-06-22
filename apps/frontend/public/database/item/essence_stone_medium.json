@@ -1,6 +1,7 @@
 {
   "id": "essence_stone_medium",
   "item": {
+    "id": "essence_stone_medium",
     "description": "An Essence Stone. Used to charge a magic tool for 10 days. Consume for 50 Essence.",
     "name": "Medium Essence Stone",
     "icon_sprite": "spr_ui_item_essence_stone_medium",

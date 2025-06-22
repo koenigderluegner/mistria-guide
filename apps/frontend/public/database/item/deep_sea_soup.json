@@ -1,6 +1,7 @@
 {
   "id": "deep_sea_soup",
   "item": {
+    "id": "deep_sea_soup",
     "description": "This nutritious soup uses fresh ingredients to form a deep & complex flavor.",
     "name": "Deep Sea Soup",
     "icon_sprite": "spr_ui_item_deep_sea_soup",

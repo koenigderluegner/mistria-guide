@@ -1,6 +1,7 @@
 {
   "id": "pick_axe_mistril",
   "item": {
+    "id": "pick_axe_mistril",
     "description": "A pickaxe made from mistril. Can be charged to strike a 6x9 area.",
     "name": "Mistril Pickaxe",
     "icon_sprite": "spr_ui_item_tool_mistril_pickaxe",

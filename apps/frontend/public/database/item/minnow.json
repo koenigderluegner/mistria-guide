@@ -1,6 +1,7 @@
 {
   "id": "minnow",
   "item": {
+    "id": "minnow",
     "description": "A common small river fish found in summer.",
     "name": "Minnow",
     "icon_sprite": "spr_ui_item_fish_small_minnow",

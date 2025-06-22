@@ -1,6 +1,7 @@
 {
   "id": "coral_stone_archway",
   "item": {
+    "id": "coral_stone_archway",
     "description": "A stone archway with coral at its base.",
     "name": "Coral-Stone Arch",
     "icon_sprite": "spr_ui_item_furniture_coral_arch",

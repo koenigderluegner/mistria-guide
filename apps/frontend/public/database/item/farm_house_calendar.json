@@ -1,6 +1,7 @@
 {
   "id": "farm_house_calendar",
   "item": {
+    "id": "farm_house_calendar",
     "description": "A placeable farmhouse calendar.",
     "name": "Farmhouse Calendar",
     "icon_sprite": "spr_ui_item_object_wall_calendar",

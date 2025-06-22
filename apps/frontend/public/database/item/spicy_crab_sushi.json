@@ -1,6 +1,7 @@
 {
   "id": "spicy_crab_sushi",
   "item": {
+    "id": "spicy_crab_sushi",
     "description": "These flavorful sushi rolls are filled with spicy shredded crab.",
     "name": "Spicy Crab Sushi",
     "icon_sprite": "spr_ui_item_spicy_crab_sushi",

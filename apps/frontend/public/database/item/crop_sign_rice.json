@@ -1,6 +1,7 @@
 {
   "id": "crop_sign_rice",
   "item": {
+    "id": "crop_sign_rice",
     "description": "A wooden sign featuring painted rice.",
     "name": "Rice Sign",
     "icon_sprite": "spr_ui_item_crop_sign_rice",

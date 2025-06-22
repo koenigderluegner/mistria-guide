@@ -1,6 +1,7 @@
 {
   "id": "coral_chair_blue",
   "item": {
+    "id": "coral_chair_blue",
     "description": "A blue coral chair.",
     "name": "Coral Chair",
     "icon_sprite": "spr_ui_item_furniture_coral_chair_blue",

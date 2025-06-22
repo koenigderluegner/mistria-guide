@@ -1,6 +1,7 @@
 {
   "id": "spirit_mushroom_tea",
   "item": {
+    "id": "spirit_mushroom_tea",
     "description": "This mushroom tea has a calming, earthy scent and a slightly bitter flavor.",
     "name": "Spirit Mushroom Tea",
     "icon_sprite": "spr_ui_item_spirit_mushroom_tea",

@@ -1,6 +1,7 @@
 {
   "id": "ornate_rug_large_square_red",
   "item": {
+    "id": "ornate_rug_large_square_red",
     "description": "A large sized red ornate rug with a square shape.",
     "name": "Ornate Large Square Rug",
     "icon_sprite": "spr_ui_item_decor_ornate_rug_large_square_red",

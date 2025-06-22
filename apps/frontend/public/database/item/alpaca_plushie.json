@@ -1,6 +1,7 @@
 {
   "id": "alpaca_plushie",
   "item": {
+    "id": "alpaca_plushie",
     "description": "A cute alpaca plushie. Awarded at the Animal Festival.",
     "name": "Alpaca Plushie",
     "icon_sprite": "spr_ui_item_decor_alpaca_plushie",

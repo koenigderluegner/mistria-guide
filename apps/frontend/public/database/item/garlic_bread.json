@@ -1,6 +1,7 @@
 {
   "id": "garlic_bread",
   "item": {
+    "id": "garlic_bread",
     "description": "A toasted slice of bread, spread with savory garlic and butter.",
     "name": "Garlic Bread",
     "icon_sprite": "spr_ui_item_garlic_bread",

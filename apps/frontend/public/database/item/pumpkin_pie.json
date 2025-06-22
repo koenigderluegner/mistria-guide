@@ -1,6 +1,7 @@
 {
   "id": "pumpkin_pie",
   "item": {
+    "id": "pumpkin_pie",
     "description": "This yummy pie uses pumpkin and spices for its custard-like filling.",
     "name": "Pumpkin Pie",
     "icon_sprite": "spr_ui_item_pumpkin_pie",

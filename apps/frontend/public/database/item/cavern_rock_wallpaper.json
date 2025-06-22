@@ -1,6 +1,7 @@
 {
   "id": "cavern_rock_wallpaper",
   "item": {
+    "id": "cavern_rock_wallpaper",
     "description": "A wallpaper that mimics the look of the Deep Earth.",
     "name": "Rock Wall",
     "icon_sprite": "spr_ui_item_furniture_wallpaper_deep_earth",

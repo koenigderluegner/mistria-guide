@@ -1,6 +1,7 @@
 {
   "id": "river_snail",
   "item": {
+    "id": "river_snail",
     "description": "A common river gastropod found in all seasons.",
     "name": "River Snail",
     "icon_sprite": "spr_ui_item_dive_snail",

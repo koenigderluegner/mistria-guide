@@ -1,6 +1,7 @@
 {
   "id": "fishing_bed_blue",
   "item": {
+    "id": "fishing_bed_blue",
     "description": "A nautical bed with blue anchor print sheets.",
     "name": "Fishing Bed",
     "icon_sprite": "spr_ui_item_furniture_fishing_bed_blue",

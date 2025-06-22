@@ -1,6 +1,7 @@
 {
   "id": "color_paving_stone_v31",
   "item": {
+    "id": "color_paving_stone_v31",
     "description": "A small white paving stone.",
     "name": "Color Paving Stone",
     "icon_sprite": "spr_ui_item_decor_floor_tile_small_31",

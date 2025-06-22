@@ -1,6 +1,7 @@
 {
   "id": "treasure_box_wood",
   "item": {
+    "id": "treasure_box_wood",
     "description": "A common wooden treasure box. Open it to find out what's inside!",
     "name": "Wooden Treasure Box",
     "icon_sprite": "spr_ui_item_wooden_chest"

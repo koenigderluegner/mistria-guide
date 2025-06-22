@@ -1,6 +1,7 @@
 {
   "id": "dough_lad_doll",
   "item": {
+    "id": "dough_lad_doll",
     "description": "You're not quite sure what this is...",
     "name": "Doughlad Doll",
     "icon_sprite": "spr_ui_item_doughlad",

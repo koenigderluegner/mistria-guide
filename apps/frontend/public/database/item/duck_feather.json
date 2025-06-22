@@ -1,6 +1,7 @@
 {
   "id": "duck_feather",
   "item": {
+    "id": "duck_feather",
     "description": "A soft feather dropped by a drake. Used in a variety of crafting recipes.",
     "name": "Duck Feather",
     "icon_sprite": "spr_ui_item_duck_feather_regular",

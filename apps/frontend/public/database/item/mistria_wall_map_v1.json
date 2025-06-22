@@ -1,6 +1,7 @@
 {
   "id": "mistria_wall_map_v1",
   "item": {
+    "id": "mistria_wall_map_v1",
     "description": "A map that depicts Mistria. You can see your house from here!",
     "name": "Mistria Wall Map",
     "icon_sprite": "spr_ui_item_decor_mistria_wall_map",

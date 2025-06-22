@@ -1,6 +1,7 @@
 {
   "id": "capybara_plushie",
   "item": {
+    "id": "capybara_plushie",
     "description": "A cute capybara plushie. Awarded at the Animal Festival.",
     "name": "Capybara Plushie",
     "icon_sprite": "spr_ui_item_decor_capybara_plushie",

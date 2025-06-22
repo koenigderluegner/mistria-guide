@@ -1,6 +1,7 @@
 {
   "id": "flour",
   "item": {
+    "id": "flour",
     "description": "A bag of processed wheat flour. Frequently used for baking.",
     "name": "Flour",
     "icon_sprite": "spr_ui_item_flour",

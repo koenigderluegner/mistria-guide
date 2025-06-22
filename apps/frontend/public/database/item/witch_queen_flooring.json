@@ -1,6 +1,7 @@
 {
   "id": "witch_queen_flooring",
   "item": {
+    "id": "witch_queen_flooring",
     "description": "Sea green tile flooring.",
     "name": "Witch Queen Flooring",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_flooring",

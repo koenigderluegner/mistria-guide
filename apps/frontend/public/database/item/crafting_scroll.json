@@ -1,6 +1,7 @@
 {
   "id": "crafting_scroll",
   "item": {
+    "id": "crafting_scroll",
     "description": "Use this scroll to learn how to craft the following item: {}.",
     "name": "Crafting Scroll: {}",
     "icon_sprite": "spr_ui_item_craftingscroll",

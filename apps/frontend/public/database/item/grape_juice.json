@@ -1,6 +1,7 @@
 {
   "id": "grape_juice",
   "item": {
+    "id": "grape_juice",
     "description": "A sweet and fresh juice made from grapes.",
     "name": "Grape Juice",
     "icon_sprite": "spr_ui_item_grape_juice",

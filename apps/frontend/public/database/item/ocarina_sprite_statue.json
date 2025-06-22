@@ -1,6 +1,7 @@
 {
   "id": "ocarina_sprite_statue",
   "item": {
+    "id": "ocarina_sprite_statue",
     "description": "Place in a Large Barn/Coop & add an Essence Stone to automatically pet its animals.",
     "name": "Animal Sprite Statue",
     "icon_sprite": "spr_ui_item_object_ocarina_statue",

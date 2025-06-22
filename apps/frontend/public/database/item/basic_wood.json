@@ -1,6 +1,7 @@
 {
   "id": "basic_wood",
   "item": {
+    "id": "basic_wood",
     "description": "A piece of cut wood. Essential for many crafting recipes.",
     "name": "Wood",
     "icon_sprite": "spr_ui_item_regularwood",

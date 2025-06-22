@@ -1,6 +1,7 @@
 {
   "id": "windleaf_butterfly",
   "item": {
+    "id": "windleaf_butterfly",
     "description": "A common Deep Woods insect. Clever camouflage makes this insect look like leaves fluttering about.",
     "name": "Windleaf Butterfly",
     "icon_sprite": "spr_ui_item_insect_windleaf_butterfly",

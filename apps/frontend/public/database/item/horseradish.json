@@ -1,6 +1,7 @@
 {
   "id": "horseradish",
   "item": {
+    "id": "horseradish",
     "description": "A wild plant foraged in fall. Has a spicy, pungent flavor. Commonly used as a cooking ingredient.",
     "name": "Horseradish",
     "icon_sprite": "spr_ui_item_horseradish",

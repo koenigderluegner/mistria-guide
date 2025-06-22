@@ -1,6 +1,7 @@
 {
   "id": "candied_strawberries",
   "item": {
+    "id": "candied_strawberries",
     "description": "A crunchy sugar shell coats these juicy skewered strawberries.",
     "name": "Candied Strawberries",
     "icon_sprite": "spr_ui_item_candied_strawberries",

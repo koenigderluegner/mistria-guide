@@ -1,6 +1,7 @@
 {
   "id": "sapphire_betta",
   "item": {
+    "id": "sapphire_betta",
     "description": "A common small Tide Caverns fish. It has a lovely color.",
     "name": "Sapphire Betta",
     "icon_sprite": "spr_ui_item_fish_small_sapphire_betta",

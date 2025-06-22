@@ -1,6 +1,7 @@
 {
   "id": "field_grass",
   "item": {
+    "id": "field_grass",
     "description": "Use this item to add a grass blade detail to a grass tile.",
     "name": "Grass Tile Blades",
     "icon_sprite": "spr_ui_item_decor_starter_field_grass",

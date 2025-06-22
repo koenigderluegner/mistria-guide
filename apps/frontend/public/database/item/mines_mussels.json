@@ -1,6 +1,7 @@
 {
   "id": "mines_mussels",
   "item": {
+    "id": "mines_mussels",
     "description": "These mussels grow in bunches underground. Used in a variety of cooking recipes.",
     "name": "Mines Mussels",
     "icon_sprite": "spr_ui_item_mines_mussels",

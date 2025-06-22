@@ -1,6 +1,7 @@
 {
   "id": "sword_copper",
   "item": {
+    "id": "sword_copper",
     "description": "A copper sword.",
     "name": "Copper Sword",
     "icon_sprite": "spr_ui_item_tool_copper_sword",

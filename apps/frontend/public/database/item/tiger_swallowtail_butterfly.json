@@ -1,6 +1,7 @@
 {
   "id": "tiger_swallowtail_butterfly",
   "item": {
+    "id": "tiger_swallowtail_butterfly",
     "description": "An uncommon insect found during the daytime in fall.",
     "name": "Tiger Swallowtail Butterfly",
     "icon_sprite": "spr_ui_item_insect_tigerswallowtailbutterfly",

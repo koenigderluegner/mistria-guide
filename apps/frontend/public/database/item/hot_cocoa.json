@@ -1,6 +1,7 @@
 {
   "id": "hot_cocoa",
   "item": {
+    "id": "hot_cocoa",
     "description": "A rich and warming chocolate drink with a hint of wintergreen.",
     "name": "Hot Chocolate",
     "icon_sprite": "spr_ui_item_hotcocoa",

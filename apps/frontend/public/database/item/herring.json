@@ -1,6 +1,7 @@
 {
   "id": "herring",
   "item": {
+    "id": "herring",
     "description": "A common small river fish found in winter.",
     "name": "Herring",
     "icon_sprite": "spr_ui_item_fish_small_herring",

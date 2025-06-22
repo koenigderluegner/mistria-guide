@@ -1,6 +1,7 @@
 {
   "id": "small_vase_v2",
   "item": {
+    "id": "small_vase_v2",
     "description": "A small terracotta vase with decorative flower.",
     "name": "Small Vase",
     "icon_sprite": "spr_ui_item_decor_clutter_small_vase_v2",

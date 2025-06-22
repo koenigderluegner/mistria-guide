@@ -1,6 +1,7 @@
 {
   "id": "espresso_machine",
   "item": {
+    "id": "espresso_machine",
     "description": "Prepares a hot cup of espresso for you each morning!",
     "name": "Espresso Machine",
     "icon_sprite": "spr_ui_item_espresso_machine_gold",

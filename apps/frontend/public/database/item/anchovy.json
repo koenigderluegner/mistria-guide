@@ -1,6 +1,7 @@
 {
   "id": "anchovy",
   "item": {
+    "id": "anchovy",
     "description": "A common small ocean fish found in spring.",
     "name": "Anchovy",
     "icon_sprite": "spr_ui_item_fish_small_anchovy",

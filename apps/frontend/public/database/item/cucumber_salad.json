@@ -1,6 +1,7 @@
 {
   "id": "cucumber_salad",
   "item": {
+    "id": "cucumber_salad",
     "description": "A crisp, refreshing salad of cucumber with dill and sesame.",
     "name": "Cucumber Salad",
     "icon_sprite": "spr_ui_item_cucumber_salad",

@@ -1,6 +1,7 @@
 {
   "id": "cottage_flooring_oak",
   "item": {
+    "id": "cottage_flooring_oak",
     "description": "Lovely oak wood flooring for your dream cottage.",
     "name": "Lovely Cottage Flooring",
     "icon_sprite": "spr_ui_item_furniture_cottage_flooring_v1",

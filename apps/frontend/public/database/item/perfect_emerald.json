@@ -1,6 +1,7 @@
 {
   "id": "perfect_emerald",
   "item": {
+    "id": "perfect_emerald",
     "description": "An uncommon artifact. An emerald of this clarity would gain nothing from being worked further.",
     "name": "Perfect Emerald",
     "icon_sprite": "spr_ui_item_perfect_emerald",

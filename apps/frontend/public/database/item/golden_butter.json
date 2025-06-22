@@ -1,6 +1,7 @@
 {
   "id": "golden_butter",
   "item": {
+    "id": "golden_butter",
     "description": "High quality butter made with golden cow's milk. Used in high level cooking recipes.",
     "name": "Golden Butter",
     "icon_sprite": "spr_ui_item_golden_butter",

@@ -1,6 +1,7 @@
 {
   "id": "criminal_confession",
   "item": {
+    "id": "criminal_confession",
     "description": "An uncommon artifact. Too bad the pages are fused together.",
     "name": "Criminal Confession",
     "icon_sprite": "spr_ui_item_criminal_confession",

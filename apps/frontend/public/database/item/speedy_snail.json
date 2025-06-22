@@ -1,6 +1,7 @@
 {
   "id": "speedy_snail",
   "item": {
+    "id": "speedy_snail",
     "description": "A legendary gastropod found in all seasons but winter. It goes fast!",
     "name": "Speedy Snail",
     "icon_sprite": "spr_ui_item_insect_speedysnail",

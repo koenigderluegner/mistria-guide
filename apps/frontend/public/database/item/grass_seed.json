@@ -1,6 +1,7 @@
 {
   "id": "grass_seed",
   "item": {
+    "id": "grass_seed",
     "description": "Can be used as a basic feed for small animals.",
     "name": "Grass Seed",
     "icon_sprite": "spr_ui_item_animal_feed_seed",

@@ -1,6 +1,7 @@
 {
   "id": "recipe_scroll",
   "item": {
+    "id": "recipe_scroll",
     "description": "Use this scroll to learn how to cook the following dish: {}.",
     "name": "Recipe: {}",
     "icon_sprite": "spr_ui_item_recipescroll",

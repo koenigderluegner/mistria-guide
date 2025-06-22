@@ -1,6 +1,7 @@
 {
   "id": "lava_caves_obsidian_table_purple",
   "item": {
+    "id": "lava_caves_obsidian_table_purple",
     "description": "A faceted purple-black obsidian table.",
     "name": "Obsidian Table",
     "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_table_purple",

@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_catmint",
   "item": {
+    "id": "crop_faux_catmint",
     "description": "A decorative faux catmint plant.",
     "name": "Faux Catmint",
     "icon_sprite": "spr_ui_item_decor_crop_faux_catmint",

@@ -1,6 +1,7 @@
 {
   "id": "perfect_ruby",
   "item": {
+    "id": "perfect_ruby",
     "description": "A rare artifact. This ruby is incredibly large and splendid.",
     "name": "Perfect Ruby",
     "icon_sprite": "spr_ui_item_perfect_ruby",

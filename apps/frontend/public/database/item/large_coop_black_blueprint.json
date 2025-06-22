@@ -1,6 +1,7 @@
 {
   "id": "large_coop_black_blueprint",
   "item": {
+    "id": "large_coop_black_blueprint",
     "description": "Use this item to place a large white coop construction site on your farm! Requirements to build: 125 wood, 100 stone.",
     "name": "Large White Coop Blueprint",
     "icon_sprite": "spr_ui_item_large_coop_black",

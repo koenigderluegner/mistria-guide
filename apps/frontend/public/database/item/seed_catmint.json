@@ -1,6 +1,7 @@
 {
   "id": "seed_catmint",
   "item": {
+    "id": "seed_catmint",
     "description": "Catmint seed. This summer flower can be harvested once.",
     "name": "Catmint Seed",
     "icon_sprite": "spr_ui_item_bagseed_catmint_icon",

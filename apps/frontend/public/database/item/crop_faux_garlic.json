@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_garlic",
   "item": {
+    "id": "crop_faux_garlic",
     "description": "A decorative faux garlic plant.",
     "name": "Faux Garlic",
     "icon_sprite": "spr_ui_item_decor_crop_faux_garlic",

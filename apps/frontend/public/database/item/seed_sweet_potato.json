@@ -1,6 +1,7 @@
 {
   "id": "seed_sweet_potato",
   "item": {
+    "id": "seed_sweet_potato",
     "description": "Sweet potato seed. This fast growing fall crop can be harvested once.",
     "name": "Sweet Potato Seed",
     "icon_sprite": "spr_ui_item_bagseed_sweet_potato_icon",

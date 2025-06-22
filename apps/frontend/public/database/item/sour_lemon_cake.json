@@ -1,6 +1,7 @@
 {
   "id": "sour_lemon_cake",
   "item": {
+    "id": "sour_lemon_cake",
     "description": "This delightful lemon cake is flavored with a generous amount of zest.",
     "name": "Lemon Cake",
     "icon_sprite": "spr_ui_item_sourlemoncake",

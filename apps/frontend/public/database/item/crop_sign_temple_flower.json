@@ -1,6 +1,7 @@
 {
   "id": "crop_sign_temple_flower",
   "item": {
+    "id": "crop_sign_temple_flower",
     "description": "A wooden sign featuring a painted temple flower.",
     "name": "Temple Flower Sign",
     "icon_sprite": "spr_ui_item_crop_sign_temple_flower",

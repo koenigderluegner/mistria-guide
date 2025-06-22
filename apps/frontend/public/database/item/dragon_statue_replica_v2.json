@@ -1,6 +1,7 @@
 {
   "id": "dragon_statue_replica_v2",
   "item": {
+    "id": "dragon_statue_replica_v2",
     "description": "A figure of a dragon, carved from cool-toned stone.",
     "name": "Dragon Statue",
     "icon_sprite": "spr_ui_item_dragon_statue_replica_v2",

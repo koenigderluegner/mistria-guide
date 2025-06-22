@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_oyster_mushroom",
   "item": {
+    "id": "crop_faux_oyster_mushroom",
     "description": "A decorative faux oyster mushroom.",
     "name": "Faux Oyster Mushroom",
     "icon_sprite": "spr_ui_item_decor_crop_faux_oyster_mushroom",

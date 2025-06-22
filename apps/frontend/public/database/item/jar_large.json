@@ -1,6 +1,7 @@
 {
   "id": "jar_large",
   "item": {
+    "id": "jar_large",
     "description": "A large decorative glass jar.",
     "name": "Large Jar",
     "icon_sprite": "spr_ui_item_decor_clutter_jar_large",

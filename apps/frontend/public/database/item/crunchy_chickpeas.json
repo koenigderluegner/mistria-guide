@@ -1,6 +1,7 @@
 {
   "id": "crunchy_chickpeas",
   "item": {
+    "id": "crunchy_chickpeas",
     "description": "These crunchy and salty roasted chickpeas make a great snack.",
     "name": "Crunchy Chickpeas",
     "icon_sprite": "spr_ui_item_crunchychickpeas",

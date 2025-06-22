@@ -1,6 +1,7 @@
 {
   "id": "unidentified_artifact",
   "item": {
+    "id": "unidentified_artifact",
     "description": "A new artifact you do not recognize. Use it to identify what it is!",
     "name": "Unidentified Artifact",
     "icon_sprite": "spr_ui_item_unidentified_artifact",

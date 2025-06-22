@@ -1,6 +1,7 @@
 {
   "id": "stinky_stamina_potion",
   "item": {
+    "id": "stinky_stamina_potion",
     "description": "This shouldn't be in your inventory...",
     "icon_sprite": "spr_ui_item_stinkypotion",
     "tags": [

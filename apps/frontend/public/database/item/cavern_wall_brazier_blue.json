@@ -1,6 +1,7 @@
 {
   "id": "cavern_wall_brazier_blue",
   "item": {
+    "id": "cavern_wall_brazier_blue",
     "description": "A wall brazier filled with blue flames.",
     "name": "Wall Brazier",
     "icon_sprite": "spr_ui_item_furniture_wall_brazier_blue",

@@ -1,6 +1,7 @@
 {
   "id": "rosehip_jam",
   "item": {
+    "id": "rosehip_jam",
     "description": "A winter jam with a tangy flavor.",
     "name": "Rose Hip Jam",
     "icon_sprite": "spr_ui_item_rosehip_jam",

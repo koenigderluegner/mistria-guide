@@ -1,6 +1,7 @@
 {
   "id": "caterpillar",
   "item": {
+    "id": "caterpillar",
     "description": "A common insect found in spring. Sometimes found when shaking trees.",
     "name": "Caterpillar",
     "icon_sprite": "spr_ui_item_insect_caterpillar",

@@ -1,6 +1,7 @@
 {
   "id": "grouper",
   "item": {
+    "id": "grouper",
     "description": "A rare giant ocean fish found in summer.",
     "name": "Grouper",
     "icon_sprite": "spr_ui_item_fish_giant_grouper",

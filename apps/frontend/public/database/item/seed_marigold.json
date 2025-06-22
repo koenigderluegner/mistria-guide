@@ -1,6 +1,7 @@
 {
   "id": "seed_marigold",
   "item": {
+    "id": "seed_marigold",
     "description": "Marigold seed. This summer flower can be harvested once.",
     "name": "Marigold Seed",
     "icon_sprite": "spr_ui_item_bagseed_marigold_icon",

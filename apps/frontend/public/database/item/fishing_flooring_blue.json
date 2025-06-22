@@ -1,6 +1,7 @@
 {
   "id": "fishing_flooring_blue",
   "item": {
+    "id": "fishing_flooring_blue",
     "description": "Checkered blue tile flooring.",
     "name": "Fishing Flooring",
     "icon_sprite": "spr_ui_item_furniture_fishing_floor_blue",

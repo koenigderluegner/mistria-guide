@@ -1,6 +1,7 @@
 {
   "id": "fishing_rod_gold",
   "item": {
+    "id": "fishing_rod_gold",
     "description": "A splendid golden fishing rod. It has a cast range of 14.",
     "name": "Gold Fishing Rod",
     "icon_sprite": "spr_ui_item_tool_gold_rod",

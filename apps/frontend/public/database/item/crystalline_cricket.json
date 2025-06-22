@@ -1,6 +1,7 @@
 {
   "id": "crystalline_cricket",
   "item": {
+    "id": "crystalline_cricket",
     "description": "A common Deep Earth insect. The stones around it vibrate in tune with its song.",
     "name": "Crystalline Cricket",
     "icon_sprite": "spr_ui_item_insect_crystalline_cricket",

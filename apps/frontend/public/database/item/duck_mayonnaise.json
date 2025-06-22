@@ -1,6 +1,7 @@
 {
   "id": "duck_mayonnaise",
   "item": {
+    "id": "duck_mayonnaise",
     "description": "A popular condiment made from duck eggs. Used in a variety of cooking recipes.",
     "name": "Duck Mayonnaise",
     "icon_sprite": "spr_ui_item_duck_mayonnaise",

@@ -1,6 +1,7 @@
 {
   "id": "humble_pie",
   "item": {
+    "id": "humble_pie",
     "description": "Whoever baked this should be very proud.",
     "name": "Humble Pie",
     "icon_sprite": "spr_ui_item_humblepie",

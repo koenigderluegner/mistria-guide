@@ -1,6 +1,7 @@
 {
   "id": "seed_snow_peas",
   "item": {
+    "id": "seed_snow_peas",
     "description": "Snow pea seed. This winter crop can be harvested every 3 days once it reaches maturity.",
     "name": "Snow Peas Seed",
     "icon_sprite": "spr_ui_item_bagseed_snow_peas_icon",

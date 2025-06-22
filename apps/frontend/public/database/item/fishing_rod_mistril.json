@@ -1,6 +1,7 @@
 {
   "id": "fishing_rod_mistril",
   "item": {
+    "id": "fishing_rod_mistril",
     "description": "A fishing rod made from mistril. It has a cast range of 16.",
     "name": "Mistril Fishing Rod",
     "icon_sprite": "spr_ui_item_tool_mistril_rod",

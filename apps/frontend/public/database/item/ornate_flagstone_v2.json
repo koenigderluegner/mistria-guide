@@ -1,6 +1,7 @@
 {
   "id": "ornate_flagstone_v2",
   "item": {
+    "id": "ornate_flagstone_v2",
     "description": "An ornate flagstone.",
     "name": "Ornate Flagstone",
     "icon_sprite": "spr_ui_item_ornate_flagstone_v2",

@@ -1,6 +1,7 @@
 {
   "id": "butterfly",
   "item": {
+    "id": "butterfly",
     "description": "A common insect found during the daytime in spring.",
     "name": "Butterfly",
     "icon_sprite": "spr_ui_item_insect_butterfly",

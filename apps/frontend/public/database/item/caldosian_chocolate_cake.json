@@ -1,6 +1,7 @@
 {
   "id": "caldosian_chocolate_cake",
   "item": {
+    "id": "caldosian_chocolate_cake",
     "description": "A decadent cake, incredibly moist and almost too chocolatey.",
     "name": "Chocolate Cake",
     "icon_sprite": "spr_ui_item_caldosian_chocolate_cake",

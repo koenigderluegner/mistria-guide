@@ -1,6 +1,7 @@
 {
   "id": "soup_of_the_day_gold",
   "item": {
+    "id": "soup_of_the_day_gold",
     "description": "This shouldn't be in your inventory...",
     "name": "Soup of the Day Deluxe",
     "icon_sprite": "spr_ui_item_vegetablesoup",

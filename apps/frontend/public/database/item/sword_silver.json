@@ -1,6 +1,7 @@
 {
   "id": "sword_silver",
   "item": {
+    "id": "sword_silver",
     "description": "A silver sword.",
     "name": "Silver Sword",
     "icon_sprite": "spr_ui_item_tool_silver_sword",

@@ -1,6 +1,7 @@
 {
   "id": "crystal_berries",
   "item": {
+    "id": "crystal_berries",
     "description": "These berries have a glasslike appearance and are very sweet.",
     "name": "Crystal Berries",
     "icon_sprite": "spr_ui_item_crystal_berries",

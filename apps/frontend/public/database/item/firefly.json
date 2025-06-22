@@ -1,6 +1,7 @@
 {
   "id": "firefly",
   "item": {
+    "id": "firefly",
     "description": "A common insect found at night in summer.",
     "name": "Firefly",
     "icon_sprite": "spr_ui_item_insect_firefly",

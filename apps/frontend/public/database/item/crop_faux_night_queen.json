@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_night_queen",
   "item": {
+    "id": "crop_faux_night_queen",
     "description": "A decorative faux night queen.",
     "name": "Faux Night Queen",
     "icon_sprite": "spr_ui_item_decor_crop_faux_night_queen",

@@ -1,6 +1,7 @@
 {
   "id": "jellyfish",
   "item": {
+    "id": "jellyfish",
     "description": "An uncommon medium ocean invertebrate found in spring and fall.",
     "name": "Jellyfish",
     "icon_sprite": "spr_ui_item_fish_medium_jellyfish",

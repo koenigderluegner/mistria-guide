@@ -1,6 +1,7 @@
 {
   "id": "egg",
   "item": {
+    "id": "egg",
     "description": "An egg laid by a hen. Used as an ingredient for cooking many kinds of dishes.",
     "name": "Chicken Egg",
     "icon_sprite": "spr_ui_item_chicken_egg_regular",

@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_marigold",
   "item": {
+    "id": "crop_faux_marigold",
     "description": "A decorative faux marigold.",
     "name": "Faux Marigold",
     "icon_sprite": "spr_ui_item_decor_crop_faux_marigold",

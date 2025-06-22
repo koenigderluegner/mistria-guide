@@ -1,6 +1,7 @@
 {
   "id": "blueberry_jam",
   "item": {
+    "id": "blueberry_jam",
     "description": "A jam made with only the freshest blueberries. It has a sweet, mild flavor.",
     "name": "Blueberry Jam",
     "icon_sprite": "spr_ui_item_blueberry_jam",

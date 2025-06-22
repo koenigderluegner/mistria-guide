@@ -1,6 +1,7 @@
 {
   "id": "ice_block",
   "item": {
+    "id": "ice_block",
     "description": "A foraged block of pure ice. Commonly used as a cooking ingredient.",
     "name": "Ice Block",
     "icon_sprite": "spr_ui_item_ice_block",

@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_sunflower",
   "item": {
+    "id": "crop_faux_sunflower",
     "description": "A decorative faux sunflower.",
     "name": "Faux Sunflower",
     "icon_sprite": "spr_ui_item_decor_crop_faux_sunflower",

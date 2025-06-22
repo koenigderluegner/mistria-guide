@@ -1,6 +1,7 @@
 {
   "id": "emerald_double_bed_v1",
   "item": {
+    "id": "emerald_double_bed_v1",
     "description": "An ornate emerald double bed with gold detailing.",
     "name": "Emerald Double Bed",
     "icon_sprite": "spr_ui_item_furniture_emerald_double_bed_v1",

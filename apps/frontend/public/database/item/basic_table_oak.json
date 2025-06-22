@@ -1,6 +1,7 @@
 {
   "id": "basic_table_oak",
   "item": {
+    "id": "basic_table_oak",
     "description": "A basic oak table.",
     "name": "Basic Table",
     "icon_sprite": "spr_ui_item_furniture_basic_table_v1",

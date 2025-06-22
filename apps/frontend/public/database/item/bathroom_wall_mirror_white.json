@@ -1,6 +1,7 @@
 {
   "id": "bathroom_wall_mirror_white",
   "item": {
+    "id": "bathroom_wall_mirror_white",
     "description": "A white bathroom mirror.",
     "name": "Bathroom Wall Mirror",
     "icon_sprite": "spr_ui_item_furniture_bathroom_wall_mirror_white",

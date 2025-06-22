@@ -1,6 +1,7 @@
 {
   "id": "hydrangea",
   "item": {
+    "id": "hydrangea",
     "description": "A wild blue flower grown in the summer. Makes a nice gift.",
     "name": "Hydrangea",
     "icon_sprite": "spr_ui_item_bush_hydrangea",

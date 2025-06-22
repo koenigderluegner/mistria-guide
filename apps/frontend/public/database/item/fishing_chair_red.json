@@ -1,6 +1,7 @@
 {
   "id": "fishing_chair_red",
   "item": {
+    "id": "fishing_chair_red",
     "description": "A wooden chair with a red cushion.",
     "name": "Fishing Chair",
     "icon_sprite": "spr_ui_item_furniture_fishing_chair_red",

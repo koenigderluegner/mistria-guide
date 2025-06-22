@@ -1,6 +1,7 @@
 {
   "id": "sea_scarab",
   "item": {
+    "id": "sea_scarab",
     "description": "An uncommon Tide Caverns insect. Its pretty carapace looks like the sea on a sunny day.",
     "name": "Sea Scarab",
     "icon_sprite": "spr_ui_item_insect_sea_scarab",

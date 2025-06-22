@@ -1,6 +1,7 @@
 {
   "id": "witch_queen_wallpaper",
   "item": {
+    "id": "witch_queen_wallpaper",
     "description": "A wallpaper that mimics the elaborate curtains of the Witch Queen's court.",
     "name": "Witch Queen Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_wallpaper",

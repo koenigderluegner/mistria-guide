@@ -1,6 +1,7 @@
 {
   "id": "seed_dill",
   "item": {
+    "id": "seed_dill",
     "description": "Dill seed. This summer crop can be harvested every 3 days once it reaches maturity.",
     "name": "Dill Seed",
     "icon_sprite": "spr_ui_item_bagseed_dill_icon",

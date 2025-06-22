@@ -21,7 +21,7 @@ export function itemParser(
   itemCategories.forEach((category) => {
     const sets = Object.keys(items[category]);
     sets.forEach((set) => {
-      const itemIds = Object.keys(items[category][set]);
+      const itemIds = Object.keys(items[category][set]) as ItemId[];
       itemIds.forEach((itemId) => {
         const item = items[category][set][itemId];
 
@@ -39,7 +39,7 @@ export function itemParser(
         }
 
         allItemIds.push(itemId);
-        const transformedItem = transformItem(item);
+        const transformedItem = transformItem(item, itemId);
         transformedItem.name = TranslationReferenceResolver.resolve(
           transformedItem.name
         );

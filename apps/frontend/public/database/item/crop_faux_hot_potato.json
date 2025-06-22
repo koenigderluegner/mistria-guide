@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_hot_potato",
   "item": {
+    "id": "crop_faux_hot_potato",
     "description": "A decorative faux hot potato.",
     "name": "Faux Hot Potato",
     "icon_sprite": "spr_ui_item_decor_crop_faux_hot_potato",

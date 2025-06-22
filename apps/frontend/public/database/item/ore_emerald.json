@@ -1,6 +1,7 @@
 {
   "id": "ore_emerald",
   "item": {
+    "id": "ore_emerald",
     "description": "A shining green gem. Can be sold, gifted, or used in certain crafting recipes.",
     "name": "Emerald",
     "icon_sprite": "spr_ui_item_emerald",

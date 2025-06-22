@@ -1,6 +1,7 @@
 {
   "id": "rubber_fish",
   "item": {
+    "id": "rubber_fish",
     "description": "An uncommon artifact. How did this get in the water in the first place?",
     "name": "Rubber Fish",
     "icon_sprite": "spr_ui_item_rubber_fish",

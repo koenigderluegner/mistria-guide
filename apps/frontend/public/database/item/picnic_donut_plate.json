@@ -1,6 +1,7 @@
 {
   "id": "picnic_donut_plate",
   "item": {
+    "id": "picnic_donut_plate",
     "description": "A decorative donut plate.",
     "name": "Picnic Display Donuts",
     "icon_sprite": "spr_ui_item_picnic_snack_plate_pink",

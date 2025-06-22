@@ -1,6 +1,7 @@
 {
   "id": "spring_bed_purple",
   "item": {
+    "id": "spring_bed_purple",
     "description": "A spring themed bed with purple petal patterned sheets.",
     "name": "Spring Bed",
     "icon_sprite": "spr_ui_item_furniture_spring_bed_purple",

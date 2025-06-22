@@ -1,6 +1,7 @@
 {
   "id": "axe_mistril",
   "item": {
+    "id": "axe_mistril",
     "description": "An axe made from mistril. Can be charged to chop a 6x9 area.",
     "name": "Mistril Axe",
     "icon_sprite": "spr_ui_item_tool_mistril_axe",

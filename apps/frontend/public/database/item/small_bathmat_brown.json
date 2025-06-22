@@ -1,6 +1,7 @@
 {
   "id": "small_bathmat_brown",
   "item": {
+    "id": "small_bathmat_brown",
     "description": "A small brown bathmat.",
     "name": "Small Bathmat",
     "icon_sprite": "spr_ui_item_furniture_small_bathmat_brown",

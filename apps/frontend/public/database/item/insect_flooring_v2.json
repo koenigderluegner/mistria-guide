@@ -1,6 +1,7 @@
 {
   "id": "insect_flooring_v2",
   "item": {
+    "id": "insect_flooring_v2",
     "description": "Blue tile flooring with a butterfly pattern.",
     "name": "Insect Flooring",
     "icon_sprite": "spr_ui_item_furniture_insect_flooring_v2",

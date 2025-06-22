@@ -1,6 +1,7 @@
 {
   "id": "cavern_mossy_rug_v1",
   "item": {
+    "id": "cavern_mossy_rug_v1",
     "description": "A warm-toned green moss rug.",
     "name": "Mossy Rug",
     "icon_sprite": "spr_ui_item_furniture_mossy_rug_v1",

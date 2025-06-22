@@ -1,6 +1,7 @@
 {
   "id": "petrified_wood",
   "item": {
+    "id": "petrified_wood",
     "description": "An uncommon artifact. Incredibly old and beautiful.",
     "name": "Petrified Wood",
     "icon_sprite": "spr_ui_item_petrified_wood",

@@ -1,6 +1,7 @@
 {
   "id": "lemon",
   "item": {
+    "id": "lemon",
     "description": "The tart and citrusy fruit of the lemon tree, which fruits in spring. Used in a variety of cooking recipes.",
     "name": "Lemon",
     "icon_sprite": "spr_ui_item_lemon",

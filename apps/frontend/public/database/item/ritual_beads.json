@@ -1,6 +1,7 @@
 {
   "id": "ritual_beads",
   "item": {
+    "id": "ritual_beads",
     "description": "An uncommon artifact. Running these beads through your hand evokes a feeling of serenity.",
     "name": "Ritual Beads",
     "icon_sprite": "spr_ui_item_ritual_beads",

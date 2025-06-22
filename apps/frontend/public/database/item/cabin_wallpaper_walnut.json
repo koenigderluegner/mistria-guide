@@ -1,6 +1,7 @@
 {
   "id": "cabin_wallpaper_walnut",
   "item": {
+    "id": "cabin_wallpaper_walnut",
     "description": "Rustic walnut wallpaper for your home.",
     "name": "Rustic Cabin Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_cabin_wallpaper_v2",

@@ -1,6 +1,7 @@
 {
   "id": "puffer_fish",
   "item": {
+    "id": "puffer_fish",
     "description": "An uncommon medium ocean fish found in summer and winter.",
     "name": "Puffer Fish",
     "icon_sprite": "spr_ui_item_fish_medium_puffer_fish",

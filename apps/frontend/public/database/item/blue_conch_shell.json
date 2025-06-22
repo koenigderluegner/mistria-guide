@@ -1,6 +1,7 @@
 {
   "id": "blue_conch_shell",
   "item": {
+    "id": "blue_conch_shell",
     "description": "A common blue conch shell.",
     "name": "Blue Conch Shell",
     "icon_sprite": "spr_ui_item_shell_small_blue_conch",

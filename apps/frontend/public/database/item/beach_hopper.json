@@ -1,6 +1,7 @@
 {
   "id": "beach_hopper",
   "item": {
+    "id": "beach_hopper",
     "description": "A common insect found at the beach in all seasons.",
     "name": "Beach Hopper",
     "icon_sprite": "spr_ui_item_insect_beach_hopper",

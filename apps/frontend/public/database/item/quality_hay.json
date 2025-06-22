@@ -1,6 +1,7 @@
 {
   "id": "quality_hay",
   "item": {
+    "id": "quality_hay",
     "description": "Quality feed for large animals. It can be placed in barn troughs or hand-fed.",
     "name": "Quality Large Animal Feed",
     "icon_sprite": "spr_ui_item_animal_feed_hay_quality_bag",

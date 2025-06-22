@@ -1,6 +1,7 @@
 {
   "id": "inn_wooden_flooring",
   "item": {
+    "id": "inn_wooden_flooring",
     "description": "Herringbone wood flooring, matching the design used at the Inn.",
     "name": "Inn Wooden Flooring",
     "icon_sprite": "spr_ui_item_furniture_inn_wooden_flooring",

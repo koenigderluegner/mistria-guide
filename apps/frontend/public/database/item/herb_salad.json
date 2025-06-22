@@ -1,6 +1,7 @@
 {
   "id": "herb_salad",
   "item": {
+    "id": "herb_salad",
     "description": "This flavor-packed salad of aromatic herbs tastes distinctly refreshing.",
     "name": "Herb Salad",
     "icon_sprite": "spr_ui_item_herb_salad",

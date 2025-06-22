@@ -1,6 +1,7 @@
 {
   "id": "emerald_chair_v1",
   "item": {
+    "id": "emerald_chair_v1",
     "description": "An ornate emerald chair with gold detailing.",
     "name": "Emerald Chair",
     "icon_sprite": "spr_ui_item_furniture_emerald_chair_v1",

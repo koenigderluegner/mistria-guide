@@ -1,6 +1,7 @@
 {
   "id": "sword_scrap_metal",
   "item": {
+    "id": "sword_scrap_metal",
     "description": "A sword constructed out of scrap metal.",
     "name": "Scrap Metal Sword",
     "icon_sprite": "spr_ui_item_tool_scrap_metal_sword",

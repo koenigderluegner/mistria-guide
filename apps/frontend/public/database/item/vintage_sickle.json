@@ -1,6 +1,7 @@
 {
   "id": "vintage_sickle",
   "item": {
+    "id": "vintage_sickle",
     "description": "An uncommon artifact. This vintage sickle was used by past generations to turn grass into fodder.",
     "name": "Vintage Sickle",
     "icon_sprite": "spr_ui_item_vintage_sickle",

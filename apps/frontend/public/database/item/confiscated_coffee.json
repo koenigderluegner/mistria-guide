@@ -1,6 +1,7 @@
 {
   "id": "confiscated_coffee",
   "item": {
+    "id": "confiscated_coffee",
     "description": "Confiscated coffee.",
     "name": "Confiscated Coffee",
     "icon_sprite": "spr_ui_item_confiscated_coffee",

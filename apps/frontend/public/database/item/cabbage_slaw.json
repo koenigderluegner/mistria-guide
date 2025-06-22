@@ -1,6 +1,7 @@
 {
   "id": "cabbage_slaw",
   "item": {
+    "id": "cabbage_slaw",
     "description": "A crunchy and satisfying blend of shredded cabbage and fennel.",
     "name": "Cabbage Slaw",
     "icon_sprite": "spr_ui_item_cabbageslaw",

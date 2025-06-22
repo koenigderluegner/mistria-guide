@@ -1,6 +1,7 @@
 {
   "id": "lava_chestnuts",
   "item": {
+    "id": "lava_chestnuts",
     "description": "These delicious chestnuts come pre-cooked!",
     "name": "Lava Chestnuts",
     "icon_sprite": "spr_ui_item_lava_chestnut",

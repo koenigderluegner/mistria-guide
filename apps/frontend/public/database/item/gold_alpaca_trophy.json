@@ -1,6 +1,7 @@
 {
   "id": "gold_alpaca_trophy",
   "item": {
+    "id": "gold_alpaca_trophy",
     "description": "A gold display trophy commemorating your alpaca's first place win at the Animal Festival.",
     "name": "Gold Alpaca Trophy",
     "icon_sprite": "spr_ui_item_decor_gold_alpaca_trophy",

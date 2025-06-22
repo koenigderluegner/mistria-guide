@@ -1,6 +1,7 @@
 {
   "id": "rabbit_plushie",
   "item": {
+    "id": "rabbit_plushie",
     "description": "A cute rabbit plushie. Awarded at the Animal Festival.",
     "name": "Rabbit Plushie",
     "icon_sprite": "spr_ui_item_decor_rabbit_plushie",

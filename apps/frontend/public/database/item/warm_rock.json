@@ -1,6 +1,7 @@
 {
   "id": "warm_rock",
   "item": {
+    "id": "warm_rock",
     "description": "A common Lava Caves artifact. This rock is ordinary in appearance, but it remains perpetually warm to the touch.",
     "name": "Warm Rock",
     "icon_sprite": "spr_ui_item_warm_rock",

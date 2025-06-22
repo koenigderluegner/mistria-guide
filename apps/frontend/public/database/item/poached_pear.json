@@ -1,6 +1,7 @@
 {
   "id": "poached_pear",
   "item": {
+    "id": "poached_pear",
     "description": "A pear soaked in syrup, with a sweet, melt-in-your-mouth texture.",
     "name": "Poached Pear",
     "icon_sprite": "spr_ui_item_poached_pear",

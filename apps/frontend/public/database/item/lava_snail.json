@@ -1,6 +1,7 @@
 {
   "id": "lava_snail",
   "item": {
+    "id": "lava_snail",
     "description": "An uncommon Lava Caves insect. This snail leaves tiny molten trails.",
     "name": "Lava Snail",
     "icon_sprite": "spr_ui_item_insect_lava_snail",

@@ -1,6 +1,7 @@
 {
   "id": "adept_kitchen",
   "item": {
+    "id": "adept_kitchen",
     "description": "An expert kitchen used for making 1-5 star dishes. Suitable for cooking levels 0-40+.",
     "name": "Level 3 Kitchen",
     "icon_sprite": "spr_ui_item_kitchen_tier_3",

@@ -1,6 +1,7 @@
 {
   "id": "miners_crate_chair_v2",
   "item": {
+    "id": "miners_crate_chair_v2",
     "description": "A crate-like chair with a cool-tone hue.",
     "name": "Mines Crate Chair",
     "icon_sprite": "spr_ui_item_furniture_miners_crate_chair_v2",

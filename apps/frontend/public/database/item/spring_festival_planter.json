@@ -1,6 +1,7 @@
 {
   "id": "spring_festival_planter",
   "item": {
+    "id": "spring_festival_planter",
     "description": "A cute white and pink planter vase full of breath of spring flowers.",
     "name": "Breath of Spring Planter",
     "icon_sprite": "spr_ui_item_decor_spring_festival_planter",

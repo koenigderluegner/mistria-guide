@@ -1,6 +1,7 @@
 {
   "id": "brightbulb_moth",
   "item": {
+    "id": "brightbulb_moth",
     "description": "A common insect found at night in winter.",
     "name": "Brightbulb Moth",
     "icon_sprite": "spr_ui_item_insect_brightbulb_moth",

@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_snow_peas",
   "item": {
+    "id": "crop_faux_snow_peas",
     "description": "A decorative faux snow pea plant.",
     "name": "Faux Snow Peas",
     "icon_sprite": "spr_ui_item_decor_crop_faux_snow_peas",

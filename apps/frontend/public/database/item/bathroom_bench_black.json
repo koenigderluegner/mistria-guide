@@ -1,6 +1,7 @@
 {
   "id": "bathroom_bench_black",
   "item": {
+    "id": "bathroom_bench_black",
     "description": "A black bathroom bench.",
     "name": "Bathroom Bench",
     "icon_sprite": "spr_ui_item_furniture_bathroom_bench_black",

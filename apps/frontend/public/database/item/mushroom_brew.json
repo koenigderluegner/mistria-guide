@@ -1,6 +1,7 @@
 {
   "id": "mushroom_brew",
   "item": {
+    "id": "mushroom_brew",
     "description": "A drink made from mushrooms with a satisfying, earthy flavor.",
     "name": "Mushroom Brew",
     "icon_sprite": "spr_ui_item_mushroom_brew",

@@ -1,6 +1,7 @@
 {
   "id": "starter_scarecrow",
   "item": {
+    "id": "starter_scarecrow",
     "description": "A friendly scarecrow.",
     "name": "Scarecrow",
     "icon_sprite": "spr_ui_item_decor_starter_scarecrow",

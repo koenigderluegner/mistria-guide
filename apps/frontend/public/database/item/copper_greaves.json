@@ -1,6 +1,7 @@
 {
   "id": "copper_greaves",
   "item": {
+    "id": "copper_greaves",
     "description": "A pair of copper greaves. Equip to increase defense.",
     "name": "Copper Greaves",
     "icon_sprite": "spr_ui_item_equipment_copper_boots",

@@ -1,6 +1,7 @@
 {
   "id": "spring_wallpaper_orange",
   "item": {
+    "id": "spring_wallpaper_orange",
     "description": "A light yellow-orange petal patterned wallpaper.",
     "name": "Spring Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_spring_wallpaper_orange",

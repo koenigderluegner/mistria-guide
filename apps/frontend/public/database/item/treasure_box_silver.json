@@ -1,6 +1,7 @@
 {
   "id": "treasure_box_silver",
   "item": {
+    "id": "treasure_box_silver",
     "description": "A rare silver treasure box. Open it to find out what's inside!",
     "name": "Silver Treasure Box",
     "icon_sprite": "spr_ui_item_silver_chest"

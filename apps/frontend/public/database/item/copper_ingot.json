@@ -1,6 +1,7 @@
 {
   "id": "copper_ingot",
   "item": {
+    "id": "copper_ingot",
     "description": "An ingot of solid copper. Used in a variety of blacksmithing and crafting recipes.",
     "name": "Copper Ingot",
     "icon_sprite": "spr_ui_item_copper_ingot",

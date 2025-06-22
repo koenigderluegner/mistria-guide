@@ -1,6 +1,7 @@
 {
   "id": "nettle",
   "item": {
+    "id": "nettle",
     "description": "A wild plant foraged in spring with an earthy taste similar to spinach. Commonly used as a cooking ingredient.",
     "name": "Nettle",
     "icon_sprite": "spr_ui_item_nettle",

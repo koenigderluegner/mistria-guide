@@ -1,6 +1,7 @@
 {
   "id": "shadow_flower",
   "item": {
+    "id": "shadow_flower",
     "description": "A rare flower that only grows in darkness. It makes a unique gift.",
     "name": "Shadow Flower",
     "icon_sprite": "spr_ui_item_shadow_flower",

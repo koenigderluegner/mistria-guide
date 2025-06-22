@@ -1,6 +1,7 @@
 {
   "id": "haunted_attic_table_dark",
   "item": {
+    "id": "haunted_attic_table_dark",
     "description": "An old fashioned table with a patched purple tablecloth.",
     "name": "Haunted Attic Table",
     "icon_sprite": "spr_ui_item_furniture_haunted_attic_table_dark",

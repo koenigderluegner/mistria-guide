@@ -1,6 +1,7 @@
 {
   "id": "stone_loach",
   "item": {
+    "id": "stone_loach",
     "description": "A common medium Upper Mines fish. They easily blend in with the surrounding rocks.",
     "name": "Stone Loach",
     "icon_sprite": "spr_ui_item_fish_medium_stone_loach",

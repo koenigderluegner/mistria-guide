@@ -1,6 +1,7 @@
 {
   "id": "watering_can_worn",
   "item": {
+    "id": "watering_can_worn",
     "description": "A worn but still serviceable watering can. Used to water plants.",
     "name": "Worn Watering Can",
     "icon_sprite": "spr_ui_item_tool_rusty_watering_can",

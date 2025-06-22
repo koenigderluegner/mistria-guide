@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_tomato",
   "item": {
+    "id": "crop_faux_tomato",
     "description": "A decorative faux tomato plant.",
     "name": "Faux Tomato",
     "icon_sprite": "spr_ui_item_decor_crop_faux_tomato",

@@ -1,6 +1,7 @@
 {
   "id": "large_fluffy_rug_black",
   "item": {
+    "id": "large_fluffy_rug_black",
     "description": "A large black fluffy rug.",
     "name": "Large Fluffy Rug",
     "icon_sprite": "spr_ui_item_furniture_large_fluffy_rug_black",

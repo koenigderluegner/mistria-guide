@@ -1,6 +1,7 @@
 {
   "id": "blue_pet_dish",
   "item": {
+    "id": "blue_pet_dish",
     "description": "A decorative blue pet dish. It's very cute!",
     "name": "Blue Pet Dish",
     "icon_sprite": "spr_ui_item_decor_blue_pet_dish",

@@ -1,6 +1,7 @@
 {
   "id": "balors_crate",
   "item": {
+    "id": "balors_crate",
     "description": "This shouldn't be in your inventory...",
     "name": "Balor's Crate",
     "icon_sprite": "spr_town_crate_cutscene_spring",

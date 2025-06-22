@@ -1,6 +1,7 @@
 {
   "id": "explorer_lamp_green",
   "item": {
+    "id": "explorer_lamp_green",
     "description": "A green explorer's standing lamp.",
     "name": "Explorer Lamp",
     "icon_sprite": "spr_ui_item_furniture_explorer_lamp_green",

@@ -1,6 +1,7 @@
 {
   "id": "shard_mass",
   "item": {
+    "id": "shard_mass",
     "description": "A large mass of shards from unknown artifacts. Used as a crafting material.",
     "name": "Shard Mass",
     "icon_sprite": "spr_ui_item_shard_mass",

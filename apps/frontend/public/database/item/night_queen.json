@@ -1,6 +1,7 @@
 {
   "id": "night_queen",
   "item": {
+    "id": "night_queen",
     "description": "A beautiful flower that grows in summer. Makes a nice gift.",
     "name": "Night Queen",
     "icon_sprite": "spr_ui_item_night_queen",

@@ -1,6 +1,7 @@
 {
   "id": "crystal_string_lights_blue",
   "item": {
+    "id": "crystal_string_lights_blue",
     "description": "Blue crystal string lights to hang on your wall.",
     "name": "Crystal Wall String Lights",
     "icon_sprite": "spr_ui_item_decor_crystal_string_lights_blue",

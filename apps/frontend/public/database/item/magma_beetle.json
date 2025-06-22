@@ -1,6 +1,7 @@
 {
   "id": "magma_beetle",
   "item": {
+    "id": "magma_beetle",
     "description": "A rare insect found in summer.",
     "name": "Magma Beetle",
     "icon_sprite": "spr_ui_item_insect_magmabeetle",

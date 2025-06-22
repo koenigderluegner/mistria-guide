@@ -1,6 +1,7 @@
 {
   "id": "monster_hoop",
   "item": {
+    "id": "monster_hoop",
     "description": "Unimplemented item.",
     "name": "Monster Hoop",
     "icon_sprite": "spr_ui_item_monster_hoop",

@@ -1,6 +1,7 @@
 {
   "id": "mana_potion",
   "item": {
+    "id": "mana_potion",
     "description": "This potion restores 1 mana orb when consumed. Tastes like blueberries.",
     "name": "Mana Potion",
     "icon_sprite": "spr_ui_item_mana_potion",

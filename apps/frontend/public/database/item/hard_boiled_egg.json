@@ -1,6 +1,7 @@
 {
   "id": "hard_boiled_egg",
   "item": {
+    "id": "hard_boiled_egg",
     "description": "A perfectly cooked hard boiled egg.",
     "name": "Hard Boiled Egg",
     "icon_sprite": "spr_ui_item_hard_boiled_egg",

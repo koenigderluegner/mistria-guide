@@ -1,6 +1,7 @@
 {
   "id": "picket_fence",
   "item": {
+    "id": "picket_fence",
     "description": "A placeable picket fence.",
     "name": "Picket Fence",
     "icon_sprite": "spr_ui_item_fence_picket",

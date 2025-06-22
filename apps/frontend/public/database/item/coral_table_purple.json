@@ -1,6 +1,7 @@
 {
   "id": "coral_table_purple",
   "item": {
+    "id": "coral_table_purple",
     "description": "A purple coral table.",
     "name": "Coral Table",
     "icon_sprite": "spr_ui_item_furniture_coral_table_purple",

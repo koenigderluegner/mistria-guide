@@ -1,6 +1,7 @@
 {
   "id": "spring_potted_tree_purple",
   "item": {
+    "id": "spring_potted_tree_purple",
     "description": "A flowering tree in a purple pot.",
     "name": "Spring Potted Tree",
     "icon_sprite": "spr_ui_item_furniture_spring_potted_tree_purple",

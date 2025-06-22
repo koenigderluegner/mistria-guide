@@ -1,6 +1,7 @@
 {
   "id": "iron_greaves",
   "item": {
+    "id": "iron_greaves",
     "description": "Greaves constructed out of iron. Equip to increase defense.",
     "name": "Iron Greaves",
     "icon_sprite": "spr_ui_item_equipment_iron_boots",

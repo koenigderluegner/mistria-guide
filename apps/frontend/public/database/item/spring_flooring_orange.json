@@ -1,6 +1,7 @@
 {
   "id": "spring_flooring_orange",
   "item": {
+    "id": "spring_flooring_orange",
     "description": "Light yellow-orange wood flooring.",
     "name": "Spring Flooring",
     "icon_sprite": "spr_ui_item_furniture_spring_flooring_orange",

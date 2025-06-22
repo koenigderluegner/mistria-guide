@@ -1,6 +1,7 @@
 {
   "id": "cheese",
   "item": {
+    "id": "cheese",
     "description": "Cheese made with cow's milk. Used in a variety of cooking recipes.",
     "name": "Cheese",
     "icon_sprite": "spr_ui_item_cheese",

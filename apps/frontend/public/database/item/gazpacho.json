@@ -1,6 +1,7 @@
 {
   "id": "gazpacho",
   "item": {
+    "id": "gazpacho",
     "description": "A fresh tasting soup served cold on hot summer days.",
     "name": "Gazpacho",
     "icon_sprite": "spr_ui_item_gazpacho",

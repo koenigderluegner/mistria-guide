@@ -1,6 +1,7 @@
 {
   "id": "mont_blanc",
   "item": {
+    "id": "mont_blanc",
     "description": "The rich chestnut flavor of this dessert is complemented by its unique texture.",
     "name": "Mont Blanc",
     "icon_sprite": "spr_ui_item_mont_blanc",

@@ -1,6 +1,7 @@
 {
   "id": "explorer_lamp_brown",
   "item": {
+    "id": "explorer_lamp_brown",
     "description": "A beige explorer's standing lamp.",
     "name": "Explorer Lamp",
     "icon_sprite": "spr_ui_item_furniture_explorer_lamp_brown",

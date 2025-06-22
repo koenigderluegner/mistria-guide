@@ -1,6 +1,7 @@
 {
   "id": "miners_copper_node",
   "item": {
+    "id": "miners_copper_node",
     "description": "A decorative copper node.",
     "name": "Ornamental Copper Node",
     "icon_sprite": "spr_ui_item_furniture_copper_node",

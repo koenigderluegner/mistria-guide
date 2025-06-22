@@ -1,6 +1,7 @@
 {
   "id": "horseradish_salmon",
   "item": {
+    "id": "horseradish_salmon",
     "description": "A mouthwatering salmon steak with a spicy horseradish crust.",
     "name": "Horseradish Salmon",
     "icon_sprite": "spr_ui_item_horseradish_salmon",

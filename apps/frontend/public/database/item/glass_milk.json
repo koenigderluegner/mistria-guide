@@ -1,6 +1,7 @@
 {
   "id": "glass_milk",
   "item": {
+    "id": "glass_milk",
     "description": "A decorative milk glass.",
     "name": "Milk Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_milk",

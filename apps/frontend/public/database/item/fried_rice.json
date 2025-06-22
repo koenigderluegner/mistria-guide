@@ -1,6 +1,7 @@
 {
   "id": "fried_rice",
   "item": {
+    "id": "fried_rice",
     "description": "This popular dish is a perfect mix of rice and vegetables.",
     "name": "Fried Rice",
     "icon_sprite": "spr_ui_item_fried_rice",

@@ -1,6 +1,7 @@
 {
   "id": "iris",
   "item": {
+    "id": "iris",
     "description": "A lovely blue flower grown in the summer. Makes a good gift.",
     "name": "Iris",
     "icon_sprite": "spr_ui_item_iris",

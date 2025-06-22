@@ -1,6 +1,7 @@
 {
   "id": "cloth_chestpiece",
   "item": {
+    "id": "cloth_chestpiece",
     "description": "A cloth chest piece. It's basically useless.",
     "name": "Cloth Chestpiece",
     "icon_sprite": "spr_ui_item_equipment_cloth_chestpiece",

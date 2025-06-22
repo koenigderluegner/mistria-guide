@@ -1,6 +1,7 @@
 {
   "id": "water_balloon_fish",
   "item": {
+    "id": "water_balloon_fish",
     "description": "An uncommon medium Tide Caverns fish. It takes in an impressive amount of water to discourage predators.",
     "name": "Water Balloon Fish",
     "icon_sprite": "spr_ui_item_fish_medium_water_balloon_fish",

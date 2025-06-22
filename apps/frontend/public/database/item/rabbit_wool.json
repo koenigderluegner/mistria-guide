@@ -1,6 +1,7 @@
 {
   "id": "rabbit_wool",
   "item": {
+    "id": "rabbit_wool",
     "description": "Fluffy, soft wool from a rabbit. Used in a variety of crafting recipes.",
     "name": "Rabbit Wool",
     "icon_sprite": "spr_ui_item_rabbit_hair_regular",

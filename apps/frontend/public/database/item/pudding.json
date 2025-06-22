@@ -1,6 +1,7 @@
 {
   "id": "pudding",
   "item": {
+    "id": "pudding",
     "description": "A creamy, sumptuous pudding.",
     "name": "Pudding",
     "icon_sprite": "spr_ui_item_pudding",

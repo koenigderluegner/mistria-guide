@@ -1,6 +1,7 @@
 {
   "id": "dungeon_fountain_stamina",
   "item": {
+    "id": "dungeon_fountain_stamina",
     "description": "This shouldn't be visible to you in game!",
     "name": "Fountain Stamina 33",
     "icon_sprite": "spr_ui_item_stone_cup",

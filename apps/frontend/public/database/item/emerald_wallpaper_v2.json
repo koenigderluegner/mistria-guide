@@ -1,6 +1,7 @@
 {
   "id": "emerald_wallpaper_v2",
   "item": {
+    "id": "emerald_wallpaper_v2",
     "description": "Ornate cream colored wallpaper with white detailing.",
     "name": "Emerald Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_emerald_wallpaper_v2",

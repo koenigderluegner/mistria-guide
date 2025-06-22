@@ -1,6 +1,7 @@
 {
   "id": "spring_flooring_pink",
   "item": {
+    "id": "spring_flooring_pink",
     "description": "Pink wood flooring.",
     "name": "Spring Flooring",
     "icon_sprite": "spr_ui_item_furniture_spring_flooring_pink",

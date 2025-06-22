@@ -1,6 +1,7 @@
 {
   "id": "gathering_basket",
   "item": {
+    "id": "gathering_basket",
     "description": "An uncommon artifact. Still smells faintly of Bell Berries.",
     "name": "Gathering Basket",
     "icon_sprite": "spr_ui_item_gathering_basket",

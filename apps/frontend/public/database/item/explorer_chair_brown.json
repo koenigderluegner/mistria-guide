@@ -1,6 +1,7 @@
 {
   "id": "explorer_chair_brown",
   "item": {
+    "id": "explorer_chair_brown",
     "description": "A comfy beige explorer's chair.",
     "name": "Explorer Chair",
     "icon_sprite": "spr_ui_item_furniture_explorer_chair_brown",

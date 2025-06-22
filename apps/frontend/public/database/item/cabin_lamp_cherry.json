@@ -1,6 +1,7 @@
 {
   "id": "cabin_lamp_cherry",
   "item": {
+    "id": "cabin_lamp_cherry",
     "description": "A rustic lamp with a red lampshade.",
     "name": "Rustic Cabin Lamp",
     "icon_sprite": "spr_ui_item_furniture_cabin_lamp_v1",

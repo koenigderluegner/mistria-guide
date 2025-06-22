@@ -1,6 +1,7 @@
 {
   "id": "lost_crown_of_aldaria",
   "item": {
+    "id": "lost_crown_of_aldaria",
     "description": "A legendary artifact. Could this be the crown that was lost after the Caldosian Empire's invasion?",
     "name": "Lost Crown of Aldaria",
     "icon_sprite": "spr_ui_item_lost_crown_of_aldaria",

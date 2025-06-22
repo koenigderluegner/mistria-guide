@@ -1,6 +1,7 @@
 {
   "id": "sapling_pine",
   "item": {
+    "id": "sapling_pine",
     "description": "A pine tree sapling. This tree can be planted any time of year.",
     "name": "Pine Sapling",
     "icon_sprite": "spr_ui_item_pine_sapling",

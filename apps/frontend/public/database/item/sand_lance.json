@@ -1,6 +1,7 @@
 {
   "id": "sand_lance",
   "item": {
+    "id": "sand_lance",
     "description": "A common small ocean fish found in winter.",
     "name": "Sand Lance",
     "icon_sprite": "spr_ui_item_fish_small_sand_lance",

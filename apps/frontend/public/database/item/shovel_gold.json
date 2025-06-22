@@ -1,6 +1,7 @@
 {
   "id": "shovel_gold",
   "item": {
+    "id": "shovel_gold",
     "description": "A splendid golden shovel. Can be charged to dig a 6x6 area.",
     "name": "Gold Shovel",
     "icon_sprite": "spr_ui_item_tool_gold_shovel",

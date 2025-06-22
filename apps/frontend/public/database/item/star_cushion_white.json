@@ -1,6 +1,7 @@
 {
   "id": "star_cushion_white",
   "item": {
+    "id": "star_cushion_white",
     "description": "A Shooting Star Festival cushion in white.",
     "name": "Star Cushion",
     "icon_sprite": "spr_ui_item_decor_star_cushion_white",

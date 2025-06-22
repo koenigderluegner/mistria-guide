@@ -1,6 +1,7 @@
 {
   "id": "cave_eel",
   "item": {
+    "id": "cave_eel",
     "description": "An uncommon medium Upper Mines fish. They build nests out of stone.",
     "name": "Cave Eel",
     "icon_sprite": "spr_ui_item_fish_medium_cave_eel",

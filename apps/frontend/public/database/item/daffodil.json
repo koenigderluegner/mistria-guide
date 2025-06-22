@@ -1,6 +1,7 @@
 {
   "id": "daffodil",
   "item": {
+    "id": "daffodil",
     "description": "A lovely yellow flower that grows in the spring. Can be given as a gift or used in various crafting recipes.",
     "name": "Daffodil",
     "icon_sprite": "spr_ui_item_daffodil",

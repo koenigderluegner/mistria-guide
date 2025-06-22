@@ -1,6 +1,7 @@
 {
   "id": "hot_toddy",
   "item": {
+    "id": "hot_toddy",
     "description": "Whiskey, honey and a secret blend of spices make this drink a comforting favorite.",
     "name": "Hot Toddy",
     "icon_sprite": "spr_ui_item_hot_toddy",

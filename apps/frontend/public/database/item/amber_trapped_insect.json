@@ -1,6 +1,7 @@
 {
   "id": "amber_trapped_insect",
   "item": {
+    "id": "amber_trapped_insect",
     "description": "An uncommon artifact. It's noticeably bigger than today's insects.",
     "name": "Amber Trapped Insect",
     "icon_sprite": "spr_ui_item_amber_trapped_insect",

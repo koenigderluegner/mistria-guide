@@ -1,6 +1,7 @@
 {
   "id": "dragon_horn_mushroom",
   "item": {
+    "id": "dragon_horn_mushroom",
     "description": "Hard to find, but delicious!",
     "name": "Dragon Horn Mushroom",
     "icon_sprite": "spr_ui_item_dragonshorn",

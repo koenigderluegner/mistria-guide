@@ -1,6 +1,7 @@
 {
   "id": "net_silver",
   "item": {
+    "id": "net_silver",
     "description": "A silver handled bug net. The only change is the aesthetic.",
     "name": "Silver Net",
     "icon_sprite": "spr_ui_item_tool_silver_net",

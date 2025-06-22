@@ -1,6 +1,7 @@
 {
   "id": "winterpillar",
   "item": {
+    "id": "winterpillar",
     "description": "A common insect found in winter. Sometimes found when shaking trees.",
     "name": "Winterpillar",
     "icon_sprite": "spr_ui_item_insect_winterpillar",

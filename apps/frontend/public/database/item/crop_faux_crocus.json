@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_crocus",
   "item": {
+    "id": "crop_faux_crocus",
     "description": "A decorative faux crocus.",
     "name": "Faux Crocus",
     "icon_sprite": "spr_ui_item_decor_crop_faux_crocus",

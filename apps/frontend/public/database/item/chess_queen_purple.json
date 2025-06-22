@@ -1,6 +1,7 @@
 {
   "id": "chess_queen_purple",
   "item": {
+    "id": "chess_queen_purple",
     "description": "An oversized purple queen chess piece.",
     "name": "Chess Queen Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_queen_purple",

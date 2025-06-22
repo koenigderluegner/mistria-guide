@@ -1,6 +1,7 @@
 {
   "id": "red_wine",
   "item": {
+    "id": "red_wine",
     "description": "A dry wine with a complex bouquet.",
     "name": "Red Wine",
     "icon_sprite": "spr_ui_item_red_wine",

@@ -1,6 +1,7 @@
 {
   "id": "star_cushion_pink",
   "item": {
+    "id": "star_cushion_pink",
     "description": "A Shooting Star Festival cushion in pink.",
     "name": "Star Cushion",
     "icon_sprite": "spr_ui_item_decor_star_cushion_pink",

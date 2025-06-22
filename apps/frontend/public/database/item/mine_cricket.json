@@ -1,6 +1,7 @@
 {
   "id": "mine_cricket",
   "item": {
+    "id": "mine_cricket",
     "description": "A rare Upper Mines insect. Their songs are kinda catchy...",
     "name": "Mine Cricket",
     "icon_sprite": "spr_ui_item_insect_mine_cricket",

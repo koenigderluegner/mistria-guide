@@ -1,6 +1,7 @@
 {
   "id": "crucian_carp",
   "item": {
+    "id": "crucian_carp",
     "description": "A common medium pond fish found in spring.",
     "name": "Crucian Carp",
     "icon_sprite": "spr_ui_item_fish_medium_crucian_carp",

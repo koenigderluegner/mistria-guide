@@ -1,6 +1,7 @@
 {
   "id": "sardine",
   "item": {
+    "id": "sardine",
     "description": "A common small ocean fish found in all seasons.",
     "name": "Sardine",
     "icon_sprite": "spr_ui_item_fish_small_sardine",

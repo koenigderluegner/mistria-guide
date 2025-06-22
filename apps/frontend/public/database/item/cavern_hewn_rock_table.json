@@ -1,6 +1,7 @@
 {
   "id": "cavern_hewn_rock_table",
   "item": {
+    "id": "cavern_hewn_rock_table",
     "description": "A hewn rock table.",
     "name": "Hewn Rock Table",
     "icon_sprite": "spr_ui_item_furniture_hewn_stone_table",

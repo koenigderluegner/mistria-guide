@@ -1,6 +1,7 @@
 {
   "id": "crop_sign_night_queen",
   "item": {
+    "id": "crop_sign_night_queen",
     "description": "A wooden sign featuring a painted night queen.",
     "name": "Night queen Sign",
     "icon_sprite": "spr_ui_item_crop_sign_night_queen",

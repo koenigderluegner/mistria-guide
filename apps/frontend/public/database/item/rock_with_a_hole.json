@@ -1,6 +1,7 @@
 {
   "id": "rock_with_a_hole",
   "item": {
+    "id": "rock_with_a_hole",
     "description": "An uncommon artifact. Seems to be naturally formed.",
     "name": "Rock with a Hole",
     "icon_sprite": "spr_ui_item_rock_with_a_hole",

@@ -1,6 +1,7 @@
 {
   "id": "lobster_roll",
   "item": {
+    "id": "lobster_roll",
     "description": "A popular seaside lunch with a rich and creamy flavor.",
     "name": "Lobster Roll",
     "icon_sprite": "spr_ui_item_lobster_roll",

@@ -1,6 +1,7 @@
 {
   "id": "basic_wallpaper_walnut",
   "item": {
+    "id": "basic_wallpaper_walnut",
     "description": "Basic walnut wallpaper for your home.",
     "name": "Basic Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_basic_wallpaper_v2",

@@ -1,6 +1,7 @@
 {
   "id": "shovel_iron",
   "item": {
+    "id": "shovel_iron",
     "description": "An iron shovel. Can be charged to dig a 3x3 area.",
     "name": "Iron Shovel",
     "icon_sprite": "spr_ui_item_tool_iron_shovel",

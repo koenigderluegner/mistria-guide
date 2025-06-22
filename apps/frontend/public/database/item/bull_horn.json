@@ -1,6 +1,7 @@
 {
   "id": "bull_horn",
   "item": {
+    "id": "bull_horn",
     "description": "A horn dropped by a bull. Used in a variety of crafting recipes.",
     "name": "Bull Horn",
     "icon_sprite": "spr_ui_item_cow_horn_regular",

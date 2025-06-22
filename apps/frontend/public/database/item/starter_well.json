@@ -1,6 +1,7 @@
 {
   "id": "starter_well",
   "item": {
+    "id": "starter_well",
     "description": "Well, well, well, if it isn't... a well.",
     "name": "Water Well",
     "icon_sprite": "spr_ui_item_decor_starter_well",

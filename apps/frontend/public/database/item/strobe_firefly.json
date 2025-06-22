@@ -1,6 +1,7 @@
 {
   "id": "strobe_firefly",
   "item": {
+    "id": "strobe_firefly",
     "description": "A legendary insect found at night in summer. It's mesmerizing!",
     "name": "Strobe Firefly",
     "icon_sprite": "spr_ui_item_insect_strobefirefly",

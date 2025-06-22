@@ -1,6 +1,7 @@
 {
   "id": "bakery_cake_slice_pastel",
   "item": {
+    "id": "bakery_cake_slice_pastel",
     "description": "A decorative slice of strawberry cake. Looks yummy!",
     "name": "Bakery Display Cake Slice",
     "icon_sprite": "spr_ui_item_decor_bakery_cake_slice_v1",

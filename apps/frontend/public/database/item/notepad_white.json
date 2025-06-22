@@ -1,6 +1,7 @@
 {
   "id": "notepad_white",
   "item": {
+    "id": "notepad_white",
     "description": "A decorative white notepad.",
     "name": "Notepad",
     "icon_sprite": "spr_ui_item_decor_clutter_notepad_white",

@@ -1,6 +1,7 @@
 {
   "id": "flower_crown_beetle",
   "item": {
+    "id": "flower_crown_beetle",
     "description": "A legendary insect found during the daytime in spring. It's so cute!",
     "name": "Flower Crown Beetle",
     "icon_sprite": "spr_ui_item_insect_flowercrownbeetle",

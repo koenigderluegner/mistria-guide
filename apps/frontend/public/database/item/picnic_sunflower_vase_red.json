@@ -1,6 +1,7 @@
 {
   "id": "picnic_sunflower_vase_red",
   "item": {
+    "id": "picnic_sunflower_vase_red",
     "description": "A pretty vase of sunflowers with a red accent.",
     "name": "Picnic Sunflower Vase",
     "icon_sprite": "spr_ui_item_picnic_sunflower_vase_red",

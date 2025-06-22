@@ -1,6 +1,7 @@
 {
   "id": "lightning_dragonfly",
   "item": {
+    "id": "lightning_dragonfly",
     "description": "A rare insect found during thunderstorms in all seasons but winter.",
     "name": "Lightning Dragonfly",
     "icon_sprite": "spr_ui_item_insect_lightningdragonfly",

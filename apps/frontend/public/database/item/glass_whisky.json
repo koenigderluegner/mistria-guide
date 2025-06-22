@@ -1,6 +1,7 @@
 {
   "id": "glass_whisky",
   "item": {
+    "id": "glass_whisky",
     "description": "A decorative whisky glass.",
     "name": "Whisky Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_whisky",

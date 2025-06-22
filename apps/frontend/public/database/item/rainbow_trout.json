@@ -1,6 +1,7 @@
 {
   "id": "rainbow_trout",
   "item": {
+    "id": "rainbow_trout",
     "description": "A common medium pond fish found in fall.",
     "name": "Rainbow Trout",
     "icon_sprite": "spr_ui_item_fish_medium_rainbow_trout",

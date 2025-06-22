@@ -1,6 +1,7 @@
 {
   "id": "berry_bowl",
   "item": {
+    "id": "berry_bowl",
     "description": "A variety of juicy, fresh-picked berries with a drizzle of honey.",
     "name": "Berry Bowl",
     "icon_sprite": "spr_ui_item_berry_bowl",

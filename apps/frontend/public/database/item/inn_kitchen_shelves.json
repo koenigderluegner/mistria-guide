@@ -1,6 +1,7 @@
 {
   "id": "inn_kitchen_shelves",
   "item": {
+    "id": "inn_kitchen_shelves",
     "description": "Wall mounted kitchen shelves, matching the design used at the Inn.",
     "name": "Inn Kitchen Shelves",
     "icon_sprite": "spr_ui_item_furniture_inn_kitchen_shelves",

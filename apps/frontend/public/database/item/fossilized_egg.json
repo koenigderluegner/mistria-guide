@@ -1,6 +1,7 @@
 {
   "id": "fossilized_egg",
   "item": {
+    "id": "fossilized_egg",
     "description": "A rare artifact. What could be inside?",
     "name": "Fossilized Egg",
     "icon_sprite": "spr_ui_item_fossilized_egg",

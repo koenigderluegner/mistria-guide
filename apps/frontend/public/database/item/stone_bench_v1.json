@@ -1,6 +1,7 @@
 {
   "id": "stone_bench_v1",
   "item": {
+    "id": "stone_bench_v1",
     "description": "A stone bench.",
     "name": "Stone Bench",
     "icon_sprite": "spr_ui_item_decor_stone_bench_v1",

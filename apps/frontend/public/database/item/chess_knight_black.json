@@ -1,6 +1,7 @@
 {
   "id": "chess_knight_black",
   "item": {
+    "id": "chess_knight_black",
     "description": "An oversized black knight chess piece.",
     "name": "Chess Knight Piece",
     "icon_sprite": "spr_ui_item_furniture_chess_knight_black",

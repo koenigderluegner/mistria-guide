@@ -1,6 +1,7 @@
 {
   "id": "dragon_scale",
   "item": {
+    "id": "dragon_scale",
     "description": "An uncommon artifact. The passing of thousands of years has hardened this scale into something stronger than steel.",
     "name": "Dragon Scale",
     "icon_sprite": "spr_ui_item_dragon_scale",

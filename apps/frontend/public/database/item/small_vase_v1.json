@@ -1,6 +1,7 @@
 {
   "id": "small_vase_v1",
   "item": {
+    "id": "small_vase_v1",
     "description": "A small white vase with a decorative sprout.",
     "name": "Small Vase",
     "icon_sprite": "spr_ui_item_decor_clutter_small_vase_v1",

@@ -1,6 +1,7 @@
 {
   "id": "sand_rug",
   "item": {
+    "id": "sand_rug",
     "description": "A sandy rug that mimics the beach.",
     "name": "Sand Rug",
     "icon_sprite": "spr_ui_item_furniture_sand_rug",

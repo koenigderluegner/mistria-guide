@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_flame_pepper",
   "item": {
+    "id": "crop_faux_flame_pepper",
     "description": "A decorative faux flame pepper.",
     "name": "Faux Flame Pepper",
     "icon_sprite": "spr_ui_item_decor_crop_faux_flame_pepper",

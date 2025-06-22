@@ -1,6 +1,7 @@
 {
   "id": "crop_sign_sweet_potato",
   "item": {
+    "id": "crop_sign_sweet_potato",
     "description": "A wooden sign featuring a painted sweet potato.",
     "name": "Sweet Potato Sign",
     "icon_sprite": "spr_ui_item_crop_sign_sweet_potato",

@@ -1,6 +1,7 @@
 {
   "id": "ant",
   "item": {
+    "id": "ant",
     "description": "A common insect found in all seasons but winter.",
     "name": "Ant",
     "icon_sprite": "spr_ui_item_insect_ant",

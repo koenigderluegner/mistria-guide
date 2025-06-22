@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_jasmine",
   "item": {
+    "id": "crop_faux_jasmine",
     "description": "A decorative faux jasmine plant.",
     "name": "Faux Jasmine",
     "icon_sprite": "spr_ui_item_decor_crop_faux_jasmine",

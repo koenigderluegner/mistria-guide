@@ -1,6 +1,7 @@
 {
   "id": "lake_chub",
   "item": {
+    "id": "lake_chub",
     "description": "A common small pond fish found in summer.",
     "name": "Lake Chub",
     "icon_sprite": "spr_ui_item_fish_small_lake_chub",

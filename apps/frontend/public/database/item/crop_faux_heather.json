@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_heather",
   "item": {
+    "id": "crop_faux_heather",
     "description": "A decorative faux heather plant.",
     "name": "Faux Heather",
     "icon_sprite": "spr_ui_item_decor_crop_faux_heather",

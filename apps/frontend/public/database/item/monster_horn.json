@@ -1,6 +1,7 @@
 {
   "id": "monster_horn",
   "item": {
+    "id": "monster_horn",
     "description": "A spiral horn sometimes dropped by Stalagmites. Used in certain cooking and crafting recipes.",
     "name": "Monster Horn",
     "icon_sprite": "spr_ui_item_monster_horn",

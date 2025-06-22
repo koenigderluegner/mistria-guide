@@ -1,6 +1,7 @@
 {
   "id": "golden_cookies",
   "item": {
+    "id": "golden_cookies",
     "description": "Incredibly tasty cookies made with only the finest ingredients.",
     "name": "Golden Cookies",
     "icon_sprite": "spr_ui_item_golden_cookies",

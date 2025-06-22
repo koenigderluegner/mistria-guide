@@ -1,6 +1,7 @@
 {
   "id": "chess_table_purple",
   "item": {
+    "id": "chess_table_purple",
     "description": "A purple chess table.",
     "name": "Chess Table",
     "icon_sprite": "spr_ui_item_furniture_chess_table_purple",

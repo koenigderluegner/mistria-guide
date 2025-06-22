@@ -1,6 +1,7 @@
 {
   "id": "cabin_wall_window_oak",
   "item": {
+    "id": "cabin_wall_window_oak",
     "description": "A rustic oak window.",
     "name": "Rustic Cabin Window",
     "icon_sprite": "spr_ui_item_furniture_cabin_wall_window_v3",

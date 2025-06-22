@@ -1,6 +1,7 @@
 {
   "id": "small_vase_v4",
   "item": {
+    "id": "small_vase_v4",
     "description": "A small black vase with decorative grass.",
     "name": "Small Vase",
     "icon_sprite": "spr_ui_item_decor_clutter_small_vase_v4",

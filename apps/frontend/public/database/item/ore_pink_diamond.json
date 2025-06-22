@@ -1,6 +1,7 @@
 {
   "id": "ore_pink_diamond",
   "item": {
+    "id": "ore_pink_diamond",
     "description": "A rare pink colored diamond. Can be sold, gifted, or used in high level crafting recipes.",
     "name": "Pink Diamond",
     "icon_sprite": "spr_ui_item_pinkdiamond",

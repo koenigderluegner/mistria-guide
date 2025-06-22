@@ -1,6 +1,7 @@
 {
   "id": "lemonade",
   "item": {
+    "id": "lemonade",
     "description": "This cold and refreshing drink is pleasantly sour.",
     "name": "Lemonade",
     "icon_sprite": "spr_ui_item_lemonade",

@@ -1,6 +1,7 @@
 {
   "id": "vintage_hammer",
   "item": {
+    "id": "vintage_hammer",
     "description": "An uncommon artifact. This vintage wooden hammer was used to break rocks before pickaxes were commonplace.",
     "name": "Vintage Hammer",
     "icon_sprite": "spr_ui_item_vintage_hammer",

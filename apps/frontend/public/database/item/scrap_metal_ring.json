@@ -1,6 +1,7 @@
 {
   "id": "scrap_metal_ring",
   "item": {
+    "id": "scrap_metal_ring",
     "description": "A scrap metal ring. Equip to increase defense.",
     "name": "Scrap Metal Ring",
     "icon_sprite": "spr_ui_item_equipment_scrap_metal_ring",

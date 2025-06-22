@@ -1,6 +1,7 @@
 {
   "id": "star_shaped_cookie",
   "item": {
+    "id": "star_shaped_cookie",
     "description": "This cute sandwich cookie is flavored with cinnamon and turmeric.",
     "name": "Star-Shaped Cookie",
     "icon_sprite": "spr_ui_item_star_shaped_cookie",

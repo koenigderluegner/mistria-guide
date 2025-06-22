@@ -1,6 +1,7 @@
 {
   "id": "pink_pet_bed",
   "item": {
+    "id": "pink_pet_bed",
     "description": "A decorative pink pet bed. It's very cute!",
     "name": "Pink Pet Bed",
     "icon_sprite": "spr_ui_item_decor_pink_pet_bed",

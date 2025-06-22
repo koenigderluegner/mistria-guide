@@ -1,6 +1,7 @@
 {
   "id": "coral_lamp_purple",
   "item": {
+    "id": "coral_lamp_purple",
     "description": "A purple coral lamp.",
     "name": "Coral Lamp",
     "icon_sprite": "spr_ui_item_furniture_coral_lamp_purple",

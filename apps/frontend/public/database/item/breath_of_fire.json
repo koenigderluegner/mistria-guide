@@ -1,6 +1,7 @@
 {
   "id": "breath_of_fire",
   "item": {
+    "id": "breath_of_fire",
     "description": "These beautiful flowers continue to glow, even after they've been picked.",
     "name": "Breath of Flame",
     "icon_sprite": "spr_ui_item_breath_of_flame",

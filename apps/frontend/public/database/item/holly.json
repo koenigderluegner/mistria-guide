@@ -1,6 +1,7 @@
 {
   "id": "holly",
   "item": {
+    "id": "holly",
     "description": "A wild plant foraged in winter. Can be used in crafting recipes.",
     "name": "Holly",
     "icon_sprite": "spr_ui_item_holly",

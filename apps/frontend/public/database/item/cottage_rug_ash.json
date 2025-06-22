@@ -1,6 +1,7 @@
 {
   "id": "cottage_rug_ash",
   "item": {
+    "id": "cottage_rug_ash",
     "description": "A lovely pink rug with green and white accents.",
     "name": "Lovely Cottage Rug",
     "icon_sprite": "spr_ui_item_furniture_cottage_rug_v2",

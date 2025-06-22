@@ -1,6 +1,7 @@
 {
   "id": "dragon_horn_mushroom_with_thyme",
   "item": {
+    "id": "dragon_horn_mushroom_with_thyme",
     "description": "Reina's special dish!",
     "name": "Dragon Horn Mushroom with Thyme",
     "icon_sprite": "spr_ui_item_dragonshornthyme",

@@ -1,6 +1,7 @@
 {
   "id": "cottage_fridge_oak",
   "item": {
+    "id": "cottage_fridge_oak",
     "description": "A lovely white icebox. Used for storage.",
     "name": "Lovely Cottage Icebox",
     "icon_sprite": "spr_ui_item_furniture_cottage_fridge_v1",

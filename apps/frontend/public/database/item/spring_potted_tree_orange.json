@@ -1,6 +1,7 @@
 {
   "id": "spring_potted_tree_orange",
   "item": {
+    "id": "spring_potted_tree_orange",
     "description": "A flowering tree in a yellow-orange pot.",
     "name": "Spring Potted Tree",
     "icon_sprite": "spr_ui_item_furniture_spring_potted_tree_orange",

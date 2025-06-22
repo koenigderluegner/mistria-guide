@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_ice_block",
   "item": {
+    "id": "crop_faux_ice_block",
     "description": "A decorative faux ice block.",
     "name": "Faux Ice Block",
     "icon_sprite": "spr_ui_item_decor_crop_faux_ice_block",

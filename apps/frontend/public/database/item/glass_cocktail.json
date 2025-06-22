@@ -1,6 +1,7 @@
 {
   "id": "glass_cocktail",
   "item": {
+    "id": "glass_cocktail",
     "description": "A decorative cocktail glass.",
     "name": "Cocktail Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_glass_cocktail",

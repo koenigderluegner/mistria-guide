@@ -1,6 +1,7 @@
 {
   "id": "basic_doormat_green",
   "item": {
+    "id": "basic_doormat_green",
     "description": "A basic green doormat.",
     "name": "Basic Doormat",
     "icon_sprite": "spr_ui_item_furniture_basic_doormat_v2",

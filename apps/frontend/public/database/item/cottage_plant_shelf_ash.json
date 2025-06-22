@@ -1,6 +1,7 @@
 {
   "id": "cottage_plant_shelf_ash",
   "item": {
+    "id": "cottage_plant_shelf_ash",
     "description": "A lovely ash wood & antique white plant shelf.",
     "name": "Lovely Cottage Plant Shelf",
     "icon_sprite": "spr_ui_item_furniture_cottage_plant_shelf_v2",

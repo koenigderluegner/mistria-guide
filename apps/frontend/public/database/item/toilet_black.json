@@ -1,6 +1,7 @@
 {
   "id": "toilet_black",
   "item": {
+    "id": "toilet_black",
     "description": " A black toilet.",
     "name": "Toilet",
     "icon_sprite": "spr_ui_item_furniture_toilet_black",

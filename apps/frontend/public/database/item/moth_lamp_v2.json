@@ -1,6 +1,7 @@
 {
   "id": "moth_lamp_v2",
   "item": {
+    "id": "moth_lamp_v2",
     "description": "An elegant lamp that looks like a blue moth in a glass dome.",
     "name": "Moth Lamp",
     "icon_sprite": "spr_ui_item_furniture_moth_lamp_v2",

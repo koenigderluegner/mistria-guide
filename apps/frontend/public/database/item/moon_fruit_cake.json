@@ -1,6 +1,7 @@
 {
   "id": "moon_fruit_cake",
   "item": {
+    "id": "moon_fruit_cake",
     "description": "Juicy moon fruit is the star of this sweet, satisfying cake.",
     "name": "Moon Fruit Cake",
     "icon_sprite": "spr_ui_item_moon_fruit_cake",

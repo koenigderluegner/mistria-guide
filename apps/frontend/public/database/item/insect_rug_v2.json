@@ -1,6 +1,7 @@
 {
   "id": "insect_rug_v2",
   "item": {
+    "id": "insect_rug_v2",
     "description": "A blue rug with an elegant insect pattern.",
     "name": "Insect Rug",
     "icon_sprite": "spr_ui_item_furniture_insect_rug_v2",

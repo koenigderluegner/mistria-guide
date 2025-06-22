@@ -1,6 +1,7 @@
 {
   "id": "walking_stick",
   "item": {
+    "id": "walking_stick",
     "description": "An uncommon insect found in winter.",
     "name": "Walking Stick",
     "icon_sprite": "spr_ui_item_insect_walkingstick",

@@ -1,6 +1,7 @@
 {
   "id": "red_obsidian",
   "item": {
+    "id": "red_obsidian",
     "description": "An uncommon Lava Caves artifact. This chunk of obsidian has a streak of red running through it.",
     "name": "Red Obsidian",
     "icon_sprite": "spr_ui_item_red_obsidian",

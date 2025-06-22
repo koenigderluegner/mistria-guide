@@ -1,6 +1,7 @@
 {
   "id": "paper_pondshell",
   "item": {
+    "id": "paper_pondshell",
     "description": "A common pond mussel, found in all seasons.",
     "name": "Paper Pondshell",
     "icon_sprite": "spr_ui_item_dive_paper_pondshell",

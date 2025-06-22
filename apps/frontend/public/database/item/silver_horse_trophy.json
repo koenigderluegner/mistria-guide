@@ -1,6 +1,7 @@
 {
   "id": "silver_horse_trophy",
   "item": {
+    "id": "silver_horse_trophy",
     "description": "A silver display trophy commemorating your horse's second place win at the Animal Festival.",
     "name": "Silver Horse Trophy",
     "icon_sprite": "spr_ui_item_decor_silver_horse_trophy",

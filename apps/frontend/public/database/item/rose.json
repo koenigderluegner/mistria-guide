@@ -1,6 +1,7 @@
 {
   "id": "rose",
   "item": {
+    "id": "rose",
     "description": "A beautiful red flower grown in summer. Can be given as a gift or used in various crafting recipes.",
     "name": "Rose",
     "icon_sprite": "spr_ui_item_rose",

@@ -1,6 +1,7 @@
 {
   "id": "snowdrop_anemone",
   "item": {
+    "id": "snowdrop_anemone",
     "description": "A rare and beautiful flower that grows in spring. Can be sold, gifted, or used in certain crafting recipes.",
     "name": "Snowdrop Anemone",
     "icon_sprite": "spr_ui_item_snowdrop_anemone",

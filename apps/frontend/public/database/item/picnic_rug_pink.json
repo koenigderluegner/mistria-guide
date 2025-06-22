@@ -1,6 +1,7 @@
 {
   "id": "picnic_rug_pink",
   "item": {
+    "id": "picnic_rug_pink",
     "description": "A cute pink gingham picnic blanket.",
     "name": "Picnic Blanket",
     "icon_sprite": "spr_ui_item_picnic_rug_pink",

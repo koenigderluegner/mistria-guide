@@ -1,6 +1,7 @@
 {
   "id": "cooktop_beetle",
   "item": {
+    "id": "cooktop_beetle",
     "description": "A common Lava Caves insect. The top of this beetle's shell is hot enough to fry an egg.",
     "name": "Cooktop Beetle",
     "icon_sprite": "spr_ui_item_insect_cooktop_beetle",

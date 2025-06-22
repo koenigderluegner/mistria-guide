@@ -1,6 +1,7 @@
 {
   "id": "sea_bass",
   "item": {
+    "id": "sea_bass",
     "description": "A common medium ocean fish found in winter.",
     "name": "Sea Bass",
     "icon_sprite": "spr_ui_item_fish_medium_sea_bass",

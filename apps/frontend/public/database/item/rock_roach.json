@@ -1,6 +1,7 @@
 {
   "id": "rock_roach",
   "item": {
+    "id": "rock_roach",
     "description": "An uncommon Deep Earth insect. It's cuter than you'd expect.",
     "name": "Rock Roach",
     "icon_sprite": "spr_ui_item_insect_rock_roach",

@@ -1,6 +1,7 @@
 {
   "id": "beet_soup",
   "item": {
+    "id": "beet_soup",
     "description": "A vividly colored soup that's delicious and healthy.",
     "name": "Beet Soup",
     "icon_sprite": "spr_ui_item_beet_soup",

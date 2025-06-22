@@ -1,6 +1,7 @@
 {
   "id": "mines_wooden_arch",
   "item": {
+    "id": "mines_wooden_arch",
     "description": "A wooden mineshaft arch.",
     "name": "Mines Arch",
     "icon_sprite": "spr_ui_item_furniture_mines_wooden_arch",

@@ -1,6 +1,7 @@
 {
   "id": "pineshroom",
   "item": {
+    "id": "pineshroom",
     "description": "A wild mushroom foraged in winter. It's sweet with a hint of vanilla flavor. Commonly used as a cooking ingredient.",
     "name": "Pineshroom",
     "icon_sprite": "spr_ui_item_pineshroom",

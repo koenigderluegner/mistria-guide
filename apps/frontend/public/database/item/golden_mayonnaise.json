@@ -1,6 +1,7 @@
 {
   "id": "golden_mayonnaise",
   "item": {
+    "id": "golden_mayonnaise",
     "description": "A high quality condiment made from chicken eggs. Used in high level cooking recipes.",
     "name": "Golden Mayonnaise",
     "icon_sprite": "spr_ui_item_golden_mayonnaise",

@@ -1,6 +1,7 @@
 {
   "id": "miners_slab",
   "item": {
+    "id": "miners_slab",
     "description": "An uncommon artifact. It appears to warn of pitfalls ahead.",
     "name": "Miner's Slab",
     "icon_sprite": "spr_ui_item_miners_slab",

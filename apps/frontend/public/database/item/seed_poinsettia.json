@@ -1,6 +1,7 @@
 {
   "id": "seed_poinsettia",
   "item": {
+    "id": "seed_poinsettia",
     "description": "Poinsettia seed. This winter flower can be harvested once.",
     "name": "Poinsettia Seed",
     "icon_sprite": "spr_ui_item_bagseed_poinsettia_icon",

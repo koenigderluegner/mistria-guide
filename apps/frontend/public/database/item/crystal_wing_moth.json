@@ -1,6 +1,7 @@
 {
   "id": "crystal_wing_moth",
   "item": {
+    "id": "crystal_wing_moth",
     "description": "A rare Deep Earth insect. Their delicate wings reflect the light and make them sparkle.",
     "name": "Crystal Wing Moth",
     "icon_sprite": "spr_ui_item_insect_crystal_wing_moth",

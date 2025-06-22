@@ -1,6 +1,7 @@
 {
   "id": "honey_curry",
   "item": {
+    "id": "honey_curry",
     "description": "This curry combines sweetness with... more sweetness?",
     "name": "Honey Curry",
     "icon_sprite": "spr_ui_item_honey_curry",

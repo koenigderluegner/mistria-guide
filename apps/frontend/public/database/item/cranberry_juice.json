@@ -1,6 +1,7 @@
 {
   "id": "cranberry_juice",
   "item": {
+    "id": "cranberry_juice",
     "description": "A sweet and sour juice made from cranberries.",
     "name": "Cranberry Juice",
     "icon_sprite": "spr_ui_item_cranberry_juice",

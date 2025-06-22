@@ -1,6 +1,7 @@
 {
   "id": "cherry_smoothie",
   "item": {
+    "id": "cherry_smoothie",
     "description": "This smoothie is thick, creamy, and loaded with cherries.",
     "name": "Cherry Smoothie",
     "icon_sprite": "spr_ui_item_cherry_smoothie",

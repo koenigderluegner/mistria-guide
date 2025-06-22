@@ -1,6 +1,7 @@
 {
   "id": "spring_rug_orange",
   "item": {
+    "id": "spring_rug_orange",
     "description": "A yellow rug in the shape of a flower.",
     "name": "Spring Flower Rug",
     "icon_sprite": "spr_ui_item_furniture_spring_rug_orange",

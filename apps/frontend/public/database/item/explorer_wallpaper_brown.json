@@ -1,6 +1,7 @@
 {
   "id": "explorer_wallpaper_brown",
   "item": {
+    "id": "explorer_wallpaper_brown",
     "description": "A wallpaper that resembles a scholarly brown bookshelf.",
     "name": "Explorer Wallpaper",
     "icon_sprite": "spr_ui_item_furniture_explorer_wallpaper_brown",

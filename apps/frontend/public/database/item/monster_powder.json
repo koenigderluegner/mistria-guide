@@ -1,6 +1,7 @@
 {
   "id": "monster_powder",
   "item": {
+    "id": "monster_powder",
     "description": "A magic powder sometimes dropped by Mushroom monsters. Used in cooking and crafting recipes.",
     "name": "Monster Powder",
     "icon_sprite": "spr_ui_item_monster_powder",

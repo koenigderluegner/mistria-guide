@@ -1,6 +1,7 @@
 {
   "id": "snow_peas",
   "item": {
+    "id": "snow_peas",
     "description": "A winter crop that regrows. Has a very sweet flavor. Commonly used as a cooking ingredient.",
     "name": "Snow Peas",
     "icon_sprite": "spr_ui_item_snow_peas",

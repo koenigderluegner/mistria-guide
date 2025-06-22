@@ -1,6 +1,7 @@
 {
   "id": "miners_flooring",
   "item": {
+    "id": "miners_flooring",
     "description": "Dirt flooring for your home.",
     "name": "Mines Flooring",
     "icon_sprite": "spr_ui_item_furniture_mines_dirt_flooring",

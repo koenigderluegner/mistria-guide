@@ -1,6 +1,7 @@
 {
   "id": "lavender_tea",
   "item": {
+    "id": "lavender_tea",
     "description": "The blissful scent and flavor of lavender makes this tea a sophisticated drink.",
     "name": "Lavender Tea",
     "icon_sprite": "spr_ui_item_lavender_tea",

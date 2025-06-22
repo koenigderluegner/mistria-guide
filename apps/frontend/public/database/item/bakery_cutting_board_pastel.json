@@ -1,6 +1,7 @@
 {
   "id": "bakery_cutting_board_pastel",
   "item": {
+    "id": "bakery_cutting_board_pastel",
     "description": "A baker's cutting board, complete with a fresh white loaf.",
     "name": "Bakery Cutting Board",
     "icon_sprite": "spr_ui_item_decor_bakery_cutting_board_v1",

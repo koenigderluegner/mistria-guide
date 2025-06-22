@@ -1,6 +1,7 @@
 {
   "id": "sulfur_crab",
   "item": {
+    "id": "sulfur_crab",
     "description": "An uncommon medium Lava Caves crustacean. This crab is encased in a thick yellow coating of sulfur on its shell.",
     "name": "Sulfur Crab",
     "icon_sprite": "spr_ui_item_fish_medium_sulfur_crab",

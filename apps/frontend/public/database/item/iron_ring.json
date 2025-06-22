@@ -1,6 +1,7 @@
 {
   "id": "iron_ring",
   "item": {
+    "id": "iron_ring",
     "description": "A ring constructed out of iron. Equip to increase defense.",
     "name": "Iron Ring",
     "icon_sprite": "spr_ui_item_equipment_iron_ring",

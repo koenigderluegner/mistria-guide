@@ -1,6 +1,7 @@
 {
   "id": "riceball",
   "item": {
+    "id": "riceball",
     "description": "A simple yet satisfying meal that travels well.",
     "name": "Rice Ball",
     "icon_sprite": "spr_ui_item_riceball",

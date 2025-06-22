@@ -1,6 +1,7 @@
 {
   "id": "cabin_wall_shelf_walnut",
   "item": {
+    "id": "cabin_wall_shelf_walnut",
     "description": "A rustic wooden wall shelf with a small blue pot.",
     "name": "Rustic Cabin Wall Shelf",
     "icon_sprite": "spr_ui_item_furniture_cabin_wall_shelf_v2",

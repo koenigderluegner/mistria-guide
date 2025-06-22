@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_pineshroom",
   "item": {
+    "id": "crop_faux_pineshroom",
     "description": "A decorative faux pineshroom.",
     "name": "Faux Pineshroom",
     "icon_sprite": "spr_ui_item_decor_crop_faux_pineshroom",

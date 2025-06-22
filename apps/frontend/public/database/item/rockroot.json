@@ -1,6 +1,7 @@
 {
   "id": "rockroot",
   "item": {
+    "id": "rockroot",
     "description": "It's hard to tell if this is part of a living plant or if it just resembles one.",
     "name": "Rockroot",
     "icon_sprite": "spr_ui_item_rockroot",

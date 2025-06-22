@@ -1,6 +1,7 @@
 {
   "id": "coffee",
   "item": {
+    "id": "coffee",
     "description": "This hot and fragrant cup of coffee makes an ideal start to the day.",
     "name": "Coffee",
     "icon_sprite": "spr_ui_item_coffee",

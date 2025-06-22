@@ -1,6 +1,7 @@
 {
   "id": "butterfly_bed_v2",
   "item": {
+    "id": "butterfly_bed_v2",
     "description": "A blue butterfly bed with tonal striped sheets.",
     "name": "Butterfly Bed",
     "icon_sprite": "spr_ui_item_furniture_butterfly_bed_v2",

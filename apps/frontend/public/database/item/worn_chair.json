@@ -1,6 +1,7 @@
 {
   "id": "worn_chair",
   "item": {
+    "id": "worn_chair",
     "description": "A worn wooden chair.",
     "name": "Worn Chair",
     "icon_sprite": "spr_ui_item_furniture_default_chair_v1",

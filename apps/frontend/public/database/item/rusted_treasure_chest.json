@@ -1,6 +1,7 @@
 {
   "id": "rusted_treasure_chest",
   "item": {
+    "id": "rusted_treasure_chest",
     "description": "An uncommon artifact. Looks quite valuable, a shame it can't be opened.",
     "name": "Rusted Treasure Chest",
     "icon_sprite": "spr_ui_item_rusted_treasure_chest",

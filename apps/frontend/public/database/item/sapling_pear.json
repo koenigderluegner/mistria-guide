@@ -1,6 +1,7 @@
 {
   "id": "sapling_pear",
   "item": {
+    "id": "sapling_pear",
     "description": "A pear tree sapling. This tree can be planted any time of year, but will only fruit in the summer.",
     "name": "Pear Sapling",
     "icon_sprite": "spr_ui_item_pear_sapling",

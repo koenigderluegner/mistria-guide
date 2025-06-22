@@ -1,6 +1,7 @@
 {
   "id": "glowberry",
   "item": {
+    "id": "glowberry",
     "description": "A wild plant foraged in winter. Has a sweet flavor and naturally glows. Used as a crafting and cooking ingredient.",
     "name": "Glowberry",
     "icon_sprite": "spr_ui_item_bush_glowberry",

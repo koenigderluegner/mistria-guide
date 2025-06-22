@@ -1,6 +1,7 @@
 {
   "id": "dirt_clear",
   "item": {
+    "id": "dirt_clear",
     "description": "Use this item to clear decorative details from a dirt tile.",
     "name": "Dirt Tile Clear",
     "icon_sprite": "spr_ui_item_decor_starter_dirt_clear",

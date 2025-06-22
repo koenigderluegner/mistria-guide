@@ -1,6 +1,7 @@
 {
   "id": "spring_festival_wreath",
   "item": {
+    "id": "spring_festival_wreath",
     "description": "A lovely wreath featuring breath of spring flowers and a large pink bow.",
     "name": "Breath of Spring Wreath",
     "icon_sprite": "spr_ui_item_decor_spring_festival_wreath",

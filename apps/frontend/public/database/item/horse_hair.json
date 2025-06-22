@@ -1,6 +1,7 @@
 {
   "id": "horse_hair",
   "item": {
+    "id": "horse_hair",
     "description": "Hair fiber dropped by a horse. Used in a variety of crafting recipes.",
     "name": "Horse Hair",
     "icon_sprite": "spr_ui_item_horse_hair_regular",

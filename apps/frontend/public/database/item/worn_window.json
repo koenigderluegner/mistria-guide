@@ -1,6 +1,7 @@
 {
   "id": "worn_window",
   "item": {
+    "id": "worn_window",
     "description": "A worn wooden window.",
     "name": "Worn Window",
     "icon_sprite": "spr_ui_item_furniture_default_wall_window_v1",

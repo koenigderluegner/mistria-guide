@@ -1,6 +1,7 @@
 {
   "id": "loach",
   "item": {
+    "id": "loach",
     "description": "A common small river fish found in summer.",
     "name": "Loach",
     "icon_sprite": "spr_ui_item_fish_small_loach",

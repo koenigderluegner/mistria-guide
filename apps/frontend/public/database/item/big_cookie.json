@@ -1,6 +1,7 @@
 {
   "id": "big_cookie",
   "item": {
+    "id": "big_cookie",
     "description": "Wow, this is a REALLY big cookie!",
     "name": "Big Cookie",
     "icon_sprite": "spr_ui_item_bigcookie",

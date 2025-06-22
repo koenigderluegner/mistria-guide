@@ -1,6 +1,7 @@
 {
   "id": "glowing_mushroom",
   "item": {
+    "id": "glowing_mushroom",
     "description": "A glowing blue mushroom sometimes dropped by Mushroom monsters.",
     "name": "Glowing Mushroom",
     "icon_sprite": "spr_ui_item_glowingmushroom",

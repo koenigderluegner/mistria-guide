@@ -1,6 +1,7 @@
 {
   "id": "corn",
   "item": {
+    "id": "corn",
     "description": "A popular summer crop and staple food. Used as a key ingredient in many cooking recipes.",
     "name": "Corn",
     "icon_sprite": "spr_ui_item_corn",

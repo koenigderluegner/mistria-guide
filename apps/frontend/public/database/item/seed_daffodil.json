@@ -1,6 +1,7 @@
 {
   "id": "seed_daffodil",
   "item": {
+    "id": "seed_daffodil",
     "description": "Daffodil seed. This fast growing spring flower can be harvested once.",
     "name": "Daffodil Seed",
     "icon_sprite": "spr_ui_item_bagseed_daffodil_icon",

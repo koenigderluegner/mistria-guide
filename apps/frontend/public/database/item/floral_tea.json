@@ -1,6 +1,7 @@
 {
   "id": "floral_tea",
   "item": {
+    "id": "floral_tea",
     "description": "An expertly blended floral tea. This Spring Festival drink is liked by everyone.",
     "name": "Floral Tea",
     "icon_sprite": "spr_ui_item_floraltea",

@@ -1,6 +1,7 @@
 {
   "id": "worn_fireplace",
   "item": {
+    "id": "worn_fireplace",
     "description": "A worn stone fireplace.",
     "name": "Worn Fireplace",
     "icon_sprite": "spr_ui_item_furniture_default_fireplace_v1",

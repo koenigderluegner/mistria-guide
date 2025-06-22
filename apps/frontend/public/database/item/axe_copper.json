@@ -1,6 +1,7 @@
 {
   "id": "axe_copper",
   "item": {
+    "id": "axe_copper",
     "description": "A copper axe. Can be charged to chop 3 tiles in a row.",
     "name": "Copper Axe",
     "icon_sprite": "spr_ui_item_tool_copper_axe",

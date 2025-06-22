@@ -1,6 +1,7 @@
 {
   "id": "summer_rug_red",
   "item": {
+    "id": "summer_rug_red",
     "description": "A red rug in the shape of a cosmos flower.",
     "name": "Summer Flower Rug",
     "icon_sprite": "spr_ui_item_furniture_summer_rug_red",

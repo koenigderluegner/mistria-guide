@@ -1,6 +1,7 @@
 {
   "id": "flame_pepper",
   "item": {
+    "id": "flame_pepper",
     "description": "These incredibly hot peppers should be handled with care.",
     "name": "Flame Pepper",
     "icon_sprite": "spr_ui_item_flame_pepper",

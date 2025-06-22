@@ -1,6 +1,7 @@
 {
   "id": "axe_iron",
   "item": {
+    "id": "axe_iron",
     "description": "An iron axe. Can be charged to chop a 3x3 area.",
     "name": "Iron Axe",
     "icon_sprite": "spr_ui_item_tool_iron_axe",

@@ -1,6 +1,7 @@
 {
   "id": "quiche",
   "item": {
+    "id": "quiche",
     "description": "A savory tart filled with fluffy eggs.",
     "name": "Quiche",
     "icon_sprite": "spr_ui_item_quiche",

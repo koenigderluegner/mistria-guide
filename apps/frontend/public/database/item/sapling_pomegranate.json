@@ -1,6 +1,7 @@
 {
   "id": "sapling_pomegranate",
   "item": {
+    "id": "sapling_pomegranate",
     "description": "A pomegranate tree sapling. This tree can be planted any time of year, but will only fruit in the winter.",
     "name": "Pomegranate Sapling",
     "icon_sprite": "spr_ui_item_pomegranate_sapling",

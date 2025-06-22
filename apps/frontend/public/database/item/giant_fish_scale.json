@@ -1,6 +1,7 @@
 {
   "id": "giant_fish_scale",
   "item": {
+    "id": "giant_fish_scale",
     "description": "An uncommon artifact. Can't imagine what fish this came from.",
     "name": "Giant Fish Scale",
     "icon_sprite": "spr_ui_item_giant_fish_scale",

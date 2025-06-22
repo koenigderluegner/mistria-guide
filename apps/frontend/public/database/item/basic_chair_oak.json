@@ -1,6 +1,7 @@
 {
   "id": "basic_chair_oak",
   "item": {
+    "id": "basic_chair_oak",
     "description": "A basic oak chair.",
     "name": "Basic Chair",
     "icon_sprite": "spr_ui_item_furniture_basic_chair_v1",

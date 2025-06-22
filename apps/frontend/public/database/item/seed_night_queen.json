@@ -1,6 +1,7 @@
 {
   "id": "seed_night_queen",
   "item": {
+    "id": "seed_night_queen",
     "description": "Night queen seed. This summer flower can be harvested once.",
     "name": "Night Queen Seed",
     "icon_sprite": "spr_ui_item_bagseed_night_queen_icon",

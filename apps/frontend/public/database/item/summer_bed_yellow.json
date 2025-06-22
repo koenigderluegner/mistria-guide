@@ -1,6 +1,7 @@
 {
   "id": "summer_bed_yellow",
   "item": {
+    "id": "summer_bed_yellow",
     "description": "A white linen bed with a yellow flower vine wrapped around the headboard.",
     "name": "Summer Bed",
     "icon_sprite": "spr_ui_item_furniture_summer_bed_yellow",

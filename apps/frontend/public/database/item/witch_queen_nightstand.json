@@ -1,6 +1,7 @@
 {
   "id": "witch_queen_nightstand",
   "item": {
+    "id": "witch_queen_nightstand",
     "description": "A sea green and purple nightstand.",
     "name": "Witch Queen Nightstand",
     "icon_sprite": "spr_ui_item_furniture_witch_queen_nightstand",

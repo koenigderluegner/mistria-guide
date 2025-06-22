@@ -1,6 +1,7 @@
 {
   "id": "bream",
   "item": {
+    "id": "bream",
     "description": "A common large river fish found in summer.",
     "name": "Bream",
     "icon_sprite": "spr_ui_item_fish_large_bream",

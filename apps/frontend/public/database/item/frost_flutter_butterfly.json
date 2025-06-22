@@ -1,6 +1,7 @@
 {
   "id": "frost_flutter_butterfly",
   "item": {
+    "id": "frost_flutter_butterfly",
     "description": "A common insect found during the daytime in winter.",
     "name": "Frost Flutter Butterfly",
     "icon_sprite": "spr_ui_item_insect_frost_flutter_butterfly",

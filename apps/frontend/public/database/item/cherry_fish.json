@@ -1,6 +1,7 @@
 {
   "id": "cherry_fish",
   "item": {
+    "id": "cherry_fish",
     "description": "A legendary small pond fish found on breezy cherry blossom days in spring.",
     "name": "Cherry Fish",
     "icon_sprite": "spr_ui_item_fish_small_cherry_fish",

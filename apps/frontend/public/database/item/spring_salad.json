@@ -1,6 +1,7 @@
 {
   "id": "spring_salad",
   "item": {
+    "id": "spring_salad",
     "description": "This blend of wild vegetables highlights the taste of spring.",
     "name": "Spring Salad",
     "icon_sprite": "spr_ui_item_springsalad",

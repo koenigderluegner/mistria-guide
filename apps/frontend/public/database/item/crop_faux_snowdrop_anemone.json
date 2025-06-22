@@ -1,6 +1,7 @@
 {
   "id": "crop_faux_snowdrop_anemone",
   "item": {
+    "id": "crop_faux_snowdrop_anemone",
     "description": "A decorative faux snowdrop anemone plant.",
     "name": "Faux Snowdrop Anemone",
     "icon_sprite": "spr_ui_item_decor_crop_faux_snowdrop_anemone",

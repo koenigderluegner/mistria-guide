@@ -1,6 +1,7 @@
 {
   "id": "dragon_claw",
   "item": {
+    "id": "dragon_claw",
     "description": "An uncommon artifact. Extremely sharp, despite its age. It would make a fine blade, if it wasn't so heavy.",
     "name": "Dragon Claw",
     "icon_sprite": "spr_ui_item_dragon_claw",

@@ -1,6 +1,7 @@
 {
   "id": "deep_earthworm",
   "item": {
+    "id": "deep_earthworm",
     "description": "An uncommon Deep Earth insect. It's completely unlike its surface-dwelling cousin... if you're a worm expert.",
     "name": "Deep Earthworm",
     "icon_sprite": "spr_ui_item_insect_deep_earthworm",

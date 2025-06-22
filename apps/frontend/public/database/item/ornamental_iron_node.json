@@ -1,6 +1,7 @@
 {
   "id": "ornamental_iron_node",
   "item": {
+    "id": "ornamental_iron_node",
     "description": "A decorative iron node.",
     "name": "Ornamental Iron Node",
     "icon_sprite": "spr_ui_item_furniture_iron_node",

@@ -1,6 +1,7 @@
 {
   "id": "acorn",
   "item": {
+    "id": "acorn",
     "description": "The nut of an oak tree. Used in cooking and crafting recipes.",
     "name": "Acorn",
     "icon_sprite": "spr_ui_item_acorn",

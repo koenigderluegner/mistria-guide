@@ -1,6 +1,7 @@
 {
   "id": "fishing_rod_iron",
   "item": {
+    "id": "fishing_rod_iron",
     "description": "A fishing rod with an iron pole. It has a cast range of 10.",
     "name": "Iron Fishing Rod",
     "icon_sprite": "spr_ui_item_tool_iron_rod",

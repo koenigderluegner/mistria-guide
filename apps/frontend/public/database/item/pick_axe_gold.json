@@ -1,6 +1,7 @@
 {
   "id": "pick_axe_gold",
   "item": {
+    "id": "pick_axe_gold",
     "description": "A splendid golden pickaxe. Can be charged to chop a 6x6 area.",
     "name": "Gold Pickaxe",
     "icon_sprite": "spr_ui_item_tool_gold_pickaxe",

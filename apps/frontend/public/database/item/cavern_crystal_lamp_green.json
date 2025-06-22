@@ -1,6 +1,7 @@
 {
   "id": "cavern_crystal_lamp_green",
   "item": {
+    "id": "cavern_crystal_lamp_green",
     "description": "A shard of glowing green crystal.",
     "name": "Glowing Crystal Lamp",
     "icon_sprite": "spr_ui_item_furniture_crystal_lamp_green",

@@ -1,6 +1,7 @@
 {
   "id": "ore_mistril",
   "item": {
+    "id": "ore_mistril",
     "description": "A chunk of mistril ore. Can be refined into ingots for crafting.",
     "name": "Mistril Ore",
     "icon_sprite": "spr_ui_item_mistril_ore",

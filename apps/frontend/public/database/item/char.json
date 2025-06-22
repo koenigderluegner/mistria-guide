@@ -1,6 +1,7 @@
 {
   "id": "char",
   "item": {
+    "id": "char",
     "description": "A common large ocean fish found in summer.",
     "name": "Char",
     "icon_sprite": "spr_ui_item_fish_large_char",

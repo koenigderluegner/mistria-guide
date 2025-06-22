@@ -1,6 +1,7 @@
 {
   "id": "scent_of_spring",
   "item": {
+    "id": "scent_of_spring",
     "description": "This small bottle emanates a scent of breath of spring. This Spring Festival souvenir is loved by everyone.",
     "name": "Scent of Spring",
     "icon_sprite": "spr_ui_item_scent_of_spring",

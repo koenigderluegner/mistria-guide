@@ -1,6 +1,7 @@
 {
   "id": "cavern_silver_node",
   "item": {
+    "id": "cavern_silver_node",
     "description": "A decorative silver node.",
     "name": "Ornamental Silver Node",
     "icon_sprite": "spr_ui_item_furniture_silver_node",

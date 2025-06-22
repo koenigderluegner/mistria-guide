@@ -1,6 +1,7 @@
 {
   "id": "monster_cookie",
   "item": {
+    "id": "monster_cookie",
     "description": "A cursed looking cookie with a crumbly texture.",
     "name": "Monster Cookies",
     "icon_sprite": "spr_ui_item_monster_cookie",

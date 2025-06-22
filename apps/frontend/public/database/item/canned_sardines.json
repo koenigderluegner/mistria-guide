@@ -1,6 +1,7 @@
 {
   "id": "canned_sardines",
   "item": {
+    "id": "canned_sardines",
     "description": "These canned sardines have a satisfying meaty and salty taste.",
     "name": "Canned Sardines",
     "icon_sprite": "spr_ui_item_cannedsardines",

@@ -1,6 +1,7 @@
 {
   "id": "wine_glass_white",
   "item": {
+    "id": "wine_glass_white",
     "description": "A decorative white wine glass.",
     "name": "White Wine Glass",
     "icon_sprite": "spr_ui_item_decor_clutter_wine_glass_white",

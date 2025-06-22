@@ -1,6 +1,7 @@
 {
   "id": "goldfish",
   "item": {
+    "id": "goldfish",
     "description": "A rare small pond fish found in spring.",
     "name": "Goldfish",
     "icon_sprite": "spr_ui_item_fish_small_goldfish",

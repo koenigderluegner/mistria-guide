@@ -1,6 +1,7 @@
 {
   "id": "bread",
   "item": {
+    "id": "bread",
     "description": "A soft and fluffy loaf of fresh bread.",
     "name": "Bread",
     "icon_sprite": "spr_ui_item_bread",

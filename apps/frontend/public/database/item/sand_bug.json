@@ -1,6 +1,7 @@
 {
   "id": "sand_bug",
   "item": {
+    "id": "sand_bug",
     "description": "A common insect found at the beach in all seasons.",
     "name": "Sand Bug",
     "icon_sprite": "spr_ui_item_insect_sand_bug",

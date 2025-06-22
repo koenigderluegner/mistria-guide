@@ -1,6 +1,7 @@
 {
   "id": "pan_fried_bream",
   "item": {
+    "id": "pan_fried_bream",
     "description": "A crisp, meaty flavor and a dense, juicy texture makes this dish a delight.",
     "name": "Pan Fried Bream",
     "icon_sprite": "spr_ui_item_pan_fried_bream",

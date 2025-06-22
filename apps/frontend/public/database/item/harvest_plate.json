@@ -1,6 +1,7 @@
 {
   "id": "harvest_plate",
   "item": {
+    "id": "harvest_plate",
     "description": "A meal that celebrates the bounty of the Autumn harvest.",
     "name": "Harvest Plate",
     "icon_sprite": "spr_ui_item_harvest_plate",

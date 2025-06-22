@@ -1,6 +1,7 @@
 {
   "id": "fire_crystal",
   "item": {
+    "id": "fire_crystal",
     "description": "A common Lava Caves artifact. This crystal has been imbued by the essence of fire.",
     "name": "Fire Crystal",
     "icon_sprite": "spr_ui_item_fire_crystal",

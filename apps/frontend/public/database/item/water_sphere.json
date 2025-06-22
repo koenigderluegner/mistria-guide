@@ -1,6 +1,7 @@
 {
   "id": "water_sphere",
   "item": {
+    "id": "water_sphere",
     "description": "An uncommon artifact. You're not sure why, but it won't pop.",
     "name": "Water Sphere",
     "icon_sprite": "spr_ui_item_water_sphere",
