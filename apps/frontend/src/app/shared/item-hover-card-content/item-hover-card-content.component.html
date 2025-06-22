@@ -1,0 +1,9 @@
+@if (item.hasValue()) {
+  <div class="flex flex-col gap-2">
+    <div class="flex gap-2 -mx-4 px-4 pb-2 border-b items-center">
+      <app-sprite class="size-9" [name]="item.value().item.icon_sprite" />
+      {{ item.value().item.name }}
+    </div>
+    <p class="pt-2">{{ item.value().item.description }}</p>
+  </div>
+}

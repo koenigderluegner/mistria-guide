@@ -3,10 +3,25 @@ import { RouterLink } from '@angular/router';
 import { MinifiedItem } from '@mistria-guide/data-types';
 import { SpriteComponent } from '../sprite/sprite.component';
 import { MatCheckbox } from '@angular/material/checkbox';
+import {
+  BrnHoverCardComponent,
+  BrnHoverCardContentDirective,
+  BrnHoverCardTriggerDirective,
+} from '@spartan-ng/brain/hover-card';
+import { HlmHoverCardContentComponent } from '@spartan-ng/helm/hover-card';
 
 @Component({
   selector: 'app-list-entry-item',
-  imports: [RouterLink, SpriteComponent, MatCheckbox],
+  imports: [
+    RouterLink,
+    SpriteComponent,
+    MatCheckbox,
+    BrnHoverCardContentDirective,
+    BrnHoverCardTriggerDirective,
+    BrnHoverCardComponent,
+    HlmHoverCardContentComponent,
+    ItemHoverCardContentCompone,
+  ],
   templateUrl: './list-entry-item.component.html',
   host: {
     class:
