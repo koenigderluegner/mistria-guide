@@ -9,6 +9,7 @@ import {
   BrnHoverCardTriggerDirective,
 } from '@spartan-ng/brain/hover-card';
 import { HlmHoverCardContentComponent } from '@spartan-ng/helm/hover-card';
+import { ItemHoverCardContentComponent } from '../item-hover-card-content/item-hover-card-content.component';
 
 @Component({
   selector: 'app-list-entry-item',
@@ -20,7 +21,7 @@ import { HlmHoverCardContentComponent } from '@spartan-ng/helm/hover-card';
     BrnHoverCardTriggerDirective,
     BrnHoverCardComponent,
     HlmHoverCardContentComponent,
-    ItemHoverCardContentCompone,
+    ItemHoverCardContentComponent,
   ],
   templateUrl: './list-entry-item.component.html',
   host: {
