@@ -139,7 +139,8 @@
 
         <app-sidebar-menu-item text="Dashboard" link="/" icon="spr_ui_item_object_wall_calendar"
                                [activeOptions]="{exact:true}" />
-        <app-sidebar-menu-item text="Skills and Perks" link="/skills" icon="spr_ui_item_essence" />
+        <app-sidebar-collapsible-menu-item triggerIcon="spr_ui_item_essence" triggerText="Skills and perks"
+                                           [subItems]="skillLinks" />
         <app-sidebar-collapsible-menu-item triggerIcon="spr_ui_item_unidentified_artifact" triggerText="Museum wings"
                                            [subItems]="museumWingLinks" />
       </ul>
