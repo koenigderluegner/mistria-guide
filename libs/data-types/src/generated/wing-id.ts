@@ -1,3 +1,3 @@
-export const WingIds = ['archaeology', 'fish', 'flora', 'insect'] as const;
+export const WingIds = ['archaeology','fish','flora','insect'] as const;
 
-export type WingId = (typeof WingIds)[number];
+export type WingId = typeof WingIds[number];

@@ -1,6 +1,7 @@
 import { TypesGenerator } from '../types-generator/types-generator';
 import { TranslationReference, WingId } from '@mistria-guide/data-types';
 import { TranslationReferenceResolver } from '../localization/tranlation-reference-resolver';
+import { ItemMinifier } from '../item-minifier/item-minifier';
 
 // TODO proper typing
 export function museumWingsParser(
@@ -36,6 +37,9 @@ export function museumWingsParser(
           orderId: order,
           setId,
           ...resolvedSet,
+          items: resolvedSet.items.map((itemId) =>
+            ItemMinifier.getMinifiedItem(itemId)
+          ),
           name: TranslationReferenceResolver.resolve(resolvedSet.name),
           description: TranslationReferenceResolver.resolve(
             resolvedSet.description

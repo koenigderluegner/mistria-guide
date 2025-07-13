@@ -90,7 +90,7 @@ export class DashboardComponent {
       if (value) {
         const sets = value.insect.sets;
         const museumBugs = (Object.keys(sets) as WingSetId[])
-          .map((setKey) => sets[setKey].items)
+          .map((setKey) => sets[setKey].items.map((item) => item.id))
           .flat();
         bugs = bugs.filter((b) => museumBugs.includes(b.id));
       }
@@ -115,7 +115,7 @@ export class DashboardComponent {
       if (value) {
         const sets = value.fish.sets;
         const museumFish = (Object.keys(sets) as WingSetId[])
-          .map((setKey) => sets[setKey].items)
+          .map((setKey) => sets[setKey].items.map((item) => item.id))
           .flat();
         fish = fish.filter((f) => museumFish.includes(f.id));
       }

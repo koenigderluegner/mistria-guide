@@ -9,11 +9,31 @@
         "name": "Dig Site Material Set",
         "description": "A collection of common materials found while digging.",
         "items": [
-          "sod",
-          "peat",
-          "shards",
-          "clay",
-          "shard_mass"
+          {
+            "id": "sod",
+            "name": "Sod",
+            "icon_sprite": "spr_ui_item_sod"
+          },
+          {
+            "id": "peat",
+            "name": "Peat",
+            "icon_sprite": "spr_ui_item_peat"
+          },
+          {
+            "id": "shards",
+            "name": "Shards",
+            "icon_sprite": "spr_ui_item_shards"
+          },
+          {
+            "id": "clay",
+            "name": "Clay",
+            "icon_sprite": "spr_ui_item_clay"
+          },
+          {
+            "id": "shard_mass",
+            "name": "Shard Mass",
+            "icon_sprite": "spr_ui_item_shard_mass"
+          }
         ]
       },
       "prehistoric": {
@@ -22,11 +42,31 @@
         "name": "Prehistoric Artifact Set",
         "description": "A collection of artifacts from an unimaginably long time ago.",
         "items": [
-          "amber_trapped_insect",
-          "trilobite_fossil",
-          "tiny_dinosaur_skeleton",
-          "fossilized_egg",
-          "meteorite"
+          {
+            "id": "amber_trapped_insect",
+            "name": "Amber Trapped Insect",
+            "icon_sprite": "spr_ui_item_amber_trapped_insect"
+          },
+          {
+            "id": "trilobite_fossil",
+            "name": "Trilobite Fossil",
+            "icon_sprite": "spr_ui_item_trilobite_fossil"
+          },
+          {
+            "id": "tiny_dinosaur_skeleton",
+            "name": "Tiny Dinosaur Skeleton",
+            "icon_sprite": "spr_ui_item_tiny_dinosaur_skeleton"
+          },
+          {
+            "id": "fossilized_egg",
+            "name": "Fossilized Egg",
+            "icon_sprite": "spr_ui_item_fossilized_egg"
+          },
+          {
+            "id": "meteorite",
+            "name": "Meteorite",
+            "icon_sprite": "spr_ui_item_meteorite"
+          }
         ]
       },
       "ancient": {
@@ -35,11 +75,31 @@
         "name": "Ancient Artifact Set",
         "description": "A collection of artifacts from the age of the Witch Queen's reign.",
         "items": [
-          "ancient_stone_lantern",
-          "ancient_gold_coin",
-          "ancient_crystal_goblet",
-          "ancient_horn_circlet",
-          "ancient_royal_scepter"
+          {
+            "id": "ancient_stone_lantern",
+            "name": "Ancient Stone Lantern",
+            "icon_sprite": "spr_ui_item_ancient_stone_lantern"
+          },
+          {
+            "id": "ancient_gold_coin",
+            "name": "Ancient Gold Coin",
+            "icon_sprite": "spr_ui_item_ancient_gold_coin"
+          },
+          {
+            "id": "ancient_crystal_goblet",
+            "name": "Ancient Crystal Goblet",
+            "icon_sprite": "spr_ui_item_ancient_crystal_goblet"
+          },
+          {
+            "id": "ancient_horn_circlet",
+            "name": "Ancient Horn Circlet",
+            "icon_sprite": "spr_ui_item_ancient_horn_circlet"
+          },
+          {
+            "id": "ancient_royal_scepter",
+            "name": "Ancient Royal Scepter",
+            "icon_sprite": "spr_ui_item_ancient_royal_scepter"
+          }
         ]
       },
       "alda": {
@@ -48,11 +108,31 @@
         "name": "Alda Artifact Set",
         "description": "A collection of artifacts from the Dark Ages of Aldaria's history.",
         "items": [
-          "alda_bronze_sword",
-          "alda_clay_pot",
-          "alda_feather_pendant",
-          "alda_gem_bracelet",
-          "alda_mural_tablet"
+          {
+            "id": "alda_bronze_sword",
+            "name": "Alda Bronze Sword",
+            "icon_sprite": "spr_ui_item_alda_bronze_sword"
+          },
+          {
+            "id": "alda_clay_pot",
+            "name": "Alda Clay Pot",
+            "icon_sprite": "spr_ui_item_alda_clay_pot"
+          },
+          {
+            "id": "alda_feather_pendant",
+            "name": "Alda Feather Pendant",
+            "icon_sprite": "spr_ui_item_alda_feather_pendant"
+          },
+          {
+            "id": "alda_gem_bracelet",
+            "name": "Alda Gem Bracelet",
+            "icon_sprite": "spr_ui_item_alda_gem_bracelet"
+          },
+          {
+            "id": "alda_mural_tablet",
+            "name": "Alda Mural Tablet",
+            "icon_sprite": "spr_ui_item_alda_mural_tablet"
+          }
         ]
       },
       "caldosian": {
@@ -61,11 +141,31 @@
         "name": "Caldosian Artifact Set",
         "description": "A collection of artifacts from the Caldosian Empire's history.",
         "items": [
-          "caldosian_sword",
-          "caldosian_emperor_bust",
-          "caldosian_breastplate",
-          "caldosian_drinking_horn",
-          "statuette_of_caldarus"
+          {
+            "id": "caldosian_sword",
+            "name": "Caldosian Sword",
+            "icon_sprite": "spr_ui_item_caldosian_sword"
+          },
+          {
+            "id": "caldosian_emperor_bust",
+            "name": "Caldosian Emperor Bust",
+            "icon_sprite": "spr_ui_item_caldosian_emperor_bust"
+          },
+          {
+            "id": "caldosian_breastplate",
+            "name": "Caldosian Breastplate",
+            "icon_sprite": "spr_ui_item_caldosian_breastplate"
+          },
+          {
+            "id": "caldosian_drinking_horn",
+            "name": "Caldosian Drinking Horn",
+            "icon_sprite": "spr_ui_item_caldosian_drinking_horn"
+          },
+          {
+            "id": "statuette_of_caldarus",
+            "name": "Statuette of Caldarus",
+            "icon_sprite": "spr_ui_item_statuette_of_caldarus"
+          }
         ]
       },
       "aldarian": {
@@ -74,11 +174,31 @@
         "name": "Aldarian Artifact Set",
         "description": "A collection of artifacts from the Aldarian Kingdom's history.",
         "items": [
-          "aldarian_sword",
-          "family_crest_pendant",
-          "aldarian_war_banner",
-          "aldarian_gauntlet",
-          "lost_crown_of_aldaria"
+          {
+            "id": "aldarian_sword",
+            "name": "Aldarian Sword",
+            "icon_sprite": "spr_ui_item_aldarian_sword"
+          },
+          {
+            "id": "family_crest_pendant",
+            "name": "Family Crest Pendant",
+            "icon_sprite": "spr_ui_item_family_crest_pendant"
+          },
+          {
+            "id": "aldarian_war_banner",
+            "name": "Aldarian War Banner",
+            "icon_sprite": "spr_ui_item_aldarian_war_banner"
+          },
+          {
+            "id": "aldarian_gauntlet",
+            "name": "Aldarian Gauntlet",
+            "icon_sprite": "spr_ui_item_aldarian_gauntlet"
+          },
+          {
+            "id": "lost_crown_of_aldaria",
+            "name": "Lost Crown of Aldaria",
+            "icon_sprite": "spr_ui_item_lost_crown_of_aldaria"
+          }
         ]
       },
       "oopart": {
@@ -87,11 +207,31 @@
         "name": "Oopart Artifact Set",
         "description": "A collection of out of place artifacts with dubious archaeological value.",
         "items": [
-          "muttering_cube",
-          "weightless_stone",
-          "completely_wrong_map",
-          "black_tablet",
-          "unknown_dragon_statuette"
+          {
+            "id": "muttering_cube",
+            "name": "Muttering Cube",
+            "icon_sprite": "spr_ui_item_muttering_cube"
+          },
+          {
+            "id": "weightless_stone",
+            "name": "Weightless Stone",
+            "icon_sprite": "spr_ui_item_weightless_stone"
+          },
+          {
+            "id": "completely_wrong_map",
+            "name": "Completely Wrong Map",
+            "icon_sprite": "spr_ui_item_completely_wrong_map"
+          },
+          {
+            "id": "black_tablet",
+            "name": "Black Tablet",
+            "icon_sprite": "spr_ui_item_black_tablet"
+          },
+          {
+            "id": "unknown_dragon_statuette",
+            "name": "Unknown Dragon Statuette",
+            "icon_sprite": "spr_ui_item_unknown_dragon_statuette"
+          }
         ]
       },
       "aquatic": {
@@ -100,11 +240,31 @@
         "name": "Aquatic Artifact Set",
         "description": "A collection of artifacts fished from the waters.",
         "items": [
-          "rubber_fish",
-          "giant_fish_scale",
-          "coin_lump",
-          "water_sphere",
-          "rusted_treasure_chest"
+          {
+            "id": "rubber_fish",
+            "name": "Rubber Fish",
+            "icon_sprite": "spr_ui_item_rubber_fish"
+          },
+          {
+            "id": "giant_fish_scale",
+            "name": "Giant Fish Scale",
+            "icon_sprite": "spr_ui_item_giant_fish_scale"
+          },
+          {
+            "id": "coin_lump",
+            "name": "Coin Lump",
+            "icon_sprite": "spr_ui_item_coin_lump"
+          },
+          {
+            "id": "water_sphere",
+            "name": "Water Sphere",
+            "icon_sprite": "spr_ui_item_water_sphere"
+          },
+          {
+            "id": "rusted_treasure_chest",
+            "name": "Rusted Treasure Chest",
+            "icon_sprite": "spr_ui_item_rusted_treasure_chest"
+          }
         ]
       },
       "sunken": {
@@ -113,11 +273,31 @@
         "name": "Sunken Artifact Set",
         "description": "A collection of artifacts found by diving below the waters.",
         "items": [
-          "rusted_shield",
-          "rock_with_a_hole",
-          "rainbow_seaweed",
-          "criminal_confession",
-          "mermaids_comb"
+          {
+            "id": "rusted_shield",
+            "name": "Rusted Shield",
+            "icon_sprite": "spr_ui_item_rusted_shield"
+          },
+          {
+            "id": "rock_with_a_hole",
+            "name": "Rock with a Hole",
+            "icon_sprite": "spr_ui_item_rock_with_a_hole"
+          },
+          {
+            "id": "rainbow_seaweed",
+            "name": "Rainbow Seaweed",
+            "icon_sprite": "spr_ui_item_rainbow_seaweed"
+          },
+          {
+            "id": "criminal_confession",
+            "name": "Criminal Confession",
+            "icon_sprite": "spr_ui_item_criminal_confession"
+          },
+          {
+            "id": "mermaids_comb",
+            "name": "Mermaid's Comb",
+            "icon_sprite": "spr_ui_item_mermaids_comb"
+          }
         ]
       },
       "deep_woods": {
@@ -126,11 +306,31 @@
         "name": "Deep Woods Artifact Set",
         "description": "A collection of artifacts from the depths of the Deep Woods.",
         "items": [
-          "petrified_wood",
-          "gathering_basket",
-          "crystal_apple",
-          "metal_leaf",
-          "fossilized_mandrake_root"
+          {
+            "id": "petrified_wood",
+            "name": "Petrified Wood",
+            "icon_sprite": "spr_ui_item_petrified_wood"
+          },
+          {
+            "id": "gathering_basket",
+            "name": "Gathering Basket",
+            "icon_sprite": "spr_ui_item_gathering_basket"
+          },
+          {
+            "id": "crystal_apple",
+            "name": "Crystal Apple",
+            "icon_sprite": "spr_ui_item_crystal_apple"
+          },
+          {
+            "id": "metal_leaf",
+            "name": "Metal Leaf",
+            "icon_sprite": "spr_ui_item_metal_leaf"
+          },
+          {
+            "id": "fossilized_mandrake_root",
+            "name": "Fossilized Mandrake Root",
+            "icon_sprite": "spr_ui_item_fossilized_mandrake_root"
+          }
         ]
       },
       "mine": {
@@ -139,11 +339,31 @@
         "name": "Buried Artifact Set",
         "description": "A collection of artifacts from the depths below Mistria.",
         "items": [
-          "stone_horse",
-          "flint_arrowhead",
-          "obsidian_blade",
-          "diamond_backed_mirror",
-          "shortcut_scroll"
+          {
+            "id": "stone_horse",
+            "name": "Stone Horse",
+            "icon_sprite": "spr_ui_item_stone_horse"
+          },
+          {
+            "id": "flint_arrowhead",
+            "name": "Flint Arrowhead",
+            "icon_sprite": "spr_ui_item_flint_arrowhead"
+          },
+          {
+            "id": "obsidian_blade",
+            "name": "Obsidian Blade",
+            "icon_sprite": "spr_ui_item_obsidian_blade"
+          },
+          {
+            "id": "diamond_backed_mirror",
+            "name": "Diamond-Backed Mirror",
+            "icon_sprite": "spr_ui_item_diamond_backed_mirror"
+          },
+          {
+            "id": "shortcut_scroll",
+            "name": "Shortcut Scroll",
+            "icon_sprite": "spr_ui_item_shortcut_scroll"
+          }
         ]
       },
       "upper_mines_artifacts": {
@@ -152,11 +372,31 @@
         "name": "Upper Mines Artifact Set",
         "description": "A collection of artifacts from the Upper Mines.",
         "items": [
-          "miners_pickaxe",
-          "tin_lunchbox",
-          "miners_slab",
-          "miners_rucksack",
-          "miners_helmet"
+          {
+            "id": "miners_pickaxe",
+            "name": "Miner's Pickaxe",
+            "icon_sprite": "spr_ui_item_miners_pickaxe"
+          },
+          {
+            "id": "tin_lunchbox",
+            "name": "Tin Lunchbox",
+            "icon_sprite": "spr_ui_item_tin_lunchbox"
+          },
+          {
+            "id": "miners_slab",
+            "name": "Miner's Slab",
+            "icon_sprite": "spr_ui_item_miners_slab"
+          },
+          {
+            "id": "miners_rucksack",
+            "name": "Miner's Rucksack",
+            "icon_sprite": "spr_ui_item_miners_rucksack"
+          },
+          {
+            "id": "miners_helmet",
+            "name": "Miner's Helmet",
+            "icon_sprite": "spr_ui_item_miners_helmet"
+          }
         ]
       },
       "tide_caverns": {
@@ -165,11 +405,31 @@
         "name": "Tide Cavern Artifact Set",
         "description": "A collection of artifacts from the Tide Caverns.",
         "items": [
-          "stone_shell",
-          "tidestone",
-          "starlight_coral",
-          "dense_water",
-          "crab_statue"
+          {
+            "id": "stone_shell",
+            "name": "Stone Shell",
+            "icon_sprite": "spr_ui_item_stone_shell"
+          },
+          {
+            "id": "tidestone",
+            "name": "Tidestone",
+            "icon_sprite": "spr_ui_item_tidestone"
+          },
+          {
+            "id": "starlight_coral",
+            "name": "Starlight Coral",
+            "icon_sprite": "spr_ui_item_starlight_coral"
+          },
+          {
+            "id": "dense_water",
+            "name": "Dense Water",
+            "icon_sprite": "spr_ui_item_dense_water"
+          },
+          {
+            "id": "crab_statue",
+            "name": "Crab Statue",
+            "icon_sprite": "spr_ui_item_crab_statue"
+          }
         ]
       },
       "deep_earth": {
@@ -178,11 +438,31 @@
         "name": "Deep Earth Artifact Set",
         "description": "A collection of artifacts from the Deep Earth.",
         "items": [
-          "really_round_rock",
-          "seriously_square_stone",
-          "earth_infused_stone",
-          "faceted_rock_gem",
-          "rock_statue"
+          {
+            "id": "really_round_rock",
+            "name": "Really Round Rock",
+            "icon_sprite": "spr_ui_item_really_round_rock"
+          },
+          {
+            "id": "seriously_square_stone",
+            "name": "Seriously Square Stone",
+            "icon_sprite": "spr_ui_item_seriously_square_rock"
+          },
+          {
+            "id": "earth_infused_stone",
+            "name": "Earth-Infused Stone",
+            "icon_sprite": "spr_ui_item_earth_infused_stone"
+          },
+          {
+            "id": "faceted_rock_gem",
+            "name": "Faceted Rock Gem",
+            "icon_sprite": "spr_ui_item_faceted_rock_gem"
+          },
+          {
+            "id": "rock_statue",
+            "name": "Rock Statue",
+            "icon_sprite": "spr_ui_item_rock_statue"
+          }
         ]
       },
       "lava_caves": {
@@ -191,11 +471,31 @@
         "name": "Lava Caves Artifact Set",
         "description": "A collection of artifacts from the Lava Caves.",
         "items": [
-          "fire_crystal",
-          "warm_rock",
-          "red_obsidian",
-          "rainbow_geode",
-          "tiny_volcano"
+          {
+            "id": "fire_crystal",
+            "name": "Fire Crystal",
+            "icon_sprite": "spr_ui_item_fire_crystal"
+          },
+          {
+            "id": "warm_rock",
+            "name": "Warm Rock",
+            "icon_sprite": "spr_ui_item_warm_rock"
+          },
+          {
+            "id": "red_obsidian",
+            "name": "Red Obsidian",
+            "icon_sprite": "spr_ui_item_red_obsidian"
+          },
+          {
+            "id": "rainbow_geode",
+            "name": "Rainbow Geode",
+            "icon_sprite": "spr_ui_item_rainbow_geode"
+          },
+          {
+            "id": "tiny_volcano",
+            "name": "Tiny Volcano",
+            "icon_sprite": "spr_ui_item_tiny_volcano"
+          }
         ]
       },
       "ritual": {
@@ -204,11 +504,31 @@
         "name": "Ritual Artifact Set",
         "description": "A collection of artifacts found in underground ritual chambers.",
         "items": [
-          "ritual_incense_burner",
-          "ritual_beads",
-          "ritual_chalice",
-          "ritual_scepter",
-          "ritual_tablet"
+          {
+            "id": "ritual_incense_burner",
+            "name": "Ritual Incense Burner",
+            "icon_sprite": "spr_ui_item_ritual_incense_burner"
+          },
+          {
+            "id": "ritual_beads",
+            "name": "Ritual Beads",
+            "icon_sprite": "spr_ui_item_ritual_beads"
+          },
+          {
+            "id": "ritual_chalice",
+            "name": "Ritual Chalice",
+            "icon_sprite": "spr_ui_item_ritual_chalice"
+          },
+          {
+            "id": "ritual_scepter",
+            "name": "Ritual Scepter",
+            "icon_sprite": "spr_ui_item_ritual_scepter"
+          },
+          {
+            "id": "ritual_tablet",
+            "name": "Ritual Tablet",
+            "icon_sprite": "spr_ui_item_ritual_tablet"
+          }
         ]
       },
       "vintage_farm_tools": {
@@ -217,11 +537,31 @@
         "name": "Vintage Farm Tools Set",
         "description": "A collection of vintage farm tools found on your farm.",
         "items": [
-          "vintage_watering_can",
-          "vintage_hammer",
-          "vintage_sickle",
-          "vintage_brush",
-          "vintage_cow_bell"
+          {
+            "id": "vintage_watering_can",
+            "name": "Vintage Watering Can",
+            "icon_sprite": "spr_ui_item_vintage_watering_can"
+          },
+          {
+            "id": "vintage_hammer",
+            "name": "Vintage Hammer",
+            "icon_sprite": "spr_ui_item_vintage_hammer"
+          },
+          {
+            "id": "vintage_sickle",
+            "name": "Vintage Sickle",
+            "icon_sprite": "spr_ui_item_vintage_sickle"
+          },
+          {
+            "id": "vintage_brush",
+            "name": "Vintage Brush",
+            "icon_sprite": "spr_ui_item_vintage_brush"
+          },
+          {
+            "id": "vintage_cow_bell",
+            "name": "Vintage Cow Bell",
+            "icon_sprite": "spr_ui_item_vintage_bell"
+          }
         ]
       },
       "metals_of_mistria": {
@@ -230,11 +570,31 @@
         "name": "Metals of Mistria Set",
         "description": "A collection of perfect metal ores from across Mistria.",
         "items": [
-          "perfect_copper_ore",
-          "perfect_iron_ore",
-          "perfect_silver_ore",
-          "perfect_gold_ore",
-          "perfect_mistril_ore"
+          {
+            "id": "perfect_copper_ore",
+            "name": "Perfect Copper Ore",
+            "icon_sprite": "spr_ui_item_perfect_copper_ore"
+          },
+          {
+            "id": "perfect_iron_ore",
+            "name": "Perfect Iron Ore",
+            "icon_sprite": "spr_ui_item_perfect_iron_ore"
+          },
+          {
+            "id": "perfect_silver_ore",
+            "name": "Perfect Silver Ore",
+            "icon_sprite": "spr_ui_item_perfect_silver_ore"
+          },
+          {
+            "id": "perfect_gold_ore",
+            "name": "Perfect Gold Ore",
+            "icon_sprite": "spr_ui_item_perfect_gold_ore"
+          },
+          {
+            "id": "perfect_mistril_ore",
+            "name": "Perfect Mistril Ore",
+            "icon_sprite": "spr_ui_item_perfect_mistril_ore"
+          }
         ]
       },
       "gems_of_mistria": {
@@ -243,11 +603,31 @@
         "name": "Gems of Mistria Set",
         "description": "A collection of perfect gems from across Mistria.",
         "items": [
-          "perfect_ruby",
-          "perfect_sapphire",
-          "perfect_emerald",
-          "perfect_diamond",
-          "perfect_pink_diamond"
+          {
+            "id": "perfect_ruby",
+            "name": "Perfect Ruby",
+            "icon_sprite": "spr_ui_item_perfect_ruby"
+          },
+          {
+            "id": "perfect_sapphire",
+            "name": "Perfect Sapphire",
+            "icon_sprite": "spr_ui_item_perfect_sapphire"
+          },
+          {
+            "id": "perfect_emerald",
+            "name": "Perfect Emerald",
+            "icon_sprite": "spr_ui_item_perfect_emerald"
+          },
+          {
+            "id": "perfect_diamond",
+            "name": "Perfect Diamond",
+            "icon_sprite": "spr_ui_item_perfect_diamond"
+          },
+          {
+            "id": "perfect_pink_diamond",
+            "name": "Perfect Pink Diamond",
+            "icon_sprite": "spr_ui_item_perfect_pink_diamond"
+          }
         ]
       }
     },
@@ -263,11 +643,31 @@
         "name": "Multi-Season Fish Set",
         "description": "A collection of fish found across multiple seasons.",
         "items": [
-          "pollock",
-          "koi",
-          "pike",
-          "smallmouth_bass",
-          "trout"
+          {
+            "id": "pollock",
+            "name": "Pollock",
+            "icon_sprite": "spr_ui_item_fish_large_pollock"
+          },
+          {
+            "id": "koi",
+            "name": "Koi",
+            "icon_sprite": "spr_ui_item_fish_medium_koi"
+          },
+          {
+            "id": "pike",
+            "name": "Pike",
+            "icon_sprite": "spr_ui_item_fish_large_pike"
+          },
+          {
+            "id": "smallmouth_bass",
+            "name": "Smallmouth Bass",
+            "icon_sprite": "spr_ui_item_fish_small_smallmouth_bass"
+          },
+          {
+            "id": "trout",
+            "name": "Trout",
+            "icon_sprite": "spr_ui_item_fish_medium_trout"
+          }
         ]
       },
       "spring_river": {
@@ -276,11 +676,31 @@
         "name": "Spring River Fish Set",
         "description": "A collection of fish found in the river during Spring.",
         "items": [
-          "bluegill",
-          "chub",
-          "carp",
-          "walleye",
-          "paddlefish"
+          {
+            "id": "bluegill",
+            "name": "Blue Gill",
+            "icon_sprite": "spr_ui_item_fish_small_blue_gill"
+          },
+          {
+            "id": "chub",
+            "name": "Chub",
+            "icon_sprite": "spr_ui_item_fish_small_chub"
+          },
+          {
+            "id": "carp",
+            "name": "Carp",
+            "icon_sprite": "spr_ui_item_fish_medium_carp"
+          },
+          {
+            "id": "walleye",
+            "name": "Walleye",
+            "icon_sprite": "spr_ui_item_fish_large_walleye"
+          },
+          {
+            "id": "paddlefish",
+            "name": "Paddlefish",
+            "icon_sprite": "spr_ui_item_fish_giant_paddlefish"
+          }
         ]
       },
       "spring_pond": {
@@ -289,11 +709,31 @@
         "name": "Spring Pond Fish Set",
         "description": "A collection of fish found in the pond during Spring.",
         "items": [
-          "barb",
-          "angel_fish",
-          "crucian_carp",
-          "brown_trout",
-          "goldfish"
+          {
+            "id": "barb",
+            "name": "Barb",
+            "icon_sprite": "spr_ui_item_fish_small_barb"
+          },
+          {
+            "id": "angel_fish",
+            "name": "Angel Fish",
+            "icon_sprite": "spr_ui_item_fish_small_angel_fish"
+          },
+          {
+            "id": "crucian_carp",
+            "name": "Crucian Carp",
+            "icon_sprite": "spr_ui_item_fish_medium_crucian_carp"
+          },
+          {
+            "id": "brown_trout",
+            "name": "Brown Trout",
+            "icon_sprite": "spr_ui_item_fish_large_brown_trout"
+          },
+          {
+            "id": "goldfish",
+            "name": "Goldfish",
+            "icon_sprite": "spr_ui_item_fish_small_goldfish"
+          }
         ]
       },
       "spring_ocean": {
@@ -302,11 +742,31 @@
         "name": "Spring Ocean Fish Set",
         "description": "A collection of fish found in the ocean during Spring.",
         "items": [
-          "anchovy",
-          "shrimp",
-          "lobster",
-          "mackerel",
-          "ocean_sunfish"
+          {
+            "id": "anchovy",
+            "name": "Anchovy",
+            "icon_sprite": "spr_ui_item_fish_small_anchovy"
+          },
+          {
+            "id": "shrimp",
+            "name": "Shrimp",
+            "icon_sprite": "spr_ui_item_fish_small_shrimp"
+          },
+          {
+            "id": "lobster",
+            "name": "Lobster",
+            "icon_sprite": "spr_ui_item_fish_medium_lobster"
+          },
+          {
+            "id": "mackerel",
+            "name": "Mackerel",
+            "icon_sprite": "spr_ui_item_fish_large_mackerel"
+          },
+          {
+            "id": "ocean_sunfish",
+            "name": "Ocean Sunfish",
+            "icon_sprite": "spr_ui_item_fish_giant_ocean_sunfish"
+          }
         ]
       },
       "summer_river": {
@@ -315,11 +775,31 @@
         "name": "Summer River Fish Set",
         "description": "A collection of fish found in the river during Summer.",
         "items": [
-          "minnow",
-          "loach",
-          "sweetfish",
-          "bream",
-          "tarpon"
+          {
+            "id": "minnow",
+            "name": "Minnow",
+            "icon_sprite": "spr_ui_item_fish_small_minnow"
+          },
+          {
+            "id": "loach",
+            "name": "Loach",
+            "icon_sprite": "spr_ui_item_fish_small_loach"
+          },
+          {
+            "id": "sweetfish",
+            "name": "Sweetfish",
+            "icon_sprite": "spr_ui_item_fish_medium_sweetfish"
+          },
+          {
+            "id": "bream",
+            "name": "Bream",
+            "icon_sprite": "spr_ui_item_fish_large_bream"
+          },
+          {
+            "id": "tarpon",
+            "name": "Tarpon",
+            "icon_sprite": "spr_ui_item_fish_giant_tarpon"
+          }
         ]
       },
       "summer_pond": {
@@ -328,11 +808,31 @@
         "name": "Summer Pond Fish Set",
         "description": "A collection of fish found in the pond during Summer.",
         "items": [
-          "lake_chub",
-          "golden_shiner",
-          "brown_bullhead",
-          "sauger",
-          "giant_koi"
+          {
+            "id": "lake_chub",
+            "name": "Lake Chub",
+            "icon_sprite": "spr_ui_item_fish_small_lake_chub"
+          },
+          {
+            "id": "golden_shiner",
+            "name": "Golden Shiner",
+            "icon_sprite": "spr_ui_item_fish_small_golden_shiner"
+          },
+          {
+            "id": "brown_bullhead",
+            "name": "Brown Bullhead",
+            "icon_sprite": "spr_ui_item_fish_medium_brown_bullhead"
+          },
+          {
+            "id": "sauger",
+            "name": "Sauger",
+            "icon_sprite": "spr_ui_item_fish_large_sauger"
+          },
+          {
+            "id": "giant_koi",
+            "name": "Giant Koi",
+            "icon_sprite": "spr_ui_item_fish_giant_giant_koi"
+          }
         ]
       },
       "summer_ocean": {
@@ -341,11 +841,31 @@
         "name": "Summer Ocean Fish Set",
         "description": "A collection of fish found in the ocean during Summer.",
         "items": [
-          "dart",
-          "crab",
-          "stingray",
-          "char",
-          "grouper"
+          {
+            "id": "dart",
+            "name": "Dart",
+            "icon_sprite": "spr_ui_item_fish_small_dart"
+          },
+          {
+            "id": "crab",
+            "name": "Crab",
+            "icon_sprite": "spr_ui_item_fish_small_crab"
+          },
+          {
+            "id": "stingray",
+            "name": "Stingray",
+            "icon_sprite": "spr_ui_item_fish_medium_stingray"
+          },
+          {
+            "id": "char",
+            "name": "Char",
+            "icon_sprite": "spr_ui_item_fish_large_char"
+          },
+          {
+            "id": "grouper",
+            "name": "Grouper",
+            "icon_sprite": "spr_ui_item_fish_giant_grouper"
+          }
         ]
       },
       "fall_river": {
@@ -354,11 +874,31 @@
         "name": "Fall River Fish Set",
         "description": "A collection of fish found in the river during Fall.",
         "items": [
-          "grayling",
-          "lamprey",
-          "shad",
-          "perch",
-          "razorback"
+          {
+            "id": "grayling",
+            "name": "Grayling",
+            "icon_sprite": "spr_ui_item_fish_small_grayling"
+          },
+          {
+            "id": "lamprey",
+            "name": "Lamprey",
+            "icon_sprite": "spr_ui_item_fish_small_lamprey"
+          },
+          {
+            "id": "shad",
+            "name": "Shad",
+            "icon_sprite": "spr_ui_item_fish_medium_shad"
+          },
+          {
+            "id": "perch",
+            "name": "Perch",
+            "icon_sprite": "spr_ui_item_fish_large_perch"
+          },
+          {
+            "id": "razorback",
+            "name": "Razorback",
+            "icon_sprite": "spr_ui_item_fish_medium_razorback"
+          }
         ]
       },
       "fall_pond": {
@@ -367,11 +907,31 @@
         "name": "Fall Pond Fish Set",
         "description": "A collection of fish found in the pond during Fall.",
         "items": [
-          "killifish",
-          "striped_bass",
-          "rainbow_trout",
-          "bluefish",
-          "white_perch"
+          {
+            "id": "killifish",
+            "name": "Killifish",
+            "icon_sprite": "spr_ui_item_fish_small_killifish"
+          },
+          {
+            "id": "striped_bass",
+            "name": "Striped Bass",
+            "icon_sprite": "spr_ui_item_fish_large_striped_bass"
+          },
+          {
+            "id": "rainbow_trout",
+            "name": "Rainbow Trout",
+            "icon_sprite": "spr_ui_item_fish_medium_rainbow_trout"
+          },
+          {
+            "id": "bluefish",
+            "name": "Bluefish",
+            "icon_sprite": "spr_ui_item_fish_large_bluefish"
+          },
+          {
+            "id": "white_perch",
+            "name": "White Perch",
+            "icon_sprite": "spr_ui_item_fish_medium_white_perch"
+          }
         ]
       },
       "fall_ocean": {
@@ -380,11 +940,31 @@
         "name": "Fall Ocean Fish Set",
         "description": "A collection of fish found in the ocean during Fall.",
         "items": [
-          "saury",
-          "butterfish",
-          "mullet",
-          "halibut",
-          "shark"
+          {
+            "id": "saury",
+            "name": "Saury",
+            "icon_sprite": "spr_ui_item_fish_small_saury"
+          },
+          {
+            "id": "butterfish",
+            "name": "Butterfish",
+            "icon_sprite": "spr_ui_item_fish_small_butterfish"
+          },
+          {
+            "id": "mullet",
+            "name": "Mullet",
+            "icon_sprite": "spr_ui_item_fish_medium_mullet"
+          },
+          {
+            "id": "halibut",
+            "name": "Halibut",
+            "icon_sprite": "spr_ui_item_fish_large_halibut"
+          },
+          {
+            "id": "shark",
+            "name": "Shark",
+            "icon_sprite": "spr_ui_item_fish_giant_shark"
+          }
         ]
       },
       "winter_river": {
@@ -393,11 +973,31 @@
         "name": "Winter River Fish Set",
         "description": "A collection of fish found in the river during Winter.",
         "items": [
-          "dace",
-          "herring",
-          "freshwater_eel",
-          "bowfish",
-          "shadow_bass"
+          {
+            "id": "dace",
+            "name": "Dace",
+            "icon_sprite": "spr_ui_item_fish_small_dace"
+          },
+          {
+            "id": "herring",
+            "name": "Herring",
+            "icon_sprite": "spr_ui_item_fish_small_herring"
+          },
+          {
+            "id": "freshwater_eel",
+            "name": "Freshwater Eel",
+            "icon_sprite": "spr_ui_item_fish_medium_freshwater_eel"
+          },
+          {
+            "id": "bowfish",
+            "name": "Bowfish",
+            "icon_sprite": "spr_ui_item_fish_large_bowfish"
+          },
+          {
+            "id": "shadow_bass",
+            "name": "Shadow Bass",
+            "icon_sprite": "spr_ui_item_fish_medium_shadow_bass"
+          }
         ]
       },
       "winter_pond": {
@@ -406,11 +1006,31 @@
         "name": "Winter Pond Fish Set",
         "description": "A collection of fish found in the pond during Winter.",
         "items": [
-          "tilapia",
-          "flathead_catfish",
-          "burbot",
-          "giant_tilapia",
-          "alligator_gar"
+          {
+            "id": "tilapia",
+            "name": "Tilapia",
+            "icon_sprite": "spr_ui_item_fish_small_tilapia"
+          },
+          {
+            "id": "flathead_catfish",
+            "name": "Flathead Catfish",
+            "icon_sprite": "spr_ui_item_fish_medium_flathead_catfish"
+          },
+          {
+            "id": "burbot",
+            "name": "Burbot",
+            "icon_sprite": "spr_ui_item_fish_large_burbot"
+          },
+          {
+            "id": "giant_tilapia",
+            "name": "Giant Tilapia",
+            "icon_sprite": "spr_ui_item_fish_large_giant_tilapia"
+          },
+          {
+            "id": "alligator_gar",
+            "name": "Alligator Gar",
+            "icon_sprite": "spr_ui_item_fish_giant_alligator_gar"
+          }
         ]
       },
       "winter_ocean": {
@@ -419,11 +1039,31 @@
         "name": "Winter Ocean Fish Set",
         "description": "A collection of fish found in the ocean during Winter.",
         "items": [
-          "sand_lance",
-          "horse_mackerel",
-          "sea_bass",
-          "king_crab",
-          "oarfish"
+          {
+            "id": "sand_lance",
+            "name": "Sand Lance",
+            "icon_sprite": "spr_ui_item_fish_small_sand_lance"
+          },
+          {
+            "id": "horse_mackerel",
+            "name": "Horse Mackerel",
+            "icon_sprite": "spr_ui_item_fish_small_horse_mackerel"
+          },
+          {
+            "id": "sea_bass",
+            "name": "Sea Bass",
+            "icon_sprite": "spr_ui_item_fish_medium_sea_bass"
+          },
+          {
+            "id": "king_crab",
+            "name": "King Crab",
+            "icon_sprite": "spr_ui_item_fish_large_king_crab"
+          },
+          {
+            "id": "oarfish",
+            "name": "Oarfish",
+            "icon_sprite": "spr_ui_item_fish_giant_oarfish"
+          }
         ]
       },
       "deep_woods": {
@@ -432,11 +1072,31 @@
         "name": "Deep Woods Fish Set",
         "description": "A collection of fish found in the Deep Woods.",
         "items": [
-          "sunny",
-          "forest_perch",
-          "silver_redhorse",
-          "lake_trout",
-          "muskie"
+          {
+            "id": "sunny",
+            "name": "Sunny",
+            "icon_sprite": "spr_ui_item_fish_small_sunny"
+          },
+          {
+            "id": "forest_perch",
+            "name": "Forest Perch",
+            "icon_sprite": "spr_ui_item_fish_medium_forest_perch"
+          },
+          {
+            "id": "silver_redhorse",
+            "name": "Silver Redhorse",
+            "icon_sprite": "spr_ui_item_fish_medium_silver_redhorse"
+          },
+          {
+            "id": "lake_trout",
+            "name": "Lake Trout",
+            "icon_sprite": "spr_ui_item_fish_large_lake_trout"
+          },
+          {
+            "id": "muskie",
+            "name": "Muskie",
+            "icon_sprite": "spr_ui_item_fish_large_muskie"
+          }
         ]
       },
       "upper_mines": {
@@ -445,11 +1105,31 @@
         "name": "Upper Mines Fish Set",
         "description": "A collection of fish found in the Upper Mines.",
         "items": [
-          "cave_shrimp",
-          "rock_guppy",
-          "stone_loach",
-          "cave_eel",
-          "cave_shark"
+          {
+            "id": "cave_shrimp",
+            "name": "Cave Shrimp",
+            "icon_sprite": "spr_ui_item_fish_small_cave_shrimp"
+          },
+          {
+            "id": "rock_guppy",
+            "name": "Rock Guppy",
+            "icon_sprite": "spr_ui_item_fish_small_rock_guppy"
+          },
+          {
+            "id": "stone_loach",
+            "name": "Stone Loach",
+            "icon_sprite": "spr_ui_item_fish_medium_stone_loach"
+          },
+          {
+            "id": "cave_eel",
+            "name": "Cave Eel",
+            "icon_sprite": "spr_ui_item_fish_medium_cave_eel"
+          },
+          {
+            "id": "cave_shark",
+            "name": "Cave Shark",
+            "icon_sprite": "spr_ui_item_fish_large_cave_shark"
+          }
         ]
       },
       "tide_caverns": {
@@ -458,11 +1138,31 @@
         "name": "Tide Caverns Fish Set",
         "description": "A collection of fish found in the Tide Caverns.",
         "items": [
-          "sapphire_betta",
-          "archerfish",
-          "transparent_jellyfish",
-          "water_balloon_fish",
-          "mini_whale_shark"
+          {
+            "id": "sapphire_betta",
+            "name": "Sapphire Betta",
+            "icon_sprite": "spr_ui_item_fish_small_sapphire_betta"
+          },
+          {
+            "id": "archerfish",
+            "name": "Archerfish",
+            "icon_sprite": "spr_ui_item_fish_small_archerfish"
+          },
+          {
+            "id": "transparent_jellyfish",
+            "name": "Transparent Jellyfish",
+            "icon_sprite": "spr_ui_item_fish_medium_transparent_jellyfish"
+          },
+          {
+            "id": "water_balloon_fish",
+            "name": "Water Balloon Fish",
+            "icon_sprite": "spr_ui_item_fish_medium_water_balloon_fish"
+          },
+          {
+            "id": "mini_whale_shark",
+            "name": "Mini-Whale Shark",
+            "icon_sprite": "spr_ui_item_fish_large_mini_whale_shark"
+          }
         ]
       },
       "deep_earth": {
@@ -471,11 +1171,31 @@
         "name": "Deep Earth Fish Set",
         "description": "A collection of fish found in the Deep Earth.",
         "items": [
-          "pebble_minnow",
-          "shardfin",
-          "earth_eel",
-          "rockbiter",
-          "emerald_horned_charger"
+          {
+            "id": "pebble_minnow",
+            "name": "Pebble Minnow",
+            "icon_sprite": "spr_ui_item_fish_small_pebble_minnow"
+          },
+          {
+            "id": "shardfin",
+            "name": "Shardfin",
+            "icon_sprite": "spr_ui_item_fish_small_shardfin"
+          },
+          {
+            "id": "earth_eel",
+            "name": "Earth Eel",
+            "icon_sprite": "spr_ui_item_fish_medium_earth_eel"
+          },
+          {
+            "id": "rockbiter",
+            "name": "Rockbiter",
+            "icon_sprite": "spr_ui_item_fish_medium_rockbiter"
+          },
+          {
+            "id": "emerald_horned_charger",
+            "name": "Emerald-Horned Charger",
+            "icon_sprite": "spr_ui_item_fish_large_emerald_horned_charger"
+          }
         ]
       },
       "lava_caves": {
@@ -484,11 +1204,31 @@
         "name": "Lava Caves Fish Set",
         "description": "A collection of fish found in the Lava Caves.",
         "items": [
-          "lava_piranha",
-          "candelabra_seadragon",
-          "armored_bass",
-          "sulfur_crab",
-          "firesail_fish"
+          {
+            "id": "lava_piranha",
+            "name": "Lava Piranha",
+            "icon_sprite": "spr_ui_item_fish_small_lava_piranha"
+          },
+          {
+            "id": "candelabra_seadragon",
+            "name": "Candelabra Seadragon",
+            "icon_sprite": "spr_ui_item_fish_small_candelabra_seadragon"
+          },
+          {
+            "id": "armored_bass",
+            "name": "Armored Bass",
+            "icon_sprite": "spr_ui_item_fish_medium_armored_bass"
+          },
+          {
+            "id": "sulfur_crab",
+            "name": "Sulfur Crab",
+            "icon_sprite": "spr_ui_item_fish_medium_sulfur_crab"
+          },
+          {
+            "id": "firesail_fish",
+            "name": "Firesail Fish",
+            "icon_sprite": "spr_ui_item_fish_large_firesail_fish"
+          }
         ]
       },
       "legendary": {
@@ -497,10 +1237,26 @@
         "name": "Legendary Fish Set",
         "description": "A collection of legendary fish.",
         "items": [
-          "cherry_fish",
-          "lightning_fish",
-          "leaf_fish",
-          "snow_fish"
+          {
+            "id": "cherry_fish",
+            "name": "Cherry Fish",
+            "icon_sprite": "spr_ui_item_fish_small_cherry_fish"
+          },
+          {
+            "id": "lightning_fish",
+            "name": "Lightning Fish",
+            "icon_sprite": "spr_ui_item_fish_medium_lightning_fish"
+          },
+          {
+            "id": "leaf_fish",
+            "name": "Leaf Fish",
+            "icon_sprite": "spr_ui_item_fish_small_leaf_fish"
+          },
+          {
+            "id": "snow_fish",
+            "name": "Snow Fish",
+            "icon_sprite": "spr_ui_item_fish_medium_snow_fish"
+          }
         ]
       }
     },
@@ -516,11 +1272,31 @@
         "name": "Spring Crop Set",
         "description": "A collection of crops grown during Spring.",
         "items": [
-          "cabbage",
-          "potato",
-          "strawberry",
-          "turnip",
-          "cherry"
+          {
+            "id": "cabbage",
+            "name": "Cabbage",
+            "icon_sprite": "spr_ui_item_cabbage"
+          },
+          {
+            "id": "potato",
+            "name": "Potato",
+            "icon_sprite": "spr_ui_item_potato"
+          },
+          {
+            "id": "strawberry",
+            "name": "Strawberry",
+            "icon_sprite": "spr_ui_item_strawberry"
+          },
+          {
+            "id": "turnip",
+            "name": "Turnip",
+            "icon_sprite": "spr_ui_item_turnip"
+          },
+          {
+            "id": "cherry",
+            "name": "Cherry",
+            "icon_sprite": "spr_ui_item_cherry"
+          }
         ]
       },
       "spring_flowers": {
@@ -529,11 +1305,31 @@
         "name": "Spring Flower Set",
         "description": "A collection of flowers grown during Spring.",
         "items": [
-          "daffodil",
-          "tulip",
-          "dandelion",
-          "lilac",
-          "snowdrop_anemone"
+          {
+            "id": "daffodil",
+            "name": "Daffodil",
+            "icon_sprite": "spr_ui_item_daffodil"
+          },
+          {
+            "id": "tulip",
+            "name": "Tulip",
+            "icon_sprite": "spr_ui_item_tulip"
+          },
+          {
+            "id": "dandelion",
+            "name": "Dandelion",
+            "icon_sprite": "spr_ui_item_dandelionflower"
+          },
+          {
+            "id": "lilac",
+            "name": "Lilac",
+            "icon_sprite": "spr_ui_item_lilac"
+          },
+          {
+            "id": "snowdrop_anemone",
+            "name": "Snowdrop Anemone",
+            "icon_sprite": "spr_ui_item_snowdrop_anemone"
+          }
         ]
       },
       "spring_forage": {
@@ -542,11 +1338,31 @@
         "name": "Spring Forage Set",
         "description": "A collection of foraged items found during Spring.",
         "items": [
-          "fennel",
-          "fiddlehead",
-          "morel_mushroom",
-          "nettle",
-          "wild_leek"
+          {
+            "id": "fennel",
+            "name": "Fennel",
+            "icon_sprite": "spr_ui_item_fennel"
+          },
+          {
+            "id": "fiddlehead",
+            "name": "Fiddlehead",
+            "icon_sprite": "spr_ui_item_fiddlehead"
+          },
+          {
+            "id": "morel_mushroom",
+            "name": "Morel Mushroom",
+            "icon_sprite": "spr_ui_item_morelmushroom"
+          },
+          {
+            "id": "nettle",
+            "name": "Nettle",
+            "icon_sprite": "spr_ui_item_nettle"
+          },
+          {
+            "id": "wild_leek",
+            "name": "Wild Leek",
+            "icon_sprite": "spr_ui_item_springonion"
+          }
         ]
       },
       "summer_crops": {
@@ -555,11 +1371,31 @@
         "name": "Summer Crop Set",
         "description": "A collection of crops grown during Summer.",
         "items": [
-          "cucumber",
-          "chili_pepper",
-          "watermelon",
-          "tomato",
-          "corn"
+          {
+            "id": "cucumber",
+            "name": "Cucumber",
+            "icon_sprite": "spr_ui_item_cucumber"
+          },
+          {
+            "id": "chili_pepper",
+            "name": "Chili Pepper",
+            "icon_sprite": "spr_ui_item_chili_pepper"
+          },
+          {
+            "id": "watermelon",
+            "name": "Watermelon",
+            "icon_sprite": "spr_ui_item_watermelon"
+          },
+          {
+            "id": "tomato",
+            "name": "Tomato",
+            "icon_sprite": "spr_ui_item_tomato"
+          },
+          {
+            "id": "corn",
+            "name": "Corn",
+            "icon_sprite": "spr_ui_item_corn"
+          }
         ]
       },
       "summer_flowers": {
@@ -568,11 +1404,31 @@
         "name": "Summer Flower Set",
         "description": "A collection of flowers grown during Summer.",
         "items": [
-          "daisy",
-          "iris",
-          "marigold",
-          "catmint",
-          "cosmos"
+          {
+            "id": "daisy",
+            "name": "Daisy",
+            "icon_sprite": "spr_ui_item_daisy"
+          },
+          {
+            "id": "iris",
+            "name": "Iris",
+            "icon_sprite": "spr_ui_item_iris"
+          },
+          {
+            "id": "marigold",
+            "name": "Marigold",
+            "icon_sprite": "spr_ui_item_marigold"
+          },
+          {
+            "id": "catmint",
+            "name": "Catmint",
+            "icon_sprite": "spr_ui_item_catmint"
+          },
+          {
+            "id": "cosmos",
+            "name": "Cosmos",
+            "icon_sprite": "spr_ui_item_cosmos"
+          }
         ]
       },
       "summer_forage": {
@@ -581,11 +1437,31 @@
         "name": "Summer Forage Set",
         "description": "A collection of foraged items found during Summer.",
         "items": [
-          "sage",
-          "basil",
-          "thyme",
-          "oregano",
-          "dill"
+          {
+            "id": "sage",
+            "name": "Sage",
+            "icon_sprite": "spr_ui_item_sage"
+          },
+          {
+            "id": "basil",
+            "name": "Basil",
+            "icon_sprite": "spr_ui_item_basil"
+          },
+          {
+            "id": "thyme",
+            "name": "Thyme",
+            "icon_sprite": "spr_ui_item_thyme"
+          },
+          {
+            "id": "oregano",
+            "name": "Oregano",
+            "icon_sprite": "spr_ui_item_oregano"
+          },
+          {
+            "id": "dill",
+            "name": "Dill",
+            "icon_sprite": "spr_ui_item_dill"
+          }
         ]
       },
       "fall_crops": {
@@ -594,11 +1470,31 @@
         "name": "Fall Crop Set",
         "description": "A collection of crops grown during Fall.",
         "items": [
-          "broccoli",
-          "cranberry",
-          "pumpkin",
-          "sweet_potato",
-          "apple"
+          {
+            "id": "broccoli",
+            "name": "Broccoli",
+            "icon_sprite": "spr_ui_item_broccoli"
+          },
+          {
+            "id": "cranberry",
+            "name": "Cranberry",
+            "icon_sprite": "spr_ui_item_cranberry"
+          },
+          {
+            "id": "pumpkin",
+            "name": "Pumpkin",
+            "icon_sprite": "spr_ui_item_pumpkin"
+          },
+          {
+            "id": "sweet_potato",
+            "name": "Sweet Potato",
+            "icon_sprite": "spr_ui_item_sweet_potato"
+          },
+          {
+            "id": "apple",
+            "name": "Apple",
+            "icon_sprite": "spr_ui_item_apple"
+          }
         ]
       },
       "fall_flowers": {
@@ -607,11 +1503,31 @@
         "name": "Fall Flower Set",
         "description": "A collection of flowers grown during Fall.",
         "items": [
-          "celosia",
-          "chrysanthemum",
-          "fog_orchid",
-          "heather",
-          "viola"
+          {
+            "id": "celosia",
+            "name": "Celosia",
+            "icon_sprite": "spr_ui_item_celosia"
+          },
+          {
+            "id": "chrysanthemum",
+            "name": "Chrysanthemum",
+            "icon_sprite": "spr_ui_item_chrysanthemum"
+          },
+          {
+            "id": "fog_orchid",
+            "name": "Fog Orchid",
+            "icon_sprite": "spr_ui_item_fogorchid"
+          },
+          {
+            "id": "heather",
+            "name": "Heather",
+            "icon_sprite": "spr_ui_item_heather"
+          },
+          {
+            "id": "viola",
+            "name": "Viola",
+            "icon_sprite": "spr_ui_item_pansy"
+          }
         ]
       },
       "fall_forage": {
@@ -620,11 +1536,31 @@
         "name": "Fall Forage Set",
         "description": "A collection of foraged items found during Fall.",
         "items": [
-          "rosemary",
-          "garlic",
-          "horseradish",
-          "moon_fruit",
-          "chestnut"
+          {
+            "id": "rosemary",
+            "name": "Rosemary",
+            "icon_sprite": "spr_ui_item_rosemary"
+          },
+          {
+            "id": "garlic",
+            "name": "Garlic",
+            "icon_sprite": "spr_ui_item_garlic"
+          },
+          {
+            "id": "horseradish",
+            "name": "Horseradish",
+            "icon_sprite": "spr_ui_item_horseradish"
+          },
+          {
+            "id": "moon_fruit",
+            "name": "Moon Fruit",
+            "icon_sprite": "spr_ui_item_moon_fruit"
+          },
+          {
+            "id": "chestnut",
+            "name": "Chestnut",
+            "icon_sprite": "spr_ui_item_chestnut"
+          }
         ]
       },
       "winter_crops": {
@@ -633,11 +1569,31 @@
         "name": "Winter Crop Set",
         "description": "A collection of crops grown during Winter.",
         "items": [
-          "beet",
-          "cauliflower",
-          "snow_peas",
-          "daikon_radish",
-          "pomegranate"
+          {
+            "id": "beet",
+            "name": "Beet",
+            "icon_sprite": "spr_ui_item_beet"
+          },
+          {
+            "id": "cauliflower",
+            "name": "Cauliflower",
+            "icon_sprite": "spr_ui_item_cauliflower"
+          },
+          {
+            "id": "snow_peas",
+            "name": "Snow Peas",
+            "icon_sprite": "spr_ui_item_snow_peas"
+          },
+          {
+            "id": "daikon_radish",
+            "name": "Daikon Radish",
+            "icon_sprite": "spr_ui_item_daikon_radish"
+          },
+          {
+            "id": "pomegranate",
+            "name": "Pomegranate",
+            "icon_sprite": "spr_ui_item_pomegranate"
+          }
         ]
       },
       "winter_flowers": {
@@ -646,11 +1602,31 @@
         "name": "Winter Flower Set",
         "description": "A collection of flowers grown during Winter.",
         "items": [
-          "frost_lily",
-          "poinsettia",
-          "jasmine",
-          "crocus",
-          "snapdragon"
+          {
+            "id": "frost_lily",
+            "name": "Frost Lily",
+            "icon_sprite": "spr_ui_item_frost_lily"
+          },
+          {
+            "id": "poinsettia",
+            "name": "Poinsettia",
+            "icon_sprite": "spr_ui_item_poinsettia"
+          },
+          {
+            "id": "jasmine",
+            "name": "Jasmine",
+            "icon_sprite": "spr_ui_item_jasmine"
+          },
+          {
+            "id": "crocus",
+            "name": "Crocus",
+            "icon_sprite": "spr_ui_item_crocus"
+          },
+          {
+            "id": "snapdragon",
+            "name": "Snapdragon",
+            "icon_sprite": "spr_ui_item_snapdragon"
+          }
         ]
       },
       "winter_forage": {
@@ -659,11 +1635,31 @@
         "name": "Winter Forage Set",
         "description": "A collection of foraged items found during Winter.",
         "items": [
-          "burdock_root",
-          "holly",
-          "pineshroom",
-          "oyster_mushroom",
-          "rose_hip"
+          {
+            "id": "burdock_root",
+            "name": "Burdock Root",
+            "icon_sprite": "spr_ui_item_burdock_root"
+          },
+          {
+            "id": "holly",
+            "name": "Holly",
+            "icon_sprite": "spr_ui_item_holly"
+          },
+          {
+            "id": "pineshroom",
+            "name": "Pineshroom",
+            "icon_sprite": "spr_ui_item_pineshroom"
+          },
+          {
+            "id": "oyster_mushroom",
+            "name": "Oyster Mushroom",
+            "icon_sprite": "spr_ui_item_oyster_mushroom"
+          },
+          {
+            "id": "rose_hip",
+            "name": "Rose Hip",
+            "icon_sprite": "spr_ui_item_bush_rosehip"
+          }
         ]
       },
       "deep_woods": {
@@ -672,11 +1668,31 @@
         "name": "Deep Woods Forage Set",
         "description": "A collection of foraged items found in the Deep Woods.",
         "items": [
-          "thorn_vine",
-          "spirit_mushroom",
-          "temple_flower",
-          "walnut",
-          "bell_berry"
+          {
+            "id": "thorn_vine",
+            "name": "Thorn Vine",
+            "icon_sprite": "spr_ui_item_thorn_vine"
+          },
+          {
+            "id": "spirit_mushroom",
+            "name": "Spirit Mushroom",
+            "icon_sprite": "spr_ui_item_spirit_mushroom"
+          },
+          {
+            "id": "temple_flower",
+            "name": "Temple Flower",
+            "icon_sprite": "spr_ui_item_temple_flower"
+          },
+          {
+            "id": "walnut",
+            "name": "Walnut",
+            "icon_sprite": "spr_ui_item_walnut"
+          },
+          {
+            "id": "bell_berry",
+            "name": "Bell Berry",
+            "icon_sprite": "spr_ui_item_bush_bell_berry"
+          }
         ]
       },
       "upper_mines": {
@@ -685,11 +1701,31 @@
         "name": "Upper Mines Forage Set",
         "description": "A collection of foraged items found in the Upper Mines.",
         "items": [
-          "upper_mines_mushroom",
-          "red_toadstool",
-          "sweetroot",
-          "shadow_flower",
-          "narrows_moss"
+          {
+            "id": "upper_mines_mushroom",
+            "name": "Upper Mines Mushroom",
+            "icon_sprite": "spr_ui_item_upper_mines_mushroom"
+          },
+          {
+            "id": "red_toadstool",
+            "name": "Red Toadstool",
+            "icon_sprite": "spr_ui_item_redtoadstool"
+          },
+          {
+            "id": "sweetroot",
+            "name": "Sweetroot",
+            "icon_sprite": "spr_ui_item_sweetroot"
+          },
+          {
+            "id": "shadow_flower",
+            "name": "Shadow Flower",
+            "icon_sprite": "spr_ui_item_shadow_flower"
+          },
+          {
+            "id": "narrows_moss",
+            "name": "Narrows Moss",
+            "icon_sprite": "spr_ui_item_narrows_moss"
+          }
         ]
       },
       "tide_caverns": {
@@ -698,11 +1734,31 @@
         "name": "Tide Caverns Forage Set",
         "description": "A collection of foraged items found in the Tide Caverns.",
         "items": [
-          "underseaweed",
-          "sea_grapes",
-          "cave_kelp",
-          "mines_mussels",
-          "tide_lettuce"
+          {
+            "id": "underseaweed",
+            "name": "Underseaweed",
+            "icon_sprite": "spr_ui_item_underseaweed"
+          },
+          {
+            "id": "sea_grapes",
+            "name": "Sea Grapes",
+            "icon_sprite": "spr_ui_item_sea_grapes"
+          },
+          {
+            "id": "cave_kelp",
+            "name": "Jade Dulse",
+            "icon_sprite": "spr_ui_item_cave_kelp"
+          },
+          {
+            "id": "mines_mussels",
+            "name": "Mines Mussels",
+            "icon_sprite": "spr_ui_item_mines_mussels"
+          },
+          {
+            "id": "tide_lettuce",
+            "name": "Tide Lettuce",
+            "icon_sprite": "spr_ui_item_tide_lettuce"
+          }
         ]
       },
       "deep_earth": {
@@ -711,11 +1767,31 @@
         "name": "Deep Earth Forage Set",
         "description": "A collection of foraged items found in the Deep Earth.",
         "items": [
-          "crystal_berries",
-          "shale_grass",
-          "earthshroom",
-          "rockroot",
-          "crystal_rose"
+          {
+            "id": "crystal_berries",
+            "name": "Crystal Berries",
+            "icon_sprite": "spr_ui_item_crystal_berries"
+          },
+          {
+            "id": "shale_grass",
+            "name": "Shale Grass",
+            "icon_sprite": "spr_ui_item_shale_grass"
+          },
+          {
+            "id": "earthshroom",
+            "name": "Earthshroom",
+            "icon_sprite": "spr_ui_item_earthshroom"
+          },
+          {
+            "id": "rockroot",
+            "name": "Rockroot",
+            "icon_sprite": "spr_ui_item_rockroot"
+          },
+          {
+            "id": "crystal_rose",
+            "name": "Crystal Rose",
+            "icon_sprite": "spr_ui_item_crystal_rose"
+          }
         ]
       },
       "lava_caves": {
@@ -724,11 +1800,31 @@
         "name": "Lava Caves Forage Set",
         "description": "A collection of foraged items found in the Lava Caves.",
         "items": [
-          "flame_pepper",
-          "ash_mushroom",
-          "lava_chestnuts",
-          "hot_potato",
-          "breath_of_fire"
+          {
+            "id": "flame_pepper",
+            "name": "Flame Pepper",
+            "icon_sprite": "spr_ui_item_flame_pepper"
+          },
+          {
+            "id": "ash_mushroom",
+            "name": "Ash Mushroom",
+            "icon_sprite": "spr_ui_item_ash_mushroom"
+          },
+          {
+            "id": "lava_chestnuts",
+            "name": "Lava Chestnuts",
+            "icon_sprite": "spr_ui_item_lava_chestnut"
+          },
+          {
+            "id": "hot_potato",
+            "name": "Hot Potato",
+            "icon_sprite": "spr_ui_item_hot_potato"
+          },
+          {
+            "id": "breath_of_fire",
+            "name": "Breath of Flame",
+            "icon_sprite": "spr_ui_item_breath_of_flame"
+          }
         ]
       }
     },
@@ -744,11 +1840,31 @@
         "name": "Multi-Season Insect Set",
         "description": "A collection of insects found across multiple seasons.",
         "items": [
-          "ant",
-          "bumblebee",
-          "fuzzy_moth",
-          "praying_mantis",
-          "hummingbird_hawk_moth"
+          {
+            "id": "ant",
+            "name": "Ant",
+            "icon_sprite": "spr_ui_item_insect_ant"
+          },
+          {
+            "id": "bumblebee",
+            "name": "Bumblebee",
+            "icon_sprite": "spr_ui_item_insect_bumblebee"
+          },
+          {
+            "id": "fuzzy_moth",
+            "name": "Fuzzy Moth",
+            "icon_sprite": "spr_ui_item_insect_fuzzymoth"
+          },
+          {
+            "id": "praying_mantis",
+            "name": "Praying Mantis",
+            "icon_sprite": "spr_ui_item_insect_prayingmantis"
+          },
+          {
+            "id": "hummingbird_hawk_moth",
+            "name": "Hummingbird Hawk Moth",
+            "icon_sprite": "spr_ui_item_insect_hummingbirdhawkmoth"
+          }
         ]
       },
       "spring": {
@@ -757,11 +1873,31 @@
         "name": "Spring Insect Set",
         "description": "A collection of insects found in Spring.",
         "items": [
-          "luna_moth",
-          "butterfly",
-          "ladybug",
-          "caterpillar",
-          "roly_poly"
+          {
+            "id": "luna_moth",
+            "name": "Luna Moth",
+            "icon_sprite": "spr_ui_item_insect_lunamoth"
+          },
+          {
+            "id": "butterfly",
+            "name": "Butterfly",
+            "icon_sprite": "spr_ui_item_insect_butterfly"
+          },
+          {
+            "id": "ladybug",
+            "name": "Ladybug",
+            "icon_sprite": "spr_ui_item_insect_ladybug"
+          },
+          {
+            "id": "caterpillar",
+            "name": "Caterpillar",
+            "icon_sprite": "spr_ui_item_insect_caterpillar"
+          },
+          {
+            "id": "roly_poly",
+            "name": "Roly Poly",
+            "icon_sprite": "spr_ui_item_insect_pillbug"
+          }
         ]
       },
       "summer": {
@@ -770,11 +1906,31 @@
         "name": "Summer Insect Set",
         "description": "A collection of insects found in Summer.",
         "items": [
-          "cicada",
-          "cricket",
-          "dragonfly",
-          "firefly",
-          "sand_bug"
+          {
+            "id": "cicada",
+            "name": "Cicada",
+            "icon_sprite": "spr_ui_item_insect_cicada"
+          },
+          {
+            "id": "cricket",
+            "name": "Cricket",
+            "icon_sprite": "spr_ui_item_insect_cricket"
+          },
+          {
+            "id": "dragonfly",
+            "name": "Dragonfly",
+            "icon_sprite": "spr_ui_item_insect_dragonfly"
+          },
+          {
+            "id": "firefly",
+            "name": "Firefly",
+            "icon_sprite": "spr_ui_item_insect_firefly"
+          },
+          {
+            "id": "sand_bug",
+            "name": "Sand Bug",
+            "icon_sprite": "spr_ui_item_insect_sand_bug"
+          }
         ]
       },
       "fall": {
@@ -783,11 +1939,31 @@
         "name": "Fall Insect Set",
         "description": "A collection of insects found in Fall.",
         "items": [
-          "walking_leaf",
-          "cicada_nymph",
-          "monarch_butterfly",
-          "inchworm",
-          "tiger_swallowtail_butterfly"
+          {
+            "id": "walking_leaf",
+            "name": "Walking Leaf",
+            "icon_sprite": "spr_ui_item_insect_walkingleaf"
+          },
+          {
+            "id": "cicada_nymph",
+            "name": "Cicada Nymph",
+            "icon_sprite": "spr_ui_item_insect_cicadanymph"
+          },
+          {
+            "id": "monarch_butterfly",
+            "name": "Monarch Butterfly",
+            "icon_sprite": "spr_ui_item_insect_monarchbutterfly"
+          },
+          {
+            "id": "inchworm",
+            "name": "Inchworm",
+            "icon_sprite": "spr_ui_item_insect_inchworm"
+          },
+          {
+            "id": "tiger_swallowtail_butterfly",
+            "name": "Tiger Swallowtail Butterfly",
+            "icon_sprite": "spr_ui_item_insect_tigerswallowtailbutterfly"
+          }
         ]
       },
       "winter": {
@@ -796,11 +1972,31 @@
         "name": "Winter Insect Set",
         "description": "A collection of insects found in Winter.",
         "items": [
-          "crystal_caterpillar",
-          "walking_stick",
-          "brightbulb_moth",
-          "frost_flutter_butterfly",
-          "winterpillar"
+          {
+            "id": "crystal_caterpillar",
+            "name": "Crystal Caterpillar",
+            "icon_sprite": "spr_ui_item_insect_crystalcaterpillar"
+          },
+          {
+            "id": "walking_stick",
+            "name": "Walking Stick",
+            "icon_sprite": "spr_ui_item_insect_walkingstick"
+          },
+          {
+            "id": "brightbulb_moth",
+            "name": "Brightbulb Moth",
+            "icon_sprite": "spr_ui_item_insect_brightbulb_moth"
+          },
+          {
+            "id": "frost_flutter_butterfly",
+            "name": "Frost Flutter Butterfly",
+            "icon_sprite": "spr_ui_item_insect_frost_flutter_butterfly"
+          },
+          {
+            "id": "winterpillar",
+            "name": "Winterpillar",
+            "icon_sprite": "spr_ui_item_insect_winterpillar"
+          }
         ]
       },
       "rare": {
@@ -809,11 +2005,31 @@
         "name": "Rare Insect Set",
         "description": "A collection of insects that are particularly hard to find.",
         "items": [
-          "jewel_beetle",
-          "lightning_dragonfly",
-          "magma_beetle",
-          "mistmoth",
-          "orchid_mantis"
+          {
+            "id": "jewel_beetle",
+            "name": "Jewel Beetle",
+            "icon_sprite": "spr_ui_item_insect_jewelbeetle"
+          },
+          {
+            "id": "lightning_dragonfly",
+            "name": "Lightning Dragonfly",
+            "icon_sprite": "spr_ui_item_insect_lightningdragonfly"
+          },
+          {
+            "id": "magma_beetle",
+            "name": "Magma Beetle",
+            "icon_sprite": "spr_ui_item_insect_magmabeetle"
+          },
+          {
+            "id": "mistmoth",
+            "name": "Mistmoth",
+            "icon_sprite": "spr_ui_item_insect_mistmoth"
+          },
+          {
+            "id": "orchid_mantis",
+            "name": "Orchid Mantis",
+            "icon_sprite": "spr_ui_item_insect_orchidmantis"
+          }
         ]
       },
       "grass": {
@@ -822,11 +2038,31 @@
         "name": "Grass Insect Set",
         "description": "A collection of insects found in grass.",
         "items": [
-          "grasshopper",
-          "petalhopper",
-          "strawhopper",
-          "leafhopper",
-          "icehopper"
+          {
+            "id": "grasshopper",
+            "name": "Grasshopper",
+            "icon_sprite": "spr_ui_item_insect_grasshopper"
+          },
+          {
+            "id": "petalhopper",
+            "name": "Petalhopper",
+            "icon_sprite": "spr_ui_item_insect_petalhopper"
+          },
+          {
+            "id": "strawhopper",
+            "name": "Strawhopper",
+            "icon_sprite": "spr_ui_item_insect_strawhopper"
+          },
+          {
+            "id": "leafhopper",
+            "name": "Leafhopper",
+            "icon_sprite": "spr_ui_item_insect_leafhopper"
+          },
+          {
+            "id": "icehopper",
+            "name": "Icehopper",
+            "icon_sprite": "spr_ui_item_insect_icehopper"
+          }
         ]
       },
       "beach": {
@@ -835,11 +2071,31 @@
         "name": "Beach Insect Set",
         "description": "A collection of insects and other crawlies found at the beach.",
         "items": [
-          "hermit_crab",
-          "relic_crab",
-          "waterbug",
-          "surf_beetle",
-          "beach_hopper"
+          {
+            "id": "hermit_crab",
+            "name": "Hermit Crab",
+            "icon_sprite": "spr_ui_item_insect_hermitcrab"
+          },
+          {
+            "id": "relic_crab",
+            "name": "Relic Crab",
+            "icon_sprite": "spr_ui_item_insect_reliccrab"
+          },
+          {
+            "id": "waterbug",
+            "name": "Waterbug",
+            "icon_sprite": "spr_ui_item_insect_waterbug"
+          },
+          {
+            "id": "surf_beetle",
+            "name": "Surf Beetle",
+            "icon_sprite": "spr_ui_item_insect_surf_beetle"
+          },
+          {
+            "id": "beach_hopper",
+            "name": "Beach Hopper",
+            "icon_sprite": "spr_ui_item_insect_beach_hopper"
+          }
         ]
       },
       "deep_woods": {
@@ -848,11 +2104,31 @@
         "name": "Deep Woods Insect Set",
         "description": "A collection of insects found in the Deep Woods.",
         "items": [
-          "windleaf_butterfly",
-          "mote_firefly",
-          "loam_caterpillar",
-          "dragon_horn_beetle",
-          "singing_katydid"
+          {
+            "id": "windleaf_butterfly",
+            "name": "Windleaf Butterfly",
+            "icon_sprite": "spr_ui_item_insect_windleaf_butterfly"
+          },
+          {
+            "id": "mote_firefly",
+            "name": "Mote Firefly",
+            "icon_sprite": "spr_ui_item_insect_mote_firefly"
+          },
+          {
+            "id": "loam_caterpillar",
+            "name": "Loam Caterpillar",
+            "icon_sprite": "spr_ui_item_insect_loam_caterpillar"
+          },
+          {
+            "id": "dragon_horn_beetle",
+            "name": "Dragon Horn Beetle",
+            "icon_sprite": "spr_ui_item_insect_dragon_horn_beetle"
+          },
+          {
+            "id": "singing_katydid",
+            "name": "Singing Katydid",
+            "icon_sprite": "spr_ui_item_insect_singing_katydid"
+          }
         ]
       },
       "upper_mines": {
@@ -861,11 +2137,31 @@
         "name": "Upper Mines Insect Set",
         "description": "A collection of insects found in the Upper Mines.",
         "items": [
-          "lantern_moth",
-          "copper_beetle",
-          "worm",
-          "mine_cricket",
-          "tunnel_millipede"
+          {
+            "id": "lantern_moth",
+            "name": "Lantern Moth",
+            "icon_sprite": "spr_ui_item_insect_lantern_moth"
+          },
+          {
+            "id": "copper_beetle",
+            "name": "Copper Nugget Beetle",
+            "icon_sprite": "spr_ui_item_insect_copper_beetle"
+          },
+          {
+            "id": "worm",
+            "name": "Worm",
+            "icon_sprite": "spr_ui_item_insect_worm"
+          },
+          {
+            "id": "mine_cricket",
+            "name": "Mine Cricket",
+            "icon_sprite": "spr_ui_item_insect_mine_cricket"
+          },
+          {
+            "id": "tunnel_millipede",
+            "name": "Tunnel Millipede",
+            "icon_sprite": "spr_ui_item_insect_tunnel_millipede"
+          }
         ]
       },
       "tide_caverns": {
@@ -874,11 +2170,31 @@
         "name": "Tide Caverns Insect Set",
         "description": "A collection of insects found in the Tide Caverns.",
         "items": [
-          "sea_scarab",
-          "waterfly",
-          "hermit_snail",
-          "puddle_spider",
-          "coral_mantis"
+          {
+            "id": "sea_scarab",
+            "name": "Sea Scarab",
+            "icon_sprite": "spr_ui_item_insect_sea_scarab"
+          },
+          {
+            "id": "waterfly",
+            "name": "Waterfly",
+            "icon_sprite": "spr_ui_item_insect_waterfly"
+          },
+          {
+            "id": "hermit_snail",
+            "name": "Hermit Snail",
+            "icon_sprite": "spr_ui_item_insect_hermit_snail"
+          },
+          {
+            "id": "puddle_spider",
+            "name": "Puddle Spider",
+            "icon_sprite": "spr_ui_item_insect_puddle_spider"
+          },
+          {
+            "id": "coral_mantis",
+            "name": "Coral Mantis",
+            "icon_sprite": "spr_ui_item_insect_coral_mantis"
+          }
         ]
       },
       "deep_earth": {
@@ -887,11 +2203,31 @@
         "name": "Deep Earth Insect Set",
         "description": "A collection of insects found in the Deep Earth.",
         "items": [
-          "rock_roach",
-          "deep_earthworm",
-          "crystalline_cricket",
-          "gem_shard_caterpillar",
-          "crystal_wing_moth"
+          {
+            "id": "rock_roach",
+            "name": "Rock Roach",
+            "icon_sprite": "spr_ui_item_insect_rock_roach"
+          },
+          {
+            "id": "deep_earthworm",
+            "name": "Deep Earthworm",
+            "icon_sprite": "spr_ui_item_insect_deep_earthworm"
+          },
+          {
+            "id": "crystalline_cricket",
+            "name": "Crystalline Cricket",
+            "icon_sprite": "spr_ui_item_insect_crystalline_cricket"
+          },
+          {
+            "id": "gem_shard_caterpillar",
+            "name": "Gem Shard Caterpillar",
+            "icon_sprite": "spr_ui_item_insect_gem_shard_caterpillar"
+          },
+          {
+            "id": "crystal_wing_moth",
+            "name": "Crystal Wing Moth",
+            "icon_sprite": "spr_ui_item_insect_crystal_wing_moth"
+          }
         ]
       },
       "lava_caves": {
@@ -900,11 +2236,31 @@
         "name": "Lava Caves Insect Set",
         "description": "A collection of insects found in the Lava Caves.",
         "items": [
-          "fire_wasp",
-          "cooktop_beetle",
-          "lava_snail",
-          "smoke_moth",
-          "diamond_beetle"
+          {
+            "id": "fire_wasp",
+            "name": "Fire Wasp",
+            "icon_sprite": "spr_ui_item_insect_fire_wasp"
+          },
+          {
+            "id": "cooktop_beetle",
+            "name": "Cooktop Beetle",
+            "icon_sprite": "spr_ui_item_insect_cooktop_beetle"
+          },
+          {
+            "id": "lava_snail",
+            "name": "Lava Snail",
+            "icon_sprite": "spr_ui_item_insect_lava_snail"
+          },
+          {
+            "id": "smoke_moth",
+            "name": "Smoke Moth",
+            "icon_sprite": "spr_ui_item_insect_smoke_moth"
+          },
+          {
+            "id": "diamond_beetle",
+            "name": "Diamond Beetle",
+            "icon_sprite": "spr_ui_item_insect_diamond_beetle"
+          }
         ]
       },
       "legendary": {
@@ -913,11 +2269,31 @@
         "name": "Legendary Insect Set",
         "description": "A collection of insects that are exceptionally hard to find.",
         "items": [
-          "fairy_bee",
-          "flower_crown_beetle",
-          "snowball_beetle",
-          "speedy_snail",
-          "strobe_firefly"
+          {
+            "id": "fairy_bee",
+            "name": "Fairy Bee",
+            "icon_sprite": "spr_ui_item_insect_fairybee"
+          },
+          {
+            "id": "flower_crown_beetle",
+            "name": "Flower Crown Beetle",
+            "icon_sprite": "spr_ui_item_insect_flowercrownbeetle"
+          },
+          {
+            "id": "snowball_beetle",
+            "name": "Snowball Beetle",
+            "icon_sprite": "spr_ui_item_insect_snowballbeetle"
+          },
+          {
+            "id": "speedy_snail",
+            "name": "Speedy Snail",
+            "icon_sprite": "spr_ui_item_insect_speedysnail"
+          },
+          {
+            "id": "strobe_firefly",
+            "name": "Strobe Firefly",
+            "icon_sprite": "spr_ui_item_insect_strobefirefly"
+          }
         ]
       }
     },
