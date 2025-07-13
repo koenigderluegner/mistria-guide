@@ -138,7 +138,7 @@
             class="group/menu-item relative group/collapsible"
             data-state="closed">
           <a appSidebarMenuItem routerLink="/" [activeOptions]="{exact:true}">
-            <app-sprite name="spr_ui_item_object_wall_calendar" class="shrink-0" />
+            <app-sprite name="spr_ui_item_object_wall_calendar" class="shrink-0 icon-shadow" />
             <span>Dashboard</span>
           </a>
         </li>
@@ -146,8 +146,16 @@
             class="group/menu-item relative group/collapsible"
             data-state="closed">
           <a appSidebarMenuItem routerLink="/skills">
-            <app-sprite name="spr_ui_item_essence" class="shrink-0" />
+            <app-sprite name="spr_ui_item_essence" class="shrink-0 icon-shadow" />
             <span>Skills and Perks</span>
+          </a>
+        </li>
+        <li data-sidebar="menu-item"
+            class="group/menu-item relative group/collapsible"
+            data-state="closed">
+          <a appSidebarMenuItem routerLink="/museum">
+            <app-sprite name="spr_ui_item_unidentified_artifact" class="shrink-0 icon-shadow" />
+            <span>Museum wings</span>
           </a>
         </li>
       </ul>

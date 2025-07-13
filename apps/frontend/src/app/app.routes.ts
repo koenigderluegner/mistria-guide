@@ -24,4 +24,12 @@ export const appRoutes: Route[] = [
     loadComponent: () =>
       import('./skills/skills.component').then((c) => c.SkillsComponent),
   },
+  {
+    path: 'museum/:wingId',
+    loadComponent: () => import('./museum/museum').then((c) => c.Museum),
+  },
+  {
+    path: 'museum',
+    loadComponent: () => import('./museum/museum').then((c) => c.Museum),
+  },
 ];

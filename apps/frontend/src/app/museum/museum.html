@@ -1,0 +1,35 @@
+<div class="container">
+  @let wing = foundWing();
+  @if (wing) {
+    <section>
+      <header class="flex gap-4 section-title items-center mb-6">
+        <app-sprite class="scale-125" [name]="wing.icon_key" />
+        <h2>{{ wing.name }}</h2>
+      </header>
+
+      <div class="grid grid-cols-[repeat(auto-fill,minmax(310px,1fr))] gap-4">
+
+        @for (keyAndSet of wing.sets | keyvalue; track keyAndSet) {
+          @let key = keyAndSet.key;
+          @let museumSet = keyAndSet.value;
+          <div hlmCard [id]="key" class="flex flex-col">
+            <div hlmCardHeader>
+              <h3 hlmCardTitle>{{ museumSet.name }}</h3>
+              <p hlmCardDescription>{{ museumSet.description }}</p>
+
+            </div>
+            <div hlmCardContent class="mt-auto">
+              <div class="flex gap-2">
+                @for (fish of museumSet.items; track fish) {
+                  <app-list-entry-item [checked]="museumChecklist.isChecked(fish.id)"
+                                       (checkboxChanged)="setChecklistStatus(fish, $event)"
+                                       [item]="fish" />
+                }
+              </div>
+            </div>
+          </div>
+        }
+      </div>
+    </section>
+  }
+</div>
