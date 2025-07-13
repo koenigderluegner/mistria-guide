@@ -173,7 +173,7 @@ html {
 }
 
 .container {
-  @apply mx-auto flex w-full max-w-2xl min-w-0 flex-1 flex-col px-4 py-6 text-neutral-800 md:px-0 lg:py-8 dark:text-neutral-300;
+  @apply mx-auto flex w-full min-w-0 flex-1 flex-col px-4 py-6 text-neutral-800 md:px-0 lg:py-8 dark:text-neutral-300;
 }
 
 
