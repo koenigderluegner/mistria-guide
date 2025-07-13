@@ -1,0 +1,24 @@
+@let seasons = catchable().seasons;
+@let weather = catchable().weather;
+
+<div class="grid grid-cols-2 p-1.5">
+  <div>Seasons:</div>
+  <div class="justify-self-end">
+    @if (seasons && seasons.length > 0) {
+      {{ seasons.join(', ') | titlecase }}
+    } @else {
+      All seasons
+    }
+  </div>
+</div>
+
+<div class="grid grid-cols-2 p-1.5">
+  <div>Weathers:</div>
+  <div class="justify-self-end">
+    @if (weather && weather.length > 0) {
+      {{ weather.join(', ') }}
+    } @else {
+      All weathers
+    }
+  </div>
+</div>

@@ -5,6 +5,12 @@
 
   </p>
 
+  @let catchable = item.value()?.fish || item.value()?.bug;
+
+  @if (catchable) {
+    <app-catchable-information [catchable]="catchable" />
+  }
+
   {{ item.value() | json }}
 }
 
