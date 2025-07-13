@@ -7,12 +7,13 @@ import {
   signal,
   untracked,
 } from '@angular/core';
-import { NgTemplateOutlet } from '@angular/common';
+import { NgTemplateOutlet, TitleCasePipe } from '@angular/common';
 import { BreakpointObserver } from '@angular/cdk/layout';
 import { SidebarMenuItemDirective } from './sidebar-menu-item.directive';
 import { SpriteComponent } from '../shared/sprite/sprite.component';
 import { MatIcon } from '@angular/material/icon';
 import { NavigationEnd, Router, RouterLink } from '@angular/router';
+import { WingIds } from '@mistria-guide/data-types';
 
 @Component({
   selector: 'app-sidebar-container',
@@ -22,6 +23,7 @@ import { NavigationEnd, Router, RouterLink } from '@angular/router';
     SpriteComponent,
     MatIcon,
     RouterLink,
+    TitleCasePipe,
   ],
   templateUrl: './sidebar-container.component.html',
 })
@@ -37,6 +39,8 @@ export class SidebarContainerComponent {
   });
   #document = inject(DOCUMENT);
   #router = inject(Router);
+
+  protected museumWingIds = WingIds;
 
   constructor() {
     this.#router.events.subscribe((event) => {
