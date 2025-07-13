@@ -78,7 +78,8 @@
     },
     "@schematics/angular:component": {
       "style": "none",
-      "skipTests": true
+      "skipTests": true,
+      "changeDetection": "OnPush"
     },
     "@schematics/angular:service": {
       "skipTests": true
@@ -90,7 +91,8 @@
       "skipTests": true
     },
     "@nx/angular:component": {
-      "style": "none"
+      "style": "none",
+      "changeDetection": "OnPush"
     },
     "@nx/angular:library": {
       "linter": "eslint",
