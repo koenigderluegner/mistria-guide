@@ -9,7 +9,7 @@
 
       <div class="grid grid-cols-[repeat(auto-fill,minmax(310px,1fr))] gap-4">
 
-        @for (keyAndSet of wing.sets | keyvalue; track keyAndSet) {
+        @for (keyAndSet of wing.sets | keyvalue: null; track keyAndSet) {
           @let key = keyAndSet.key;
           @let museumSet = keyAndSet.value;
           <div hlmCard [id]="key" class="flex flex-col">
