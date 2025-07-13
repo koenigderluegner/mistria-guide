@@ -1,0 +1,31 @@
+<li data-slot="collapsible" class="group/menu-item relative group/collapsible" [attr.data-state]="collapsibleState()">
+  <button data-slot="collapsible-trigger" data-sidebar="menu-button" data-size="default" data-active="false"
+          class="peer/menu-button flex w-full items-center gap-2 overflow-hidden rounded-md p-2 text-left outline-hidden ring-sidebar-ring transition-[width,height,padding] focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-data-[sidebar=menu-action]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:bg-sidebar-accent data-[active=true]:font-medium data-[active=true]:text-sidebar-accent-foreground data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:size-8! group-data-[collapsible=icon]:p-2! [&>span:last-of-type]:truncate [&>svg]:size-4 [&>svg]:shrink-0 hover:bg-sidebar-accent hover:text-sidebar-accent-foreground h-8 text-sm"
+          type="button" [attr.aria-expanded]="collapsibleState() === 'open' ? 'true' : 'false'"
+          [attr.data-state]="collapsibleState()" (click)="toggleCollapsible()">
+    <app-sprite [name]="triggerIcon()" class="shrink-0" />
+    <span>{{ triggerText() }}</span>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+         class="lucide lucide-chevron-right ml-auto transition-transform duration-200 group-data-[state=open]/collapsible:rotate-90">
+      <path d="m9 18 6-6-6-6"></path>
+    </svg>
+  </button>
+  @if (collapsibleState() === 'open') {
+    <div data-state="open" data-slot="collapsible-content">
+      <ul data-slot="sidebar-menu-sub" data-sidebar="menu-sub"
+          class="border-sidebar-border mx-3.5 flex min-w-0 translate-x-px flex-col gap-1 border-l px-2.5 py-0.5 group-data-[collapsible=icon]:hidden">
+        @for (subItem of subItems(); track subItem) {
+          <li data-slot="sidebar-menu-sub-item" data-sidebar="menu-sub-item"
+              class="group/menu-sub-item relative">
+            <a
+              [routerLink]="subItem.link"
+              data-size="md"
+              appSidebarMenuItem
+              class="text-sidebar-foreground ring-sidebar-ring hover:bg-sidebar-accent hover:text-sidebar-accent-foreground active:bg-sidebar-accent active:text-sidebar-accent-foreground [&>svg]:text-sidebar-accent-foreground flex h-7 min-w-0 -translate-x-px items-center gap-2 overflow-hidden rounded-md px-2 outline-hidden focus-visible:ring-2 disabled:pointer-events-none disabled:opacity-50 aria-disabled:pointer-events-none aria-disabled:opacity-50 [&>span:last-child]:truncate [&>svg]:size-4 [&>svg]:shrink-0 data-[active=true]:bg-sidebar-accent data-[active=true]:text-sidebar-accent-foreground text-sm group-data-[collapsible=icon]:hidden"><span>{{ subItem.name }}</span></a>
+          </li>
+        }
+      </ul>
+    </div>
+  }
+</li>

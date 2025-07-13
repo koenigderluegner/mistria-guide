@@ -7,23 +7,24 @@ import {
   signal,
   untracked,
 } from '@angular/core';
-import { NgTemplateOutlet, TitleCasePipe } from '@angular/common';
+import { NgTemplateOutlet } from '@angular/common';
 import { BreakpointObserver } from '@angular/cdk/layout';
 import { SidebarMenuItemDirective } from './sidebar-menu-item.directive';
-import { SpriteComponent } from '../shared/sprite/sprite.component';
 import { MatIcon } from '@angular/material/icon';
 import { NavigationEnd, Router, RouterLink } from '@angular/router';
 import { WingIds } from '@mistria-guide/data-types';
+import { SidebarCollapsibleMenuItem } from './sidebar-collapsible-menu-item/sidebar-collapsible-menu-item';
+import { SidebarMenuItem } from './sidebar-menu-item/sidebar-menu-item';
 
 @Component({
   selector: 'app-sidebar-container',
   imports: [
     NgTemplateOutlet,
     SidebarMenuItemDirective,
-    SpriteComponent,
     MatIcon,
     RouterLink,
-    TitleCasePipe,
+    SidebarCollapsibleMenuItem,
+    SidebarMenuItem,
   ],
   templateUrl: './sidebar-container.component.html',
 })
@@ -37,10 +38,12 @@ export class SidebarContainerComponent {
       this.isSmallScreen() && untracked(() => this.mobileSidebarMenuOpen())
     );
   });
+  protected museumWingLinks = WingIds.map((wingId) => ({
+    link: '/museum/' + wingId,
+    name: this.#capitalizeFirstLetter(wingId),
+  }));
   #document = inject(DOCUMENT);
   #router = inject(Router);
-
-  protected museumWingIds = WingIds;
 
   constructor() {
     this.#router.events.subscribe((event) => {
@@ -87,5 +90,9 @@ export class SidebarContainerComponent {
     htmlElement.classList.remove(oldTheme);
     htmlElement.style.colorScheme = theme;
     localStorage.setItem('theme', theme);
+  }
+
+  #capitalizeFirstLetter(text: string) {
+    return text.charAt(0).toUpperCase() + text.slice(1);
   }
 }
