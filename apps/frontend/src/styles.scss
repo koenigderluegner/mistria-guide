@@ -182,3 +182,13 @@ html {
     @apply border-border;
   }
 }
+
+
+.icon-shadow {
+  --shadow-color: transparent;
+  filter: drop-shadow(0 0 0 var(--shadow-color)) drop-shadow(0.5px 0px 0 var(--shadow-color)) drop-shadow(-0.5px 0.5px 0 var(--shadow-color)) drop-shadow(0.5px 1.5px 0 var(--shadow-color)) drop-shadow(1.5px -0.5px 0 var(--shadow-color))
+}
+
+.dark .icon-shadow {
+  --shadow-color: #434343;
+}

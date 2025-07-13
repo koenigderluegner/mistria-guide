@@ -2,7 +2,6 @@ import { Component, input, output } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { MinifiedItem } from '@mistria-guide/data-types';
 import { SpriteComponent } from '../sprite/sprite.component';
-import { MatCheckbox } from '@angular/material/checkbox';
 import {
   BrnHoverCardComponent,
   BrnHoverCardContentDirective,
@@ -10,18 +9,19 @@ import {
 } from '@spartan-ng/brain/hover-card';
 import { HlmHoverCardContentComponent } from '@spartan-ng/helm/hover-card';
 import { ItemHoverCardContentComponent } from '../item-hover-card-content/item-hover-card-content.component';
+import { HlmCheckboxComponent } from '@spartan-ng/helm/checkbox';
 
 @Component({
   selector: 'app-list-entry-item',
   imports: [
     RouterLink,
     SpriteComponent,
-    MatCheckbox,
     BrnHoverCardContentDirective,
     BrnHoverCardTriggerDirective,
     BrnHoverCardComponent,
     HlmHoverCardContentComponent,
     ItemHoverCardContentComponent,
+    HlmCheckboxComponent,
   ],
   templateUrl: './list-entry-item.component.html',
   host: {

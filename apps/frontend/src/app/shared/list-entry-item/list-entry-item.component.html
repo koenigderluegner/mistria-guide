@@ -2,13 +2,13 @@
   <brn-hover-card>
     <a brnHoverCardTrigger align="top" class="h-11 w-11 p-1.5 flex justify-center items-center"
        [routerLink]="['/item', item().id]">
-      <app-sprite class="scale-200" [name]="item().icon_sprite" />
+      <app-sprite class="scale-200 icon-shadow" [name]="item().icon_sprite" />
     </a>
     <hlm-hover-card-content *brnHoverCardContent>
       <app-item-hover-card-content [itemId]="item()" />
     </hlm-hover-card-content>
   </brn-hover-card>
   <div class="w-full border-t"></div>
-  <mat-checkbox [checked]="!!checked()" (change)="checkboxChanged.emit($event.checked)"></mat-checkbox>
+  <hlm-checkbox [checked]="!!checked()" (changed)="checkboxChanged.emit($event)" class="my-2"></hlm-checkbox>
 </div>
 
