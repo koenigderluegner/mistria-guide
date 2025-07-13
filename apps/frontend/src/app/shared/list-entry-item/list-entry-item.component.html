@@ -2,7 +2,7 @@
   <brn-hover-card>
     <a brnHoverCardTrigger align="top" class="h-11 w-11 p-1.5 flex justify-center items-center"
        [routerLink]="['/item', item().id]">
-      <app-sprite class="scale-200 icon-shadow" [name]="item().icon_sprite" />
+      <app-sprite class="scale-200" [name]="item().icon_sprite" />
     </a>
     <hlm-hover-card-content *brnHoverCardContent>
       <app-item-hover-card-content [itemId]="item()" />
