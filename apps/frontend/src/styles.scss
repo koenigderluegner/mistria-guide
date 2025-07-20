@@ -182,3 +182,7 @@ html {
     @apply border-border;
   }
 }
+
+@utility grid-cols-auto-fill-* {
+  grid-template-columns: repeat(auto-fill, minmax(calc(var(--spacing) * --value(number)), 1fr));
+}

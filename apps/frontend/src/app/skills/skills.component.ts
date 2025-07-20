@@ -6,6 +6,12 @@ import { CapitalizeFirstLetterPipe } from '../shared/util/capitalize-first-lette
 import { PageNavigation } from '../page/page-navigation/page-navigation';
 import { PageNavigationLink } from '../page/page-navigation-link/page-navigation-link';
 import { Page } from '../page/page';
+import {
+  HlmCardContentDirective,
+  HlmCardDirective,
+  HlmCardHeaderDirective,
+  HlmCardTitleDirective,
+} from '@spartan-ng/helm/card';
 
 @Component({
   selector: 'app-skills',
@@ -15,6 +21,10 @@ import { Page } from '../page/page';
     PageNavigation,
     PageNavigationLink,
     Page,
+    HlmCardDirective,
+    HlmCardContentDirective,
+    HlmCardTitleDirective,
+    HlmCardHeaderDirective,
   ],
   templateUrl: './skills.component.html',
 })

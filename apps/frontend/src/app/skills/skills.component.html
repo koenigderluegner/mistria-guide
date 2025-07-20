@@ -3,29 +3,35 @@
   @if (skill) {
     <section>
       <header class="flex gap-4 section-title items-center mb-6">
-        <app-sprite class="scale-125" [name]="skill.icon_sprite_key" />
+        <app-sprite class="size-18" [name]="skill.icon_sprite_key" />
         <h2>{{ skill.name }}</h2>
       </header>
 
-      @for (tier of tiers(); track tier) {
-        <ul class="flex flex-col gap-4">
-          @for (perk of tier; track perk.perk) {
-            <li class="flex flex-col gap-1">
-              <div class="flex gap-2 items-center">
-                <app-sprite [name]="perk.icon" />
-                {{ perk.name }}
-              </div>
-              <div>
-                {{ perk.description }}
-              </div>
-            </li>
-          }
-        </ul>
-        @if (!$last) {
-          <div data-orientation="horizontal"
-               class="bg-border shrink-0 data-[orientation=horizontal]:h-px data-[orientation=horizontal]:w-full data-[orientation=vertical]:h-full data-[orientation=vertical]:w-px my-4"></div>
+      <div class="grid grid-cols-auto-fill-120 gap-4">
+        @for (tier of tiers(); track tier) {
+          <div hlmCard>
+            <div hlmCardHeader>
+              <h3 hlmCardTitle>Tier {{ $index + 1 }} perks</h3>
+            </div>
+            <ul hlmCardContent class="flex flex-col gap-4">
+              @for (perk of tier; track perk.perk) {
+                <li class="flex flex-col gap-1">
+                  <div class="flex gap-2 items-center">
+                    <div
+                      class="drop-shadow border-2 flex justify-center items-center border-slate-600 rounded-md bg-slate-200 size-10">
+                      <app-sprite class="scale-125" [name]="perk.icon" />
+                    </div>
+                    {{ perk.name }}
+                  </div>
+                  <div>
+                    {{ perk.description }}
+                  </div>
+                </li>
+              }
+            </ul>
+          </div>
         }
-      }
+      </div>
     </section>
   }
   <app-page-navigation menuTriggerLabel="Skills and perks">
