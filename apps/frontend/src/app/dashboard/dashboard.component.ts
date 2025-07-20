@@ -24,7 +24,7 @@ import { ListEntryItemComponent } from '../shared/list-entry-item/list-entry-ite
 import { UserDataService } from '../user-data/user-data.service';
 import { MatProgressSpinner } from '@angular/material/progress-spinner';
 import { DatabaseService } from '../core/database.service';
-import { CatchableChecklistService } from '../core/catchable-checklist.service';
+import { MuseumChecklist } from '../core/museum-checklist';
 
 @Component({
   selector: 'app-dashboard',
@@ -36,7 +36,7 @@ import { CatchableChecklistService } from '../core/catchable-checklist.service';
   templateUrl: './dashboard.component.html',
 })
 export class DashboardComponent {
-  catchablesChecklist = inject(CatchableChecklistService);
+  museumChecklist = inject(MuseumChecklist);
   userDataReadOnce = signal(false);
   injector = inject(Injector);
   #database = inject(DatabaseService);
@@ -96,7 +96,7 @@ export class DashboardComponent {
       }
     }
     if (hideCompleted) {
-      bugs = bugs.filter((b) => !this.catchablesChecklist.isChecked(b.item.id));
+      bugs = bugs.filter((b) => !this.museumChecklist.isChecked(b.item.id));
     }
     return bugs.filter((f) => {
       return (
@@ -121,7 +121,7 @@ export class DashboardComponent {
       }
     }
     if (hideCompleted) {
-      fish = fish.filter((f) => !this.catchablesChecklist.isChecked(f.item.id));
+      fish = fish.filter((f) => !this.museumChecklist.isChecked(f.item.id));
     }
 
     return fish.filter((f) => {
@@ -148,9 +148,9 @@ export class DashboardComponent {
 
   setCatchableChecklistStatus(item: MinifiedItem, checked: boolean) {
     if (checked) {
-      this.catchablesChecklist.add(item.id);
+      this.museumChecklist.add(item.id);
     } else {
-      this.catchablesChecklist.remove(item.id);
+      this.museumChecklist.remove(item.id);
     }
   }
 }

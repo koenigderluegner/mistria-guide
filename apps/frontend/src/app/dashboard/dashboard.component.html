@@ -9,7 +9,7 @@
     <h3 class="section-title mb-2">Bugs</h3>
     <div class="flex gap-2 flex-wrap">
       @for (bug of bugs(); track bug) {
-        <app-list-entry-item [checked]="catchablesChecklist.isChecked(bug.item.id)"
+        <app-list-entry-item [checked]="museumChecklist.isChecked(bug.item.id)"
                              (checkboxChanged)="setCatchableChecklistStatus(bug.item, $event)" [item]="bug.item" />
       }
     </div>
@@ -18,7 +18,7 @@
     <h3 class="section-title mb-2">Fish</h3>
     <div class="flex gap-2 flex-wrap">
       @for (fish of fish(); track fish) {
-        <app-list-entry-item [checked]="catchablesChecklist.isChecked(fish.item.id)"
+        <app-list-entry-item [checked]="museumChecklist.isChecked(fish.item.id)"
                              (checkboxChanged)="setCatchableChecklistStatus(fish.item, $event)" [item]="fish.item" />
       }
     </div>
