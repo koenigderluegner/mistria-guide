@@ -1,0 +1,1321 @@
+{
+  "upper-mines": {
+    "id": "upper-mines",
+    "name": "Upper Mines",
+    "artifact_set": "upper_mines_artifacts",
+    "ore": {
+      "id": "ore_copper",
+      "name": "Copper Ore",
+      "icon_sprite": "spr_ui_item_copper_ore"
+    },
+    "gem": {
+      "id": "ore_ruby",
+      "name": "Ruby",
+      "icon_sprite": "spr_ui_item_ruby"
+    },
+    "combat_xp_gain": 3,
+    "startingFloor": 1,
+    "armor": [
+      {
+        "id": "scrap_metal_helmet",
+        "name": "Scrap Metal Helmet",
+        "icon_sprite": "spr_ui_item_equipment_scrap_metal_helmet"
+      },
+      {
+        "id": "scrap_metal_chestpiece",
+        "name": "Scrap Metal Chestpiece",
+        "icon_sprite": "spr_ui_item_equipment_scrap_metal_chestpiece"
+      },
+      {
+        "id": "scrap_metal_pants",
+        "name": "Scrap Metal Pants",
+        "icon_sprite": "spr_ui_item_equipment_scrap_metal_pants"
+      },
+      {
+        "id": "scrap_metal_boots",
+        "name": "Scrap Metal Boots",
+        "icon_sprite": "spr_ui_item_equipment_scrap_metal_boots"
+      },
+      {
+        "id": "scrap_metal_ring",
+        "name": "Scrap Metal Ring",
+        "icon_sprite": "spr_ui_item_equipment_scrap_metal_ring"
+      },
+      {
+        "id": "sword_scrap_metal",
+        "name": "Scrap Metal Sword",
+        "icon_sprite": "spr_ui_item_tool_scrap_metal_sword"
+      }
+    ],
+    "furniture": [
+      {
+        "id": "miners_copper_node",
+        "name": "Ornamental Copper Node",
+        "icon_sprite": "spr_ui_item_furniture_copper_node"
+      },
+      {
+        "id": "miners_ruby_rock",
+        "name": "Ornamental Ruby Rock",
+        "icon_sprite": "spr_ui_item_furniture_ruby_rock"
+      },
+      {
+        "id": "miners_minecart_v1",
+        "name": "Minecart",
+        "icon_sprite": "spr_ui_item_furniture_minecart_v1"
+      },
+      {
+        "id": "miners_minecart_v2",
+        "name": "Minecart",
+        "icon_sprite": "spr_ui_item_furniture_minecart_v2"
+      },
+      {
+        "id": "miners_crate_chair_v1",
+        "name": "Mines Crate Chair",
+        "icon_sprite": "spr_ui_item_furniture_miners_crate_chair_v1"
+      },
+      {
+        "id": "miners_crate_chair_v2",
+        "name": "Mines Crate Chair",
+        "icon_sprite": "spr_ui_item_furniture_miners_crate_chair_v2"
+      },
+      {
+        "id": "miners_crate_chest_v1",
+        "name": "Mines Storage Chest",
+        "icon_sprite": "spr_ui_item_furniture_miners_crate_chest_v1"
+      },
+      {
+        "id": "miners_crate_chest_v2",
+        "name": "Mines Storage Chest",
+        "icon_sprite": "spr_ui_item_furniture_miners_crate_chest_v2"
+      },
+      {
+        "id": "miners_floor_lamp_v1",
+        "name": "Mines Floor Lamp",
+        "icon_sprite": "spr_ui_item_furniture_miners_floor_lamp_v1"
+      },
+      {
+        "id": "miners_floor_lamp_v2",
+        "name": "Mines Floor Lamp",
+        "icon_sprite": "spr_ui_item_furniture_miners_floor_lamp_v2"
+      },
+      {
+        "id": "miners_wall_lamp_v1",
+        "name": "Mines Wall Lamp",
+        "icon_sprite": "spr_ui_item_furniture_miners_wall_lamp_v1"
+      },
+      {
+        "id": "miners_wall_lamp_v2",
+        "name": "Mines Wall Lamp",
+        "icon_sprite": "spr_ui_item_furniture_miners_wall_lamp_v2"
+      },
+      {
+        "id": "miners_shelves_v1",
+        "name": "Mines Shelf",
+        "icon_sprite": "spr_ui_item_furniture_miners_shelves_v1"
+      },
+      {
+        "id": "miners_shelves_v2",
+        "name": "Mines Shelf",
+        "icon_sprite": "spr_ui_item_furniture_miners_shelves_v2"
+      },
+      {
+        "id": "miners_flooring",
+        "name": "Mines Flooring",
+        "icon_sprite": "spr_ui_item_furniture_mines_dirt_flooring"
+      },
+      {
+        "id": "miners_wallpaper",
+        "name": "Mines Wall",
+        "icon_sprite": "spr_ui_item_furniture_mines_wallpaper"
+      },
+      {
+        "id": "mines_wooden_arch",
+        "name": "Mines Arch",
+        "icon_sprite": "spr_ui_item_furniture_mines_wooden_arch"
+      }
+    ],
+    "dungeon_delicacies": [
+      {
+        "id": "baked_sweetroot",
+        "name": "Baked Sweetroot",
+        "icon_sprite": "spr_ui_item_baked_sweetroot"
+      },
+      {
+        "id": "cherry_cobbler",
+        "name": "Cherry Cobbler",
+        "icon_sprite": "spr_ui_item_cherry_cobbler"
+      },
+      {
+        "id": "miners_mushroom_stew",
+        "name": "Miner's Mushroom Stew",
+        "icon_sprite": "spr_ui_item_miner_mushroom_stew"
+      },
+      {
+        "id": "grape_juice",
+        "name": "Grape Juice",
+        "icon_sprite": "spr_ui_item_grape_juice"
+      },
+      {
+        "id": "turnip_and_cabbage_salad",
+        "name": "Turnip & Cabbage Salad",
+        "icon_sprite": "spr_ui_item_turnip_and_cabbage_salad"
+      },
+      {
+        "id": "monster_cookie",
+        "name": "Monster Cookies",
+        "icon_sprite": "spr_ui_item_monster_cookie"
+      }
+    ],
+    "taste_maker": [],
+    "shrine": {
+      "inputs": [
+        {
+          "item_id": "ore_stone",
+          "amount": 10
+        }
+      ],
+      "outputs": {
+        "health": 25,
+        "stamina": 20,
+        "essence": 10
+      }
+    },
+    "votes": {
+      "chest": [
+        {
+          "object": "treasure_chest_wood"
+        },
+        {
+          "object": "treasure_chest_copper"
+        },
+        {
+          "object": "treasure_chest_silver"
+        },
+        {
+          "object": "treasure_chest_gold"
+        }
+      ],
+      "enemy": [
+        {
+          "object": "sapling",
+          "votes": 8
+        },
+        {
+          "object": "mushroom",
+          "votes": 5
+        },
+        {
+          "object": "rockclod",
+          "votes": 5
+        },
+        {
+          "object": "enchantern",
+          "votes": 5
+        },
+        {
+          "object": "sapling_cool",
+          "votes": 3
+        },
+        {
+          "object": "copperclod",
+          "votes": 3
+        },
+        {
+          "object": "mimic",
+          "votes": 1
+        }
+      ],
+      "large_rock": [
+        {
+          "object": "large_rock_stone_upper"
+        }
+      ],
+      "ore_rock": [
+        {
+          "object": "node_copper",
+          "votes": 45
+        },
+        {
+          "object": "rock_copper",
+          "votes": 9
+        },
+        {
+          "object": "node_ruby",
+          "votes": 3
+        },
+        {
+          "object": "rock_ruby",
+          "votes": 1
+        }
+      ],
+      "fish": [
+        {
+          "object": "cave_shrimp",
+          "votes": 30
+        },
+        {
+          "object": "stone_loach",
+          "votes": 30
+        },
+        {
+          "object": "rock_guppy",
+          "votes": 18
+        },
+        {
+          "object": "cave_eel",
+          "votes": 18
+        },
+        {
+          "object": "cave_shark",
+          "votes": 10
+        }
+      ],
+      "bug": [
+        {
+          "object": "lantern_moth",
+          "votes": 50
+        },
+        {
+          "object": "copper_beetle",
+          "votes": 30
+        },
+        {
+          "object": "mine_cricket",
+          "votes": 20
+        }
+      ],
+      "forageable": [
+        {
+          "object": "upper_mines_mushroom"
+        },
+        {
+          "object": "sweetroot"
+        },
+        {
+          "object": "shadow_flower"
+        },
+        {
+          "object": "narrows_moss"
+        }
+      ]
+    }
+  },
+  "the-tide-caverns": {
+    "id": "the-tide-caverns",
+    "name": "The Tide Caverns",
+    "artifact_set": "tide_caverns",
+    "ore": {
+      "id": "ore_iron",
+      "name": "Iron Ore",
+      "icon_sprite": "spr_ui_item_iron_ore"
+    },
+    "gem": {
+      "id": "ore_sapphire",
+      "name": "Sapphire",
+      "icon_sprite": "spr_ui_item_sapphire"
+    },
+    "combat_xp_gain": 4,
+    "startingFloor": 20,
+    "armor": [
+      {
+        "id": "verdigris_helmet",
+        "name": "Verdigris Helmet",
+        "icon_sprite": "spr_ui_item_equipment_verdigris_helmet"
+      },
+      {
+        "id": "verdigris_chestpiece",
+        "name": "Verdigris Chestpiece",
+        "icon_sprite": "spr_ui_item_equipment_verdigris_chestpiece"
+      },
+      {
+        "id": "verdigris_tassets",
+        "name": "Verdigris Tassets",
+        "icon_sprite": "spr_ui_item_equipment_verdigris_tassets"
+      },
+      {
+        "id": "verdigris_boots",
+        "name": "Verdigris Boots",
+        "icon_sprite": "spr_ui_item_equipment_verdigris_boots"
+      },
+      {
+        "id": "verdigris_ring",
+        "name": "Verdigris Ring",
+        "icon_sprite": "spr_ui_item_equipment_verdigris_ring"
+      },
+      {
+        "id": "sword_verdigris",
+        "name": "Verdigris Sword",
+        "icon_sprite": "spr_ui_item_tool_verdigris_sword"
+      }
+    ],
+    "furniture": [
+      {
+        "id": "coral_lamp_blue",
+        "name": "Coral Lamp",
+        "icon_sprite": "spr_ui_item_furniture_coral_lamp_blue"
+      },
+      {
+        "id": "coral_chair_blue",
+        "name": "Coral Chair",
+        "icon_sprite": "spr_ui_item_furniture_coral_chair_blue"
+      },
+      {
+        "id": "coral_table_blue",
+        "name": "Coral Table",
+        "icon_sprite": "spr_ui_item_furniture_coral_table_blue"
+      },
+      {
+        "id": "coral_storage_chest_blue",
+        "name": "Coral Storage Chest",
+        "icon_sprite": "spr_ui_item_furniture_coral_storage_chest_blue"
+      },
+      {
+        "id": "coral_lamp_purple",
+        "name": "Coral Lamp",
+        "icon_sprite": "spr_ui_item_furniture_coral_lamp_purple"
+      },
+      {
+        "id": "coral_chair_purple",
+        "name": "Coral Chair",
+        "icon_sprite": "spr_ui_item_furniture_coral_chair_purple"
+      },
+      {
+        "id": "coral_table_purple",
+        "name": "Coral Table",
+        "icon_sprite": "spr_ui_item_furniture_coral_table_purple"
+      },
+      {
+        "id": "coral_storage_chest_purple",
+        "name": "Coral Storage Chest",
+        "icon_sprite": "spr_ui_item_furniture_coral_storage_chest_purple"
+      },
+      {
+        "id": "sand_rug",
+        "name": "Sand Rug",
+        "icon_sprite": "spr_ui_item_furniture_sand_rug"
+      },
+      {
+        "id": "low_tide_flooring",
+        "name": "Low Tide Flooring",
+        "icon_sprite": "spr_ui_item_furniture_tide_flooring"
+      },
+      {
+        "id": "tide_touched_cavern_wall",
+        "name": "Tide-Touched Cavern Wall",
+        "icon_sprite": "spr_ui_item_furniture_tide_wallpaper"
+      },
+      {
+        "id": "ornamental_iron_node",
+        "name": "Ornamental Iron Node",
+        "icon_sprite": "spr_ui_item_furniture_iron_node"
+      },
+      {
+        "id": "ornamental_sapphire_rock",
+        "name": "Ornamental Sapphire Rock",
+        "icon_sprite": "spr_ui_item_furniture_sapphire_rock"
+      },
+      {
+        "id": "coral_stone_archway",
+        "name": "Coral-Stone Arch",
+        "icon_sprite": "spr_ui_item_furniture_coral_arch"
+      }
+    ],
+    "dungeon_delicacies": [
+      {
+        "id": "deep_sea_soup",
+        "name": "Deep Sea Soup",
+        "icon_sprite": "spr_ui_item_deep_sea_soup"
+      },
+      {
+        "id": "sour_lemon_cake",
+        "name": "Lemon Cake",
+        "icon_sprite": "spr_ui_item_sourlemoncake"
+      },
+      {
+        "id": "chickpea_curry",
+        "name": "Chickpea Curry",
+        "icon_sprite": "spr_ui_item_chickpea_curry"
+      },
+      {
+        "id": "monster_mash",
+        "name": "Monster Mash",
+        "icon_sprite": "spr_ui_item_monster_mash"
+      },
+      {
+        "id": "crispy_fried_earthshroom",
+        "name": "Crispy Fried Earthshroom",
+        "icon_sprite": "spr_ui_item_crispy_fried_earthshroom"
+      },
+      {
+        "id": "tide_salad",
+        "name": "Tide Salad",
+        "icon_sprite": "spr_ui_item_tide_salad"
+      }
+    ],
+    "taste_maker": [],
+    "shrine": {
+      "inputs": [
+        {
+          "item_id": "ore_stone",
+          "amount": 10
+        },
+        {
+          "item_id": "ore_iron",
+          "amount": 5
+        },
+        {
+          "item_id": "coral",
+          "amount": 3
+        }
+      ],
+      "outputs": {
+        "health": 25,
+        "stamina": 20,
+        "essence": 10
+      }
+    },
+    "votes": {
+      "chest": [
+        {
+          "object": "treasure_chest_wood"
+        },
+        {
+          "object": "treasure_chest_copper"
+        },
+        {
+          "object": "treasure_chest_silver"
+        },
+        {
+          "object": "treasure_chest_gold"
+        }
+      ],
+      "enemy": [
+        {
+          "object": "sapling_blue",
+          "votes": 5
+        },
+        {
+          "object": "mushroom_green",
+          "votes": 5
+        },
+        {
+          "object": "rockclod_blue",
+          "votes": 5
+        },
+        {
+          "object": "enchantern_blue",
+          "votes": 5
+        },
+        {
+          "object": "ironclod",
+          "votes": 3
+        },
+        {
+          "object": "stalagmite",
+          "votes": 3
+        },
+        {
+          "object": "bat",
+          "votes": 3
+        },
+        {
+          "object": "mimic",
+          "votes": 1
+        }
+      ],
+      "large_rock": [
+        {
+          "object": "large_rock_stone_two"
+        }
+      ],
+      "ore_rock": [
+        {
+          "object": "node_iron",
+          "votes": 45
+        },
+        {
+          "object": "rock_iron",
+          "votes": 9
+        },
+        {
+          "object": "node_sapphire",
+          "votes": 3
+        },
+        {
+          "object": "rock_sapphire",
+          "votes": 1
+        }
+      ],
+      "fish": [
+        {
+          "object": "sapphire_betta",
+          "votes": 30
+        },
+        {
+          "object": "transparent_jellyfish",
+          "votes": 30
+        },
+        {
+          "object": "archerfish",
+          "votes": 30
+        },
+        {
+          "object": "water_balloon_fish",
+          "votes": 18
+        },
+        {
+          "object": "mini_whale_shark",
+          "votes": 10
+        }
+      ],
+      "bug": [
+        {
+          "object": "waterfly",
+          "votes": 50
+        },
+        {
+          "object": "hermit_snail",
+          "votes": 30
+        },
+        {
+          "object": "coral_mantis",
+          "votes": 60
+        },
+        {
+          "object": "puddle_spider",
+          "votes": 20
+        }
+      ],
+      "forageable": [
+        {
+          "object": "sea_grapes"
+        },
+        {
+          "object": "cave_kelp"
+        },
+        {
+          "object": "mines_mussels"
+        },
+        {
+          "object": "tide_lettuce"
+        }
+      ],
+      "water_forageable": [
+        {
+          "object": "underseaweed"
+        }
+      ]
+    }
+  },
+  "deep-earth": {
+    "id": "deep-earth",
+    "name": "Deep Earth",
+    "artifact_set": "deep_earth",
+    "ore": {
+      "id": "ore_silver",
+      "name": "Silver Ore",
+      "icon_sprite": "spr_ui_item_silver_ore"
+    },
+    "gem": {
+      "id": "ore_emerald",
+      "name": "Emerald",
+      "icon_sprite": "spr_ui_item_emerald"
+    },
+    "combat_xp_gain": 5,
+    "startingFloor": 40,
+    "armor": [
+      {
+        "id": "crystal_helmet",
+        "name": "Crystal Helmet",
+        "icon_sprite": "spr_ui_item_equipment_crystal_helmet"
+      },
+      {
+        "id": "crystal_chestpiece",
+        "name": "Crystal Chestpiece",
+        "icon_sprite": "spr_ui_item_equipment_crystal_chestpiece"
+      },
+      {
+        "id": "crystal_tassets",
+        "name": "Crystal Tassets",
+        "icon_sprite": "spr_ui_item_equipment_crystal_tassets"
+      },
+      {
+        "id": "crystal_boots",
+        "name": "Crystal Greaves",
+        "icon_sprite": "spr_ui_item_equipment_crystal_boots"
+      },
+      {
+        "id": "crystal_ring",
+        "name": "Crystal Ring",
+        "icon_sprite": "spr_ui_item_equipment_crystal_ring"
+      },
+      {
+        "id": "sword_crystal",
+        "name": "Crystal Sword",
+        "icon_sprite": "spr_ui_item_tool_crystal_sword"
+      }
+    ],
+    "furniture": [
+      {
+        "id": "cavern_crystal_lamp_green",
+        "name": "Glowing Crystal Lamp",
+        "icon_sprite": "spr_ui_item_furniture_crystal_lamp_green"
+      },
+      {
+        "id": "cavern_mushroom_stool_green",
+        "name": "Mushroom Stool",
+        "icon_sprite": "spr_ui_item_furniture_mushroom_stool_green"
+      },
+      {
+        "id": "cavern_crystal_lamp_pink",
+        "name": "Glowing Crystal Lamp",
+        "icon_sprite": "spr_ui_item_furniture_crystal_lamp_pink"
+      },
+      {
+        "id": "cavern_mushroom_stool_pink",
+        "name": "Mushroom Stool",
+        "icon_sprite": "spr_ui_item_furniture_mushroom_stool_pink"
+      },
+      {
+        "id": "cavern_crystal_lamp_purple",
+        "name": "Glowing Crystal Lamp",
+        "icon_sprite": "spr_ui_item_furniture_crystal_lamp_purple"
+      },
+      {
+        "id": "cavern_mushroom_stool_purple",
+        "name": "Mushroom Stool",
+        "icon_sprite": "spr_ui_item_furniture_mushroom_stool_purple"
+      },
+      {
+        "id": "cavern_emerald_rock",
+        "name": "Ornamental Emerald Rock",
+        "icon_sprite": "spr_ui_item_furniture_emerald_rock"
+      },
+      {
+        "id": "cavern_silver_node",
+        "name": "Ornamental Silver Node",
+        "icon_sprite": "spr_ui_item_furniture_silver_node"
+      },
+      {
+        "id": "cavern_hewn_rock_bookshelf",
+        "name": "Hewn Rock Bookshelf",
+        "icon_sprite": "spr_ui_item_furniture_hewn_rock_bookshelf"
+      },
+      {
+        "id": "cavern_hewn_rock_table",
+        "name": "Hewn Rock Table",
+        "icon_sprite": "spr_ui_item_furniture_hewn_stone_table"
+      },
+      {
+        "id": "cavern_stone_arch",
+        "name": "Stalactite Arch",
+        "icon_sprite": "spr_ui_item_furniture_stone_arch"
+      },
+      {
+        "id": "cavern_wall_brazier_purple",
+        "name": "Wall Brazier",
+        "icon_sprite": "spr_ui_item_furniture_wall_brazier_purple"
+      },
+      {
+        "id": "cavern_wall_brazier_orange",
+        "name": "Wall Brazier",
+        "icon_sprite": "spr_ui_item_furniture_wall_brazier_orange"
+      },
+      {
+        "id": "cavern_wall_brazier_blue",
+        "name": "Wall Brazier",
+        "icon_sprite": "spr_ui_item_furniture_wall_brazier_blue"
+      },
+      {
+        "id": "cavern_floor_brazier_purple",
+        "name": "Floor Brazier",
+        "icon_sprite": "spr_ui_item_furniture_floor_brazier_purple"
+      },
+      {
+        "id": "cavern_floor_brazier_orange",
+        "name": "Floor Brazier",
+        "icon_sprite": "spr_ui_item_furniture_floor_brazier_orange"
+      },
+      {
+        "id": "cavern_floor_brazier_blue",
+        "name": "Floor Brazier",
+        "icon_sprite": "spr_ui_item_furniture_floor_brazier_blue"
+      },
+      {
+        "id": "cavern_mossy_rug_v1",
+        "name": "Mossy Rug",
+        "icon_sprite": "spr_ui_item_furniture_mossy_rug_v1"
+      },
+      {
+        "id": "cavern_mossy_rug_v2",
+        "name": "Mossy Rug",
+        "icon_sprite": "spr_ui_item_furniture_mossy_rug_v2"
+      },
+      {
+        "id": "cavern_rock_wallpaper",
+        "name": "Rock Wall",
+        "icon_sprite": "spr_ui_item_furniture_wallpaper_deep_earth"
+      },
+      {
+        "id": "cavern_rock_flooring",
+        "name": "Rock Floor",
+        "icon_sprite": "spr_ui_item_furniture_flooring_deep_earth"
+      }
+    ],
+    "dungeon_delicacies": [
+      {
+        "id": "fried_rice",
+        "name": "Fried Rice",
+        "icon_sprite": "spr_ui_item_fried_rice"
+      },
+      {
+        "id": "herb_salad",
+        "name": "Herb Salad",
+        "icon_sprite": "spr_ui_item_herb_salad"
+      },
+      {
+        "id": "turnip_and_potato_gratin",
+        "name": "Turnip & Potato Gratin",
+        "icon_sprite": "spr_ui_item_turnip_and_potato_gratin"
+      },
+      {
+        "id": "vegetable_pot_pie",
+        "name": "Vegetable Pot Pie",
+        "icon_sprite": "spr_ui_item_vegetable_pot_pie"
+      },
+      {
+        "id": "spring_galette",
+        "name": "Spring Galette",
+        "icon_sprite": "spr_ui_item_spring_galette"
+      }
+    ],
+    "taste_maker": [],
+    "shrine": {
+      "inputs": [
+        {
+          "item_id": "ore_stone",
+          "amount": 10
+        }
+      ],
+      "outputs": {
+        "health": 25,
+        "stamina": 20,
+        "essence": 10
+      }
+    },
+    "votes": {
+      "water_forageable": [],
+      "chest": [
+        {
+          "object": "treasure_chest_wood"
+        },
+        {
+          "object": "treasure_chest_copper"
+        },
+        {
+          "object": "treasure_chest_silver"
+        },
+        {
+          "object": "treasure_chest_gold"
+        }
+      ],
+      "enemy": [
+        {
+          "object": "sapling_purple",
+          "votes": 5
+        },
+        {
+          "object": "mushroom_blue",
+          "votes": 5
+        },
+        {
+          "object": "rockclod_green",
+          "votes": 5
+        },
+        {
+          "object": "silverclod",
+          "votes": 3
+        },
+        {
+          "object": "stalagmite_green",
+          "votes": 3
+        },
+        {
+          "object": "bat_blue",
+          "votes": 3
+        },
+        {
+          "object": "mimic",
+          "votes": 1
+        }
+      ],
+      "large_rock": [
+        {
+          "object": "large_rock_stone_three"
+        }
+      ],
+      "ore_rock": [
+        {
+          "object": "node_silver",
+          "votes": 45
+        },
+        {
+          "object": "rock_silver",
+          "votes": 9
+        },
+        {
+          "object": "node_emerald",
+          "votes": 3
+        },
+        {
+          "object": "rock_emerald"
+        }
+      ],
+      "fish": [
+        {
+          "object": "pebble_minnow",
+          "votes": 30
+        },
+        {
+          "object": "earth_eel",
+          "votes": 30
+        },
+        {
+          "object": "shardfin",
+          "votes": 30
+        },
+        {
+          "object": "rockbiter",
+          "votes": 18
+        },
+        {
+          "object": "emerald_horned_charger",
+          "votes": 10
+        }
+      ],
+      "bug": [
+        {
+          "object": "crystalline_cricket",
+          "votes": 50
+        },
+        {
+          "object": "gem_shard_caterpillar",
+          "votes": 30
+        },
+        {
+          "object": "crystal_wing_moth",
+          "votes": 20
+        }
+      ],
+      "forageable": [
+        {
+          "object": "crystal_berries"
+        },
+        {
+          "object": "shale_grass"
+        },
+        {
+          "object": "earthshroom"
+        },
+        {
+          "object": "rockroot"
+        },
+        {
+          "object": "crystal_rose"
+        }
+      ]
+    }
+  },
+  "the-lava-caves": {
+    "id": "the-lava-caves",
+    "name": "The Lava Caves",
+    "artifact_set": "lava_caves",
+    "ore": {
+      "id": "ore_gold",
+      "name": "Gold Ore",
+      "icon_sprite": "spr_ui_item_gold_ore"
+    },
+    "gem": {
+      "id": "ore_diamond",
+      "name": "Diamond",
+      "icon_sprite": "spr_ui_item_diamond"
+    },
+    "combat_xp_gain": 6,
+    "startingFloor": 60,
+    "armor": [
+      {
+        "id": "tarnished_gold_helmet",
+        "name": "Tarnished Gold Helmet",
+        "icon_sprite": "spr_ui_item_equipment_tarnished_gold_helmet"
+      },
+      {
+        "id": "tarnished_gold_armor",
+        "name": "Tarnished Gold Chestpiece",
+        "icon_sprite": "spr_ui_item_equipment_tarnished_gold_chestpiece"
+      },
+      {
+        "id": "tarnished_gold_legplates",
+        "name": "Tarnished Gold Legplates",
+        "icon_sprite": "spr_ui_item_equipment_tarnished_gold_pants"
+      },
+      {
+        "id": "tarnished_gold_boots",
+        "name": "Tarnished Gold Greaves",
+        "icon_sprite": "spr_ui_item_equipment_tarnished_gold_boots"
+      },
+      {
+        "id": "tarnished_gold_ring",
+        "name": "Tarnished Gold Ring",
+        "icon_sprite": "spr_ui_item_equipment_tarnished_gold_ring"
+      },
+      {
+        "id": "sword_tarnished_gold",
+        "name": "Tarnished Gold Sword",
+        "icon_sprite": "spr_ui_item_tool_tarnished_gold_sword"
+      }
+    ],
+    "furniture": [
+      {
+        "id": "lava_caves_diamond_rock",
+        "name": "Ornamental Diamond Rock",
+        "icon_sprite": "spr_ui_item_furniture_diamond_rock"
+      },
+      {
+        "id": "lava_caves_gold_node",
+        "name": "Ornamental Gold Node",
+        "icon_sprite": "spr_ui_item_furniture_gold_node"
+      },
+      {
+        "id": "lava_caves_stone_arch",
+        "name": "Lava Rock Arch",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_stone_beam"
+      },
+      {
+        "id": "lava_caves_wallpaper",
+        "name": "Lava Rock Wall",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_wallpaper"
+      },
+      {
+        "id": "lava_caves_flooring",
+        "name": "Lava Rock Floor",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_flooring"
+      },
+      {
+        "id": "lava_caves_obsidian_fence_purple",
+        "name": "Obsidian Fence",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_fence_purple"
+      },
+      {
+        "id": "lava_caves_obsidian_fence_blue",
+        "name": "Obsidian Fence",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_fence_blue"
+      },
+      {
+        "id": "lava_caves_obsidian_bed_blue",
+        "name": "Obsidian Bed",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_bed_blue"
+      },
+      {
+        "id": "lava_caves_obsidian_bed_purple",
+        "name": "Obsidian Bed",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_bed_purple"
+      },
+      {
+        "id": "lava_caves_obsidian_double_bed_blue",
+        "name": "Obsidian Double Bed",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_double_bed_blue"
+      },
+      {
+        "id": "lava_caves_obsidian_double_bed_purple",
+        "name": "Obsidian Double Bed",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_double_bed_purple"
+      },
+      {
+        "id": "lava_caves_obsidian_chair_blue",
+        "name": "Obsidian Chair",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_chair_blue"
+      },
+      {
+        "id": "lava_caves_obsidian_chair_purple",
+        "name": "Obsidian Chair",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_chair_purple"
+      },
+      {
+        "id": "lava_caves_obsidian_table_blue",
+        "name": "Obsidian Table",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_table_blue"
+      },
+      {
+        "id": "lava_caves_obsidian_table_purple",
+        "name": "Obsidian Table",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_table_purple"
+      },
+      {
+        "id": "lava_caves_obsidian_storage_chest_blue",
+        "name": "Obsidian Storage Chest",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_storage_chest_blue"
+      },
+      {
+        "id": "lava_caves_obsidian_storage_chest_purple",
+        "name": "Obsidian Storage Chest",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_storage_chest_purple"
+      },
+      {
+        "id": "lava_caves_obsidian_floor_lamp_blue",
+        "name": "Obsidian Floor Lamp",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_floor_lamp_blue"
+      },
+      {
+        "id": "lava_caves_obsidian_floor_lamp_purple",
+        "name": "Obsidian Floor Lamp",
+        "icon_sprite": "spr_ui_item_furniture_lava_caves_obsidian_floor_lamp_purple"
+      }
+    ],
+    "dungeon_delicacies": [
+      {
+        "id": "incredibly_hot_pot",
+        "name": "Incredibly Hot Pot",
+        "icon_sprite": "spr_ui_item_incredibly_hot_pot"
+      }
+    ],
+    "taste_maker": [],
+    "shrine": {
+      "inputs": [
+        {
+          "item_id": "ore_stone",
+          "amount": 10
+        }
+      ],
+      "outputs": {
+        "health": 25,
+        "stamina": 20,
+        "essence": 10
+      }
+    },
+    "votes": {
+      "water_forageable": [],
+      "chest": [
+        {
+          "object": "treasure_chest_wood"
+        },
+        {
+          "object": "treasure_chest_copper"
+        },
+        {
+          "object": "treasure_chest_silver"
+        },
+        {
+          "object": "treasure_chest_gold"
+        }
+      ],
+      "enemy": [
+        {
+          "object": "sapling_orange",
+          "votes": 5
+        },
+        {
+          "object": "mushroom_purple",
+          "votes": 5
+        },
+        {
+          "object": "rockclod_red",
+          "votes": 5
+        },
+        {
+          "object": "goldclod",
+          "votes": 3
+        },
+        {
+          "object": "stalagmite_purple",
+          "votes": 3
+        },
+        {
+          "object": "mimic",
+          "votes": 1
+        }
+      ],
+      "large_rock": [
+        {
+          "object": "large_rock_stone_four"
+        }
+      ],
+      "ore_rock": [
+        {
+          "object": "node_gold",
+          "votes": 45
+        },
+        {
+          "object": "rock_gold",
+          "votes": 9
+        },
+        {
+          "object": "node_diamond",
+          "votes": 3
+        },
+        {
+          "object": "rock_diamond"
+        }
+      ],
+      "fish": [
+        {
+          "object": "lava_piranha",
+          "votes": 30
+        },
+        {
+          "object": "armored_bass",
+          "votes": 30
+        },
+        {
+          "object": "candelabra_seadragon",
+          "votes": 18
+        },
+        {
+          "object": "sulfur_crab",
+          "votes": 18
+        },
+        {
+          "object": "firesail_fish",
+          "votes": 10
+        }
+      ],
+      "bug": [
+        {
+          "object": "fire_wasp",
+          "votes": 50
+        },
+        {
+          "object": "lava_snail",
+          "votes": 60
+        },
+        {
+          "object": "cooktop_beetle",
+          "votes": 60
+        },
+        {
+          "object": "smoke_moth",
+          "votes": 20
+        },
+        {
+          "object": "diamond_beetle",
+          "votes": 20
+        }
+      ],
+      "forageable": [
+        {
+          "object": "flame_pepper"
+        },
+        {
+          "object": "ash_mushroom"
+        },
+        {
+          "object": "lava_chestnuts"
+        },
+        {
+          "object": "hot_potato"
+        },
+        {
+          "object": "breath_of_fire"
+        }
+      ]
+    }
+  },
+  "ancient-ruins": {
+    "id": "ancient-ruins",
+    "name": "Ancient Ruins",
+    "artifact_set": "mine",
+    "ore": {
+      "id": "ore_mistril",
+      "name": "Mistril Ore",
+      "icon_sprite": "spr_ui_item_mistril_ore"
+    },
+    "gem": {
+      "id": "ore_pink_diamond",
+      "name": "Pink Diamond",
+      "icon_sprite": "spr_ui_item_pinkdiamond"
+    },
+    "combat_xp_gain": 7,
+    "startingFloor": 80,
+    "armor": [],
+    "furniture": [],
+    "dungeon_delicacies": [],
+    "taste_maker": [],
+    "shrine": {
+      "inputs": [
+        {
+          "item_id": "ore_stone",
+          "amount": 10
+        }
+      ],
+      "outputs": {
+        "health": 25,
+        "stamina": 20,
+        "essence": 10
+      }
+    },
+    "votes": {
+      "chest": [
+        {
+          "object": "treasure_chest_wood"
+        },
+        {
+          "object": "treasure_chest_copper"
+        },
+        {
+          "object": "treasure_chest_silver"
+        },
+        {
+          "object": "treasure_chest_gold"
+        }
+      ],
+      "enemy": [
+        {
+          "object": "sapling"
+        },
+        {
+          "object": "mushroom"
+        },
+        {
+          "object": "rockclod"
+        }
+      ],
+      "large_rock": [
+        {
+          "object": "large_rock_stone_five"
+        }
+      ],
+      "ore_rock": [
+        {
+          "object": "node_mistril",
+          "votes": 45
+        },
+        {
+          "object": "rock_mistril",
+          "votes": 9
+        },
+        {
+          "object": "rock_pink_diamond"
+        }
+      ],
+      "fish": [
+        {
+          "object": "cave_shrimp"
+        }
+      ],
+      "bug": [
+        {
+          "object": "lantern_moth"
+        }
+      ],
+      "forageable": [
+        {
+          "object": "sea_grapes"
+        }
+      ],
+      "water_forageable": [
+        {
+          "object": "underseaweed"
+        }
+      ]
+    }
+  }
+}

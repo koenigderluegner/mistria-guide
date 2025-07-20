@@ -3,6 +3,7 @@ export * from './icon-sprite';
 export * from './tool-type';
 export * from './quality';
 export * from './tag';
+export * from './dungeon-id';
 export * from './skill-id';
 export * from './perk-id';
 export * from './bug-type';

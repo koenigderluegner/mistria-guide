@@ -1,43 +1,24 @@
-import { ItemId } from './generated';
-
-export function transformDungeon(rawBug: Biome): Dungeon {
-  const { junk, breakable, seam_rock, small_rock, ...votes } = rawBug.votes;
-  return {
-    id: rawBug.name.toLowerCase().replaceAll(' ', '-'),
-    name: rawBug.name,
-    artifact_set: rawBug.artifact_set,
-    ore: rawBug.ore,
-    gem: rawBug.gem,
-    combat_xp_gain: rawBug.combat_xp_gain,
-    startingFloor: rawBug.floor,
-    cosmetics: rawBug.cosmetics,
-    armor: rawBug.armor,
-    furniture: rawBug.furniture,
-    dungeon_delicacies: rawBug.dungeon_delicacies,
-    taste_maker: rawBug.taste_maker,
-    shrine: rawBug.shrine,
-    votes,
-  };
-}
+import { DungeonId, ItemId } from './generated';
+import { MinifiedItem } from './minified-item';
 
 export type Dungeon = {
-  id: string;
+  id: DungeonId;
   name: string;
   startingFloor: number;
   artifact_set: string;
-  ore: string;
-  gem: string;
+  ore: MinifiedItem;
+  gem: MinifiedItem;
   combat_xp_gain: number;
-  cosmetics: ItemId[];
-  armor: ItemId[];
-  furniture: ItemId[];
-  dungeon_delicacies: string[];
-  taste_maker: string[];
+  // cosmetics: MinifiedItem[];
+  armor: MinifiedItem[];
+  furniture: MinifiedItem[];
+  dungeon_delicacies: MinifiedItem[];
+  taste_maker: MinifiedItem[];
   shrine: Shrine;
   votes: Omit<Votes, 'breakable' | 'junk' | 'small_rock' | 'seam_rock'>;
 };
 
-interface Dungeons {
+export interface Dungeons {
   dungeons: {
     biomes: Biome[];
   };
@@ -50,8 +31,8 @@ interface Biome {
   asset_insert: string;
   music: string;
   artifact_set: string;
-  ore: string;
-  gem: string;
+  ore: ItemId;
+  gem: ItemId;
   combat_xp_gain: number;
   ladder_chance_range: [number, number];
   monster_element_points: number;

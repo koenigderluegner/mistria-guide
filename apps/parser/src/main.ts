@@ -12,6 +12,7 @@ import { TranslationReferenceResolver } from './localization/tranlation-referenc
 import { animalParser } from './parsers/animal-parser';
 import { ItemMinifier } from './item-minifier/item-minifier';
 import { dashboardParser } from './parsers/dashboard-parser';
+import { dungeonParser } from './parsers/dungeon-parser';
 
 const dbName = '__fiddle__.json';
 const data = readAsset<Record<string, any>>(dbName);
@@ -42,6 +43,9 @@ const items = itemParser(data.items);
 writeFileToFrontendDatabase('items.json', items);
 
 ItemMinifier.addItems(items);
+
+const dungeons = dungeonParser(data.dungeons);
+writeFileToFrontendDatabase('dungeons.json', dungeons);
 
 const skills = skillsParser(data.ui.skill_menu, data.perks, data.skills);
 writeFileToFrontendDatabase('skills.json', skills);
