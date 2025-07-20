@@ -33,4 +33,6 @@ export class ListEntryItemComponent {
   item = input.required<MinifiedItem>();
   checked = input<boolean>();
   checkboxChanged = output<boolean>();
+  static idCount = 0;
+  checkboxId = `checkbox-${ListEntryItemComponent.idCount++}`;
 }
