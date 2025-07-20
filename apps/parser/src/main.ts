@@ -44,14 +44,14 @@ writeFileToFrontendDatabase('items.json', items);
 
 ItemMinifier.addItems(items);
 
-const dungeons = dungeonParser(data.dungeons);
-writeFileToFrontendDatabase('dungeons.json', dungeons);
-
 const skills = skillsParser(data.ui.skill_menu, data.perks, data.skills);
 writeFileToFrontendDatabase('skills.json', skills);
 
 const bugs = bugParser(data.bugs);
 writeFileToFrontendDatabase('bugs.json', bugs);
+
+const dungeons = dungeonParser(data.dungeons, bugs);
+writeFileToFrontendDatabase('dungeons.json', dungeons);
 
 const animals = animalParser(data.ranching.animals);
 writeFileToFrontendDatabase('animals.json', animals);

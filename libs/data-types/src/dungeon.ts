@@ -15,7 +15,20 @@ export type Dungeon = {
   dungeon_delicacies: MinifiedItem[];
   taste_maker: MinifiedItem[];
   shrine: Shrine;
-  votes: Omit<Votes, 'breakable' | 'junk' | 'small_rock' | 'seam_rock'>;
+  bugs: MinifiedItem[];
+  fish: MinifiedItem[];
+  forageable: MinifiedItem[];
+  water_forageable: MinifiedItem[];
+  votes: Omit<
+    Votes,
+    | 'breakable'
+    | 'junk'
+    | 'small_rock'
+    | 'seam_rock'
+    | 'fish'
+    | 'bug'
+    | 'forageable'
+  >;
 };
 
 export interface Dungeons {
@@ -78,7 +91,7 @@ interface Votes {
 }
 
 export interface VoteItem {
-  object: string;
+  object: ItemId;
   votes?: number;
 }
 

@@ -1,6 +1,6 @@
 {
-  "upper-mines": {
-    "id": "upper-mines",
+  "upper_mines": {
+    "id": "upper_mines",
     "name": "Upper Mines",
     "artifact_set": "upper_mines_artifacts",
     "ore": {
@@ -166,7 +166,23 @@
         "icon_sprite": "spr_ui_item_monster_cookie"
       }
     ],
-    "taste_maker": [],
+    "taste_maker": [
+      {
+        "id": "crunchy_chickpeas",
+        "name": "Crunchy Chickpeas",
+        "icon_sprite": "spr_ui_item_crunchychickpeas"
+      },
+      {
+        "id": "turnip_and_cabbage_salad",
+        "name": "Turnip & Cabbage Salad",
+        "icon_sprite": "spr_ui_item_turnip_and_cabbage_salad"
+      },
+      {
+        "id": "monster_cookie",
+        "name": "Monster Cookies",
+        "icon_sprite": "spr_ui_item_monster_cookie"
+      }
+    ],
     "shrine": {
       "inputs": [
         {
@@ -180,6 +196,83 @@
         "essence": 10
       }
     },
+    "bugs": [
+      {
+        "id": "lantern_moth",
+        "name": "Lantern Moth",
+        "icon_sprite": "spr_ui_item_insect_lantern_moth"
+      },
+      {
+        "id": "copper_beetle",
+        "name": "Copper Nugget Beetle",
+        "icon_sprite": "spr_ui_item_insect_copper_beetle"
+      },
+      {
+        "id": "mine_cricket",
+        "name": "Mine Cricket",
+        "icon_sprite": "spr_ui_item_insect_mine_cricket"
+      },
+      {
+        "id": "worm",
+        "name": "Worm",
+        "icon_sprite": "spr_ui_item_insect_worm"
+      },
+      {
+        "id": "tunnel_millipede",
+        "name": "Tunnel Millipede",
+        "icon_sprite": "spr_ui_item_insect_tunnel_millipede"
+      }
+    ],
+    "fish": [
+      {
+        "id": "cave_shrimp",
+        "name": "Cave Shrimp",
+        "icon_sprite": "spr_ui_item_fish_small_cave_shrimp"
+      },
+      {
+        "id": "stone_loach",
+        "name": "Stone Loach",
+        "icon_sprite": "spr_ui_item_fish_medium_stone_loach"
+      },
+      {
+        "id": "rock_guppy",
+        "name": "Rock Guppy",
+        "icon_sprite": "spr_ui_item_fish_small_rock_guppy"
+      },
+      {
+        "id": "cave_eel",
+        "name": "Cave Eel",
+        "icon_sprite": "spr_ui_item_fish_medium_cave_eel"
+      },
+      {
+        "id": "cave_shark",
+        "name": "Cave Shark",
+        "icon_sprite": "spr_ui_item_fish_large_cave_shark"
+      }
+    ],
+    "forageable": [
+      {
+        "id": "upper_mines_mushroom",
+        "name": "Upper Mines Mushroom",
+        "icon_sprite": "spr_ui_item_upper_mines_mushroom"
+      },
+      {
+        "id": "sweetroot",
+        "name": "Sweetroot",
+        "icon_sprite": "spr_ui_item_sweetroot"
+      },
+      {
+        "id": "shadow_flower",
+        "name": "Shadow Flower",
+        "icon_sprite": "spr_ui_item_shadow_flower"
+      },
+      {
+        "id": "narrows_moss",
+        "name": "Narrows Moss",
+        "icon_sprite": "spr_ui_item_narrows_moss"
+      }
+    ],
+    "water_forageable": [],
     "votes": {
       "chest": [
         {
@@ -300,8 +393,8 @@
       ]
     }
   },
-  "the-tide-caverns": {
-    "id": "the-tide-caverns",
+  "the_tide_caverns": {
+    "id": "the_tide_caverns",
     "name": "The Tide Caverns",
     "artifact_set": "tide_caverns",
     "ore": {
@@ -452,7 +545,38 @@
         "icon_sprite": "spr_ui_item_tide_salad"
       }
     ],
-    "taste_maker": [],
+    "taste_maker": [
+      {
+        "id": "sour_lemon_cake",
+        "name": "Lemon Cake",
+        "icon_sprite": "spr_ui_item_sourlemoncake"
+      },
+      {
+        "id": "cherry_smoothie",
+        "name": "Cherry Smoothie",
+        "icon_sprite": "spr_ui_item_cherry_smoothie"
+      },
+      {
+        "id": "chickpea_curry",
+        "name": "Chickpea Curry",
+        "icon_sprite": "spr_ui_item_chickpea_curry"
+      },
+      {
+        "id": "monster_mash",
+        "name": "Monster Mash",
+        "icon_sprite": "spr_ui_item_monster_mash"
+      },
+      {
+        "id": "crispy_fried_earthshroom",
+        "name": "Crispy Fried Earthshroom",
+        "icon_sprite": "spr_ui_item_crispy_fried_earthshroom"
+      },
+      {
+        "id": "tide_salad",
+        "name": "Tide Salad",
+        "icon_sprite": "spr_ui_item_tide_salad"
+      }
+    ],
     "shrine": {
       "inputs": [
         {
@@ -474,6 +598,89 @@
         "essence": 10
       }
     },
+    "bugs": [
+      {
+        "id": "waterfly",
+        "name": "Waterfly",
+        "icon_sprite": "spr_ui_item_insect_waterfly"
+      },
+      {
+        "id": "hermit_snail",
+        "name": "Hermit Snail",
+        "icon_sprite": "spr_ui_item_insect_hermit_snail"
+      },
+      {
+        "id": "coral_mantis",
+        "name": "Coral Mantis",
+        "icon_sprite": "spr_ui_item_insect_coral_mantis"
+      },
+      {
+        "id": "puddle_spider",
+        "name": "Puddle Spider",
+        "icon_sprite": "spr_ui_item_insect_puddle_spider"
+      },
+      {
+        "id": "sea_scarab",
+        "name": "Sea Scarab",
+        "icon_sprite": "spr_ui_item_insect_sea_scarab"
+      }
+    ],
+    "fish": [
+      {
+        "id": "sapphire_betta",
+        "name": "Sapphire Betta",
+        "icon_sprite": "spr_ui_item_fish_small_sapphire_betta"
+      },
+      {
+        "id": "transparent_jellyfish",
+        "name": "Transparent Jellyfish",
+        "icon_sprite": "spr_ui_item_fish_medium_transparent_jellyfish"
+      },
+      {
+        "id": "archerfish",
+        "name": "Archerfish",
+        "icon_sprite": "spr_ui_item_fish_small_archerfish"
+      },
+      {
+        "id": "water_balloon_fish",
+        "name": "Water Balloon Fish",
+        "icon_sprite": "spr_ui_item_fish_medium_water_balloon_fish"
+      },
+      {
+        "id": "mini_whale_shark",
+        "name": "Mini-Whale Shark",
+        "icon_sprite": "spr_ui_item_fish_large_mini_whale_shark"
+      }
+    ],
+    "forageable": [
+      {
+        "id": "sea_grapes",
+        "name": "Sea Grapes",
+        "icon_sprite": "spr_ui_item_sea_grapes"
+      },
+      {
+        "id": "cave_kelp",
+        "name": "Jade Dulse",
+        "icon_sprite": "spr_ui_item_cave_kelp"
+      },
+      {
+        "id": "mines_mussels",
+        "name": "Mines Mussels",
+        "icon_sprite": "spr_ui_item_mines_mussels"
+      },
+      {
+        "id": "tide_lettuce",
+        "name": "Tide Lettuce",
+        "icon_sprite": "spr_ui_item_tide_lettuce"
+      }
+    ],
+    "water_forageable": [
+      {
+        "id": "underseaweed",
+        "name": "Underseaweed",
+        "icon_sprite": "spr_ui_item_underseaweed"
+      }
+    ],
     "votes": {
       "chest": [
         {
@@ -607,8 +814,8 @@
       ]
     }
   },
-  "deep-earth": {
-    "id": "deep-earth",
+  "deep_earth": {
+    "id": "deep_earth",
     "name": "Deep Earth",
     "artifact_set": "deep_earth",
     "ore": {
@@ -789,7 +996,23 @@
         "icon_sprite": "spr_ui_item_spring_galette"
       }
     ],
-    "taste_maker": [],
+    "taste_maker": [
+      {
+        "id": "herb_salad",
+        "name": "Herb Salad",
+        "icon_sprite": "spr_ui_item_herb_salad"
+      },
+      {
+        "id": "turnip_and_potato_gratin",
+        "name": "Turnip & Potato Gratin",
+        "icon_sprite": "spr_ui_item_turnip_and_potato_gratin"
+      },
+      {
+        "id": "vegetable_pot_pie",
+        "name": "Vegetable Pot Pie",
+        "icon_sprite": "spr_ui_item_vegetable_pot_pie"
+      }
+    ],
     "shrine": {
       "inputs": [
         {
@@ -803,6 +1026,88 @@
         "essence": 10
       }
     },
+    "bugs": [
+      {
+        "id": "crystalline_cricket",
+        "name": "Crystalline Cricket",
+        "icon_sprite": "spr_ui_item_insect_crystalline_cricket"
+      },
+      {
+        "id": "gem_shard_caterpillar",
+        "name": "Gem Shard Caterpillar",
+        "icon_sprite": "spr_ui_item_insect_gem_shard_caterpillar"
+      },
+      {
+        "id": "crystal_wing_moth",
+        "name": "Crystal Wing Moth",
+        "icon_sprite": "spr_ui_item_insect_crystal_wing_moth"
+      },
+      {
+        "id": "rock_roach",
+        "name": "Rock Roach",
+        "icon_sprite": "spr_ui_item_insect_rock_roach"
+      },
+      {
+        "id": "deep_earthworm",
+        "name": "Deep Earthworm",
+        "icon_sprite": "spr_ui_item_insect_deep_earthworm"
+      }
+    ],
+    "fish": [
+      {
+        "id": "pebble_minnow",
+        "name": "Pebble Minnow",
+        "icon_sprite": "spr_ui_item_fish_small_pebble_minnow"
+      },
+      {
+        "id": "earth_eel",
+        "name": "Earth Eel",
+        "icon_sprite": "spr_ui_item_fish_medium_earth_eel"
+      },
+      {
+        "id": "shardfin",
+        "name": "Shardfin",
+        "icon_sprite": "spr_ui_item_fish_small_shardfin"
+      },
+      {
+        "id": "rockbiter",
+        "name": "Rockbiter",
+        "icon_sprite": "spr_ui_item_fish_medium_rockbiter"
+      },
+      {
+        "id": "emerald_horned_charger",
+        "name": "Emerald-Horned Charger",
+        "icon_sprite": "spr_ui_item_fish_large_emerald_horned_charger"
+      }
+    ],
+    "forageable": [
+      {
+        "id": "crystal_berries",
+        "name": "Crystal Berries",
+        "icon_sprite": "spr_ui_item_crystal_berries"
+      },
+      {
+        "id": "shale_grass",
+        "name": "Shale Grass",
+        "icon_sprite": "spr_ui_item_shale_grass"
+      },
+      {
+        "id": "earthshroom",
+        "name": "Earthshroom",
+        "icon_sprite": "spr_ui_item_earthshroom"
+      },
+      {
+        "id": "rockroot",
+        "name": "Rockroot",
+        "icon_sprite": "spr_ui_item_rockroot"
+      },
+      {
+        "id": "crystal_rose",
+        "name": "Crystal Rose",
+        "icon_sprite": "spr_ui_item_crystal_rose"
+      }
+    ],
+    "water_forageable": [],
     "votes": {
       "water_forageable": [],
       "chest": [
@@ -926,8 +1231,8 @@
       ]
     }
   },
-  "the-lava-caves": {
-    "id": "the-lava-caves",
+  "the_lava_caves": {
+    "id": "the_lava_caves",
     "name": "The Lava Caves",
     "artifact_set": "lava_caves",
     "ore": {
@@ -1078,7 +1383,33 @@
         "icon_sprite": "spr_ui_item_incredibly_hot_pot"
       }
     ],
-    "taste_maker": [],
+    "taste_maker": [
+      {
+        "id": "incredibly_hot_pot",
+        "name": "Incredibly Hot Pot",
+        "icon_sprite": "spr_ui_item_incredibly_hot_pot"
+      },
+      {
+        "id": "summer_salad",
+        "name": "Summer Salad",
+        "icon_sprite": "spr_ui_item_summer_salad"
+      },
+      {
+        "id": "spicy_crab_sushi",
+        "name": "Spicy Crab Sushi",
+        "icon_sprite": "spr_ui_item_spicy_crab_sushi"
+      },
+      {
+        "id": "chili_coconut_curry",
+        "name": "Chili Coconut Curry",
+        "icon_sprite": "spr_ui_item_chili_coconut_curry"
+      },
+      {
+        "id": "fried_rice",
+        "name": "Fried Rice",
+        "icon_sprite": "spr_ui_item_fried_rice"
+      }
+    ],
     "shrine": {
       "inputs": [
         {
@@ -1092,6 +1423,88 @@
         "essence": 10
       }
     },
+    "bugs": [
+      {
+        "id": "fire_wasp",
+        "name": "Fire Wasp",
+        "icon_sprite": "spr_ui_item_insect_fire_wasp"
+      },
+      {
+        "id": "lava_snail",
+        "name": "Lava Snail",
+        "icon_sprite": "spr_ui_item_insect_lava_snail"
+      },
+      {
+        "id": "cooktop_beetle",
+        "name": "Cooktop Beetle",
+        "icon_sprite": "spr_ui_item_insect_cooktop_beetle"
+      },
+      {
+        "id": "smoke_moth",
+        "name": "Smoke Moth",
+        "icon_sprite": "spr_ui_item_insect_smoke_moth"
+      },
+      {
+        "id": "diamond_beetle",
+        "name": "Diamond Beetle",
+        "icon_sprite": "spr_ui_item_insect_diamond_beetle"
+      }
+    ],
+    "fish": [
+      {
+        "id": "lava_piranha",
+        "name": "Lava Piranha",
+        "icon_sprite": "spr_ui_item_fish_small_lava_piranha"
+      },
+      {
+        "id": "armored_bass",
+        "name": "Armored Bass",
+        "icon_sprite": "spr_ui_item_fish_medium_armored_bass"
+      },
+      {
+        "id": "candelabra_seadragon",
+        "name": "Candelabra Seadragon",
+        "icon_sprite": "spr_ui_item_fish_small_candelabra_seadragon"
+      },
+      {
+        "id": "sulfur_crab",
+        "name": "Sulfur Crab",
+        "icon_sprite": "spr_ui_item_fish_medium_sulfur_crab"
+      },
+      {
+        "id": "firesail_fish",
+        "name": "Firesail Fish",
+        "icon_sprite": "spr_ui_item_fish_large_firesail_fish"
+      }
+    ],
+    "forageable": [
+      {
+        "id": "flame_pepper",
+        "name": "Flame Pepper",
+        "icon_sprite": "spr_ui_item_flame_pepper"
+      },
+      {
+        "id": "ash_mushroom",
+        "name": "Ash Mushroom",
+        "icon_sprite": "spr_ui_item_ash_mushroom"
+      },
+      {
+        "id": "lava_chestnuts",
+        "name": "Lava Chestnuts",
+        "icon_sprite": "spr_ui_item_lava_chestnut"
+      },
+      {
+        "id": "hot_potato",
+        "name": "Hot Potato",
+        "icon_sprite": "spr_ui_item_hot_potato"
+      },
+      {
+        "id": "breath_of_fire",
+        "name": "Breath of Flame",
+        "icon_sprite": "spr_ui_item_breath_of_flame"
+      }
+    ],
+    "water_forageable": [],
     "votes": {
       "water_forageable": [],
       "chest": [
@@ -1219,8 +1632,8 @@
       ]
     }
   },
-  "ancient-ruins": {
-    "id": "ancient-ruins",
+  "ancient_ruins": {
+    "id": "ancient_ruins",
     "name": "Ancient Ruins",
     "artifact_set": "mine",
     "ore": {
@@ -1252,6 +1665,34 @@
         "essence": 10
       }
     },
+    "bugs": [
+      {
+        "id": "lantern_moth",
+        "name": "Lantern Moth",
+        "icon_sprite": "spr_ui_item_insect_lantern_moth"
+      }
+    ],
+    "fish": [
+      {
+        "id": "cave_shrimp",
+        "name": "Cave Shrimp",
+        "icon_sprite": "spr_ui_item_fish_small_cave_shrimp"
+      }
+    ],
+    "forageable": [
+      {
+        "id": "sea_grapes",
+        "name": "Sea Grapes",
+        "icon_sprite": "spr_ui_item_sea_grapes"
+      }
+    ],
+    "water_forageable": [
+      {
+        "id": "underseaweed",
+        "name": "Underseaweed",
+        "icon_sprite": "spr_ui_item_underseaweed"
+      }
+    ],
     "votes": {
       "chest": [
         {
