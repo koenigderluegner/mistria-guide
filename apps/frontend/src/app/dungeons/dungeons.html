@@ -1,0 +1,148 @@
+<app-page>
+  @let dungeon = foundDungeon();
+  @if (dungeon) {
+    <section>
+      <header class="flex gap-4 section-title items-center mb-6">
+        <h2>{{ dungeon.name }}</h2>
+      </header>
+
+      <div class="grid grid-cols-auto-fill-78 gap-4">
+        <div hlmCard>
+          <div hlmCardHeader>
+            <h3 hlmCardTitle>Materials</h3>
+          </div>
+          <div hlmCardContent>
+            <app-list-entries>
+              <app-list-entry-item hideCheckbox [item]="dungeon.ore" />
+              <app-list-entry-item hideCheckbox [item]="dungeon.gem" />
+            </app-list-entries>
+          </div>
+        </div>
+
+        <div hlmCard>
+          <div hlmCardHeader>
+            <h3 hlmCardTitle>Bugs</h3>
+          </div>
+          <div hlmCardContent>
+            <app-list-entries>
+              @for (bug of dungeon.bugs; track bug) {
+                <app-list-entry-item [item]="bug"
+                                     [checked]="museumChecklist.isChecked(bug.id)"
+                                     (checkboxChanged)="setMuseumChecklistStatus(bug, $event)" />
+              }
+            </app-list-entries>
+          </div>
+        </div>
+
+        <div hlmCard>
+          <div hlmCardHeader>
+            <h3 hlmCardTitle>Fishes</h3>
+          </div>
+          <div hlmCardContent>
+            <app-list-entries>
+              @for (fish of dungeon.fish; track fish) {
+                <app-list-entry-item [item]="fish"
+                                     [checked]="museumChecklist.isChecked(fish.id)"
+                                     (checkboxChanged)="setMuseumChecklistStatus(fish, $event)" />
+              }
+            </app-list-entries>
+          </div>
+        </div>
+
+        <div hlmCard>
+          <div hlmCardHeader>
+            <h3 hlmCardTitle>Forageable</h3>
+          </div>
+          <div hlmCardContent>
+            <app-list-entries>
+              @for (forageable of dungeon.forageable; track forageable) {
+                <app-list-entry-item [item]="forageable"
+                                     [checked]="museumChecklist.isChecked(forageable.id)"
+                                     (checkboxChanged)="setMuseumChecklistStatus(forageable, $event)" />
+              }
+            </app-list-entries>
+          </div>
+        </div>
+
+        @if (dungeon.water_forageable.length > 0) {
+          <div hlmCard>
+            <div hlmCardHeader>
+              <h3 hlmCardTitle>Water forageable</h3>
+            </div>
+            <div hlmCardContent>
+              <app-list-entries>
+                @for (water_forageable of dungeon.water_forageable; track water_forageable) {
+                  <app-list-entry-item [item]="water_forageable"
+                                       [checked]="museumChecklist.isChecked(water_forageable.id)"
+                                       (checkboxChanged)="setMuseumChecklistStatus(water_forageable, $event)" />
+                }
+              </app-list-entries>
+            </div>
+          </div>
+        }
+
+        <div hlmCard>
+          <div hlmCardHeader>
+            <h3 hlmCardTitle>Armor</h3>
+          </div>
+          <div hlmCardContent>
+            <app-list-entries>
+              @for (armorPiece of dungeon.armor; track armorPiece) {
+                <app-list-entry-item hideCheckbox [item]="armorPiece" />
+              }
+            </app-list-entries>
+          </div>
+        </div>
+
+        <div hlmCard>
+          <div hlmCardHeader>
+            <h3 hlmCardTitle>Furniture</h3>
+          </div>
+          <div hlmCardContent>
+            <app-list-entries>
+              @for (pieceOfFurniture of dungeon.furniture; track pieceOfFurniture) {
+                <app-list-entry-item hideCheckbox [item]="pieceOfFurniture" />
+              }
+            </app-list-entries>
+          </div>
+        </div>
+
+        <div hlmCard>
+          <div hlmCardHeader>
+            <h3 hlmCardTitle>Taste maker</h3>
+          </div>
+          <div hlmCardContent>
+            <app-list-entries>
+              @for (pieceOfFurniture of dungeon.taste_maker; track pieceOfFurniture) {
+                <app-list-entry-item hideCheckbox [item]="pieceOfFurniture" />
+              }
+            </app-list-entries>
+          </div>
+        </div>
+
+        <div hlmCard>
+          <div hlmCardHeader>
+            <h3 hlmCardTitle>Dungeon delicacies</h3>
+          </div>
+          <div hlmCardContent>
+            <app-list-entries>
+              @for (pieceOfFurniture of dungeon.dungeon_delicacies; track pieceOfFurniture) {
+                <app-list-entry-item hideCheckbox [item]="pieceOfFurniture" />
+              }
+            </app-list-entries>
+          </div>
+        </div>
+
+      </div>
+    </section>
+  }
+  <app-page-navigation menuTriggerLabel="Mine dungeons">
+    <ul class=" flex h-full flex-col gap-1  py-1.5 px-2.5">
+      @for (subItem of dungeonLinks(); track subItem) {
+        <li>
+          <app-page-navigation-link [link]="subItem.link" [text]="subItem.name | capitalizeFirstLetter" />
+        </li>
+      }
+    </ul>
+  </app-page-navigation>
+</app-page>

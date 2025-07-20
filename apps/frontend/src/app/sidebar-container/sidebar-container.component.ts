@@ -12,7 +12,7 @@ import { BreakpointObserver } from '@angular/cdk/layout';
 import { SidebarMenuItemDirective } from './sidebar-menu-item.directive';
 import { MatIcon } from '@angular/material/icon';
 import { NavigationEnd, Router, RouterLink } from '@angular/router';
-import { SkillIds, WingIds } from '@mistria-guide/data-types';
+import { DungeonIds, SkillIds, WingIds } from '@mistria-guide/data-types';
 import { SidebarMenuItem } from './sidebar-menu-item/sidebar-menu-item';
 
 @Component({
@@ -38,6 +38,7 @@ export class SidebarContainerComponent {
   });
   protected museumWingLink = `/museum/${WingIds[0]}`;
   protected skillLink = `/skills/${SkillIds[0]}`;
+  protected dungeonId = `/dungeons/${DungeonIds[0]}`;
   #document = inject(DOCUMENT);
   #router = inject(Router);
 

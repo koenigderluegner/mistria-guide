@@ -32,4 +32,12 @@ export const appRoutes: Route[] = [
     path: 'museum',
     loadComponent: () => import('./museum/museum').then((c) => c.Museum),
   },
+  {
+    path: 'dungeons/:dungeonId',
+    loadComponent: () => import('./dungeons/dungeons').then((c) => c.Dungeons),
+  },
+  {
+    path: 'dungeons',
+    loadComponent: () => import('./dungeons/dungeons').then((c) => c.Dungeons),
+  },
 ];

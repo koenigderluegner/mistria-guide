@@ -139,6 +139,9 @@
 
         <app-sidebar-menu-item text="Dashboard" link="/" icon="spr_ui_item_object_wall_calendar"
                                [activeOptions]="{exact:true}" />
+        <app-sidebar-menu-item text="Mines" [link]="dungeonId"
+                               [activeOptions]="{activeWhenRouteContains: '/dungeons/'}"
+                               icon="spr_ui_item_tool_iron_pickaxe" />
         <app-sidebar-menu-item text="Skills and perks" [link]="skillLink"
                                [activeOptions]="{activeWhenRouteContains: '/skills/'}" icon="spr_ui_item_essence" />
         <app-sidebar-menu-item text="Museum wings" [link]="museumWingLink" icon="spr_ui_item_unidentified_artifact"
