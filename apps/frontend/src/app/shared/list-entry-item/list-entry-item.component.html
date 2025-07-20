@@ -8,10 +8,12 @@
       <app-item-hover-card-content [itemId]="item()" />
     </hlm-hover-card-content>
   </brn-hover-card>
-  <div class="w-full border-t"></div>
-  <label class="flex w-full justify-center" [for]="checkboxId">
-    <hlm-checkbox [id]="checkboxId" [checked]="!!checked()" (changed)="checkboxChanged.emit($event)"
-                  class="my-2"></hlm-checkbox>
-  </label>
+  @if (!hideCheckbox()) {
+    <div class="w-full border-t"></div>
+    <label class="flex w-full justify-center" [for]="checkboxId">
+      <hlm-checkbox [id]="checkboxId" [checked]="!!checked()" (changed)="checkboxChanged.emit($event)"
+                    class="my-2"></hlm-checkbox>
+    </label>
+  }
 </div>
 

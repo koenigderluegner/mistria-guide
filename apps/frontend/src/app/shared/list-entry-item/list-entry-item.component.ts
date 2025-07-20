@@ -1,4 +1,4 @@
-import { Component, input, output } from '@angular/core';
+import { booleanAttribute, Component, input, output } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { MinifiedItem } from '@mistria-guide/data-types';
 import { SpriteComponent } from '../sprite/sprite.component';
@@ -32,6 +32,7 @@ import { HlmCheckboxComponent } from '@spartan-ng/helm/checkbox';
 export class ListEntryItemComponent {
   item = input.required<MinifiedItem>();
   checked = input<boolean>();
+  hideCheckbox = input(false, { transform: booleanAttribute });
   checkboxChanged = output<boolean>();
   static idCount = 0;
   checkboxId = `checkbox-${ListEntryItemComponent.idCount++}`;
