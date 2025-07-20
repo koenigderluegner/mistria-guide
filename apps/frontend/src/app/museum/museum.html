@@ -1,4 +1,4 @@
-<div class="container">
+<app-page>
   @let wing = foundWing();
   @if (wing) {
     <section>
@@ -32,4 +32,13 @@
       </div>
     </section>
   }
-</div>
+  <app-page-navigation menuTriggerLabel="Museum wings">
+    <ul class=" flex h-full flex-col gap-1  py-1.5 px-2.5">
+      @for (subItem of museumWingLinks; track subItem) {
+        <li>
+          <app-page-navigation-link [link]="subItem.link" [text]="subItem.name | capitalizeFirstLetter" />
+        </li>
+      }
+    </ul>
+  </app-page-navigation>
+</app-page>

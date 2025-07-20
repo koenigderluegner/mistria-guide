@@ -2,10 +2,20 @@ import { Component, computed, input } from '@angular/core';
 import { httpResource } from '@angular/common/http';
 import { Perk, Skill, SkillId, SkillIds } from '@mistria-guide/data-types';
 import { SpriteComponent } from '../shared/sprite/sprite.component';
+import { CapitalizeFirstLetterPipe } from '../shared/util/capitalize-first-letter-pipe';
+import { PageNavigation } from '../page/page-navigation/page-navigation';
+import { PageNavigationLink } from '../page/page-navigation-link/page-navigation-link';
+import { Page } from '../page/page';
 
 @Component({
   selector: 'app-skills',
-  imports: [SpriteComponent],
+  imports: [
+    SpriteComponent,
+    CapitalizeFirstLetterPipe,
+    PageNavigation,
+    PageNavigationLink,
+    Page,
+  ],
   templateUrl: './skills.component.html',
 })
 export class SkillsComponent {
@@ -13,6 +23,10 @@ export class SkillsComponent {
   protected skills = httpResource<Record<SkillId, Skill>>(
     () => 'database/skills.json'
   );
+  protected skillLinks = SkillIds.map((skillId) => ({
+    link: '/skills/' + skillId,
+    name: skillId,
+  }));
   protected foundSkill = computed(() => {
     if (!this.skills.hasValue()) return undefined;
 

@@ -17,6 +17,10 @@ import {
 } from '@spartan-ng/helm/card';
 import { ListEntryItemComponent } from '../shared/list-entry-item/list-entry-item.component';
 import { MuseumChecklist } from '../core/museum-checklist';
+import { PageNavigation } from '../page/page-navigation/page-navigation';
+import { CapitalizeFirstLetterPipe } from '../shared/util/capitalize-first-letter-pipe';
+import { Page } from '../page/page';
+import { PageNavigationLink } from '../page/page-navigation-link/page-navigation-link';
 
 @Component({
   selector: 'app-museum',
@@ -29,6 +33,10 @@ import { MuseumChecklist } from '../core/museum-checklist';
     HlmCardDescriptionDirective,
     HlmCardTitleDirective,
     HlmCardHeaderDirective,
+    PageNavigation,
+    CapitalizeFirstLetterPipe,
+    Page,
+    PageNavigationLink,
   ],
   templateUrl: './museum.html',
 })
@@ -54,4 +62,9 @@ export class Museum {
       this.museumChecklist.remove(item.id);
     }
   }
+
+  protected museumWingLinks = WingIds.map((wingId) => ({
+    link: '/museum/' + wingId,
+    name: wingId,
+  }));
 }

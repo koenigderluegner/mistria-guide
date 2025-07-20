@@ -13,7 +13,6 @@ import { SidebarMenuItemDirective } from './sidebar-menu-item.directive';
 import { MatIcon } from '@angular/material/icon';
 import { NavigationEnd, Router, RouterLink } from '@angular/router';
 import { SkillIds, WingIds } from '@mistria-guide/data-types';
-import { SidebarCollapsibleMenuItem } from './sidebar-collapsible-menu-item/sidebar-collapsible-menu-item';
 import { SidebarMenuItem } from './sidebar-menu-item/sidebar-menu-item';
 
 @Component({
@@ -23,7 +22,6 @@ import { SidebarMenuItem } from './sidebar-menu-item/sidebar-menu-item';
     SidebarMenuItemDirective,
     MatIcon,
     RouterLink,
-    SidebarCollapsibleMenuItem,
     SidebarMenuItem,
   ],
   templateUrl: './sidebar-container.component.html',
@@ -38,14 +36,8 @@ export class SidebarContainerComponent {
       this.isSmallScreen() && untracked(() => this.mobileSidebarMenuOpen())
     );
   });
-  protected museumWingLinks = WingIds.map((wingId) => ({
-    link: '/museum/' + wingId,
-    name: this.#capitalizeFirstLetter(wingId),
-  }));
-  protected skillLinks = SkillIds.map((skillId) => ({
-    link: '/skills/' + skillId,
-    name: this.#capitalizeFirstLetter(skillId),
-  }));
+  protected museumWingLink = `/museum/${WingIds[0]}`;
+  protected skillLink = `/skills/${SkillIds[0]}`;
   #document = inject(DOCUMENT);
   #router = inject(Router);
 
@@ -94,9 +86,5 @@ export class SidebarContainerComponent {
     htmlElement.classList.remove(oldTheme);
     htmlElement.style.colorScheme = theme;
     localStorage.setItem('theme', theme);
-  }
-
-  #capitalizeFirstLetter(text: string) {
-    return text.charAt(0).toUpperCase() + text.slice(1);
   }
 }

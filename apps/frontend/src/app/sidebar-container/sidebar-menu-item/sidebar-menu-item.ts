@@ -26,7 +26,25 @@ export class SidebarMenuItem {
   icon = input.required<IconSprite>();
   text = input.required<string>();
   link = input.required<RouterLink['routerLink']>();
-  activeOptions = input<RouterLinkActive['routerLinkActiveOptions']>();
+  activeOptions = input<
+    Partial<RouterLinkActive['routerLinkActiveOptions']> & {
+      activeWhenRouteContains?: string;
+    }
+  >();
+
+  protected sanitizedOptions = computed<
+    RouterLinkActive['routerLinkActiveOptions'] & {
+      activeWhenRouteContains?: string;
+    }
+  >(() => {
+    const activeOptions = this.activeOptions();
+    const exact =
+      activeOptions && 'exact' in activeOptions ? !!activeOptions.exact : false;
+    return {
+      ...activeOptions,
+      exact,
+    };
+  });
 
   #sidebar = inject(SidebarContainerComponent);
   protected isSidebarOpen = computed(

@@ -81,7 +81,7 @@
   <div [attr.data-state]="mobileSidebarMenuOpen() ? 'open':'closed'" (click)="toggleSidebarMenu()"
        class="data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 fixed inset-0 z-50 bg-black/50 data-[state=closed]:duration-300 data-[state=open]:duration-500"
        style="pointer-events: auto;" data-aria-hidden="true" aria-hidden="true"></div>
-  <div role="dialog" #d
+  <div role="dialog"
        [attr.data-state]="mobileSidebarMenuOpen() ? 'open':'closed'"
        (animationend)="removeSidebarWhenClosed()"
        class="data-[state=open]:animate-in data-[state=closed]:animate-out fixed z-50 flex flex-col gap-4 shadow-lg transition ease-in-out data-[state=closed]:duration-300 data-[state=open]:duration-500 data-[state=closed]:slide-out-to-left data-[state=open]:slide-in-from-left inset-y-0 left-0 h-full border-r sm:max-w-sm bg-sidebar text-sidebar-foreground w-(--sidebar-width) p-0 [&>button]:hidden"
@@ -139,10 +139,12 @@
 
         <app-sidebar-menu-item text="Dashboard" link="/" icon="spr_ui_item_object_wall_calendar"
                                [activeOptions]="{exact:true}" />
-        <app-sidebar-collapsible-menu-item triggerIcon="spr_ui_item_essence" triggerText="Skills and perks"
-                                           [subItems]="skillLinks" />
-        <app-sidebar-collapsible-menu-item triggerIcon="spr_ui_item_unidentified_artifact" triggerText="Museum wings"
-                                           [subItems]="museumWingLinks" />
+        <app-sidebar-menu-item text="Skills and perks" [link]="skillLink"
+                               [activeOptions]="{activeWhenRouteContains: '/skills/'}" icon="spr_ui_item_essence" />
+        <app-sidebar-menu-item text="Museum wings" [link]="museumWingLink" icon="spr_ui_item_unidentified_artifact"
+
+                               [activeOptions]="{activeWhenRouteContains: '/museum/'}" />
+
       </ul>
     </div>
 

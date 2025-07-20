@@ -1,0 +1,8 @@
+<div class="xl:hidden flex justify-between items-center gap-2 py-2 border-sidebar-border px-4"
+     [class.border-b]="open()">
+  <span>{{ menuTriggerLabel() }}</span>
+  <button hlmBtn (click)="toggleMenuVisibility()">{{ open() ? 'Hide' : 'Show' }} menu</button>
+</div>
+<div class="xl:block" [class.hidden]="!open()">
+  <ng-content />
+</div>

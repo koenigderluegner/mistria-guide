@@ -1,4 +1,4 @@
-<div class="container">
+<app-page>
   @let skill = foundSkill();
   @if (skill) {
     <section>
@@ -28,6 +28,15 @@
       }
     </section>
   }
-</div>
+  <app-page-navigation menuTriggerLabel="Skills and perks">
+    <ul class=" flex h-full flex-col gap-1  py-1.5 px-2.5">
+      @for (subItem of skillLinks; track subItem) {
+        <li>
+          <app-page-navigation-link [link]="subItem.link" [text]="subItem.name | capitalizeFirstLetter" />
+        </li>
+      }
+    </ul>
+  </app-page-navigation>
+</app-page>
 
 
